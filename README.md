@@ -2,7 +2,7 @@
 
 This benchmark uses matched clean/degraded document pages with field-level ground truth and bounding boxes. It ships code that runs Docling's OCR engines over every pair and reports accuracy per degradation type.
 
-> **Status: first pass, 2026-11-17, for methodology review with the Docling team. Nothing is published yet.**
+> **Status: first pass (v0.1.1, 2026-11-18), public. Methodology review with the Docling team is in progress; numbers may change.**
 > The data is **synthetic**, the degradations are **simulated**, and the results below are **preliminary**. See [Limitations](#limitations) and [REVIEW_NOTES.md](REVIEW_NOTES.md).
 
 ## Why

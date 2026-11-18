@@ -1,7 +1,7 @@
 # Review notes: open methodology questions
 
 For: Darshil (GritWorks) and Michele Dolfi (IBM Research, Docling)
-Status: first-pass run, 2026-11-17. Nothing has been published yet.
+Status: first-pass run, published 2026-11-18 (GitHub + Hugging Face). Open questions below are under review.
 
 These notes list the choices we made for the first pass and the questions we would like the Docling team to weigh in on before the dataset and code go public. Each item gives what we did now and the options we see.
 
