@@ -1,0 +1,131 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1876" height="1926"/>
+  </head>
+  <field_region>
+    <location value="431"/>
+    <location value="1031"/>
+    <location value="1381"/>
+    <location value="1679"/>
+    <field_item>
+      <key>passport_number</key>
+      <value>
+        <location value="1212"/>
+        <location value="1031"/>
+        <location value="1362"/>
+        <location value="1071"/>
+        P00004217
+      </value>
+    </field_item>
+    <field_item>
+      <key>surname</key>
+      <value>
+        <location value="771"/>
+        <location value="1081"/>
+        <location value="866"/>
+        <location value="1121"/>
+        PATEL
+      </value>
+    </field_item>
+    <field_item>
+      <key>given_names</key>
+      <value>
+        <location value="771"/>
+        <location value="1142"/>
+        <location value="886"/>
+        <location value="1182"/>
+        SIMRAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>issuing_country</key>
+      <value>
+        <location value="979"/>
+        <location value="1031"/>
+        <location value="1056"/>
+        <location value="1065"/>
+        USA
+      </value>
+    </field_item>
+    <field_item>
+      <key>nationality</key>
+      <value>
+        <location value="765"/>
+        <location value="1200"/>
+        <location value="1233"/>
+        <location value="1238"/>
+        UNITED STATES OF AMERICA
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="765"/>
+        <location value="1265"/>
+        <location value="994"/>
+        <location value="1302"/>
+        04 APR 1971
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="1352"/>
+        <location value="1325"/>
+        <location value="1381"/>
+        <location value="1362"/>
+        F
+      </value>
+    </field_item>
+    <field_item>
+      <key>place_of_birth</key>
+      <value>
+        <location value="765"/>
+        <location value="1321"/>
+        <location value="1085"/>
+        <location value="1362"/>
+        CALIFORNIA, U.S.A
+      </value>
+    </field_item>
+    <field_item>
+      <key>issue_date</key>
+      <value>
+        <location value="765"/>
+        <location value="1379"/>
+        <location value="981"/>
+        <location value="1421"/>
+        12 Jan 2021
+      </value>
+    </field_item>
+    <field_item>
+      <key>expiry_date</key>
+      <value>
+        <location value="765"/>
+        <location value="1438"/>
+        <location value="981"/>
+        <location value="1479"/>
+        12 Jan 2031
+      </value>
+    </field_item>
+    <field_item>
+      <key>mrz_line_1</key>
+      <value>
+        <location value="431"/>
+        <location value="1594"/>
+        <location value="1311"/>
+        <location value="1636"/>
+        <![CDATA[P<USAPATEL<<SIMRAN<<<<<<<<<<<<<<<<<<<<<<<<<<]]>
+      </value>
+    </field_item>
+    <field_item>
+      <key>mrz_line_2</key>
+      <value>
+        <location value="431"/>
+        <location value="1638"/>
+        <location value="1311"/>
+        <location value="1679"/>
+        <![CDATA[P000042173USA7104044F3101126<<<<<<<<<<<<<<08]]>
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

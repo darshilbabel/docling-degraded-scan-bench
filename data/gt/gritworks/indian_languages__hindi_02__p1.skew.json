@@ -1,0 +1,1051 @@
+{
+ "page_id": "indian_languages__hindi_02__p1",
+ "pack": "indian_languages",
+ "document": "hindi_02",
+ "family": "indic_form",
+ "document_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+ "language": "hindi",
+ "script": "Devanagari",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/04_hindi_02/hindi_02_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": -4.867,
+  "seed": 327150236
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "office_name",
+   "value": "विज्ञान नगर शाखा",
+   "display_value": "विज्ञान नगर शाखा",
+   "canonical_value": "विज्ञान नगर शाखा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    327.07,
+    254.5,
+    455.78,
+    303.62
+   ],
+   "bbox_pt": [
+    134.82,
+    135.7,
+    195.25,
+    154.22
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     330.34,
+     254.5
+    ],
+    [
+     455.78,
+     265.18
+    ],
+    [
+     452.5,
+     303.62
+    ],
+    [
+     327.07,
+     292.94
+    ]
+   ]
+  },
+  {
+   "key": "office_city",
+   "value": "कोटा",
+   "display_value": "कोटा",
+   "canonical_value": "कोटा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    327.01,
+    279.24,
+    361.77,
+    317.92
+   ],
+   "bbox_pt": [
+    135.7,
+    147.54,
+    150.97,
+    164.88
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     330.07,
+     279.24
+    ],
+    [
+     361.77,
+     281.93
+    ],
+    [
+     358.7,
+     317.92
+    ],
+    [
+     327.01,
+     315.23
+    ]
+   ]
+  },
+  {
+   "key": "applicant_name",
+   "value": "संदीप कुमार तिवारी",
+   "display_value": "संदीप कुमार तिवारी",
+   "canonical_value": "संदीप कुमार तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    335.94,
+    437.79,
+    491.91,
+    495.29
+   ],
+   "bbox_pt": [
+    146.78,
+    222.98,
+    220.09,
+    244.44
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     339.73,
+     437.79
+    ],
+    [
+     491.91,
+     450.75
+    ],
+    [
+     488.12,
+     495.29
+    ],
+    [
+     335.94,
+     482.34
+    ]
+   ]
+  },
+  {
+   "key": "scheme_name",
+   "value": "सुकन्या समृद्धि खाता योजना",
+   "display_value": "सुकन्या समृद्धि खाता योजना",
+   "canonical_value": "सुकन्या समृद्धि खाता योजना",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    282.87,
+    460.99,
+    500.53,
+    519.51
+   ],
+   "bbox_pt": [
+    122.17,
+    236.25,
+    225.37,
+    255.66
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     286.3,
+     460.99
+    ],
+    [
+     500.53,
+     479.23
+    ],
+    [
+     497.1,
+     519.51
+    ],
+    [
+     282.87,
+     501.27
+    ]
+   ]
+  },
+  {
+   "key": "deposit_amount",
+   "value": "2000",
+   "display_value": "2000",
+   "canonical_value": "2000",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    332.34,
+    527.23,
+    382.02,
+    567.64
+   ],
+   "bbox_pt": [
+    148.37,
+    265.93,
+    170.81,
+    283.49
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     335.44,
+     527.23
+    ],
+    [
+     382.02,
+     531.19
+    ],
+    [
+     378.92,
+     567.64
+    ],
+    [
+     332.34,
+     563.67
+    ]
+   ]
+  },
+  {
+   "key": "amount_in_words",
+   "value": "दो हज़ार",
+   "display_value": "दो हज़ार",
+   "canonical_value": "दो हज़ार",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    739.79,
+    561.23,
+    807.61,
+    606.67
+   ],
+   "bbox_pt": [
+    344.77,
+    265.59,
+    375.8,
+    284.83
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     743.19,
+     561.23
+    ],
+    [
+     807.61,
+     566.72
+    ],
+    [
+     804.21,
+     606.67
+    ],
+    [
+     739.79,
+     601.18
+    ]
+   ]
+  },
+  {
+   "key": "cheque_dd_no",
+   "value": "868043",
+   "display_value": "868043",
+   "canonical_value": "868043",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    804.66,
+    595.48,
+    888.31,
+    643.37
+   ],
+   "bbox_pt": [
+    377.23,
+    279.32,
+    415.85,
+    299.1
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     808.15,
+     595.48
+    ],
+    [
+     888.31,
+     602.31
+    ],
+    [
+     884.82,
+     643.37
+    ],
+    [
+     804.66,
+     636.54
+    ]
+   ]
+  },
+  {
+   "key": "deposit_date",
+   "value": "06/09/2026",
+   "display_value": "06/09/2026",
+   "canonical_value": "06/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    367.58,
+    587.53,
+    501.53,
+    640.71
+   ],
+   "bbox_pt": [
+    167.91,
+    293.32,
+    230.71,
+    313.59
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     371.16,
+     587.53
+    ],
+    [
+     501.53,
+     598.64
+    ],
+    [
+     497.95,
+     640.71
+    ],
+    [
+     367.58,
+     629.61
+    ]
+   ]
+  },
+  {
+   "key": "depositor_name",
+   "value": "आराध्या तिवारी",
+   "display_value": "आराध्या तिवारी",
+   "canonical_value": "आराध्या तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    415.75,
+    653.54,
+    529.5,
+    701.44
+   ],
+   "bbox_pt": [
+    193.49,
+    322.94,
+    246.71,
+    341.48
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     419.02,
+     653.54
+    ],
+    [
+     529.5,
+     662.95
+    ],
+    [
+     526.23,
+     701.44
+    ],
+    [
+     415.75,
+     692.03
+    ]
+   ]
+  },
+  {
+   "key": "depositor_dob",
+   "value": "31/10/2021",
+   "display_value": "31/10/2021",
+   "canonical_value": "31/10/2021",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    531.55,
+    685.97,
+    646.09,
+    737.92
+   ],
+   "bbox_pt": [
+    250.36,
+    333.72,
+    303.79,
+    354.19
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     535.17,
+     685.97
+    ],
+    [
+     646.09,
+     695.42
+    ],
+    [
+     642.47,
+     737.92
+    ],
+    [
+     531.55,
+     728.47
+    ]
+   ]
+  },
+  {
+   "key": "guardian_name",
+   "value": "संदीप कुमार तिवारी",
+   "display_value": "संदीप कुमार तिवारी",
+   "canonical_value": "संदीप कुमार तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    552.75,
+    755.55,
+    688.76,
+    804.47
+   ],
+   "bbox_pt": [
+    263.13,
+    366.15,
+    327.11,
+    384.27
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     555.95,
+     755.55
+    ],
+    [
+     688.76,
+     766.86
+    ],
+    [
+     685.56,
+     804.47
+    ],
+    [
+     552.75,
+     793.16
+    ]
+   ]
+  },
+  {
+   "key": "guardian_dob",
+   "value": "28/07/1984",
+   "display_value": "28/07/1984",
+   "canonical_value": "28/07/1984",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    377.48,
+    766.87,
+    487.74,
+    814.43
+   ],
+   "bbox_pt": [
+    179.8,
+    378.7,
+    231.34,
+    397.22
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     380.75,
+     766.87
+    ],
+    [
+     487.74,
+     775.98
+    ],
+    [
+     484.47,
+     814.43
+    ],
+    [
+     377.48,
+     805.32
+    ]
+   ]
+  },
+  {
+   "key": "guardian_aadhaar",
+   "value": "4329 9105 5612",
+   "display_value": "4329 9105 5612",
+   "canonical_value": "4329 9105 5612",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    467.81,
+    806.63,
+    631.92,
+    862.57
+   ],
+   "bbox_pt": [
+    224.78,
+    394.02,
+    302.1,
+    414.39
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     471.41,
+     806.63
+    ],
+    [
+     631.92,
+     820.3
+    ],
+    [
+     628.32,
+     862.57
+    ],
+    [
+     467.81,
+     848.91
+    ]
+   ]
+  },
+  {
+   "key": "guardian_pan",
+   "value": "IUDPT3844O",
+   "display_value": "IUDPT3844O",
+   "canonical_value": "IUDPT3844O",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    559.34,
+    844.28,
+    683.88,
+    893.62
+   ],
+   "bbox_pt": [
+    269.95,
+    408.31,
+    328.35,
+    427.11
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     562.66,
+     844.28
+    ],
+    [
+     683.88,
+     854.6
+    ],
+    [
+     680.56,
+     893.62
+    ],
+    [
+     559.34,
+     883.3
+    ]
+   ]
+  },
+  {
+   "key": "present_address_line1",
+   "value": "फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर",
+   "display_value": "फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर",
+   "canonical_value": "फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    265.11,
+    869.94,
+    698.53,
+    949.72
+   ],
+   "bbox_pt": [
+    130.45,
+    432.55,
+    337.47,
+    453.36
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     268.79,
+     869.94
+    ],
+    [
+     698.53,
+     906.53
+    ],
+    [
+     694.85,
+     949.72
+    ],
+    [
+     265.11,
+     913.13
+    ]
+   ]
+  },
+  {
+   "key": "present_address_line2",
+   "value": "तलवंडी कोटा - 324005",
+   "display_value": "तलवंडी कोटा - 324005",
+   "canonical_value": "तलवंडी कोटा - 324005",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    266.13,
+    893.52,
+    481.89,
+    954.82
+   ],
+   "bbox_pt": [
+    131.9,
+    443.79,
+    234.06,
+    464.62
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     269.81,
+     893.52
+    ],
+    [
+     481.89,
+     911.58
+    ],
+    [
+     478.2,
+     954.82
+    ],
+    [
+     266.13,
+     936.76
+    ]
+   ]
+  },
+  {
+   "key": "permanent_address_line1",
+   "value": "फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर",
+   "display_value": "फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर",
+   "canonical_value": "फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    189.58,
+    938.51,
+    597.14,
+    1020.8
+   ],
+   "bbox_pt": [
+    97.31,
+    468.41,
+    291.68,
+    491.5
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     193.66,
+     938.51
+    ],
+    [
+     597.14,
+     972.87
+    ],
+    [
+     593.06,
+     1020.8
+    ],
+    [
+     189.58,
+     986.45
+    ]
+   ]
+  },
+  {
+   "key": "permanent_address_line2",
+   "value": "तलवंडी",
+   "display_value": "तलवंडी",
+   "canonical_value": "तलवंडी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    183.56,
+    1020.94,
+    233.47,
+    1061.64
+   ],
+   "bbox_pt": [
+    97.33,
+    508.12,
+    119.87,
+    525.8
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     186.68,
+     1020.94
+    ],
+    [
+     233.47,
+     1024.93
+    ],
+    [
+     230.35,
+     1061.64
+    ],
+    [
+     183.56,
+     1057.65
+    ]
+   ]
+  },
+  {
+   "key": "telephone",
+   "value": "0744-2019035",
+   "display_value": "0744-2019035",
+   "canonical_value": "0744-2019035",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    762.08,
+    1146.01,
+    917.17,
+    1201.92
+   ],
+   "bbox_pt": [
+    379.37,
+    544.35,
+    452.32,
+    565.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     765.74,
+     1146.01
+    ],
+    [
+     917.17,
+     1158.9
+    ],
+    [
+     913.51,
+     1201.92
+    ],
+    [
+     762.08,
+     1189.02
+    ]
+   ]
+  },
+  {
+   "key": "mobile",
+   "value": "7658999553",
+   "display_value": "7658999553",
+   "canonical_value": "7658999553",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    820.52,
+    1185.05,
+    950.08,
+    1234.42
+   ],
+   "bbox_pt": [
+    408.73,
+    560.66,
+    469.56,
+    579.26
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     823.81,
+     1185.05
+    ],
+    [
+     950.08,
+     1195.81
+    ],
+    [
+     946.79,
+     1234.42
+    ],
+    [
+     820.52,
+     1223.66
+    ]
+   ]
+  },
+  {
+   "key": "email",
+   "value": "stiwari25@gmail.com",
+   "display_value": "stiwari25@gmail.com",
+   "canonical_value": "stiwari25@gmail.com",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    859.83,
+    1222.54,
+    1043.03,
+    1273.03
+   ],
+   "bbox_pt": [
+    428.92,
+    577.0,
+    515.73,
+    593.93
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     862.83,
+     1222.54
+    ],
+    [
+     1043.03,
+     1237.88
+    ],
+    [
+     1040.04,
+     1273.03
+    ],
+    [
+     859.83,
+     1257.68
+    ]
+   ]
+  },
+  {
+   "key": "birth_cert_no",
+   "value": "B/2021/07425",
+   "display_value": "B/2021/07425",
+   "canonical_value": "B/2021/07425",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    427.57,
+    1321.72,
+    559.21,
+    1370.79
+   ],
+   "bbox_pt": [
+    226.34,
+    642.03,
+    288.19,
+    660.4
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     430.81,
+     1321.72
+    ],
+    [
+     559.21,
+     1332.66
+    ],
+    [
+     555.96,
+     1370.79
+    ],
+    [
+     427.57,
+     1359.85
+    ]
+   ]
+  },
+  {
+   "key": "cert_issue_date",
+   "value": "27/08/2022",
+   "display_value": "27/08/2022",
+   "canonical_value": "27/08/2022",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    462.48,
+    1354.76,
+    573.09,
+    1401.48
+   ],
+   "bbox_pt": [
+    244.36,
+    656.41,
+    296.1,
+    674.51
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     465.68,
+     1354.76
+    ],
+    [
+     573.09,
+     1363.91
+    ],
+    [
+     569.89,
+     1401.48
+    ],
+    [
+     462.48,
+     1392.33
+    ]
+   ]
+  },
+  {
+   "key": "issuing_authority",
+   "value": "जन्म एवं मृत्यु पंजीकरण कार्यालय कोटा",
+   "display_value": "जन्म एवं मृत्यु पंजीकरण कार्यालय कोटा",
+   "canonical_value": "जन्म एवं मृत्यु पंजीकरण कार्यालय कोटा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    513.02,
+    1388.65,
+    792.98,
+    1450.21
+   ],
+   "bbox_pt": [
+    269.93,
+    670.56,
+    403.24,
+    688.86
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     516.25,
+     1388.65
+    ],
+    [
+     792.98,
+     1412.22
+    ],
+    [
+     789.75,
+     1450.21
+    ],
+    [
+     513.02,
+     1426.65
+    ]
+   ]
+  },
+  {
+   "key": "id_proof",
+   "value": "आधार कार्ड",
+   "display_value": "आधार कार्ड",
+   "canonical_value": "आधार कार्ड",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    680.57,
+    1445.81,
+    768.33,
+    1491.98
+   ],
+   "bbox_pt": [
+    352.43,
+    691.07,
+    393.11,
+    709.85
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     683.89,
+     1445.81
+    ],
+    [
+     768.33,
+     1453.0
+    ],
+    [
+     765.01,
+     1491.98
+    ],
+    [
+     680.57,
+     1484.79
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4344 @@
+{
+  "schema_name": "DoclingDocument",
+  "version": "1.11.0",
+  "name": "insurance__cms1500_claim__p1.skew",
+  "furniture": {
+    "self_ref": "#/furniture",
+    "children": [],
+    "content_layer": "furniture",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "body": {
+    "self_ref": "#/body",
+    "children": [
+      {
+        "$ref": "#/field_regions/0"
+      }
+    ],
+    "content_layer": "body",
+    "name": "_root_",
+    "label": "unspecified"
+  },
+  "groups": [],
+  "texts": [
+    {
+      "self_ref": "#/texts/0",
+      "parent": {
+        "$ref": "#/field_items/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "coverage_type",
+      "text": "coverage_type"
+    },
+    {
+      "self_ref": "#/texts/1",
+      "parent": {
+        "$ref": "#/field_items/0"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 534.45,
+            "t": 305.37,
+            "r": 547.34,
+            "b": 329.52,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/2",
+      "parent": {
+        "$ref": "#/field_items/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "member_id",
+      "text": "member_id"
+    },
+    {
+      "self_ref": "#/texts/3",
+      "parent": {
+        "$ref": "#/field_items/1"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 819.13,
+            "t": 277.73,
+            "r": 933.02,
+            "b": 309.12,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "CHP0842719",
+      "text": "CHP0842719",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/4",
+      "parent": {
+        "$ref": "#/field_items/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "patient_name",
+      "text": "patient_name"
+    },
+    {
+      "self_ref": "#/texts/5",
+      "parent": {
+        "$ref": "#/field_items/2"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.25,
+            "t": 377.61,
+            "r": 238.8,
+            "b": 411.41,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "MORGAN, AVERY",
+      "text": "MORGAN, AVERY",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/6",
+      "parent": {
+        "$ref": "#/field_items/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "date_of_birth",
+      "text": "date_of_birth"
+    },
+    {
+      "self_ref": "#/texts/7",
+      "parent": {
+        "$ref": "#/field_items/3"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.56,
+            "t": 348.9,
+            "r": 639.44,
+            "b": 380.29,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "08 19 1987",
+      "text": "08 19 1987",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/8",
+      "parent": {
+        "$ref": "#/field_items/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "sex",
+      "text": "sex"
+    },
+    {
+      "self_ref": "#/texts/9",
+      "parent": {
+        "$ref": "#/field_items/4"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 776.99,
+            "t": 338.12,
+            "r": 789.88,
+            "b": 362.27,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/10",
+      "parent": {
+        "$ref": "#/field_items/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "insured_name",
+      "text": "insured_name"
+    },
+    {
+      "self_ref": "#/texts/11",
+      "parent": {
+        "$ref": "#/field_items/5"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 822.7,
+            "t": 325.19,
+            "r": 970.25,
+            "b": 359.0,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "MORGAN, AVERY",
+      "text": "MORGAN, AVERY",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/12",
+      "parent": {
+        "$ref": "#/field_items/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "patient_address",
+      "text": "patient_address"
+    },
+    {
+      "self_ref": "#/texts/13",
+      "parent": {
+        "$ref": "#/field_items/6"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.96,
+            "t": 420.57,
+            "r": 365.76,
+            "b": 460.62,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "4607 WILLOW BEND LN APT 204",
+      "text": "4607 WILLOW BEND LN APT 204",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/14",
+      "parent": {
+        "$ref": "#/field_items/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "patient_city",
+      "text": "patient_city"
+    },
+    {
+      "self_ref": "#/texts/15",
+      "parent": {
+        "$ref": "#/field_items/7"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.25,
+            "t": 480.89,
+            "r": 167.25,
+            "b": 509.08,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "AUSTIN",
+      "text": "AUSTIN",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/16",
+      "parent": {
+        "$ref": "#/field_items/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "patient_state",
+      "text": "patient_state"
+    },
+    {
+      "self_ref": "#/texts/17",
+      "parent": {
+        "$ref": "#/field_items/8"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 476.45,
+            "t": 457.01,
+            "r": 500.56,
+            "b": 481.98,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "TX",
+      "text": "TX",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/18",
+      "parent": {
+        "$ref": "#/field_items/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "patient_zip",
+      "text": "patient_zip"
+    },
+    {
+      "self_ref": "#/texts/19",
+      "parent": {
+        "$ref": "#/field_items/9"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.82,
+            "t": 531.57,
+            "r": 159.6,
+            "b": 558.95,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "78731",
+      "text": "78731",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/20",
+      "parent": {
+        "$ref": "#/field_items/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "patient_phone",
+      "text": "patient_phone"
+    },
+    {
+      "self_ref": "#/texts/21",
+      "parent": {
+        "$ref": "#/field_items/10"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.85,
+            "t": 510.6,
+            "r": 452.18,
+            "b": 543.61,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "512 555 0146",
+      "text": "512 555 0146",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/22",
+      "parent": {
+        "$ref": "#/field_items/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "relationship",
+      "text": "relationship"
+    },
+    {
+      "self_ref": "#/texts/23",
+      "parent": {
+        "$ref": "#/field_items/11"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 572.77,
+            "t": 402.88,
+            "r": 585.66,
+            "b": 427.03,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/24",
+      "parent": {
+        "$ref": "#/field_items/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "insured_address",
+      "text": "insured_address"
+    },
+    {
+      "self_ref": "#/texts/25",
+      "parent": {
+        "$ref": "#/field_items/12"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 826.42,
+            "t": 368.15,
+            "r": 1097.21,
+            "b": 408.21,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "4607 WILLOW BEND LN APT 204",
+      "text": "4607 WILLOW BEND LN APT 204",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/26",
+      "parent": {
+        "$ref": "#/field_items/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "group_number",
+      "text": "group_number"
+    },
+    {
+      "self_ref": "#/texts/27",
+      "parent": {
+        "$ref": "#/field_items/13"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 836.85,
+            "t": 525.81,
+            "r": 939.51,
+            "b": 556.41,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "GRP-04217",
+      "text": "GRP-04217",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/28",
+      "parent": {
+        "$ref": "#/field_items/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "employment_related",
+      "text": "employment_related"
+    },
+    {
+      "self_ref": "#/texts/29",
+      "parent": {
+        "$ref": "#/field_items/14"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 707.58,
+            "t": 593.73,
+            "r": 720.48,
+            "b": 617.89,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/30",
+      "parent": {
+        "$ref": "#/field_items/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "auto_accident_related",
+      "text": "auto_accident_related"
+    },
+    {
+      "self_ref": "#/texts/31",
+      "parent": {
+        "$ref": "#/field_items/15"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 711.16,
+            "t": 643.6,
+            "r": 724.05,
+            "b": 667.76,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/32",
+      "parent": {
+        "$ref": "#/field_items/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "other_accident_related",
+      "text": "other_accident_related"
+    },
+    {
+      "self_ref": "#/texts/33",
+      "parent": {
+        "$ref": "#/field_items/16"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 714.73,
+            "t": 693.48,
+            "r": 727.62,
+            "b": 717.63,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/34",
+      "parent": {
+        "$ref": "#/field_items/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "other_health_plan",
+      "text": "other_health_plan"
+    },
+    {
+      "self_ref": "#/texts/35",
+      "parent": {
+        "$ref": "#/field_items/17"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 955.05,
+            "t": 724.29,
+            "r": 967.94,
+            "b": 748.45,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/36",
+      "parent": {
+        "$ref": "#/field_items/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "plan_name",
+      "text": "plan_name"
+    },
+    {
+      "self_ref": "#/texts/37",
+      "parent": {
+        "$ref": "#/field_items/18"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 847.72,
+            "t": 671.88,
+            "r": 1028.93,
+            "b": 708.1,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "CEDAR CHOICE PPO",
+      "text": "CEDAR CHOICE PPO",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/38",
+      "parent": {
+        "$ref": "#/field_items/19"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "illness_date",
+      "text": "illness_date"
+    },
+    {
+      "self_ref": "#/texts/39",
+      "parent": {
+        "$ref": "#/field_items/19"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 131.3,
+            "t": 940.6,
+            "r": 222.75,
+            "b": 970.39,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "04 15 26",
+      "text": "04 15 26",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/40",
+      "parent": {
+        "$ref": "#/field_items/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "referring_provider",
+      "text": "referring_provider"
+    },
+    {
+      "self_ref": "#/texts/41",
+      "parent": {
+        "$ref": "#/field_items/20"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.98,
+            "t": 974.79,
+            "r": 270.31,
+            "b": 1007.8,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "LENA PARK MD",
+      "text": "LENA PARK MD",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/42",
+      "parent": {
+        "$ref": "#/field_items/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "referring_npi",
+      "text": "referring_npi"
+    },
+    {
+      "self_ref": "#/texts/43",
+      "parent": {
+        "$ref": "#/field_items/21"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 613.85,
+            "t": 939.93,
+            "r": 727.74,
+            "b": 971.33,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1999999976",
+      "text": "1999999976",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/44",
+      "parent": {
+        "$ref": "#/field_items/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "outside_lab",
+      "text": "outside_lab"
+    },
+    {
+      "self_ref": "#/texts/45",
+      "parent": {
+        "$ref": "#/field_items/22"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 960.6,
+            "t": 976.63,
+            "r": 973.49,
+            "b": 1000.78,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/46",
+      "parent": {
+        "$ref": "#/field_items/23"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "diagnosis_code",
+      "text": "diagnosis_code"
+    },
+    {
+      "self_ref": "#/texts/47",
+      "parent": {
+        "$ref": "#/field_items/23"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 177.2,
+            "t": 1087.22,
+            "r": 246.21,
+            "b": 1115.41,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "R53.83",
+      "text": "R53.83",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/48",
+      "parent": {
+        "$ref": "#/field_items/24"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "diagnosis_code_set",
+      "text": "diagnosis_code_set"
+    },
+    {
+      "self_ref": "#/texts/49",
+      "parent": {
+        "$ref": "#/field_items/24"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 722.08,
+            "t": 1029.22,
+            "r": 734.97,
+            "b": 1053.38,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "0",
+      "text": "0",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/50",
+      "parent": {
+        "$ref": "#/field_items/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "claim_id",
+      "text": "claim_id"
+    },
+    {
+      "self_ref": "#/texts/51",
+      "parent": {
+        "$ref": "#/field_items/25"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 802.63,
+            "t": 186.17,
+            "r": 1013.58,
+            "b": 221.93,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "REF: CLM-260415-04217",
+      "text": "REF: CLM-260415-04217",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/52",
+      "parent": {
+        "$ref": "#/field_items/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.service_date_from",
+      "text": "lines.1.service_date_from"
+    },
+    {
+      "self_ref": "#/texts/53",
+      "parent": {
+        "$ref": "#/field_items/26"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 152.73,
+            "t": 1240.41,
+            "r": 234.02,
+            "b": 1266.89,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "04 15 26",
+      "text": "04 15 26",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/54",
+      "parent": {
+        "$ref": "#/field_items/27"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.service_date_to",
+      "text": "lines.1.service_date_to"
+    },
+    {
+      "self_ref": "#/texts/55",
+      "parent": {
+        "$ref": "#/field_items/27"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.19,
+            "t": 1229.99,
+            "r": 379.48,
+            "b": 1256.47,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "04 15 26",
+      "text": "04 15 26",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/56",
+      "parent": {
+        "$ref": "#/field_items/28"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.place_of_service",
+      "text": "lines.1.place_of_service"
+    },
+    {
+      "self_ref": "#/texts/57",
+      "parent": {
+        "$ref": "#/field_items/28"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 424.96,
+            "t": 1225.19,
+            "r": 446.39,
+            "b": 1247.39,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/58",
+      "parent": {
+        "$ref": "#/field_items/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.procedure_code",
+      "text": "lines.1.procedure_code"
+    },
+    {
+      "self_ref": "#/texts/59",
+      "parent": {
+        "$ref": "#/field_items/29"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 516.24,
+            "t": 1214.12,
+            "r": 574.02,
+            "b": 1241.5,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "99213",
+      "text": "99213",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/60",
+      "parent": {
+        "$ref": "#/field_items/30"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.diagnosis_pointer",
+      "text": "lines.1.diagnosis_pointer"
+    },
+    {
+      "self_ref": "#/texts/61",
+      "parent": {
+        "$ref": "#/field_items/30"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 809.24,
+            "t": 1196.34,
+            "r": 822.14,
+            "b": 1220.5,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/62",
+      "parent": {
+        "$ref": "#/field_items/31"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.charge",
+      "text": "lines.1.charge"
+    },
+    {
+      "self_ref": "#/texts/63",
+      "parent": {
+        "$ref": "#/field_items/31"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 936.15,
+            "t": 1185.7,
+            "r": 997.48,
+            "b": 1210.76,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "250.00",
+      "text": "250.00",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/64",
+      "parent": {
+        "$ref": "#/field_items/32"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.units",
+      "text": "lines.1.units"
+    },
+    {
+      "self_ref": "#/texts/65",
+      "parent": {
+        "$ref": "#/field_items/32"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1031.59,
+            "t": 1180.4,
+            "r": 1044.49,
+            "b": 1204.57,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/66",
+      "parent": {
+        "$ref": "#/field_items/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.1.rendering_npi",
+      "text": "lines.1.rendering_npi"
+    },
+    {
+      "self_ref": "#/texts/67",
+      "parent": {
+        "$ref": "#/field_items/33"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1156.41,
+            "t": 1167.06,
+            "r": 1257.64,
+            "b": 1194.98,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1999999976",
+      "text": "1999999976",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/68",
+      "parent": {
+        "$ref": "#/field_items/34"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.service_date_from",
+      "text": "lines.2.service_date_from"
+    },
+    {
+      "self_ref": "#/texts/69",
+      "parent": {
+        "$ref": "#/field_items/34"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 156.31,
+            "t": 1290.28,
+            "r": 237.59,
+            "b": 1316.77,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "04 15 26",
+      "text": "04 15 26",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/70",
+      "parent": {
+        "$ref": "#/field_items/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.service_date_to",
+      "text": "lines.2.service_date_to"
+    },
+    {
+      "self_ref": "#/texts/71",
+      "parent": {
+        "$ref": "#/field_items/35"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.77,
+            "t": 1279.86,
+            "r": 383.05,
+            "b": 1306.34,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "04 15 26",
+      "text": "04 15 26",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/72",
+      "parent": {
+        "$ref": "#/field_items/36"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.place_of_service",
+      "text": "lines.2.place_of_service"
+    },
+    {
+      "self_ref": "#/texts/73",
+      "parent": {
+        "$ref": "#/field_items/36"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 428.53,
+            "t": 1275.06,
+            "r": 449.97,
+            "b": 1297.26,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/74",
+      "parent": {
+        "$ref": "#/field_items/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.procedure_code",
+      "text": "lines.2.procedure_code"
+    },
+    {
+      "self_ref": "#/texts/75",
+      "parent": {
+        "$ref": "#/field_items/37"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 519.82,
+            "t": 1263.99,
+            "r": 577.6,
+            "b": 1291.37,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "85025",
+      "text": "85025",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/76",
+      "parent": {
+        "$ref": "#/field_items/38"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.diagnosis_pointer",
+      "text": "lines.2.diagnosis_pointer"
+    },
+    {
+      "self_ref": "#/texts/77",
+      "parent": {
+        "$ref": "#/field_items/38"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 812.82,
+            "t": 1246.21,
+            "r": 825.71,
+            "b": 1270.37,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/78",
+      "parent": {
+        "$ref": "#/field_items/39"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.charge",
+      "text": "lines.2.charge"
+    },
+    {
+      "self_ref": "#/texts/79",
+      "parent": {
+        "$ref": "#/field_items/39"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 939.72,
+            "t": 1235.58,
+            "r": 1001.05,
+            "b": 1260.63,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "100.00",
+      "text": "100.00",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/80",
+      "parent": {
+        "$ref": "#/field_items/40"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.units",
+      "text": "lines.2.units"
+    },
+    {
+      "self_ref": "#/texts/81",
+      "parent": {
+        "$ref": "#/field_items/40"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1035.17,
+            "t": 1230.28,
+            "r": 1048.06,
+            "b": 1254.44,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/82",
+      "parent": {
+        "$ref": "#/field_items/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.2.rendering_npi",
+      "text": "lines.2.rendering_npi"
+    },
+    {
+      "self_ref": "#/texts/83",
+      "parent": {
+        "$ref": "#/field_items/41"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1159.98,
+            "t": 1216.93,
+            "r": 1261.22,
+            "b": 1244.85,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1999999976",
+      "text": "1999999976",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/84",
+      "parent": {
+        "$ref": "#/field_items/42"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.service_date_from",
+      "text": "lines.3.service_date_from"
+    },
+    {
+      "self_ref": "#/texts/85",
+      "parent": {
+        "$ref": "#/field_items/42"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.88,
+            "t": 1340.15,
+            "r": 241.17,
+            "b": 1366.64,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "04 15 26",
+      "text": "04 15 26",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/86",
+      "parent": {
+        "$ref": "#/field_items/43"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.service_date_to",
+      "text": "lines.3.service_date_to"
+    },
+    {
+      "self_ref": "#/texts/87",
+      "parent": {
+        "$ref": "#/field_items/43"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.34,
+            "t": 1329.73,
+            "r": 386.62,
+            "b": 1356.22,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "04 15 26",
+      "text": "04 15 26",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/88",
+      "parent": {
+        "$ref": "#/field_items/44"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.place_of_service",
+      "text": "lines.3.place_of_service"
+    },
+    {
+      "self_ref": "#/texts/89",
+      "parent": {
+        "$ref": "#/field_items/44"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 432.1,
+            "t": 1324.94,
+            "r": 453.54,
+            "b": 1347.13,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "11",
+      "text": "11",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/90",
+      "parent": {
+        "$ref": "#/field_items/45"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.procedure_code",
+      "text": "lines.3.procedure_code"
+    },
+    {
+      "self_ref": "#/texts/91",
+      "parent": {
+        "$ref": "#/field_items/45"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 523.39,
+            "t": 1313.86,
+            "r": 581.17,
+            "b": 1341.24,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "80053",
+      "text": "80053",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/92",
+      "parent": {
+        "$ref": "#/field_items/46"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.diagnosis_pointer",
+      "text": "lines.3.diagnosis_pointer"
+    },
+    {
+      "self_ref": "#/texts/93",
+      "parent": {
+        "$ref": "#/field_items/46"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 816.39,
+            "t": 1296.08,
+            "r": 829.28,
+            "b": 1320.24,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "A",
+      "text": "A",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/94",
+      "parent": {
+        "$ref": "#/field_items/47"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.charge",
+      "text": "lines.3.charge"
+    },
+    {
+      "self_ref": "#/texts/95",
+      "parent": {
+        "$ref": "#/field_items/47"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 943.29,
+            "t": 1285.45,
+            "r": 1004.63,
+            "b": 1310.5,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "250.00",
+      "text": "250.00",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/96",
+      "parent": {
+        "$ref": "#/field_items/48"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.units",
+      "text": "lines.3.units"
+    },
+    {
+      "self_ref": "#/texts/97",
+      "parent": {
+        "$ref": "#/field_items/48"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1038.74,
+            "t": 1280.15,
+            "r": 1051.63,
+            "b": 1304.31,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1",
+      "text": "1",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/98",
+      "parent": {
+        "$ref": "#/field_items/49"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "lines.3.rendering_npi",
+      "text": "lines.3.rendering_npi"
+    },
+    {
+      "self_ref": "#/texts/99",
+      "parent": {
+        "$ref": "#/field_items/49"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1163.56,
+            "t": 1266.81,
+            "r": 1264.79,
+            "b": 1294.72,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1999999976",
+      "text": "1999999976",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/100",
+      "parent": {
+        "$ref": "#/field_items/50"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "provider_tax_id",
+      "text": "provider_tax_id"
+    },
+    {
+      "self_ref": "#/texts/101",
+      "parent": {
+        "$ref": "#/field_items/50"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 173.44,
+            "t": 1527.08,
+            "r": 287.33,
+            "b": 1558.47,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "00-0042170",
+      "text": "00-0042170",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/102",
+      "parent": {
+        "$ref": "#/field_items/51"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "patient_account",
+      "text": "patient_account"
+    },
+    {
+      "self_ref": "#/texts/103",
+      "parent": {
+        "$ref": "#/field_items/51"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 501.77,
+            "t": 1505.16,
+            "r": 593.21,
+            "b": 1534.94,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "PT-04217",
+      "text": "PT-04217",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/104",
+      "parent": {
+        "$ref": "#/field_items/52"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "accept_assignment",
+      "text": "accept_assignment"
+    },
+    {
+      "self_ref": "#/texts/105",
+      "parent": {
+        "$ref": "#/field_items/52"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 726.2,
+            "t": 1494.7,
+            "r": 739.09,
+            "b": 1518.86,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "X",
+      "text": "X",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/106",
+      "parent": {
+        "$ref": "#/field_items/53"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "total_charge",
+      "text": "total_charge"
+    },
+    {
+      "self_ref": "#/texts/107",
+      "parent": {
+        "$ref": "#/field_items/53"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 925.68,
+            "t": 1476.39,
+            "r": 994.68,
+            "b": 1504.56,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "600.00",
+      "text": "600.00",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/108",
+      "parent": {
+        "$ref": "#/field_items/54"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "amount_paid",
+      "text": "amount_paid"
+    },
+    {
+      "self_ref": "#/texts/109",
+      "parent": {
+        "$ref": "#/field_items/54"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1096.08,
+            "t": 1464.98,
+            "r": 1153.86,
+            "b": 1492.35,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "30.00",
+      "text": "30.00",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/110",
+      "parent": {
+        "$ref": "#/field_items/55"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "facility_npi",
+      "text": "facility_npi"
+    },
+    {
+      "self_ref": "#/texts/111",
+      "parent": {
+        "$ref": "#/field_items/55"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.68,
+            "t": 1634.17,
+            "r": 626.92,
+            "b": 1662.08,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1999999984",
+      "text": "1999999984",
+      "kind": "read_only"
+    },
+    {
+      "self_ref": "#/texts/112",
+      "parent": {
+        "$ref": "#/field_items/56"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_key",
+      "prov": [],
+      "orig": "billing_npi",
+      "text": "billing_npi"
+    },
+    {
+      "self_ref": "#/texts/113",
+      "parent": {
+        "$ref": "#/field_items/56"
+      },
+      "children": [],
+      "content_layer": "body",
+      "label": "field_value",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 930.89,
+            "t": 1605.13,
+            "r": 1032.13,
+            "b": 1633.04,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ],
+      "orig": "1999999984",
+      "text": "1999999984",
+      "kind": "read_only"
+    }
+  ],
+  "pictures": [],
+  "tables": [],
+  "key_value_items": [],
+  "form_items": [],
+  "field_regions": [
+    {
+      "self_ref": "#/field_regions/0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "children": [
+        {
+          "$ref": "#/field_items/0"
+        },
+        {
+          "$ref": "#/field_items/1"
+        },
+        {
+          "$ref": "#/field_items/2"
+        },
+        {
+          "$ref": "#/field_items/3"
+        },
+        {
+          "$ref": "#/field_items/4"
+        },
+        {
+          "$ref": "#/field_items/5"
+        },
+        {
+          "$ref": "#/field_items/6"
+        },
+        {
+          "$ref": "#/field_items/7"
+        },
+        {
+          "$ref": "#/field_items/8"
+        },
+        {
+          "$ref": "#/field_items/9"
+        },
+        {
+          "$ref": "#/field_items/10"
+        },
+        {
+          "$ref": "#/field_items/11"
+        },
+        {
+          "$ref": "#/field_items/12"
+        },
+        {
+          "$ref": "#/field_items/13"
+        },
+        {
+          "$ref": "#/field_items/14"
+        },
+        {
+          "$ref": "#/field_items/15"
+        },
+        {
+          "$ref": "#/field_items/16"
+        },
+        {
+          "$ref": "#/field_items/17"
+        },
+        {
+          "$ref": "#/field_items/18"
+        },
+        {
+          "$ref": "#/field_items/19"
+        },
+        {
+          "$ref": "#/field_items/20"
+        },
+        {
+          "$ref": "#/field_items/21"
+        },
+        {
+          "$ref": "#/field_items/22"
+        },
+        {
+          "$ref": "#/field_items/23"
+        },
+        {
+          "$ref": "#/field_items/24"
+        },
+        {
+          "$ref": "#/field_items/25"
+        },
+        {
+          "$ref": "#/field_items/26"
+        },
+        {
+          "$ref": "#/field_items/27"
+        },
+        {
+          "$ref": "#/field_items/28"
+        },
+        {
+          "$ref": "#/field_items/29"
+        },
+        {
+          "$ref": "#/field_items/30"
+        },
+        {
+          "$ref": "#/field_items/31"
+        },
+        {
+          "$ref": "#/field_items/32"
+        },
+        {
+          "$ref": "#/field_items/33"
+        },
+        {
+          "$ref": "#/field_items/34"
+        },
+        {
+          "$ref": "#/field_items/35"
+        },
+        {
+          "$ref": "#/field_items/36"
+        },
+        {
+          "$ref": "#/field_items/37"
+        },
+        {
+          "$ref": "#/field_items/38"
+        },
+        {
+          "$ref": "#/field_items/39"
+        },
+        {
+          "$ref": "#/field_items/40"
+        },
+        {
+          "$ref": "#/field_items/41"
+        },
+        {
+          "$ref": "#/field_items/42"
+        },
+        {
+          "$ref": "#/field_items/43"
+        },
+        {
+          "$ref": "#/field_items/44"
+        },
+        {
+          "$ref": "#/field_items/45"
+        },
+        {
+          "$ref": "#/field_items/46"
+        },
+        {
+          "$ref": "#/field_items/47"
+        },
+        {
+          "$ref": "#/field_items/48"
+        },
+        {
+          "$ref": "#/field_items/49"
+        },
+        {
+          "$ref": "#/field_items/50"
+        },
+        {
+          "$ref": "#/field_items/51"
+        },
+        {
+          "$ref": "#/field_items/52"
+        },
+        {
+          "$ref": "#/field_items/53"
+        },
+        {
+          "$ref": "#/field_items/54"
+        },
+        {
+          "$ref": "#/field_items/55"
+        },
+        {
+          "$ref": "#/field_items/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_region",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.25,
+            "t": 186.17,
+            "r": 1264.79,
+            "b": 1662.08,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "field_items": [
+    {
+      "self_ref": "#/field_items/0",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 534.45,
+            "t": 305.37,
+            "r": 547.34,
+            "b": 329.52,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/1",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 819.13,
+            "t": 277.73,
+            "r": 933.02,
+            "b": 309.12,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/2",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 91.25,
+            "t": 377.61,
+            "r": 238.8,
+            "b": 411.41,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/3",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.56,
+            "t": 348.9,
+            "r": 639.44,
+            "b": 380.29,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/4",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 776.99,
+            "t": 338.12,
+            "r": 789.88,
+            "b": 362.27,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/5",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 822.7,
+            "t": 325.19,
+            "r": 970.25,
+            "b": 359.0,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/6",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 94.96,
+            "t": 420.57,
+            "r": 365.76,
+            "b": 460.62,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/7",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 98.25,
+            "t": 480.89,
+            "r": 167.25,
+            "b": 509.08,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/8",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 476.45,
+            "t": 457.01,
+            "r": 500.56,
+            "b": 481.98,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/9",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 101.82,
+            "t": 531.57,
+            "r": 159.6,
+            "b": 558.95,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/10",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 315.85,
+            "t": 510.6,
+            "r": 452.18,
+            "b": 543.61,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/11",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 572.77,
+            "t": 402.88,
+            "r": 585.66,
+            "b": 427.03,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/12",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 826.42,
+            "t": 368.15,
+            "r": 1097.21,
+            "b": 408.21,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/13",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 836.85,
+            "t": 525.81,
+            "r": 939.51,
+            "b": 556.41,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/14",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 707.58,
+            "t": 593.73,
+            "r": 720.48,
+            "b": 617.89,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/15",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 711.16,
+            "t": 643.6,
+            "r": 724.05,
+            "b": 667.76,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/16",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 714.73,
+            "t": 693.48,
+            "r": 727.62,
+            "b": 717.63,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/17",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 955.05,
+            "t": 724.29,
+            "r": 967.94,
+            "b": 748.45,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/18",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 847.72,
+            "t": 671.88,
+            "r": 1028.93,
+            "b": 708.1,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/19",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 131.3,
+            "t": 940.6,
+            "r": 222.75,
+            "b": 970.39,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/20",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 133.98,
+            "t": 974.79,
+            "r": 270.31,
+            "b": 1007.8,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/21",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 613.85,
+            "t": 939.93,
+            "r": 727.74,
+            "b": 971.33,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/22",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 960.6,
+            "t": 976.63,
+            "r": 973.49,
+            "b": 1000.78,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/23",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 177.2,
+            "t": 1087.22,
+            "r": 246.21,
+            "b": 1115.41,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/24",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 722.08,
+            "t": 1029.22,
+            "r": 734.97,
+            "b": 1053.38,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/25",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 802.63,
+            "t": 186.17,
+            "r": 1013.58,
+            "b": 221.93,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/26",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 152.73,
+            "t": 1240.41,
+            "r": 234.02,
+            "b": 1266.89,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/27",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 298.19,
+            "t": 1229.99,
+            "r": 379.48,
+            "b": 1256.47,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/28",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 424.96,
+            "t": 1225.19,
+            "r": 446.39,
+            "b": 1247.39,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/29",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 516.24,
+            "t": 1214.12,
+            "r": 574.02,
+            "b": 1241.5,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/30",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 809.24,
+            "t": 1196.34,
+            "r": 822.14,
+            "b": 1220.5,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/31",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 936.15,
+            "t": 1185.7,
+            "r": 997.48,
+            "b": 1210.76,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/32",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1031.59,
+            "t": 1180.4,
+            "r": 1044.49,
+            "b": 1204.57,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/33",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1156.41,
+            "t": 1167.06,
+            "r": 1257.64,
+            "b": 1194.98,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/34",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 156.31,
+            "t": 1290.28,
+            "r": 237.59,
+            "b": 1316.77,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/35",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 301.77,
+            "t": 1279.86,
+            "r": 383.05,
+            "b": 1306.34,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/36",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 428.53,
+            "t": 1275.06,
+            "r": 449.97,
+            "b": 1297.26,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/37",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 519.82,
+            "t": 1263.99,
+            "r": 577.6,
+            "b": 1291.37,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/38",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 812.82,
+            "t": 1246.21,
+            "r": 825.71,
+            "b": 1270.37,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/39",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 939.72,
+            "t": 1235.58,
+            "r": 1001.05,
+            "b": 1260.63,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/40",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1035.17,
+            "t": 1230.28,
+            "r": 1048.06,
+            "b": 1254.44,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/41",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1159.98,
+            "t": 1216.93,
+            "r": 1261.22,
+            "b": 1244.85,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/42",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 159.88,
+            "t": 1340.15,
+            "r": 241.17,
+            "b": 1366.64,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/43",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 305.34,
+            "t": 1329.73,
+            "r": 386.62,
+            "b": 1356.22,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/44",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 432.1,
+            "t": 1324.94,
+            "r": 453.54,
+            "b": 1347.13,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/45",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 523.39,
+            "t": 1313.86,
+            "r": 581.17,
+            "b": 1341.24,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/46",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 816.39,
+            "t": 1296.08,
+            "r": 829.28,
+            "b": 1320.24,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/47",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 943.29,
+            "t": 1285.45,
+            "r": 1004.63,
+            "b": 1310.5,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/48",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1038.74,
+            "t": 1280.15,
+            "r": 1051.63,
+            "b": 1304.31,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/49",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1163.56,
+            "t": 1266.81,
+            "r": 1264.79,
+            "b": 1294.72,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/50",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 173.44,
+            "t": 1527.08,
+            "r": 287.33,
+            "b": 1558.47,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/51",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 501.77,
+            "t": 1505.16,
+            "r": 593.21,
+            "b": 1534.94,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/52",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 726.2,
+            "t": 1494.7,
+            "r": 739.09,
+            "b": 1518.86,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/53",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 925.68,
+            "t": 1476.39,
+            "r": 994.68,
+            "b": 1504.56,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/54",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 1096.08,
+            "t": 1464.98,
+            "r": 1153.86,
+            "b": 1492.35,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/55",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 525.68,
+            "t": 1634.17,
+            "r": 626.92,
+            "b": 1662.08,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "self_ref": "#/field_items/56",
+      "parent": {
+        "$ref": "#/field_regions/0"
+      },
+      "children": [
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        }
+      ],
+      "content_layer": "body",
+      "label": "field_item",
+      "prov": [
+        {
+          "page_no": 1,
+          "bbox": {
+            "l": 930.89,
+            "t": 1605.13,
+            "r": 1032.13,
+            "b": 1633.04,
+            "coord_origin": "TOPLEFT"
+          },
+          "charspan": [
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  ],
+  "pages": {
+    "1": {
+      "size": {
+        "width": 1425.0,
+        "height": 1851.0
+      },
+      "page_no": 1
+    }
+  }
+}

@@ -1,0 +1,251 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="117"/>
+    <location value="367"/>
+    <location value="1155"/>
+    <location value="1103"/>
+    <field_item>
+      <key>provider_name</key>
+      <value>
+        <location value="122"/>
+        <location value="367"/>
+        <location value="390"/>
+        <location value="406"/>
+        ALDER CREEK MEDICAL GROUP
+      </value>
+    </field_item>
+    <field_item>
+      <key>clinician</key>
+      <value>
+        <location value="121"/>
+        <location value="392"/>
+        <location value="262"/>
+        <location value="426"/>
+        LENA PARK MD
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="497"/>
+        <location value="387"/>
+        <location value="651"/>
+        <location value="422"/>
+        AVERY MORGAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_address</key>
+      <value>
+        <location value="495"/>
+        <location value="417"/>
+        <location value="752"/>
+        <location value="455"/>
+        4607 WILLOW BEND LN APT 204
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_city_state_zip</key>
+      <value>
+        <location value="494"/>
+        <location value="441"/>
+        <location value="655"/>
+        <location value="477"/>
+        AUSTIN, TX 78731
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_id</key>
+      <value>
+        <location value="492"/>
+        <location value="471"/>
+        <location value="606"/>
+        <location value="501"/>
+        CHP0842719
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_account</key>
+      <value>
+        <location value="490"/>
+        <location value="498"/>
+        <location value="582"/>
+        <location value="527"/>
+        PT-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>invoice_number</key>
+      <value>
+        <location value="900"/>
+        <location value="412"/>
+        <location value="1070"/>
+        <location value="446"/>
+        MI-260416-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>invoice_date</key>
+      <value>
+        <location value="898"/>
+        <location value="453"/>
+        <location value="1104"/>
+        <location value="491"/>
+        Invoice date: 04/16/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>service_date</key>
+      <value>
+        <location value="895"/>
+        <location value="493"/>
+        <location value="1105"/>
+        <location value="531"/>
+        Service date: 04/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>claim_id</key>
+      <value>
+        <location value="121"/>
+        <location value="537"/>
+        <location value="493"/>
+        <location value="582"/>
+        Claim reference: CLM-260415-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.service</key>
+      <value>
+        <location value="124"/>
+        <location value="652"/>
+        <location value="420"/>
+        <location value="694"/>
+        <content>99213  Established patient office visit</content>
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.rate</key>
+      <value>
+        <location value="788"/>
+        <location value="691"/>
+        <location value="858"/>
+        <location value="721"/>
+        $250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.charge</key>
+      <value>
+        <location value="1086"/>
+        <location value="709"/>
+        <location value="1155"/>
+        <location value="738"/>
+        $250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.service</key>
+      <value>
+        <location value="121"/>
+        <location value="704"/>
+        <location value="434"/>
+        <location value="747"/>
+        <content>85025  CBC with automated differential</content>
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.rate</key>
+      <value>
+        <location value="785"/>
+        <location value="743"/>
+        <location value="855"/>
+        <location value="773"/>
+        $100.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.charge</key>
+      <value>
+        <location value="1083"/>
+        <location value="761"/>
+        <location value="1152"/>
+        <location value="790"/>
+        $100.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.service</key>
+      <value>
+        <location value="118"/>
+        <location value="756"/>
+        <location value="434"/>
+        <location value="799"/>
+        <content>80053  Comprehensive metabolic panel</content>
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.rate</key>
+      <value>
+        <location value="782"/>
+        <location value="795"/>
+        <location value="851"/>
+        <location value="825"/>
+        $250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.charge</key>
+      <value>
+        <location value="1080"/>
+        <location value="813"/>
+        <location value="1149"/>
+        <location value="842"/>
+        $250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>diagnosis</key>
+      <value>
+        <location value="117"/>
+        <location value="842"/>
+        <location value="396"/>
+        <location value="885"/>
+        Diagnosis: R53.83 - Other fatigue
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_charge</key>
+      <value>
+        <location value="1062"/>
+        <location value="970"/>
+        <location value="1139"/>
+        <location value="1003"/>
+        $600.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_deposit</key>
+      <value>
+        <location value="1071"/>
+        <location value="1021"/>
+        <location value="1136"/>
+        <location value="1053"/>
+        $30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>pending_amount</key>
+      <value>
+        <location value="1056"/>
+        <location value="1070"/>
+        <location value="1133"/>
+        <location value="1103"/>
+        $570.00
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

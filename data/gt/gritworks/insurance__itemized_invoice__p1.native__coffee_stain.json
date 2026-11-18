@@ -1,0 +1,577 @@
+{
+ "page_id": "insurance__itemized_invoice__p1",
+ "pack": "insurance",
+ "document": "itemized_invoice",
+ "family": "invoice",
+ "document_type": "Itemized provider medical invoice",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/03_itemized_invoice/itemized_invoice__coffee_stain.pdf",
+ "condition": "native:coffee_stain",
+ "degradation_params": {
+  "pack_variant": "coffee_stain"
+ },
+ "gt_provenance": "pack-supplied forward projection of clean geometry",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "provider_name",
+   "value": "ALDER CREEK MEDICAL GROUP",
+   "display_value": "ALDER CREEK MEDICAL GROUP",
+   "canonical_value": "ALDER CREEK MEDICAL GROUP",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    95.83,
+    398.83,
+    362.5,
+    421.78
+   ],
+   "bbox_pt": [
+    46.0,
+    191.44,
+    174.0,
+    202.456
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "clinician",
+   "value": "LENA PARK MD",
+   "display_value": "LENA PARK MD",
+   "canonical_value": "LENA PARK MD",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    95.83,
+    423.59,
+    235.45,
+    449.36
+   ],
+   "bbox_pt": [
+    46.0,
+    203.325,
+    113.014,
+    215.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_name",
+   "value": "AVERY MORGAN",
+   "display_value": "AVERY MORGAN",
+   "canonical_value": "AVERY MORGAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    470.83,
+    396.51,
+    623.98,
+    422.27
+   ],
+   "bbox_pt": [
+    226.0,
+    190.325,
+    299.512,
+    202.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_address",
+   "value": "4607 WILLOW BEND LN APT 204",
+   "display_value": "4607 WILLOW BEND LN APT 204",
+   "canonical_value": "4607 WILLOW BEND LN APT 204",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    470.83,
+    425.83,
+    726.48,
+    448.73
+   ],
+   "bbox_pt": [
+    226.0,
+    204.4,
+    348.712,
+    215.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_city_state_zip",
+   "value": "AUSTIN, TX 78731",
+   "display_value": "AUSTIN, TX 78731",
+   "canonical_value": "AUSTIN, TX 78731",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    470.83,
+    450.68,
+    631.31,
+    476.44
+   ],
+   "bbox_pt": [
+    226.0,
+    216.325,
+    303.031,
+    228.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "member_id",
+   "value": "CHP0842719",
+   "display_value": "CHP0842719",
+   "canonical_value": "CHP0842719",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    470.83,
+    480.44,
+    583.33,
+    503.86
+   ],
+   "bbox_pt": [
+    226.0,
+    230.612,
+    280.0,
+    241.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_account",
+   "value": "PT-04217",
+   "display_value": "PT-04217",
+   "canonical_value": "PT-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    470.83,
+    507.53,
+    560.83,
+    530.94
+   ],
+   "bbox_pt": [
+    226.0,
+    243.612,
+    269.2,
+    254.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "invoice_number",
+   "value": "MI-260416-04217",
+   "display_value": "MI-260416-04217",
+   "canonical_value": "MI-260416-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    875.0,
+    397.11,
+    1043.75,
+    420.53
+   ],
+   "bbox_pt": [
+    420.0,
+    190.612,
+    501.0,
+    201.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "invoice_date",
+   "value": "2026-04-16",
+   "display_value": "Invoice date: 04/16/2026",
+   "canonical_value": "Invoice date: 04/16/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    875.0,
+    438.18,
+    1080.35,
+    463.94
+   ],
+   "bbox_pt": [
+    420.0,
+    210.325,
+    518.568,
+    222.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "service_date",
+   "value": "2026-04-15",
+   "display_value": "Service date: 04/15/2026",
+   "canonical_value": "Service date: 04/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    875.0,
+    477.76,
+    1083.46,
+    503.52
+   ],
+   "bbox_pt": [
+    420.0,
+    229.325,
+    520.062,
+    241.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "claim_id",
+   "value": "CLM-260415-04217",
+   "display_value": "Claim reference: CLM-260415-04217",
+   "canonical_value": "Claim reference: CLM-260415-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    104.17,
+    567.94,
+    475.42,
+    591.36
+   ],
+   "bbox_pt": [
+    50.0,
+    272.612,
+    228.2,
+    283.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.service",
+   "value": "99213  Established patient office visit",
+   "display_value": "99213  Established patient office visit",
+   "canonical_value": "99213  Established patient office visit",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    114.58,
+    682.82,
+    409.37,
+    707.44
+   ],
+   "bbox_pt": [
+    55.0,
+    327.755,
+    196.496,
+    339.571
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.rate",
+   "value": "250.00",
+   "display_value": "$250.00",
+   "canonical_value": "$250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    780.15,
+    681.93,
+    847.92,
+    707.69
+   ],
+   "bbox_pt": [
+    374.474,
+    327.325,
+    407.0,
+    339.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.charge",
+   "value": "250.00",
+   "display_value": "$250.00",
+   "canonical_value": "$250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1078.07,
+    681.93,
+    1145.83,
+    707.69
+   ],
+   "bbox_pt": [
+    517.474,
+    327.325,
+    550.0,
+    339.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.service",
+   "value": "85025  CBC with automated differential",
+   "display_value": "85025  CBC with automated differential",
+   "canonical_value": "85025  CBC with automated differential",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    114.58,
+    734.91,
+    426.28,
+    759.52
+   ],
+   "bbox_pt": [
+    55.0,
+    352.755,
+    204.614,
+    364.571
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.rate",
+   "value": "100.00",
+   "display_value": "$100.00",
+   "canonical_value": "$100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    780.15,
+    734.01,
+    847.92,
+    759.77
+   ],
+   "bbox_pt": [
+    374.474,
+    352.325,
+    407.0,
+    364.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.charge",
+   "value": "100.00",
+   "display_value": "$100.00",
+   "canonical_value": "$100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1078.07,
+    734.01,
+    1145.83,
+    759.77
+   ],
+   "bbox_pt": [
+    517.474,
+    352.325,
+    550.0,
+    364.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.service",
+   "value": "80053  Comprehensive metabolic panel",
+   "display_value": "80053  Comprehensive metabolic panel",
+   "canonical_value": "80053  Comprehensive metabolic panel",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    114.58,
+    786.99,
+    430.26,
+    811.61
+   ],
+   "bbox_pt": [
+    55.0,
+    377.755,
+    206.523,
+    389.571
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.rate",
+   "value": "250.00",
+   "display_value": "$250.00",
+   "canonical_value": "$250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    780.15,
+    786.09,
+    847.92,
+    811.86
+   ],
+   "bbox_pt": [
+    374.474,
+    377.325,
+    407.0,
+    389.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.charge",
+   "value": "250.00",
+   "display_value": "$250.00",
+   "canonical_value": "$250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1078.07,
+    786.09,
+    1145.83,
+    811.86
+   ],
+   "bbox_pt": [
+    517.474,
+    377.325,
+    550.0,
+    389.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "diagnosis",
+   "value": "R53.83",
+   "display_value": "Diagnosis: R53.83 - Other fatigue",
+   "canonical_value": "Diagnosis: R53.83 - Other fatigue",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    118.75,
+    873.59,
+    397.0,
+    899.36
+   ],
+   "bbox_pt": [
+    57.0,
+    419.325,
+    190.56,
+    431.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "total_charge",
+   "value": "600.00",
+   "display_value": "$600.00",
+   "canonical_value": "$600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1070.54,
+    944.38,
+    1145.83,
+    973.06
+   ],
+   "bbox_pt": [
+    513.86,
+    453.3,
+    550.0,
+    467.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_deposit",
+   "value": "30.00",
+   "display_value": "$30.00",
+   "canonical_value": "$30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1082.12,
+    994.38,
+    1145.83,
+    1023.06
+   ],
+   "bbox_pt": [
+    519.42,
+    477.3,
+    550.0,
+    491.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "pending_amount",
+   "value": "570.00",
+   "display_value": "$570.00",
+   "canonical_value": "$570.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1070.54,
+    1044.38,
+    1145.83,
+    1073.06
+   ],
+   "bbox_pt": [
+    513.86,
+    501.3,
+    550.0,
+    515.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

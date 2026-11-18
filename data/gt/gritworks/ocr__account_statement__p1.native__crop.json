@@ -1,0 +1,577 @@
+{
+ "page_id": "ocr__account_statement__p1",
+ "pack": "ocr",
+ "document": "account_statement",
+ "family": "bank_statement",
+ "document_type": "Supplier account statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/05_account_statement/account_statement__crop.pdf",
+ "condition": "native:crop",
+ "degradation_params": {
+  "pack_variant": "crop"
+ },
+ "gt_provenance": "pack-supplied forward projection of clean geometry",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "supplier_name",
+   "value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "display_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "canonical_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    0.0,
+    59.47,
+    596.56,
+    105.37
+   ],
+   "bbox_pt": [
+    0.0,
+    28.547,
+    286.349,
+    50.579
+   ],
+   "visibility": "partially_visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "document_number",
+   "value": "ST-05217",
+   "display_value": "ST-05217",
+   "canonical_value": "ST-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    740.28,
+    178.95,
+    840.9,
+    210.51
+   ],
+   "bbox_pt": [
+    355.333,
+    85.897,
+    403.634,
+    101.044
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "document_date",
+   "value": "06/15/2026",
+   "display_value": "06/15/2026",
+   "canonical_value": "06/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    740.28,
+    214.41,
+    844.53,
+    243.04
+   ],
+   "bbox_pt": [
+    355.333,
+    102.917,
+    405.373,
+    116.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "customer_name",
+   "value": "ORCHARD VALE FOODS",
+   "display_value": "ORCHARD VALE FOODS",
+   "canonical_value": "ORCHARD VALE FOODS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    0.0,
+    318.54,
+    268.98,
+    350.09
+   ],
+   "bbox_pt": [
+    0.0,
+    152.897,
+    129.112,
+    168.044
+   ],
+   "visibility": "partially_visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "customer_account",
+   "value": "OVF-05217",
+   "display_value": "OVF-05217",
+   "canonical_value": "OVF-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    740.28,
+    320.66,
+    847.96,
+    349.29
+   ],
+   "bbox_pt": [
+    355.333,
+    153.917,
+    407.023,
+    167.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "purchase_order",
+   "value": "PO-260601-05217",
+   "display_value": "PO-260601-05217",
+   "canonical_value": "PO-260601-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    740.28,
+    351.91,
+    911.67,
+    380.54
+   ],
+   "bbox_pt": [
+    355.333,
+    168.917,
+    437.603,
+    182.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "period",
+   "value": "Statement period: 06/01/2026 - 06/15/2026",
+   "display_value": "Statement period: 06/01/2026 - 06/15/2026",
+   "canonical_value": "Statement period: 06/01/2026 - 06/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    0.0,
+    447.74,
+    393.78,
+    476.37
+   ],
+   "bbox_pt": [
+    0.0,
+    214.917,
+    189.013,
+    228.657
+   ],
+   "visibility": "partially_visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.1.date",
+   "value": "06/09/26",
+   "display_value": "06/09/26",
+   "canonical_value": "06/09/26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    6.94,
+    591.65,
+    79.92,
+    617.41
+   ],
+   "bbox_pt": [
+    3.333,
+    283.992,
+    38.361,
+    296.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.1.reference",
+   "value": "INV-G-05217",
+   "display_value": "INV-G-05217",
+   "canonical_value": "INV-G-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    173.61,
+    591.65,
+    284.07,
+    617.41
+   ],
+   "bbox_pt": [
+    83.333,
+    283.992,
+    136.352,
+    296.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.1.debit",
+   "value": "2908.80",
+   "display_value": "2908.80",
+   "canonical_value": "2908.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    527.78,
+    591.65,
+    595.54,
+    617.41
+   ],
+   "bbox_pt": [
+    253.333,
+    283.992,
+    285.859,
+    296.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.1.credit",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    725.69,
+    591.65,
+    762.18,
+    617.41
+   ],
+   "bbox_pt": [
+    348.333,
+    283.992,
+    365.847,
+    296.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.1.balance",
+   "value": "2908.80",
+   "display_value": "2908.80",
+   "canonical_value": "2908.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    913.19,
+    591.65,
+    980.96,
+    617.41
+   ],
+   "bbox_pt": [
+    438.333,
+    283.992,
+    470.859,
+    296.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.2.date",
+   "value": "06/09/26",
+   "display_value": "06/09/26",
+   "canonical_value": "06/09/26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    6.94,
+    654.15,
+    79.92,
+    679.91
+   ],
+   "bbox_pt": [
+    3.333,
+    313.992,
+    38.361,
+    326.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.2.reference",
+   "value": "INV-S-05217",
+   "display_value": "INV-S-05217",
+   "canonical_value": "INV-S-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    173.61,
+    654.15,
+    281.99,
+    679.91
+   ],
+   "bbox_pt": [
+    83.333,
+    313.992,
+    135.353,
+    326.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.2.debit",
+   "value": "650.00",
+   "display_value": "650.00",
+   "canonical_value": "650.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    527.78,
+    654.15,
+    585.11,
+    679.91
+   ],
+   "bbox_pt": [
+    253.333,
+    313.992,
+    280.855,
+    326.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.2.credit",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    725.69,
+    654.15,
+    762.18,
+    679.91
+   ],
+   "bbox_pt": [
+    348.333,
+    313.992,
+    365.847,
+    326.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.2.balance",
+   "value": "3558.80",
+   "display_value": "3558.80",
+   "canonical_value": "3558.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    913.19,
+    654.15,
+    980.96,
+    679.91
+   ],
+   "bbox_pt": [
+    438.333,
+    313.992,
+    470.859,
+    326.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.3.date",
+   "value": "06/12/26",
+   "display_value": "06/12/26",
+   "canonical_value": "06/12/26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    6.94,
+    716.65,
+    79.92,
+    742.41
+   ],
+   "bbox_pt": [
+    3.333,
+    343.992,
+    38.361,
+    356.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.3.reference",
+   "value": "CM-05217",
+   "display_value": "CM-05217",
+   "canonical_value": "CM-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    173.61,
+    716.65,
+    261.14,
+    742.41
+   ],
+   "bbox_pt": [
+    83.333,
+    343.992,
+    125.345,
+    356.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.3.debit",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    527.78,
+    716.65,
+    564.26,
+    742.41
+   ],
+   "bbox_pt": [
+    253.333,
+    343.992,
+    270.847,
+    356.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.3.credit",
+   "value": "103.68",
+   "display_value": "103.68",
+   "canonical_value": "103.68",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    725.69,
+    716.65,
+    783.03,
+    742.41
+   ],
+   "bbox_pt": [
+    348.333,
+    343.992,
+    375.855,
+    356.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ledger.3.balance",
+   "value": "3455.12",
+   "display_value": "3455.12",
+   "canonical_value": "3455.12",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    913.19,
+    716.65,
+    980.96,
+    742.41
+   ],
+   "bbox_pt": [
+    438.333,
+    343.992,
+    470.859,
+    356.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_due",
+   "value": "3455.12",
+   "display_value": "$3,455.12",
+   "canonical_value": "$3,455.12",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    814.14,
+    901.47,
+    1073.61,
+    981.8
+   ],
+   "bbox_pt": [
+    390.789,
+    432.707,
+    515.333,
+    471.263
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "due_date",
+   "value": "2026-07-09",
+   "display_value": "Payment due: 07/09/2026",
+   "canonical_value": "Payment due: 07/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    0.0,
+    1062.14,
+    292.5,
+    1096.56
+   ],
+   "bbox_pt": [
+    0.0,
+    509.827,
+    140.401,
+    526.351
+   ],
+   "visibility": "partially_visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

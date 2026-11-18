@@ -1,0 +1,4454 @@
+{
+ "page_id": "diagnostics__lab_report__p1",
+ "pack": "diagnostics",
+ "document": "lab_report",
+ "family": "lab_report",
+ "document_type": "CD4/CD8 profile and CBC report",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/05_lab_report/lab_report_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": -4.512,
+  "seed": 1949518983
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "TAYLOR BROOKS",
+   "display_value": "TAYLOR BROOKS",
+   "canonical_value": "TAYLOR BROOKS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    130.32,
+    66.55,
+    351.8,
+    118.13
+   ],
+   "bbox_pt": [
+    35,
+    52.16,
+    140.336,
+    68.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     133.03,
+     66.55
+    ],
+    [
+     351.8,
+     83.82
+    ],
+    [
+     349.09,
+     118.13
+    ],
+    [
+     130.32,
+     100.87
+    ]
+   ]
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1990-08-14",
+   "display_value": "DOB: 08/14/1990",
+   "canonical_value": "DOB: 08/14/1990",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    556.19,
+    104.49,
+    718.93,
+    145.69
+   ],
+   "bbox_pt": [
+    240,
+    54.25,
+    317.27,
+    67.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     558.44,
+     104.49
+    ],
+    [
+     718.93,
+     117.15
+    ],
+    [
+     716.67,
+     145.69
+    ],
+    [
+     556.19,
+     133.03
+    ]
+   ]
+  },
+  {
+   "key": "age_sex",
+   "value": "Age: 35 / Sex: F",
+   "display_value": "Age: 35 / Sex: F",
+   "canonical_value": "Age: 35 / Sex: F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    986.11,
+    138.42,
+    1137.29,
+    178.71
+   ],
+   "bbox_pt": [
+    447,
+    54.25,
+    518.71,
+    67.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     988.36,
+     138.42
+    ],
+    [
+     1137.29,
+     150.17
+    ],
+    [
+     1135.04,
+     178.71
+    ],
+    [
+     986.11,
+     166.96
+    ]
+   ]
+  },
+  {
+   "key": "patient_id",
+   "value": "PT-08217",
+   "display_value": "Patient ID: PT-08217",
+   "canonical_value": "Patient ID: PT-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    127.32,
+    110.35,
+    323.51,
+    154.19
+   ],
+   "bbox_pt": [
+    35,
+    73.25,
+    128.38,
+    86.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     129.57,
+     110.35
+    ],
+    [
+     323.51,
+     125.65
+    ],
+    [
+     321.26,
+     154.19
+    ],
+    [
+     127.32,
+     138.89
+    ]
+   ]
+  },
+  {
+   "key": "accession_id",
+   "value": "DX-260610-08217",
+   "display_value": "Accession: DX-260610-08217",
+   "canonical_value": "Accession: DX-260610-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    553.08,
+    143.95,
+    831.22,
+    194.26
+   ],
+   "bbox_pt": [
+    240,
+    73.25,
+    372.84,
+    86.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     555.33,
+     143.95
+    ],
+    [
+     831.22,
+     165.72
+    ],
+    [
+     828.97,
+     194.26
+    ],
+    [
+     553.08,
+     172.49
+    ]
+   ]
+  },
+  {
+   "key": "ordering_physician",
+   "value": "Ordering physician: DR. MAYA COLLINS",
+   "display_value": "Ordering physician: DR. MAYA COLLINS",
+   "canonical_value": "Ordering physician: DR. MAYA COLLINS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    124.21,
+    149.81,
+    506.17,
+    208.31
+   ],
+   "bbox_pt": [
+    35,
+    92.25,
+    217.83,
+    105.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     126.46,
+     149.81
+    ],
+    [
+     506.17,
+     179.78
+    ],
+    [
+     503.92,
+     208.31
+    ],
+    [
+     124.21,
+     178.35
+    ]
+   ]
+  },
+  {
+   "key": "collected_at",
+   "value": "Collected: 06/10/2026 08:15",
+   "display_value": "Collected: 06/10/2026 08:15",
+   "canonical_value": "Collected: 06/10/2026 08:15",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    120.82,
+    195.66,
+    356.63,
+    239.79
+   ],
+   "bbox_pt": [
+    35,
+    114.325,
+    147.572,
+    126.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     122.84,
+     195.66
+    ],
+    [
+     356.63,
+     214.11
+    ],
+    [
+     354.61,
+     239.79
+    ],
+    [
+     120.82,
+     221.34
+    ]
+   ]
+  },
+  {
+   "key": "received_at",
+   "value": "Received: 06/10/2026 09:20",
+   "display_value": "Received: 06/10/2026 09:20",
+   "canonical_value": "Received: 06/10/2026 09:20",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    515.42,
+    226.8,
+    751.25,
+    270.93
+   ],
+   "bbox_pt": [
+    225,
+    114.325,
+    337.572,
+    126.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     517.44,
+     226.8
+    ],
+    [
+     751.25,
+     245.25
+    ],
+    [
+     749.22,
+     270.93
+    ],
+    [
+     515.42,
+     252.48
+    ]
+   ]
+  },
+  {
+   "key": "reported_at",
+   "value": "Reported: 06/10/2026 13:40",
+   "display_value": "Reported: 06/10/2026 13:40",
+   "canonical_value": "Reported: 06/10/2026 13:40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    920.41,
+    258.76,
+    1155.2,
+    302.81
+   ],
+   "bbox_pt": [
+    420,
+    114.325,
+    532.077,
+    126.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     922.44,
+     258.76
+    ],
+    [
+     1155.2,
+     277.13
+    ],
+    [
+     1153.18,
+     302.81
+    ],
+    [
+     920.41,
+     284.44
+    ]
+   ]
+  },
+  {
+   "key": "panel_name",
+   "value": "CD4/CD8 Profile with CBC / Differential",
+   "display_value": "CD4/CD8 Profile with CBC / Differential",
+   "canonical_value": "CD4/CD8 Profile with CBC / Differential",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    115.41,
+    255.55,
+    577.86,
+    326.15
+   ],
+   "bbox_pt": [
+    35,
+    143.16,
+    256.364,
+    159.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     118.12,
+     255.55
+    ],
+    [
+     577.86,
+     291.83
+    ],
+    [
+     575.15,
+     326.15
+    ],
+    [
+     115.41,
+     289.87
+    ]
+   ]
+  },
+  {
+   "key": "results.1.test",
+   "value": "Absolute CD4 helper",
+   "display_value": "Absolute CD4 helper",
+   "canonical_value": "Absolute CD4 helper",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    115.73,
+    368.85,
+    270.82,
+    403.78
+   ],
+   "bbox_pt": [
+    39,
+    197.4,
+    112.808,
+    208.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     117.53,
+     368.85
+    ],
+    [
+     270.82,
+     380.95
+    ],
+    [
+     269.02,
+     403.78
+    ],
+    [
+     115.73,
+     391.68
+    ]
+   ]
+  },
+  {
+   "key": "results.1.value",
+   "value": "987",
+   "display_value": "987",
+   "canonical_value": "987",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    641.18,
+    410.32,
+    670.69,
+    435.33
+   ],
+   "bbox_pt": [
+    292,
+    197.4,
+    305.344,
+    208.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     642.98,
+     410.32
+    ],
+    [
+     670.69,
+     412.5
+    ],
+    [
+     668.89,
+     435.33
+    ],
+    [
+     641.18,
+     433.15
+    ]
+   ]
+  },
+  {
+   "key": "results.1.unit",
+   "value": "/uL",
+   "display_value": "/uL",
+   "canonical_value": "/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    850.97,
+    427.99,
+    874.31,
+    451.1
+   ],
+   "bbox_pt": [
+    393,
+    197.937,
+    403.425,
+    208.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     852.66,
+     427.99
+    ],
+    [
+     874.31,
+     429.7
+    ],
+    [
+     872.62,
+     451.1
+    ],
+    [
+     850.97,
+     449.39
+    ]
+   ]
+  },
+  {
+   "key": "results.1.reference",
+   "value": "359-1519",
+   "display_value": "359-1519",
+   "canonical_value": "359-1519",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    998.43,
+    439.62,
+    1065.92,
+    466.22
+   ],
+   "bbox_pt": [
+    464,
+    197.937,
+    495.687,
+    208.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1000.12,
+     439.62
+    ],
+    [
+     1065.92,
+     444.82
+    ],
+    [
+     1064.23,
+     466.22
+    ],
+    [
+     998.43,
+     461.03
+    ]
+   ]
+  },
+  {
+   "key": "results.2.test",
+   "value": "% CD4 positive lymphocytes",
+   "display_value": "% CD4 positive lymphocytes",
+   "canonical_value": "% CD4 positive lymphocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    113.52,
+    396.89,
+    325.83,
+    436.34
+   ],
+   "bbox_pt": [
+    39,
+    210.9,
+    140.36,
+    221.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     115.32,
+     396.89
+    ],
+    [
+     325.83,
+     413.51
+    ],
+    [
+     324.03,
+     436.34
+    ],
+    [
+     113.52,
+     419.72
+    ]
+   ]
+  },
+  {
+   "key": "results.2.value",
+   "value": "42.9",
+   "display_value": "42.9",
+   "canonical_value": "42.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    638.96,
+    438.36,
+    673.1,
+    463.74
+   ],
+   "bbox_pt": [
+    292,
+    210.9,
+    307.568,
+    221.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     640.76,
+     438.36
+    ],
+    [
+     673.1,
+     440.91
+    ],
+    [
+     671.3,
+     463.74
+    ],
+    [
+     638.96,
+     461.19
+    ]
+   ]
+  },
+  {
+   "key": "results.2.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    848.76,
+    456.02,
+    864.29,
+    478.52
+   ],
+   "bbox_pt": [
+    393,
+    211.437,
+    399.667,
+    221.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     850.44,
+     456.02
+    ],
+    [
+     864.29,
+     457.11
+    ],
+    [
+     862.6,
+     478.52
+    ],
+    [
+     848.76,
+     477.42
+    ]
+   ]
+  },
+  {
+   "key": "results.2.reference",
+   "value": "30.8-58.5",
+   "display_value": "30.8-58.5",
+   "canonical_value": "30.8-58.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    996.22,
+    467.66,
+    1063.71,
+    494.25
+   ],
+   "bbox_pt": [
+    464,
+    211.437,
+    495.687,
+    221.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     997.91,
+     467.66
+    ],
+    [
+     1063.71,
+     472.85
+    ],
+    [
+     1062.02,
+     494.25
+    ],
+    [
+     996.22,
+     489.06
+    ]
+   ]
+  },
+  {
+   "key": "results.3.test",
+   "value": "Absolute CD8 suppressor",
+   "display_value": "Absolute CD8 suppressor",
+   "canonical_value": "Absolute CD8 suppressor",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    111.3,
+    424.93,
+    302.4,
+    462.69
+   ],
+   "bbox_pt": [
+    39,
+    224.4,
+    130.144,
+    235.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     113.11,
+     424.93
+    ],
+    [
+     302.4,
+     439.86
+    ],
+    [
+     300.6,
+     462.69
+    ],
+    [
+     111.3,
+     447.76
+    ]
+   ]
+  },
+  {
+   "key": "results.3.value",
+   "value": "1024",
+   "display_value": "1024",
+   "canonical_value": "1024",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    636.74,
+    466.47,
+    675.5,
+    492.27
+   ],
+   "bbox_pt": [
+    292,
+    224.44,
+    309.792,
+    235.456
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     638.55,
+     466.47
+    ],
+    [
+     675.5,
+     469.39
+    ],
+    [
+     673.69,
+     492.27
+    ],
+    [
+     636.74,
+     489.35
+    ]
+   ]
+  },
+  {
+   "key": "results.3.flag",
+   "value": "H",
+   "display_value": "H",
+   "canonical_value": "H",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    755.12,
+    475.81,
+    768.93,
+    499.64
+   ],
+   "bbox_pt": [
+    349,
+    224.44,
+    354.776,
+    235.456
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     756.93,
+     475.81
+    ],
+    [
+     768.93,
+     476.76
+    ],
+    [
+     767.12,
+     499.64
+    ],
+    [
+     755.12,
+     498.69
+    ]
+   ]
+  },
+  {
+   "key": "results.3.unit",
+   "value": "/uL",
+   "display_value": "/uL",
+   "canonical_value": "/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    846.54,
+    484.06,
+    869.88,
+    507.17
+   ],
+   "bbox_pt": [
+    393,
+    224.937,
+    403.425,
+    235.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     848.23,
+     484.06
+    ],
+    [
+     869.88,
+     485.77
+    ],
+    [
+     868.19,
+     507.17
+    ],
+    [
+     846.54,
+     505.47
+    ]
+   ]
+  },
+  {
+   "key": "results.3.reference",
+   "value": "109-897",
+   "display_value": "109-897",
+   "canonical_value": "109-897",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    994.0,
+    495.7,
+    1052.84,
+    521.61
+   ],
+   "bbox_pt": [
+    464,
+    224.937,
+    491.517,
+    235.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     995.69,
+     495.7
+    ],
+    [
+     1052.84,
+     500.21
+    ],
+    [
+     1051.15,
+     521.61
+    ],
+    [
+     994.0,
+     517.1
+    ]
+   ]
+  },
+  {
+   "key": "results.4.test",
+   "value": "% CD8 positive lymphocytes",
+   "display_value": "% CD8 positive lymphocytes",
+   "canonical_value": "% CD8 positive lymphocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    109.09,
+    452.97,
+    321.41,
+    492.4
+   ],
+   "bbox_pt": [
+    39,
+    237.9,
+    140.36,
+    248.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     110.89,
+     452.97
+    ],
+    [
+     321.41,
+     469.58
+    ],
+    [
+     319.61,
+     492.4
+    ],
+    [
+     109.09,
+     475.79
+    ]
+   ]
+  },
+  {
+   "key": "results.4.value",
+   "value": "44.5",
+   "display_value": "44.5",
+   "canonical_value": "44.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    634.53,
+    494.51,
+    668.67,
+    519.95
+   ],
+   "bbox_pt": [
+    292,
+    237.94,
+    307.568,
+    248.956
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     636.33,
+     494.51
+    ],
+    [
+     668.67,
+     497.07
+    ],
+    [
+     666.87,
+     519.95
+    ],
+    [
+     634.53,
+     517.39
+    ]
+   ]
+  },
+  {
+   "key": "results.4.flag",
+   "value": "H",
+   "display_value": "H",
+   "canonical_value": "H",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    752.91,
+    503.86,
+    766.72,
+    527.68
+   ],
+   "bbox_pt": [
+    349,
+    237.94,
+    354.776,
+    248.956
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     754.71,
+     503.86
+    ],
+    [
+     766.72,
+     504.8
+    ],
+    [
+     764.91,
+     527.68
+    ],
+    [
+     752.91,
+     526.74
+    ]
+   ]
+  },
+  {
+   "key": "results.4.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    844.33,
+    512.1,
+    859.87,
+    534.59
+   ],
+   "bbox_pt": [
+    393,
+    238.437,
+    399.667,
+    248.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     846.02,
+     512.1
+    ],
+    [
+     859.87,
+     513.19
+    ],
+    [
+     858.18,
+     534.59
+    ],
+    [
+     844.33,
+     533.5
+    ]
+   ]
+  },
+  {
+   "key": "results.4.reference",
+   "value": "12.0-35.5",
+   "display_value": "12.0-35.5",
+   "canonical_value": "12.0-35.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    991.79,
+    523.73,
+    1059.29,
+    550.33
+   ],
+   "bbox_pt": [
+    464,
+    238.437,
+    495.687,
+    248.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     993.48,
+     523.73
+    ],
+    [
+     1059.29,
+     528.93
+    ],
+    [
+     1057.6,
+     550.33
+    ],
+    [
+     991.79,
+     545.14
+    ]
+   ]
+  },
+  {
+   "key": "results.5.test",
+   "value": "CD4/CD8 ratio",
+   "display_value": "CD4/CD8 ratio",
+   "canonical_value": "CD4/CD8 ratio",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    106.88,
+    481.0,
+    216.69,
+    512.35
+   ],
+   "bbox_pt": [
+    39,
+    251.4,
+    91.008,
+    262.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     108.68,
+     481.0
+    ],
+    [
+     216.69,
+     489.53
+    ],
+    [
+     214.89,
+     512.35
+    ],
+    [
+     106.88,
+     503.83
+    ]
+   ]
+  },
+  {
+   "key": "results.5.value",
+   "value": "0.96",
+   "display_value": "0.96",
+   "canonical_value": "0.96",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    632.32,
+    522.47,
+    666.47,
+    547.85
+   ],
+   "bbox_pt": [
+    292,
+    251.4,
+    307.568,
+    262.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     634.13,
+     522.47
+    ],
+    [
+     666.47,
+     525.02
+    ],
+    [
+     664.66,
+     547.85
+    ],
+    [
+     632.32,
+     545.3
+    ]
+   ]
+  },
+  {
+   "key": "results.5.unit",
+   "value": "ratio",
+   "display_value": "ratio",
+   "canonical_value": "ratio",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    842.12,
+    540.14,
+    874.1,
+    563.93
+   ],
+   "bbox_pt": [
+    393,
+    251.937,
+    407.587,
+    262.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     843.81,
+     540.14
+    ],
+    [
+     874.1,
+     542.53
+    ],
+    [
+     872.41,
+     563.93
+    ],
+    [
+     842.12,
+     561.54
+    ]
+   ]
+  },
+  {
+   "key": "results.5.reference",
+   "value": "0.92-3.72",
+   "display_value": "0.92-3.72",
+   "canonical_value": "0.92-3.72",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    989.58,
+    551.78,
+    1057.07,
+    578.37
+   ],
+   "bbox_pt": [
+    464,
+    251.937,
+    495.687,
+    262.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     991.27,
+     551.78
+    ],
+    [
+     1057.07,
+     556.97
+    ],
+    [
+     1055.38,
+     578.37
+    ],
+    [
+     989.58,
+     573.18
+    ]
+   ]
+  },
+  {
+   "key": "results.6.test",
+   "value": "WBC",
+   "display_value": "WBC",
+   "canonical_value": "WBC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    104.67,
+    509.04,
+    145.23,
+    534.92
+   ],
+   "bbox_pt": [
+    39,
+    264.9,
+    57.664,
+    275.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     106.47,
+     509.04
+    ],
+    [
+     145.23,
+     512.1
+    ],
+    [
+     143.43,
+     534.92
+    ],
+    [
+     104.67,
+     531.86
+    ]
+   ]
+  },
+  {
+   "key": "results.6.value",
+   "value": "5.4",
+   "display_value": "5.4",
+   "canonical_value": "5.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    630.11,
+    550.51,
+    655.01,
+    575.15
+   ],
+   "bbox_pt": [
+    292,
+    264.9,
+    303.12,
+    275.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     631.91,
+     550.51
+    ],
+    [
+     655.01,
+     552.33
+    ],
+    [
+     653.21,
+     575.15
+    ],
+    [
+     630.11,
+     573.33
+    ]
+   ]
+  },
+  {
+   "key": "results.6.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    839.9,
+    568.17,
+    904.32,
+    594.52
+   ],
+   "bbox_pt": [
+    393,
+    265.437,
+    423.202,
+    275.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     841.59,
+     568.17
+    ],
+    [
+     904.32,
+     573.12
+    ],
+    [
+     902.63,
+     594.52
+    ],
+    [
+     839.9,
+     589.57
+    ]
+   ]
+  },
+  {
+   "key": "results.6.reference",
+   "value": "3.4-10.8",
+   "display_value": "3.4-10.8",
+   "canonical_value": "3.4-10.8",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    987.37,
+    579.81,
+    1046.2,
+    605.72
+   ],
+   "bbox_pt": [
+    464,
+    265.437,
+    491.517,
+    275.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     989.06,
+     579.81
+    ],
+    [
+     1046.2,
+     584.32
+    ],
+    [
+     1044.51,
+     605.72
+    ],
+    [
+     987.37,
+     601.21
+    ]
+   ]
+  },
+  {
+   "key": "results.7.test",
+   "value": "RBC",
+   "display_value": "RBC",
+   "canonical_value": "RBC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    102.45,
+    537.08,
+    139.33,
+    562.67
+   ],
+   "bbox_pt": [
+    39,
+    278.4,
+    55.888,
+    289.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     104.25,
+     537.08
+    ],
+    [
+     139.33,
+     539.85
+    ],
+    [
+     137.52,
+     562.67
+    ],
+    [
+     102.45,
+     559.91
+    ]
+   ]
+  },
+  {
+   "key": "results.7.value",
+   "value": "4.96",
+   "display_value": "4.96",
+   "canonical_value": "4.96",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    627.9,
+    578.54,
+    662.04,
+    603.92
+   ],
+   "bbox_pt": [
+    292,
+    278.4,
+    307.568,
+    289.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     629.7,
+     578.54
+    ],
+    [
+     662.04,
+     581.1
+    ],
+    [
+     660.24,
+     603.92
+    ],
+    [
+     627.9,
+     601.37
+    ]
+   ]
+  },
+  {
+   "key": "results.7.unit",
+   "value": "x10^6/uL",
+   "display_value": "x10^6/uL",
+   "canonical_value": "x10^6/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    837.69,
+    596.21,
+    902.11,
+    622.57
+   ],
+   "bbox_pt": [
+    393,
+    278.937,
+    423.202,
+    289.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     839.38,
+     596.21
+    ],
+    [
+     902.11,
+     601.16
+    ],
+    [
+     900.42,
+     622.57
+    ],
+    [
+     837.69,
+     617.62
+    ]
+   ]
+  },
+  {
+   "key": "results.7.reference",
+   "value": "3.77-5.28",
+   "display_value": "3.77-5.28",
+   "canonical_value": "3.77-5.28",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    985.15,
+    607.85,
+    1052.65,
+    634.45
+   ],
+   "bbox_pt": [
+    464,
+    278.937,
+    495.687,
+    289.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     986.84,
+     607.85
+    ],
+    [
+     1052.65,
+     613.04
+    ],
+    [
+     1050.96,
+     634.45
+    ],
+    [
+     985.15,
+     629.25
+    ]
+   ]
+  },
+  {
+   "key": "results.8.test",
+   "value": "Hemoglobin",
+   "display_value": "Hemoglobin",
+   "canonical_value": "Hemoglobin",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.24,
+    565.11,
+    190.69,
+    594.94
+   ],
+   "bbox_pt": [
+    39,
+    291.9,
+    81.68,
+    302.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     102.04,
+     565.11
+    ],
+    [
+     190.69,
+     572.11
+    ],
+    [
+     188.88,
+     594.94
+    ],
+    [
+     100.24,
+     587.95
+    ]
+   ]
+  },
+  {
+   "key": "results.8.value",
+   "value": "14.9",
+   "display_value": "14.9",
+   "canonical_value": "14.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    625.69,
+    606.58,
+    659.83,
+    631.97
+   ],
+   "bbox_pt": [
+    292,
+    291.9,
+    307.568,
+    302.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     627.49,
+     606.58
+    ],
+    [
+     659.83,
+     609.13
+    ],
+    [
+     658.03,
+     631.97
+    ],
+    [
+     625.69,
+     629.42
+    ]
+   ]
+  },
+  {
+   "key": "results.8.unit",
+   "value": "g/dL",
+   "display_value": "g/dL",
+   "canonical_value": "g/dL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    835.48,
+    624.25,
+    867.48,
+    648.04
+   ],
+   "bbox_pt": [
+    393,
+    292.437,
+    407.595,
+    302.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     837.17,
+     624.25
+    ],
+    [
+     867.48,
+     626.64
+    ],
+    [
+     865.8,
+     648.04
+    ],
+    [
+     835.48,
+     645.65
+    ]
+   ]
+  },
+  {
+   "key": "results.8.reference",
+   "value": "11.1-15.9",
+   "display_value": "11.1-15.9",
+   "canonical_value": "11.1-15.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    982.94,
+    635.88,
+    1050.44,
+    662.48
+   ],
+   "bbox_pt": [
+    464,
+    292.437,
+    495.687,
+    302.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     984.63,
+     635.88
+    ],
+    [
+     1050.44,
+     641.08
+    ],
+    [
+     1048.75,
+     662.48
+    ],
+    [
+     982.94,
+     657.29
+    ]
+   ]
+  },
+  {
+   "key": "results.9.test",
+   "value": "Hematocrit",
+   "display_value": "Hematocrit",
+   "canonical_value": "Hematocrit",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    98.03,
+    593.15,
+    180.15,
+    622.32
+   ],
+   "bbox_pt": [
+    39,
+    305.4,
+    77.672,
+    316.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     99.83,
+     593.15
+    ],
+    [
+     180.15,
+     599.49
+    ],
+    [
+     178.35,
+     622.32
+    ],
+    [
+     98.03,
+     615.98
+    ]
+   ]
+  },
+  {
+   "key": "results.9.value",
+   "value": "45.8",
+   "display_value": "45.8",
+   "canonical_value": "45.8",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    623.47,
+    634.62,
+    657.62,
+    660.0
+   ],
+   "bbox_pt": [
+    292,
+    305.4,
+    307.568,
+    316.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     625.28,
+     634.62
+    ],
+    [
+     657.62,
+     637.17
+    ],
+    [
+     655.81,
+     660.0
+    ],
+    [
+     623.47,
+     657.45
+    ]
+   ]
+  },
+  {
+   "key": "results.9.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    833.27,
+    652.29,
+    848.8,
+    674.79
+   ],
+   "bbox_pt": [
+    393,
+    305.937,
+    399.667,
+    316.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     834.96,
+     652.29
+    ],
+    [
+     848.8,
+     653.38
+    ],
+    [
+     847.11,
+     674.79
+    ],
+    [
+     833.27,
+     673.69
+    ]
+   ]
+  },
+  {
+   "key": "results.9.reference",
+   "value": "34.0-46.6",
+   "display_value": "34.0-46.6",
+   "canonical_value": "34.0-46.6",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    980.73,
+    663.93,
+    1048.22,
+    690.52
+   ],
+   "bbox_pt": [
+    464,
+    305.937,
+    495.687,
+    316.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     982.42,
+     663.93
+    ],
+    [
+     1048.22,
+     669.12
+    ],
+    [
+     1046.53,
+     690.52
+    ],
+    [
+     980.73,
+     685.33
+    ]
+   ]
+  },
+  {
+   "key": "results.10.test",
+   "value": "MCV",
+   "display_value": "MCV",
+   "canonical_value": "MCV",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    95.81,
+    621.2,
+    134.53,
+    646.94
+   ],
+   "bbox_pt": [
+    39,
+    318.9,
+    56.776,
+    329.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     97.62,
+     621.2
+    ],
+    [
+     134.53,
+     624.11
+    ],
+    [
+     132.73,
+     646.94
+    ],
+    [
+     95.81,
+     644.03
+    ]
+   ]
+  },
+  {
+   "key": "results.10.value",
+   "value": "92",
+   "display_value": "92",
+   "canonical_value": "92",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    621.26,
+    662.66,
+    641.55,
+    686.95
+   ],
+   "bbox_pt": [
+    292,
+    318.9,
+    300.896,
+    329.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     623.06,
+     662.66
+    ],
+    [
+     641.55,
+     664.12
+    ],
+    [
+     639.74,
+     686.95
+    ],
+    [
+     621.26,
+     685.49
+    ]
+   ]
+  },
+  {
+   "key": "results.10.unit",
+   "value": "fL",
+   "display_value": "fL",
+   "canonical_value": "fL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    831.05,
+    680.32,
+    845.73,
+    702.75
+   ],
+   "bbox_pt": [
+    393,
+    319.437,
+    399.255,
+    329.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     832.74,
+     680.32
+    ],
+    [
+     845.73,
+     681.35
+    ],
+    [
+     844.04,
+     702.75
+    ],
+    [
+     831.05,
+     701.73
+    ]
+   ]
+  },
+  {
+   "key": "results.10.reference",
+   "value": "79-97",
+   "display_value": "79-97",
+   "canonical_value": "79-97",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    978.52,
+    691.96,
+    1020.03,
+    716.51
+   ],
+   "bbox_pt": [
+    464,
+    319.437,
+    483.177,
+    329.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     980.2,
+     691.96
+    ],
+    [
+     1020.03,
+     695.1
+    ],
+    [
+     1018.34,
+     716.51
+    ],
+    [
+     978.52,
+     713.36
+    ]
+   ]
+  },
+  {
+   "key": "results.11.test",
+   "value": "MCH",
+   "display_value": "MCH",
+   "canonical_value": "MCH",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    93.6,
+    649.23,
+    133.24,
+    675.04
+   ],
+   "bbox_pt": [
+    39,
+    332.4,
+    57.216,
+    343.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     95.4,
+     649.23
+    ],
+    [
+     133.24,
+     652.21
+    ],
+    [
+     131.43,
+     675.04
+    ],
+    [
+     93.6,
+     672.06
+    ]
+   ]
+  },
+  {
+   "key": "results.11.value",
+   "value": "30.0",
+   "display_value": "30.0",
+   "canonical_value": "30.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    619.05,
+    690.69,
+    653.19,
+    716.08
+   ],
+   "bbox_pt": [
+    292,
+    332.4,
+    307.568,
+    343.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     620.85,
+     690.69
+    ],
+    [
+     653.19,
+     693.25
+    ],
+    [
+     651.39,
+     716.08
+    ],
+    [
+     619.05,
+     713.52
+    ]
+   ]
+  },
+  {
+   "key": "results.11.unit",
+   "value": "pg",
+   "display_value": "pg",
+   "canonical_value": "pg",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    828.84,
+    708.37,
+    847.85,
+    731.14
+   ],
+   "bbox_pt": [
+    393,
+    332.937,
+    401.34,
+    343.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     830.53,
+     708.37
+    ],
+    [
+     847.85,
+     709.73
+    ],
+    [
+     846.16,
+     731.14
+    ],
+    [
+     828.84,
+     729.77
+    ]
+   ]
+  },
+  {
+   "key": "results.11.reference",
+   "value": "26.6-33.0",
+   "display_value": "26.6-33.0",
+   "canonical_value": "26.6-33.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    976.3,
+    720.0,
+    1043.8,
+    746.6
+   ],
+   "bbox_pt": [
+    464,
+    332.937,
+    495.687,
+    343.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     977.99,
+     720.0
+    ],
+    [
+     1043.8,
+     725.2
+    ],
+    [
+     1042.11,
+     746.6
+    ],
+    [
+     976.3,
+     741.41
+    ]
+   ]
+  },
+  {
+   "key": "results.12.test",
+   "value": "MCHC",
+   "display_value": "MCHC",
+   "canonical_value": "MCHC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    91.39,
+    677.26,
+    143.02,
+    704.03
+   ],
+   "bbox_pt": [
+    39,
+    345.9,
+    62.992,
+    356.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     93.19,
+     677.26
+    ],
+    [
+     143.02,
+     681.19
+    ],
+    [
+     141.21,
+     704.03
+    ],
+    [
+     91.39,
+     700.1
+    ]
+   ]
+  },
+  {
+   "key": "results.12.value",
+   "value": "32.5",
+   "display_value": "32.5",
+   "canonical_value": "32.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    616.84,
+    718.73,
+    650.98,
+    744.12
+   ],
+   "bbox_pt": [
+    292,
+    345.9,
+    307.568,
+    356.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     618.64,
+     718.73
+    ],
+    [
+     650.98,
+     721.28
+    ],
+    [
+     649.18,
+     744.12
+    ],
+    [
+     616.84,
+     741.57
+    ]
+   ]
+  },
+  {
+   "key": "results.12.unit",
+   "value": "g/dL",
+   "display_value": "g/dL",
+   "canonical_value": "g/dL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    826.63,
+    736.4,
+    858.63,
+    760.19
+   ],
+   "bbox_pt": [
+    393,
+    346.437,
+    407.595,
+    356.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     828.32,
+     736.4
+    ],
+    [
+     858.63,
+     738.79
+    ],
+    [
+     856.94,
+     760.19
+    ],
+    [
+     826.63,
+     757.8
+    ]
+   ]
+  },
+  {
+   "key": "results.12.reference",
+   "value": "31.5-35.7",
+   "display_value": "31.5-35.7",
+   "canonical_value": "31.5-35.7",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    974.09,
+    748.04,
+    1041.58,
+    774.63
+   ],
+   "bbox_pt": [
+    464,
+    346.437,
+    495.687,
+    356.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     975.78,
+     748.04
+    ],
+    [
+     1041.58,
+     753.23
+    ],
+    [
+     1039.9,
+     774.63
+    ],
+    [
+     974.09,
+     769.44
+    ]
+   ]
+  },
+  {
+   "key": "results.13.test",
+   "value": "RDW",
+   "display_value": "RDW",
+   "canonical_value": "RDW",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.18,
+    705.3,
+    130.66,
+    731.26
+   ],
+   "bbox_pt": [
+    39,
+    359.4,
+    58.104,
+    370.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     90.98,
+     705.3
+    ],
+    [
+     130.66,
+     708.44
+    ],
+    [
+     128.85,
+     731.26
+    ],
+    [
+     89.18,
+     728.13
+    ]
+   ]
+  },
+  {
+   "key": "results.13.value",
+   "value": "12.7",
+   "display_value": "12.7",
+   "canonical_value": "12.7",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    614.62,
+    746.77,
+    648.76,
+    772.15
+   ],
+   "bbox_pt": [
+    292,
+    359.4,
+    307.568,
+    370.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     616.43,
+     746.77
+    ],
+    [
+     648.76,
+     749.32
+    ],
+    [
+     646.96,
+     772.15
+    ],
+    [
+     614.62,
+     769.6
+    ]
+   ]
+  },
+  {
+   "key": "results.13.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    824.42,
+    764.44,
+    839.95,
+    786.94
+   ],
+   "bbox_pt": [
+    393,
+    359.937,
+    399.667,
+    370.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     826.1,
+     764.44
+    ],
+    [
+     839.95,
+     765.53
+    ],
+    [
+     838.26,
+     786.94
+    ],
+    [
+     824.42,
+     785.84
+    ]
+   ]
+  },
+  {
+   "key": "results.13.reference",
+   "value": "11.7-15.4",
+   "display_value": "11.7-15.4",
+   "canonical_value": "11.7-15.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    971.88,
+    776.08,
+    1039.37,
+    802.67
+   ],
+   "bbox_pt": [
+    464,
+    359.937,
+    495.687,
+    370.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     973.57,
+     776.08
+    ],
+    [
+     1039.37,
+     781.27
+    ],
+    [
+     1037.68,
+     802.67
+    ],
+    [
+     971.88,
+     797.48
+    ]
+   ]
+  },
+  {
+   "key": "results.14.test",
+   "value": "Platelets",
+   "display_value": "Platelets",
+   "canonical_value": "Platelets",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    86.96,
+    733.35,
+    152.49,
+    761.21
+   ],
+   "bbox_pt": [
+    39,
+    372.9,
+    69.68,
+    383.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     88.77,
+     733.35
+    ],
+    [
+     152.49,
+     738.38
+    ],
+    [
+     150.69,
+     761.21
+    ],
+    [
+     86.96,
+     756.18
+    ]
+   ]
+  },
+  {
+   "key": "results.14.value",
+   "value": "232",
+   "display_value": "232",
+   "canonical_value": "232",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    612.41,
+    774.81,
+    641.93,
+    799.83
+   ],
+   "bbox_pt": [
+    292,
+    372.9,
+    305.344,
+    383.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     614.21,
+     774.81
+    ],
+    [
+     641.93,
+     777.0
+    ],
+    [
+     640.12,
+     799.83
+    ],
+    [
+     612.41,
+     797.64
+    ]
+   ]
+  },
+  {
+   "key": "results.14.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    822.2,
+    792.47,
+    886.62,
+    818.83
+   ],
+   "bbox_pt": [
+    393,
+    373.437,
+    423.202,
+    383.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     823.89,
+     792.47
+    ],
+    [
+     886.62,
+     797.42
+    ],
+    [
+     884.93,
+     818.83
+    ],
+    [
+     822.2,
+     813.88
+    ]
+   ]
+  },
+  {
+   "key": "results.14.reference",
+   "value": "150-450",
+   "display_value": "150-450",
+   "canonical_value": "150-450",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    969.67,
+    804.11,
+    1028.5,
+    830.02
+   ],
+   "bbox_pt": [
+    464,
+    373.437,
+    491.517,
+    383.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     971.35,
+     804.11
+    ],
+    [
+     1028.5,
+     808.62
+    ],
+    [
+     1026.81,
+     830.02
+    ],
+    [
+     969.67,
+     825.51
+    ]
+   ]
+  },
+  {
+   "key": "results.15.test",
+   "value": "Neutrophils",
+   "display_value": "Neutrophils",
+   "canonical_value": "Neutrophils",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    84.75,
+    761.38,
+    170.57,
+    790.84
+   ],
+   "bbox_pt": [
+    39,
+    386.4,
+    79.456,
+    397.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     86.55,
+     761.38
+    ],
+    [
+     170.57,
+     768.01
+    ],
+    [
+     168.77,
+     790.84
+    ],
+    [
+     84.75,
+     784.21
+    ]
+   ]
+  },
+  {
+   "key": "results.15.value",
+   "value": "47",
+   "display_value": "47",
+   "canonical_value": "47",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    610.2,
+    802.85,
+    630.48,
+    827.13
+   ],
+   "bbox_pt": [
+    292,
+    386.4,
+    300.896,
+    397.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     612.0,
+     802.85
+    ],
+    [
+     630.48,
+     804.3
+    ],
+    [
+     628.68,
+     827.13
+    ],
+    [
+     610.2,
+     825.68
+    ]
+   ]
+  },
+  {
+   "key": "results.15.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    819.99,
+    820.52,
+    835.53,
+    843.01
+   ],
+   "bbox_pt": [
+    393,
+    386.937,
+    399.667,
+    397.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     821.68,
+     820.52
+    ],
+    [
+     835.53,
+     821.61
+    ],
+    [
+     833.84,
+     843.01
+    ],
+    [
+     819.99,
+     841.92
+    ]
+   ]
+  },
+  {
+   "key": "results.15.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    967.45,
+    832.15,
+    1076.49,
+    862.03
+   ],
+   "bbox_pt": [
+    464,
+    386.937,
+    515.69,
+    397.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     969.14,
+     832.15
+    ],
+    [
+     1076.49,
+     840.63
+    ],
+    [
+     1074.8,
+     862.03
+    ],
+    [
+     967.45,
+     853.56
+    ]
+   ]
+  },
+  {
+   "key": "results.16.test",
+   "value": "Lymphocytes",
+   "display_value": "Lymphocytes",
+   "canonical_value": "Lymphocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    82.54,
+    789.41,
+    182.22,
+    819.98
+   ],
+   "bbox_pt": [
+    39,
+    399.9,
+    86.128,
+    410.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     84.34,
+     789.41
+    ],
+    [
+     182.22,
+     797.14
+    ],
+    [
+     180.41,
+     819.98
+    ],
+    [
+     82.54,
+     812.25
+    ]
+   ]
+  },
+  {
+   "key": "results.16.value",
+   "value": "42",
+   "display_value": "42",
+   "canonical_value": "42",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    607.99,
+    830.88,
+    628.27,
+    855.18
+   ],
+   "bbox_pt": [
+    292,
+    399.9,
+    300.896,
+    410.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     609.79,
+     830.88
+    ],
+    [
+     628.27,
+     832.34
+    ],
+    [
+     626.47,
+     855.18
+    ],
+    [
+     607.99,
+     853.72
+    ]
+   ]
+  },
+  {
+   "key": "results.16.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    817.78,
+    848.55,
+    833.31,
+    871.05
+   ],
+   "bbox_pt": [
+    393,
+    400.437,
+    399.667,
+    410.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     819.47,
+     848.55
+    ],
+    [
+     833.31,
+     849.64
+    ],
+    [
+     831.63,
+     871.05
+    ],
+    [
+     817.78,
+     869.95
+    ]
+   ]
+  },
+  {
+   "key": "results.16.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    965.24,
+    860.19,
+    1074.28,
+    890.06
+   ],
+   "bbox_pt": [
+    464,
+    400.437,
+    515.69,
+    410.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     966.93,
+     860.19
+    ],
+    [
+     1074.28,
+     868.66
+    ],
+    [
+     1072.59,
+     890.06
+    ],
+    [
+     965.24,
+     881.59
+    ]
+   ]
+  },
+  {
+   "key": "results.17.test",
+   "value": "Monocytes",
+   "display_value": "Monocytes",
+   "canonical_value": "Monocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    80.33,
+    817.46,
+    162.46,
+    846.62
+   ],
+   "bbox_pt": [
+    39,
+    413.4,
+    77.68,
+    424.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     82.13,
+     817.46
+    ],
+    [
+     162.46,
+     823.8
+    ],
+    [
+     160.66,
+     846.62
+    ],
+    [
+     80.33,
+     840.28
+    ]
+   ]
+  },
+  {
+   "key": "results.17.value",
+   "value": "7",
+   "display_value": "7",
+   "canonical_value": "7",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    605.77,
+    858.92,
+    616.82,
+    882.48
+   ],
+   "bbox_pt": [
+    292,
+    413.4,
+    296.448,
+    424.392
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     607.57,
+     858.92
+    ],
+    [
+     616.82,
+     859.65
+    ],
+    [
+     615.01,
+     882.48
+    ],
+    [
+     605.77,
+     881.75
+    ]
+   ]
+  },
+  {
+   "key": "results.17.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    815.57,
+    876.59,
+    831.1,
+    899.09
+   ],
+   "bbox_pt": [
+    393,
+    413.937,
+    399.667,
+    424.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     817.25,
+     876.59
+    ],
+    [
+     831.1,
+     877.69
+    ],
+    [
+     829.41,
+     899.09
+    ],
+    [
+     815.57,
+     898.0
+    ]
+   ]
+  },
+  {
+   "key": "results.17.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    963.03,
+    888.23,
+    1072.06,
+    918.1
+   ],
+   "bbox_pt": [
+    464,
+    413.937,
+    515.69,
+    424.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     964.72,
+     888.23
+    ],
+    [
+     1072.06,
+     896.7
+    ],
+    [
+     1070.37,
+     918.1
+    ],
+    [
+     963.03,
+     909.63
+    ]
+   ]
+  },
+  {
+   "key": "results.18.test",
+   "value": "Eosinophils",
+   "display_value": "Eosinophils",
+   "canonical_value": "Eosinophils",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    78.11,
+    845.5,
+    164.87,
+    875.03
+   ],
+   "bbox_pt": [
+    39,
+    426.9,
+    79.904,
+    437.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     79.92,
+     845.5
+    ],
+    [
+     164.87,
+     852.2
+    ],
+    [
+     163.07,
+     875.03
+    ],
+    [
+     78.11,
+     868.33
+    ]
+   ]
+  },
+  {
+   "key": "results.18.value",
+   "value": "3",
+   "display_value": "3",
+   "canonical_value": "3",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    603.56,
+    886.96,
+    614.6,
+    910.52
+   ],
+   "bbox_pt": [
+    292,
+    426.9,
+    296.448,
+    437.892
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     605.36,
+     886.96
+    ],
+    [
+     614.6,
+     887.69
+    ],
+    [
+     612.8,
+     910.52
+    ],
+    [
+     603.56,
+     909.79
+    ]
+   ]
+  },
+  {
+   "key": "results.18.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    813.35,
+    904.63,
+    828.89,
+    927.12
+   ],
+   "bbox_pt": [
+    393,
+    427.437,
+    399.667,
+    437.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     815.04,
+     904.63
+    ],
+    [
+     828.89,
+     905.72
+    ],
+    [
+     827.2,
+     927.12
+    ],
+    [
+     813.35,
+     926.03
+    ]
+   ]
+  },
+  {
+   "key": "results.18.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    960.81,
+    916.26,
+    1069.85,
+    946.14
+   ],
+   "bbox_pt": [
+    464,
+    427.437,
+    515.69,
+    437.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     962.5,
+     916.26
+    ],
+    [
+     1069.85,
+     924.73
+    ],
+    [
+     1068.16,
+     946.14
+    ],
+    [
+     960.81,
+     937.67
+    ]
+   ]
+  },
+  {
+   "key": "results.19.test",
+   "value": "Basophils",
+   "display_value": "Basophils",
+   "canonical_value": "Basophils",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    75.9,
+    873.53,
+    149.73,
+    902.04
+   ],
+   "bbox_pt": [
+    39,
+    440.4,
+    73.68,
+    451.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     77.7,
+     873.53
+    ],
+    [
+     149.73,
+     879.22
+    ],
+    [
+     147.93,
+     902.04
+    ],
+    [
+     75.9,
+     896.36
+    ]
+   ]
+  },
+  {
+   "key": "results.19.value",
+   "value": "1",
+   "display_value": "1",
+   "canonical_value": "1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    601.35,
+    915.0,
+    612.39,
+    938.56
+   ],
+   "bbox_pt": [
+    292,
+    440.4,
+    296.448,
+    451.392
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     603.15,
+     915.0
+    ],
+    [
+     612.39,
+     915.73
+    ],
+    [
+     610.59,
+     938.56
+    ],
+    [
+     601.35,
+     937.83
+    ]
+   ]
+  },
+  {
+   "key": "results.19.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    811.14,
+    932.67,
+    826.68,
+    955.16
+   ],
+   "bbox_pt": [
+    393,
+    440.937,
+    399.667,
+    451.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     812.83,
+     932.67
+    ],
+    [
+     826.68,
+     933.76
+    ],
+    [
+     824.99,
+     955.16
+    ],
+    [
+     811.14,
+     954.07
+    ]
+   ]
+  },
+  {
+   "key": "results.19.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    958.6,
+    944.31,
+    1067.64,
+    974.18
+   ],
+   "bbox_pt": [
+    464,
+    440.937,
+    515.69,
+    451.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     960.29,
+     944.31
+    ],
+    [
+     1067.64,
+     952.78
+    ],
+    [
+     1065.95,
+     974.18
+    ],
+    [
+     958.6,
+     965.71
+    ]
+   ]
+  },
+  {
+   "key": "results.20.test",
+   "value": "Neutrophils (absolute)",
+   "display_value": "Neutrophils (absolute)",
+   "canonical_value": "Neutrophils (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    73.69,
+    901.56,
+    238.01,
+    937.23
+   ],
+   "bbox_pt": [
+    39,
+    453.9,
+    117.248,
+    464.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     75.49,
+     901.56
+    ],
+    [
+     238.01,
+     914.39
+    ],
+    [
+     236.2,
+     937.23
+    ],
+    [
+     73.69,
+     924.4
+    ]
+   ]
+  },
+  {
+   "key": "results.20.value",
+   "value": "2.5",
+   "display_value": "2.5",
+   "canonical_value": "2.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    599.13,
+    943.03,
+    624.04,
+    967.69
+   ],
+   "bbox_pt": [
+    292,
+    453.9,
+    303.12,
+    464.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     600.94,
+     943.03
+    ],
+    [
+     624.04,
+     944.85
+    ],
+    [
+     622.23,
+     967.69
+    ],
+    [
+     599.13,
+     965.87
+    ]
+   ]
+  },
+  {
+   "key": "results.20.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    808.93,
+    960.7,
+    873.34,
+    987.05
+   ],
+   "bbox_pt": [
+    393,
+    454.437,
+    423.202,
+    464.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     810.62,
+     960.7
+    ],
+    [
+     873.34,
+     965.65
+    ],
+    [
+     871.65,
+     987.05
+    ],
+    [
+     808.93,
+     982.1
+    ]
+   ]
+  },
+  {
+   "key": "results.20.reference",
+   "value": "1.4-7.0",
+   "display_value": "1.4-7.0",
+   "canonical_value": "1.4-7.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    956.39,
+    972.34,
+    1006.57,
+    997.57
+   ],
+   "bbox_pt": [
+    464,
+    454.437,
+    487.347,
+    464.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     958.08,
+     972.34
+    ],
+    [
+     1006.57,
+     976.16
+    ],
+    [
+     1004.88,
+     997.57
+    ],
+    [
+     956.39,
+     993.74
+    ]
+   ]
+  },
+  {
+   "key": "results.21.test",
+   "value": "Lymphocytes (absolute)",
+   "display_value": "Lymphocytes (absolute)",
+   "canonical_value": "Lymphocytes (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    71.48,
+    929.61,
+    249.65,
+    966.35
+   ],
+   "bbox_pt": [
+    39,
+    467.4,
+    123.92,
+    478.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     73.28,
+     929.61
+    ],
+    [
+     249.65,
+     943.53
+    ],
+    [
+     247.85,
+     966.35
+    ],
+    [
+     71.48,
+     952.44
+    ]
+   ]
+  },
+  {
+   "key": "results.21.value",
+   "value": "2.3",
+   "display_value": "2.3",
+   "canonical_value": "2.3",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    596.92,
+    971.07,
+    621.82,
+    995.72
+   ],
+   "bbox_pt": [
+    292,
+    467.4,
+    303.12,
+    478.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     598.72,
+     971.07
+    ],
+    [
+     621.82,
+     972.9
+    ],
+    [
+     620.02,
+     995.72
+    ],
+    [
+     596.92,
+     993.9
+    ]
+   ]
+  },
+  {
+   "key": "results.21.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    806.71,
+    988.74,
+    871.13,
+    1015.1
+   ],
+   "bbox_pt": [
+    393,
+    467.937,
+    423.202,
+    478.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     808.4,
+     988.74
+    ],
+    [
+     871.13,
+     993.69
+    ],
+    [
+     869.44,
+     1015.1
+    ],
+    [
+     806.71,
+     1010.15
+    ]
+   ]
+  },
+  {
+   "key": "results.21.reference",
+   "value": "0.7-3.1",
+   "display_value": "0.7-3.1",
+   "canonical_value": "0.7-3.1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    954.18,
+    1000.38,
+    1004.35,
+    1025.61
+   ],
+   "bbox_pt": [
+    464,
+    467.937,
+    487.347,
+    478.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     955.87,
+     1000.38
+    ],
+    [
+     1004.35,
+     1004.21
+    ],
+    [
+     1002.67,
+     1025.61
+    ],
+    [
+     954.18,
+     1021.78
+    ]
+   ]
+  },
+  {
+   "key": "results.22.test",
+   "value": "Monocytes (absolute)",
+   "display_value": "Monocytes (absolute)",
+   "canonical_value": "Monocytes (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    69.26,
+    957.65,
+    229.89,
+    993.01
+   ],
+   "bbox_pt": [
+    39,
+    480.9,
+    115.472,
+    491.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     71.06,
+     957.65
+    ],
+    [
+     229.89,
+     970.18
+    ],
+    [
+     228.09,
+     993.01
+    ],
+    [
+     69.26,
+     980.48
+    ]
+   ]
+  },
+  {
+   "key": "results.22.value",
+   "value": "0.4",
+   "display_value": "0.4",
+   "canonical_value": "0.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    594.71,
+    999.12,
+    619.61,
+    1023.77
+   ],
+   "bbox_pt": [
+    292,
+    480.9,
+    303.12,
+    491.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     596.51,
+     999.12
+    ],
+    [
+     619.61,
+     1000.94
+    ],
+    [
+     617.81,
+     1023.77
+    ],
+    [
+     594.71,
+     1021.95
+    ]
+   ]
+  },
+  {
+   "key": "results.22.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    804.5,
+    1016.78,
+    868.92,
+    1043.13
+   ],
+   "bbox_pt": [
+    393,
+    481.437,
+    423.202,
+    491.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     806.19,
+     1016.78
+    ],
+    [
+     868.92,
+     1021.73
+    ],
+    [
+     867.23,
+     1043.13
+    ],
+    [
+     804.5,
+     1038.18
+    ]
+   ]
+  },
+  {
+   "key": "results.22.reference",
+   "value": "0.1-0.9",
+   "display_value": "0.1-0.9",
+   "canonical_value": "0.1-0.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    951.96,
+    1028.41,
+    1002.14,
+    1053.64
+   ],
+   "bbox_pt": [
+    464,
+    481.437,
+    487.347,
+    491.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     953.65,
+     1028.41
+    ],
+    [
+     1002.14,
+     1032.24
+    ],
+    [
+     1000.45,
+     1053.64
+    ],
+    [
+     951.96,
+     1049.82
+    ]
+   ]
+  },
+  {
+   "key": "results.23.test",
+   "value": "Eosinophils (absolute)",
+   "display_value": "Eosinophils (absolute)",
+   "canonical_value": "Eosinophils (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    67.05,
+    985.68,
+    232.29,
+    1021.41
+   ],
+   "bbox_pt": [
+    39,
+    494.4,
+    117.696,
+    505.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     68.85,
+     985.68
+    ],
+    [
+     232.29,
+     998.58
+    ],
+    [
+     230.49,
+     1021.41
+    ],
+    [
+     67.05,
+     1008.51
+    ]
+   ]
+  },
+  {
+   "key": "results.23.value",
+   "value": "0.2",
+   "display_value": "0.2",
+   "canonical_value": "0.2",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    592.5,
+    1027.15,
+    617.4,
+    1051.8
+   ],
+   "bbox_pt": [
+    292,
+    494.4,
+    303.12,
+    505.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     594.3,
+     1027.15
+    ],
+    [
+     617.4,
+     1028.97
+    ],
+    [
+     615.6,
+     1051.8
+    ],
+    [
+     592.5,
+     1049.98
+    ]
+   ]
+  },
+  {
+   "key": "results.23.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    802.29,
+    1044.82,
+    866.7,
+    1071.17
+   ],
+   "bbox_pt": [
+    393,
+    494.937,
+    423.202,
+    505.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     803.98,
+     1044.82
+    ],
+    [
+     866.7,
+     1049.77
+    ],
+    [
+     865.01,
+     1071.17
+    ],
+    [
+     802.29,
+     1066.22
+    ]
+   ]
+  },
+  {
+   "key": "results.23.reference",
+   "value": "0.0-0.4",
+   "display_value": "0.0-0.4",
+   "canonical_value": "0.0-0.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    949.75,
+    1056.46,
+    999.93,
+    1081.69
+   ],
+   "bbox_pt": [
+    464,
+    494.937,
+    487.347,
+    505.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     951.44,
+     1056.46
+    ],
+    [
+     999.93,
+     1060.28
+    ],
+    [
+     998.24,
+     1081.69
+    ],
+    [
+     949.75,
+     1077.86
+    ]
+   ]
+  },
+  {
+   "key": "results.24.test",
+   "value": "Basophils (absolute)",
+   "display_value": "Basophils (absolute)",
+   "canonical_value": "Basophils (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    64.84,
+    1013.72,
+    217.15,
+    1048.43
+   ],
+   "bbox_pt": [
+    39,
+    507.9,
+    111.472,
+    518.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     66.64,
+     1013.72
+    ],
+    [
+     217.15,
+     1025.59
+    ],
+    [
+     215.35,
+     1048.43
+    ],
+    [
+     64.84,
+     1036.55
+    ]
+   ]
+  },
+  {
+   "key": "results.24.value",
+   "value": "0.1",
+   "display_value": "0.1",
+   "canonical_value": "0.1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    590.28,
+    1055.18,
+    615.18,
+    1079.84
+   ],
+   "bbox_pt": [
+    292,
+    507.9,
+    303.12,
+    518.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     592.09,
+     1055.18
+    ],
+    [
+     615.18,
+     1057.0
+    ],
+    [
+     613.38,
+     1079.84
+    ],
+    [
+     590.28,
+     1078.02
+    ]
+   ]
+  },
+  {
+   "key": "results.24.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    800.08,
+    1072.85,
+    864.49,
+    1099.21
+   ],
+   "bbox_pt": [
+    393,
+    508.437,
+    423.202,
+    518.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     801.77,
+     1072.85
+    ],
+    [
+     864.49,
+     1077.8
+    ],
+    [
+     862.8,
+     1099.21
+    ],
+    [
+     800.08,
+     1094.26
+    ]
+   ]
+  },
+  {
+   "key": "results.24.reference",
+   "value": "0.0-0.2",
+   "display_value": "0.0-0.2",
+   "canonical_value": "0.0-0.2",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    947.54,
+    1084.49,
+    997.72,
+    1109.72
+   ],
+   "bbox_pt": [
+    464,
+    508.437,
+    487.347,
+    518.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     949.23,
+     1084.49
+    ],
+    [
+     997.72,
+     1088.32
+    ],
+    [
+     996.03,
+     1109.72
+    ],
+    [
+     947.54,
+     1105.89
+    ]
+   ]
+  }
+ ]
+}

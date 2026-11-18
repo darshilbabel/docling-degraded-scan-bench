@@ -1,0 +1,253 @@
+{
+ "page_id": "indian_languages__marathi_01__p2",
+ "pack": "indian_languages",
+ "document": "marathi_01",
+ "family": "indic_form",
+ "document_type": "SBI account opening form Part-I: Customer Information Sheet (CIF), Marathi",
+ "language": "marathi",
+ "script": "Devanagari",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1240,
+  1802
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/05_marathi_01/marathi_01_clean.pdf",
+ "condition": "clean",
+ "degradation_params": {},
+ "gt_provenance": "exact authored geometry (pack clean boxes)",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "id_document_no",
+   "value": "FNBPW3987B",
+   "display_value": "F N B P W 3 9 8 7 B",
+   "canonical_value": "FNBPW3987B",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    343.73,
+    320.17,
+    604.29,
+    360.27
+   ],
+   "bbox_pt": [
+    164.99,
+    153.68,
+    290.06,
+    172.93
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "id_issue_date",
+   "value": "14092001",
+   "display_value": "1 4 0 9 2 0 0 1",
+   "canonical_value": "14092001",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    237.35,
+    361.79,
+    429.79,
+    403.15
+   ],
+   "bbox_pt": [
+    113.93,
+    173.66,
+    206.3,
+    193.51
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "address",
+   "value": "घर क्र. 442 महात्मा फुले मार्ग",
+   "display_value": "घर क्र. 442 महात्मा फुले मार्ग",
+   "canonical_value": "घर क्र. 442 महात्मा फुले मार्ग",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    240.27,
+    481.94,
+    490.73,
+    522.04
+   ],
+   "bbox_pt": [
+    115.33,
+    231.33,
+    235.55,
+    250.58
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "city",
+   "value": "सांगली",
+   "display_value": "सांगली",
+   "canonical_value": "सांगली",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    244.92,
+    519.65,
+    311.94,
+    560.79
+   ],
+   "bbox_pt": [
+    117.56,
+    249.43,
+    149.73,
+    269.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "district",
+   "value": "सांगली",
+   "display_value": "सांगली",
+   "canonical_value": "सांगली",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    669.85,
+    519.62,
+    732.9,
+    558.54
+   ],
+   "bbox_pt": [
+    321.53,
+    249.42,
+    351.79,
+    268.1
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "state",
+   "value": "महाराष्ट्र",
+   "display_value": "महाराष्ट्र",
+   "canonical_value": "महाराष्ट्र",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    240.42,
+    560.75,
+    305.88,
+    596.35
+   ],
+   "bbox_pt": [
+    115.4,
+    269.16,
+    146.82,
+    286.25
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "pincode",
+   "value": "416416",
+   "display_value": "4 1 6 4 1 6",
+   "canonical_value": "416416",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    1010.67,
+    556.9,
+    1152.58,
+    598.75
+   ],
+   "bbox_pt": [
+    485.12,
+    267.31,
+    553.24,
+    287.4
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "applicant_signature",
+   "value": "सुवर्णा वाघ",
+   "display_value": "सुवर्णा वाघ",
+   "canonical_value": "सुवर्णा वाघ",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    364.88,
+    1225.52,
+    505.15,
+    1284.31
+   ],
+   "bbox_pt": [
+    175.14,
+    588.25,
+    242.47,
+    616.47
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "place",
+   "value": "सांगली",
+   "display_value": "सांगली",
+   "canonical_value": "सांगली",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.17,
+    1337.35,
+    197.58,
+    1377.48
+   ],
+   "bbox_pt": [
+    62.96,
+    641.93,
+    94.84,
+    661.19
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "signature_date",
+   "value": "17092026",
+   "display_value": "1 7 0 9 2 0 2 6",
+   "canonical_value": "17092026",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    716.79,
+    1335.29,
+    909.33,
+    1376.92
+   ],
+   "bbox_pt": [
+    344.06,
+    640.94,
+    436.48,
+    660.92
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

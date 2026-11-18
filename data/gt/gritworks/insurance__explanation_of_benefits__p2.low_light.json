@@ -1,0 +1,1247 @@
+{
+ "page_id": "insurance__explanation_of_benefits__p2",
+ "pack": "insurance",
+ "document": "explanation_of_benefits",
+ "family": "insurance_statement",
+ "document_type": "Health insurance explanation of benefits",
+ "language": "english",
+ "script": "Latin",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1651,
+  1325
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/04_explanation_of_benefits/explanation_of_benefits_clean.pdf",
+ "condition": "low_light",
+ "degradation_params": {
+  "gamma": 2.078,
+  "noise_sd": 0.0324,
+  "vignette": 0.35,
+  "seed": 1718589170
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "AVERY MORGAN",
+   "display_value": "AVERY MORGAN",
+   "canonical_value": "AVERY MORGAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    137.5,
+    163.02,
+    307.67,
+    191.65
+   ],
+   "bbox_pt": [
+    66,
+    78.25,
+    147.68,
+    91.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "provider_name",
+   "value": "ALDER CREEK MEDICAL GROUP",
+   "display_value": "ALDER CREEK MEDICAL GROUP",
+   "canonical_value": "ALDER CREEK MEDICAL GROUP",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    166.67,
+    196.35,
+    494.27,
+    224.98
+   ],
+   "bbox_pt": [
+    80,
+    94.25,
+    237.25,
+    107.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "claim_id",
+   "value": "CLM-260415-04217",
+   "display_value": "CLM-260415-04217",
+   "canonical_value": "CLM-260415-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    122.92,
+    234.61,
+    302.92,
+    258.03
+   ],
+   "bbox_pt": [
+    59,
+    112.612,
+    145.4,
+    123.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "processed_date",
+   "value": "2026-04-22",
+   "display_value": "04/22/2026",
+   "canonical_value": "04/22/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    633.33,
+    231.93,
+    727.16,
+    257.69
+   ],
+   "bbox_pt": [
+    304,
+    111.325,
+    349.036,
+    123.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "total_billed",
+   "value": "600.00",
+   "display_value": "$600.00",
+   "canonical_value": "$600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1518.46,
+    173.54,
+    1593.75,
+    202.23
+   ],
+   "bbox_pt": [
+    728.86,
+    83.3,
+    765.0,
+    97.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "total_discount",
+   "value": "200.00",
+   "display_value": "- $200.00",
+   "canonical_value": "- $200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1505.73,
+    211.04,
+    1593.75,
+    239.73
+   ],
+   "bbox_pt": [
+    722.75,
+    101.3,
+    765.0,
+    115.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "plan_paid",
+   "value": "326.00",
+   "display_value": "- $326.00",
+   "canonical_value": "- $326.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1505.73,
+    248.54,
+    1593.75,
+    277.23
+   ],
+   "bbox_pt": [
+    722.75,
+    119.3,
+    765.0,
+    133.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_responsibility",
+   "value": "74.00",
+   "display_value": "$74.00",
+   "canonical_value": "$74.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1530.04,
+    286.04,
+    1593.75,
+    314.73
+   ],
+   "bbox_pt": [
+    734.42,
+    137.3,
+    765.0,
+    151.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.service",
+   "value": "Office visit",
+   "display_value": "Office visit",
+   "canonical_value": "Office visit",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    43.75,
+    468.46,
+    125.42,
+    492.79
+   ],
+   "bbox_pt": [
+    21,
+    224.862,
+    60.202,
+    236.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.service_date",
+   "value": "2026-04-15",
+   "display_value": "04/15/2026",
+   "canonical_value": "04/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    266.67,
+    469.58,
+    350.07,
+    492.48
+   ],
+   "bbox_pt": [
+    128,
+    225.4,
+    168.032,
+    236.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.billed",
+   "value": "250.00",
+   "display_value": "250.00",
+   "canonical_value": "250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    442.66,
+    467.34,
+    500.0,
+    493.11
+   ],
+   "bbox_pt": [
+    212.478,
+    224.325,
+    240.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.discount",
+   "value": "70.00",
+   "display_value": "70.00",
+   "canonical_value": "70.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    584.34,
+    467.34,
+    631.25,
+    493.11
+   ],
+   "bbox_pt": [
+    280.482,
+    224.325,
+    303.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.allowed",
+   "value": "180.00",
+   "display_value": "180.00",
+   "canonical_value": "180.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    705.16,
+    467.34,
+    762.5,
+    493.11
+   ],
+   "bbox_pt": [
+    338.478,
+    224.325,
+    366.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.plan_paid",
+   "value": "150.00",
+   "display_value": "150.00",
+   "canonical_value": "150.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    836.41,
+    467.34,
+    893.75,
+    493.11
+   ],
+   "bbox_pt": [
+    401.478,
+    224.325,
+    429.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.deductible",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1007.26,
+    467.34,
+    1043.75,
+    493.11
+   ],
+   "bbox_pt": [
+    483.486,
+    224.325,
+    501.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.copay",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1109.34,
+    467.34,
+    1156.25,
+    493.11
+   ],
+   "bbox_pt": [
+    532.482,
+    224.325,
+    555.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.coinsurance",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1269.76,
+    467.34,
+    1306.25,
+    493.11
+   ],
+   "bbox_pt": [
+    609.486,
+    224.325,
+    627.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.noncovered",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1419.76,
+    467.34,
+    1456.25,
+    493.11
+   ],
+   "bbox_pt": [
+    681.486,
+    224.325,
+    699.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.patient",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1551.0,
+    467.34,
+    1597.92,
+    493.11
+   ],
+   "bbox_pt": [
+    744.482,
+    224.325,
+    767.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.service",
+   "value": "CBC / differential",
+   "display_value": "CBC / differential",
+   "canonical_value": "CBC / differential",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    43.75,
+    518.46,
+    177.59,
+    542.79
+   ],
+   "bbox_pt": [
+    21,
+    248.862,
+    85.243,
+    260.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.service_date",
+   "value": "2026-04-15",
+   "display_value": "04/15/2026",
+   "canonical_value": "04/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    266.67,
+    519.58,
+    350.07,
+    542.48
+   ],
+   "bbox_pt": [
+    128,
+    249.4,
+    168.032,
+    260.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.billed",
+   "value": "100.00",
+   "display_value": "100.00",
+   "canonical_value": "100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    442.66,
+    517.34,
+    500.0,
+    543.11
+   ],
+   "bbox_pt": [
+    212.478,
+    248.325,
+    240.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.discount",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    584.34,
+    517.34,
+    631.25,
+    543.11
+   ],
+   "bbox_pt": [
+    280.482,
+    248.325,
+    303.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.allowed",
+   "value": "70.00",
+   "display_value": "70.00",
+   "canonical_value": "70.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    715.59,
+    517.34,
+    762.5,
+    543.11
+   ],
+   "bbox_pt": [
+    343.482,
+    248.325,
+    366.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.plan_paid",
+   "value": "56.00",
+   "display_value": "56.00",
+   "canonical_value": "56.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    846.84,
+    517.34,
+    893.75,
+    543.11
+   ],
+   "bbox_pt": [
+    406.482,
+    248.325,
+    429.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.deductible",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1007.26,
+    517.34,
+    1043.75,
+    543.11
+   ],
+   "bbox_pt": [
+    483.486,
+    248.325,
+    501.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.copay",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1119.76,
+    517.34,
+    1156.25,
+    543.11
+   ],
+   "bbox_pt": [
+    537.486,
+    248.325,
+    555.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.coinsurance",
+   "value": "14.00",
+   "display_value": "14.00",
+   "canonical_value": "14.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1259.34,
+    517.34,
+    1306.25,
+    543.11
+   ],
+   "bbox_pt": [
+    604.482,
+    248.325,
+    627.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.noncovered",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1419.76,
+    517.34,
+    1456.25,
+    543.11
+   ],
+   "bbox_pt": [
+    681.486,
+    248.325,
+    699.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.patient",
+   "value": "14.00",
+   "display_value": "14.00",
+   "canonical_value": "14.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1551.0,
+    517.34,
+    1597.92,
+    543.11
+   ],
+   "bbox_pt": [
+    744.482,
+    248.325,
+    767.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.service",
+   "value": "Metabolic panel",
+   "display_value": "Metabolic panel",
+   "canonical_value": "Metabolic panel",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    43.75,
+    568.46,
+    167.76,
+    592.79
+   ],
+   "bbox_pt": [
+    21,
+    272.862,
+    80.525,
+    284.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.service_date",
+   "value": "2026-04-15",
+   "display_value": "04/15/2026",
+   "canonical_value": "04/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    266.67,
+    569.58,
+    350.07,
+    592.48
+   ],
+   "bbox_pt": [
+    128,
+    273.4,
+    168.032,
+    284.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.billed",
+   "value": "250.00",
+   "display_value": "250.00",
+   "canonical_value": "250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    442.66,
+    567.34,
+    500.0,
+    593.11
+   ],
+   "bbox_pt": [
+    212.478,
+    272.325,
+    240.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.discount",
+   "value": "100.00",
+   "display_value": "100.00",
+   "canonical_value": "100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    573.91,
+    567.34,
+    631.25,
+    593.11
+   ],
+   "bbox_pt": [
+    275.478,
+    272.325,
+    303.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.allowed",
+   "value": "150.00",
+   "display_value": "150.00",
+   "canonical_value": "150.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    705.16,
+    567.34,
+    762.5,
+    593.11
+   ],
+   "bbox_pt": [
+    338.478,
+    272.325,
+    366.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.plan_paid",
+   "value": "120.00",
+   "display_value": "120.00",
+   "canonical_value": "120.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    836.41,
+    567.34,
+    893.75,
+    593.11
+   ],
+   "bbox_pt": [
+    401.478,
+    272.325,
+    429.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.deductible",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1007.26,
+    567.34,
+    1043.75,
+    593.11
+   ],
+   "bbox_pt": [
+    483.486,
+    272.325,
+    501.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.copay",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1119.76,
+    567.34,
+    1156.25,
+    593.11
+   ],
+   "bbox_pt": [
+    537.486,
+    272.325,
+    555.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.coinsurance",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1259.34,
+    567.34,
+    1306.25,
+    593.11
+   ],
+   "bbox_pt": [
+    604.482,
+    272.325,
+    627.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.noncovered",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1419.76,
+    567.34,
+    1456.25,
+    593.11
+   ],
+   "bbox_pt": [
+    681.486,
+    272.325,
+    699.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.patient",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1551.0,
+    567.34,
+    1597.92,
+    593.11
+   ],
+   "bbox_pt": [
+    744.482,
+    272.325,
+    767.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.billed",
+   "value": "600.00",
+   "display_value": "$600.00",
+   "canonical_value": "$600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    432.24,
+    619.52,
+    500.0,
+    645.34
+   ],
+   "bbox_pt": [
+    207.474,
+    297.37,
+    240.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.discount",
+   "value": "200.00",
+   "display_value": "$200.00",
+   "canonical_value": "$200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    563.49,
+    619.52,
+    631.25,
+    645.34
+   ],
+   "bbox_pt": [
+    270.474,
+    297.37,
+    303.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.allowed",
+   "value": "400.00",
+   "display_value": "$400.00",
+   "canonical_value": "$400.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    694.74,
+    619.52,
+    762.5,
+    645.34
+   ],
+   "bbox_pt": [
+    333.474,
+    297.37,
+    366.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.plan_paid",
+   "value": "326.00",
+   "display_value": "$326.00",
+   "canonical_value": "$326.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    825.99,
+    619.52,
+    893.75,
+    645.34
+   ],
+   "bbox_pt": [
+    396.474,
+    297.37,
+    429.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.deductible",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    996.84,
+    619.52,
+    1043.75,
+    645.34
+   ],
+   "bbox_pt": [
+    478.482,
+    297.37,
+    501.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.copay",
+   "value": "30.00",
+   "display_value": "$30.00",
+   "canonical_value": "$30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1098.91,
+    619.52,
+    1156.25,
+    645.34
+   ],
+   "bbox_pt": [
+    527.478,
+    297.37,
+    555.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.coinsurance",
+   "value": "44.00",
+   "display_value": "$44.00",
+   "canonical_value": "$44.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1248.91,
+    619.52,
+    1306.25,
+    645.34
+   ],
+   "bbox_pt": [
+    599.478,
+    297.37,
+    627.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.noncovered",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1409.34,
+    619.52,
+    1456.25,
+    645.34
+   ],
+   "bbox_pt": [
+    676.482,
+    297.37,
+    699.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "totals.patient",
+   "value": "74.00",
+   "display_value": "$74.00",
+   "canonical_value": "$74.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1540.58,
+    619.52,
+    1597.92,
+    645.34
+   ],
+   "bbox_pt": [
+    739.478,
+    297.37,
+    767.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "payment_summary",
+   "value": "Approved payment: $326.00 to ALDER CREEK MEDICAL GROUP on 04/22/2026.",
+   "display_value": "Approved payment: $326.00 to ALDER CREEK MEDICAL GROUP on 04/22/2026.",
+   "canonical_value": "Approved payment: $326.00 to ALDER CREEK MEDICAL GROUP on 04/22/2026.",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    45.83,
+    679.79,
+    834.21,
+    708.48
+   ],
+   "bbox_pt": [
+    22,
+    326.3,
+    400.42,
+    340.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "benefit_period",
+   "value": "2026-01-01/2026-12-31",
+   "display_value": "Benefit period: 01/01/2026 - 12/31/2026",
+   "canonical_value": "Benefit period: 01/01/2026 - 12/31/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    50.0,
+    904.69,
+    417.15,
+    933.31
+   ],
+   "bbox_pt": [
+    24,
+    434.25,
+    200.23,
+    447.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "out_of_pocket_summary",
+   "value": "Year-to-date out-of-pocket: $524.00 of $6,000.00 maximum.",
+   "display_value": "Year-to-date out-of-pocket: $524.00 of $6,000.00 maximum.",
+   "canonical_value": "Year-to-date out-of-pocket: $524.00 of $6,000.00 maximum.",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    50.0,
+    940.1,
+    603.52,
+    968.73
+   ],
+   "bbox_pt": [
+    24,
+    451.25,
+    289.69,
+    464.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

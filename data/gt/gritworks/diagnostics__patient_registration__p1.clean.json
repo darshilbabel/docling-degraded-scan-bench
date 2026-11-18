@@ -1,0 +1,345 @@
+{
+ "page_id": "diagnostics__patient_registration__p1",
+ "pack": "diagnostics",
+ "document": "patient_registration",
+ "family": "medical_form",
+ "document_type": "Patient registration form",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/01_patient_registration/patient_registration_clean.pdf",
+ "condition": "clean",
+ "degradation_params": {},
+ "gt_provenance": "exact authored geometry (pack clean boxes)",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "TAYLOR BROOKS",
+   "display_value": "TAYLOR BROOKS",
+   "canonical_value": "TAYLOR BROOKS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    302.56,
+    274.08,
+    334.12
+   ],
+   "bbox_pt": [
+    35,
+    145.23,
+    131.558,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1990-08-14",
+   "display_value": "08/14/1990",
+   "canonical_value": "08/14/1990",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    656.25,
+    302.56,
+    770.93,
+    334.12
+   ],
+   "bbox_pt": [
+    315,
+    145.23,
+    370.044,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    979.17,
+    302.56,
+    993.17,
+    334.12
+   ],
+   "bbox_pt": [
+    470,
+    145.23,
+    476.721,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "patient_id",
+   "value": "PT-08217",
+   "display_value": "PT-08217",
+   "canonical_value": "PT-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    396.35,
+    164.4,
+    424.98
+   ],
+   "bbox_pt": [
+    35,
+    190.25,
+    78.91,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "order_id",
+   "value": "ORD-08217",
+   "display_value": "ORD-08217",
+   "canonical_value": "ORD-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    458.33,
+    396.35,
+    569.48,
+    424.98
+   ],
+   "bbox_pt": [
+    220,
+    190.25,
+    273.35,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "accession_id",
+   "value": "DX-260610-08217",
+   "display_value": "DX-260610-08217",
+   "canonical_value": "DX-260610-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    854.17,
+    396.35,
+    1024.4,
+    424.98
+   ],
+   "bbox_pt": [
+    410,
+    190.25,
+    491.71,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "address_line1",
+   "value": "814 Juniper Lane, Apt 5",
+   "display_value": "814 Juniper Lane, Apt 5",
+   "canonical_value": "814 Juniper Lane, Apt 5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    397.92,
+    529.53,
+    641.25,
+    561.02
+   ],
+   "bbox_pt": [
+    191,
+    254.175,
+    307.798,
+    269.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "city_state_zip",
+   "value": "Austin, TX 78731",
+   "display_value": "Austin, TX 78731",
+   "canonical_value": "Austin, TX 78731",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    397.92,
+    594.11,
+    573.71,
+    625.6
+   ],
+   "bbox_pt": [
+    191,
+    285.175,
+    275.381,
+    300.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "mobile",
+   "value": "(512) 555-0148",
+   "display_value": "(512) 555-0148",
+   "canonical_value": "(512) 555-0148",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    397.92,
+    658.7,
+    554.6,
+    690.19
+   ],
+   "bbox_pt": [
+    191,
+    316.175,
+    266.207,
+    331.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "email",
+   "value": "taylor.brooks@example.com",
+   "display_value": "taylor.brooks@example.com",
+   "canonical_value": "taylor.brooks@example.com",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    397.92,
+    723.28,
+    688.61,
+    754.77
+   ],
+   "bbox_pt": [
+    191,
+    347.175,
+    330.535,
+    362.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "emergency_contact",
+   "value": "JAMIE BROOKS / SPOUSE",
+   "display_value": "JAMIE BROOKS / SPOUSE",
+   "canonical_value": "JAMIE BROOKS / SPOUSE",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    397.92,
+    787.86,
+    684.47,
+    819.35
+   ],
+   "bbox_pt": [
+    191,
+    378.175,
+    328.544,
+    393.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "emergency_phone",
+   "value": "(512) 555-0149",
+   "display_value": "(512) 555-0149",
+   "canonical_value": "(512) 555-0149",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    397.92,
+    852.45,
+    554.6,
+    883.94
+   ],
+   "bbox_pt": [
+    191,
+    409.175,
+    266.207,
+    424.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "acknowledgment",
+   "value": "Patient acknowledgment: TAYLOR BROOKS / on file",
+   "display_value": "Patient acknowledgment: TAYLOR BROOKS / on file",
+   "canonical_value": "Patient acknowledgment: TAYLOR BROOKS / on file",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    1381.77,
+    562.71,
+    1410.4
+   ],
+   "bbox_pt": [
+    35,
+    663.25,
+    270.1,
+    676.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "registration_time",
+   "value": "2026-06-09T15:40:00-05:00",
+   "display_value": "Registered: 06/09/2026 15:40",
+   "canonical_value": "Registered: 06/09/2026 15:40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    1431.77,
+    347.4,
+    1460.4
+   ],
+   "bbox_pt": [
+    35,
+    687.25,
+    166.75,
+    700.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

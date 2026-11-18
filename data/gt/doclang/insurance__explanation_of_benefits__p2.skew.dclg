@@ -1,0 +1,541 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1651" height="1325"/>
+  </head>
+  <field_region>
+    <location value="37"/>
+    <location value="145"/>
+    <location value="1597"/>
+    <location value="997"/>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="119"/>
+        <location value="183"/>
+        <location value="291"/>
+        <location value="217"/>
+        AVERY MORGAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>provider_name</key>
+      <value>
+        <location value="150"/>
+        <location value="209"/>
+        <location value="478"/>
+        <location value="250"/>
+        ALDER CREEK MEDICAL GROUP
+      </value>
+    </field_item>
+    <field_item>
+      <key>claim_id</key>
+      <value>
+        <location value="108"/>
+        <location value="254"/>
+        <location value="288"/>
+        <location value="284"/>
+        CLM-260415-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>processed_date</key>
+      <value>
+        <location value="618"/>
+        <location value="236"/>
+        <location value="712"/>
+        <location value="265"/>
+        04/22/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_billed</key>
+      <value>
+        <location value="1500"/>
+        <location value="145"/>
+        <location value="1576"/>
+        <location value="177"/>
+        $600.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_discount</key>
+      <value>
+        <location value="1489"/>
+        <location value="183"/>
+        <location value="1578"/>
+        <location value="215"/>
+        - $200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>plan_paid</key>
+      <value>
+        <location value="1490"/>
+        <location value="220"/>
+        <location value="1579"/>
+        <location value="252"/>
+        - $326.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_responsibility</key>
+      <value>
+        <location value="1516"/>
+        <location value="258"/>
+        <location value="1580"/>
+        <location value="289"/>
+        $74.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.service</key>
+      <value>
+        <location value="37"/>
+        <location value="495"/>
+        <location value="120"/>
+        <location value="522"/>
+        Office visit
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.service_date</key>
+      <value>
+        <location value="260"/>
+        <location value="487"/>
+        <location value="344"/>
+        <location value="513"/>
+        04/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.billed</key>
+      <value>
+        <location value="436"/>
+        <location value="480"/>
+        <location value="494"/>
+        <location value="507"/>
+        250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.discount</key>
+      <value>
+        <location value="577"/>
+        <location value="475"/>
+        <location value="625"/>
+        <location value="502"/>
+        70.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.allowed</key>
+      <value>
+        <location value="698"/>
+        <location value="470"/>
+        <location value="756"/>
+        <location value="498"/>
+        180.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.plan_paid</key>
+      <value>
+        <location value="829"/>
+        <location value="465"/>
+        <location value="887"/>
+        <location value="493"/>
+        150.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.deductible</key>
+      <value>
+        <location value="1000"/>
+        <location value="459"/>
+        <location value="1037"/>
+        <location value="486"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.copay</key>
+      <value>
+        <location value="1102"/>
+        <location value="455"/>
+        <location value="1150"/>
+        <location value="483"/>
+        30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.coinsurance</key>
+      <value>
+        <location value="1262"/>
+        <location value="450"/>
+        <location value="1300"/>
+        <location value="477"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.noncovered</key>
+      <value>
+        <location value="1412"/>
+        <location value="444"/>
+        <location value="1450"/>
+        <location value="471"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.patient</key>
+      <value>
+        <location value="1543"/>
+        <location value="439"/>
+        <location value="1591"/>
+        <location value="466"/>
+        30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.service</key>
+      <value>
+        <location value="39"/>
+        <location value="543"/>
+        <location value="174"/>
+        <location value="572"/>
+        CBC / differential
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.service_date</key>
+      <value>
+        <location value="262"/>
+        <location value="537"/>
+        <location value="346"/>
+        <location value="563"/>
+        04/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.billed</key>
+      <value>
+        <location value="438"/>
+        <location value="529"/>
+        <location value="496"/>
+        <location value="557"/>
+        100.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.discount</key>
+      <value>
+        <location value="579"/>
+        <location value="525"/>
+        <location value="627"/>
+        <location value="552"/>
+        30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.allowed</key>
+      <value>
+        <location value="710"/>
+        <location value="520"/>
+        <location value="758"/>
+        <location value="547"/>
+        70.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.plan_paid</key>
+      <value>
+        <location value="841"/>
+        <location value="515"/>
+        <location value="889"/>
+        <location value="542"/>
+        56.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.deductible</key>
+      <value>
+        <location value="1002"/>
+        <location value="509"/>
+        <location value="1039"/>
+        <location value="536"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.copay</key>
+      <value>
+        <location value="1114"/>
+        <location value="505"/>
+        <location value="1152"/>
+        <location value="532"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.coinsurance</key>
+      <value>
+        <location value="1254"/>
+        <location value="500"/>
+        <location value="1302"/>
+        <location value="527"/>
+        14.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.noncovered</key>
+      <value>
+        <location value="1414"/>
+        <location value="494"/>
+        <location value="1451"/>
+        <location value="521"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.patient</key>
+      <value>
+        <location value="1545"/>
+        <location value="489"/>
+        <location value="1593"/>
+        <location value="516"/>
+        14.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.service</key>
+      <value>
+        <location value="41"/>
+        <location value="593"/>
+        <location value="166"/>
+        <location value="622"/>
+        Metabolic panel
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.service_date</key>
+      <value>
+        <location value="264"/>
+        <location value="587"/>
+        <location value="348"/>
+        <location value="613"/>
+        04/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.billed</key>
+      <value>
+        <location value="439"/>
+        <location value="579"/>
+        <location value="498"/>
+        <location value="607"/>
+        250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.discount</key>
+      <value>
+        <location value="571"/>
+        <location value="575"/>
+        <location value="629"/>
+        <location value="602"/>
+        100.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.allowed</key>
+      <value>
+        <location value="702"/>
+        <location value="570"/>
+        <location value="760"/>
+        <location value="598"/>
+        150.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.plan_paid</key>
+      <value>
+        <location value="833"/>
+        <location value="565"/>
+        <location value="891"/>
+        <location value="593"/>
+        120.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.deductible</key>
+      <value>
+        <location value="1004"/>
+        <location value="559"/>
+        <location value="1041"/>
+        <location value="586"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.copay</key>
+      <value>
+        <location value="1116"/>
+        <location value="555"/>
+        <location value="1153"/>
+        <location value="582"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.coinsurance</key>
+      <value>
+        <location value="1256"/>
+        <location value="550"/>
+        <location value="1303"/>
+        <location value="577"/>
+        30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.noncovered</key>
+      <value>
+        <location value="1416"/>
+        <location value="544"/>
+        <location value="1453"/>
+        <location value="571"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.patient</key>
+      <value>
+        <location value="1547"/>
+        <location value="539"/>
+        <location value="1595"/>
+        <location value="566"/>
+        30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.billed</key>
+      <value>
+        <location value="431"/>
+        <location value="632"/>
+        <location value="500"/>
+        <location value="660"/>
+        $600.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.discount</key>
+      <value>
+        <location value="562"/>
+        <location value="627"/>
+        <location value="631"/>
+        <location value="655"/>
+        $200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.allowed</key>
+      <value>
+        <location value="693"/>
+        <location value="622"/>
+        <location value="762"/>
+        <location value="650"/>
+        $400.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.plan_paid</key>
+      <value>
+        <location value="824"/>
+        <location value="617"/>
+        <location value="893"/>
+        <location value="645"/>
+        $326.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.deductible</key>
+      <value>
+        <location value="995"/>
+        <location value="611"/>
+        <location value="1043"/>
+        <location value="639"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.copay</key>
+      <value>
+        <location value="1097"/>
+        <location value="607"/>
+        <location value="1155"/>
+        <location value="635"/>
+        $30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.coinsurance</key>
+      <value>
+        <location value="1247"/>
+        <location value="602"/>
+        <location value="1305"/>
+        <location value="630"/>
+        $44.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.noncovered</key>
+      <value>
+        <location value="1407"/>
+        <location value="596"/>
+        <location value="1455"/>
+        <location value="624"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>totals.patient</key>
+      <value>
+        <location value="1538"/>
+        <location value="591"/>
+        <location value="1597"/>
+        <location value="619"/>
+        $74.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>payment_summary</key>
+      <value>
+        <location value="47"/>
+        <location value="679"/>
+        <location value="836"/>
+        <location value="737"/>
+        Approved payment: $326.00 to ALDER CREEK MEDICAL GROUP on 04/22/2026.
+      </value>
+    </field_item>
+    <field_item>
+      <key>benefit_period</key>
+      <value>
+        <location value="60"/>
+        <location value="920"/>
+        <location value="427"/>
+        <location value="962"/>
+        Benefit period: 01/01/2026 - 12/31/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>out_of_pocket_summary</key>
+      <value>
+        <location value="61"/>
+        <location value="948"/>
+        <location value="615"/>
+        <location value="997"/>
+        Year-to-date out-of-pocket: $524.00 of $6,000.00 maximum.
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

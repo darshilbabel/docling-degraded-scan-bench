@@ -1,0 +1,575 @@
+{
+ "page_id": "indian_languages__bengali_01__p1",
+ "pack": "indian_languages",
+ "document": "bengali_01",
+ "family": "indic_form",
+ "document_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+ "language": "bengali",
+ "script": "Bengali",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1242,
+  1804
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/01_bengali_01/bengali_01_clean.pdf",
+ "condition": "clean",
+ "degradation_params": {},
+ "gt_provenance": "exact authored geometry (pack clean boxes)",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "branch_name",
+   "value": "পাত্রবাজার শাখা",
+   "display_value": "পাত্রবাজার শাখা",
+   "canonical_value": "পাত্রবাজার শাখা",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    95.04,
+    240.5,
+    215.38,
+    280.21
+   ],
+   "bbox_pt": [
+    45.62,
+    115.44,
+    103.38,
+    134.5
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "branch_city",
+   "value": "কৃষ্ণনগর",
+   "display_value": "কৃষ্ণনগর",
+   "canonical_value": "কৃষ্ণনগর",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    95.02,
+    301.5,
+    159.71,
+    340.79
+   ],
+   "bbox_pt": [
+    45.61,
+    144.72,
+    76.66,
+    163.58
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "applicant_name",
+   "value": "বিশ্বনাথ কুমার সেন",
+   "display_value": "বিশ্বনাথ কুমার সেন",
+   "canonical_value": "বিশ্বনাথ কুমার সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    223.31,
+    436.4,
+    353.5,
+    472.73
+   ],
+   "bbox_pt": [
+    107.19,
+    209.47,
+    169.68,
+    226.91
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "deposit_amount",
+   "value": "100000",
+   "display_value": "100000",
+   "canonical_value": "100000",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    467.17,
+    527.27,
+    535.17,
+    565.31
+   ],
+   "bbox_pt": [
+    224.24,
+    253.09,
+    256.88,
+    271.35
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_in_words",
+   "value": "এক লক্ষ",
+   "display_value": "এক লক্ষ",
+   "canonical_value": "এক লক্ষ",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    743.46,
+    530.08,
+    804.83,
+    566.54
+   ],
+   "bbox_pt": [
+    356.86,
+    254.44,
+    386.32,
+    271.94
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "cheque_no",
+   "value": "150345",
+   "display_value": "150345",
+   "canonical_value": "150345",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    263.83,
+    559.62,
+    328.71,
+    600.81
+   ],
+   "bbox_pt": [
+    126.64,
+    268.62,
+    157.78,
+    288.39
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "deposit_date",
+   "value": "15/10/2026",
+   "display_value": "15/10/2026",
+   "canonical_value": "15/10/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    501.5,
+    561.81,
+    588.98,
+    595.1
+   ],
+   "bbox_pt": [
+    240.72,
+    269.67,
+    282.71,
+    285.65
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "first_holder_name",
+   "value": "বিশ্বনাথ কুমার সেন",
+   "display_value": "বিশ্বনাথ কুমার সেন",
+   "canonical_value": "বিশ্বনাথ কুমার সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    365.21,
+    643.12,
+    495.94,
+    681.63
+   ],
+   "bbox_pt": [
+    175.3,
+    308.7,
+    238.05,
+    327.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "first_holder_relation_name",
+   "value": "কালীপদ সেন",
+   "display_value": "কালীপদ সেন",
+   "canonical_value": "কালীপদ সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    740.17,
+    671.62,
+    831.25,
+    709.35
+   ],
+   "bbox_pt": [
+    355.28,
+    322.38,
+    399.0,
+    340.49
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "first_holder_dob_day",
+   "value": "10",
+   "display_value": "10",
+   "canonical_value": "10",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    201.21,
+    705.42,
+    220.56,
+    741.21
+   ],
+   "bbox_pt": [
+    96.58,
+    338.6,
+    105.87,
+    355.78
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "first_holder_dob_month",
+   "value": "05",
+   "display_value": "05",
+   "canonical_value": "05",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    260.73,
+    703.75,
+    282.73,
+    741.96
+   ],
+   "bbox_pt": [
+    125.15,
+    337.8,
+    135.71,
+    356.14
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "first_holder_dob_year",
+   "value": "1965",
+   "display_value": "1965",
+   "canonical_value": "1965",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    346.71,
+    703.71,
+    387.02,
+    742.0
+   ],
+   "bbox_pt": [
+    166.42,
+    337.78,
+    185.77,
+    356.16
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "second_holder_name",
+   "value": "রুমা রানী সেন",
+   "display_value": "রুমা রানী সেন",
+   "canonical_value": "রুমা রানী সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    549.92,
+    772.4,
+    654.4,
+    810.81
+   ],
+   "bbox_pt": [
+    263.96,
+    370.75,
+    314.11,
+    389.19
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "aadhaar_first_holder",
+   "value": "9642 3870 4866",
+   "display_value": "9642 3870 4866",
+   "canonical_value": "9642 3870 4866",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    481.04,
+    939.23,
+    610.15,
+    976.13
+   ],
+   "bbox_pt": [
+    230.9,
+    450.83,
+    292.87,
+    468.54
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "pan_first_holder",
+   "value": "DEBPS5662Z",
+   "display_value": "DEBPS5662Z",
+   "canonical_value": "DEBPS5662Z",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    630.85,
+    1022.83,
+    757.29,
+    1065.73
+   ],
+   "bbox_pt": [
+    302.81,
+    490.96,
+    363.5,
+    511.55
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "present_address_line1",
+   "value": "277/37 শিব মন্দির রোড",
+   "display_value": "277/37 শিব মন্দির রোড",
+   "canonical_value": "277/37 শিব মন্দির রোড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    269.98,
+    1124.56,
+    423.75,
+    1160.48
+   ],
+   "bbox_pt": [
+    129.59,
+    539.79,
+    203.4,
+    557.03
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "present_address_line2",
+   "value": "পাত্রবাজার কৃষ্ণনগর নদিয়া - 741101",
+   "display_value": "পাত্রবাজার কৃষ্ণনগর নদিয়া - 741101",
+   "canonical_value": "পাত্রবাজার কৃষ্ণনগর নদিয়া - 741101",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    91.77,
+    1152.5,
+    343.62,
+    1194.12
+   ],
+   "bbox_pt": [
+    44.05,
+    553.2,
+    164.94,
+    573.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "permanent_address_line1",
+   "value": "277/37 শিব মন্দির রোড",
+   "display_value": "277/37 শিব মন্দির রোড",
+   "canonical_value": "277/37 শিব মন্দির রোড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    220.1,
+    1174.83,
+    397.19,
+    1214.65
+   ],
+   "bbox_pt": [
+    105.65,
+    563.92,
+    190.65,
+    583.03
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "permanent_address_line2",
+   "value": "পাত্রবাজার",
+   "display_value": "পাত্রবাজার",
+   "canonical_value": "পাত্রবাজার",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    92.15,
+    1210.19,
+    166.17,
+    1245.81
+   ],
+   "bbox_pt": [
+    44.23,
+    580.89,
+    79.76,
+    597.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "telephone",
+   "value": "03472-262858",
+   "display_value": "03472-262858",
+   "canonical_value": "03472-262858",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    462.38,
+    1265.96,
+    581.17,
+    1304.75
+   ],
+   "bbox_pt": [
+    221.94,
+    607.66,
+    278.96,
+    626.28
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "mobile",
+   "value": "8658148000",
+   "display_value": "8658148000",
+   "canonical_value": "8658148000",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    452.83,
+    1293.52,
+    569.0,
+    1335.65
+   ],
+   "bbox_pt": [
+    217.36,
+    620.89,
+    273.12,
+    641.11
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "email",
+   "value": "biswanath.sen1965@gmail.com",
+   "display_value": "biswanath.sen1965@gmail.com",
+   "canonical_value": "biswanath.sen1965@gmail.com",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    443.69,
+    1328.83,
+    681.06,
+    1362.46
+   ],
+   "bbox_pt": [
+    212.97,
+    637.84,
+    326.91,
+    653.98
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "kyc_id_proof",
+   "value": "আধার কার্ড",
+   "display_value": "আধার কার্ড",
+   "canonical_value": "আধার কার্ড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    645.19,
+    1539.52,
+    730.73,
+    1578.06
+   ],
+   "bbox_pt": [
+    309.69,
+    738.97,
+    350.75,
+    757.47
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "kyc_address_proof",
+   "value": "বিদ্যুতের বিল",
+   "display_value": "বিদ্যুতের বিল",
+   "canonical_value": "বিদ্যুতের বিল",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    612.5,
+    1574.02,
+    718.15,
+    1614.52
+   ],
+   "bbox_pt": [
+    294.0,
+    755.53,
+    344.71,
+    774.97
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

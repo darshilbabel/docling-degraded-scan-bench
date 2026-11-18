@@ -1,0 +1,414 @@
+{
+ "page_id": "indian_languages__marathi_01__p1",
+ "pack": "indian_languages",
+ "document": "marathi_01",
+ "family": "indic_form",
+ "document_type": "SBI account opening form Part-I: Customer Information Sheet (CIF), Marathi",
+ "language": "marathi",
+ "script": "Devanagari",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1240,
+  1802
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/05_marathi_01/marathi_01_clean.pdf",
+ "condition": "clean",
+ "degradation_params": {},
+ "gt_provenance": "exact authored geometry (pack clean boxes)",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "form_date",
+   "value": "17092026",
+   "display_value": "1 7 0 9 2 0 2 6",
+   "canonical_value": "17092026",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    960.71,
+    161.31,
+    1146.69,
+    198.73
+   ],
+   "bbox_pt": [
+    461.14,
+    77.43,
+    550.41,
+    95.39
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "branch_name",
+   "value": "विश्रामबाग शाखा",
+   "display_value": "विश्रामबाग शाखा",
+   "canonical_value": "विश्रामबाग शाखा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    202.9,
+    199.08,
+    355.31,
+    238.44
+   ],
+   "bbox_pt": [
+    97.39,
+    95.56,
+    170.55,
+    114.45
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "branch_code",
+   "value": "43524",
+   "display_value": "4 3 5 2 4",
+   "canonical_value": "43524",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    788.77,
+    202.35,
+    906.69,
+    239.38
+   ],
+   "bbox_pt": [
+    378.61,
+    97.13,
+    435.21,
+    114.9
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "customer_id",
+   "value": "20383069840",
+   "display_value": "2 0 3 8 3 0 6 9 8 4 0",
+   "canonical_value": "20383069840",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    204.67,
+    281.27,
+    477.06,
+    316.44
+   ],
+   "bbox_pt": [
+    98.24,
+    135.01,
+    228.99,
+    151.89
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "name_title",
+   "value": "श्रीमती",
+   "display_value": "श्रीमती",
+   "canonical_value": "श्रीमती",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    245.27,
+    546.9,
+    305.42,
+    584.38
+   ],
+   "bbox_pt": [
+    117.73,
+    262.51,
+    146.6,
+    280.5
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "applicant_name",
+   "value": "सुवर्णा संजय वाघ",
+   "display_value": "सुवर्णा संजय वाघ",
+   "canonical_value": "सुवर्णा संजय वाघ",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    346.71,
+    551.08,
+    489.83,
+    587.27
+   ],
+   "bbox_pt": [
+    166.42,
+    264.52,
+    235.12,
+    281.89
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "27011975",
+   "display_value": "2 7 0 1 1 9 7 5",
+   "canonical_value": "27011975",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    241.92,
+    623.58,
+    426.58,
+    663.73
+   ],
+   "bbox_pt": [
+    116.12,
+    299.32,
+    204.76,
+    318.59
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "father_or_spouse_name",
+   "value": "संजय शंकर वाघ",
+   "display_value": "संजय शंकर वाघ",
+   "canonical_value": "संजय शंकर वाघ",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    348.04,
+    662.54,
+    494.62,
+    703.12
+   ],
+   "bbox_pt": [
+    167.06,
+    318.02,
+    237.42,
+    337.5
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "mother_name",
+   "value": "पार्वती सुधाकर कांबळे",
+   "display_value": "पार्वती सुधाकर कांबळे",
+   "canonical_value": "पार्वती सुधाकर कांबळे",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    348.21,
+    711.31,
+    554.23,
+    753.67
+   ],
+   "bbox_pt": [
+    167.14,
+    341.43,
+    266.03,
+    361.76
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "country",
+   "value": "भारत",
+   "display_value": "भारत",
+   "canonical_value": "भारत",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    560.58,
+    893.5,
+    604.21,
+    929.23
+   ],
+   "bbox_pt": [
+    269.08,
+    428.88,
+    290.02,
+    446.03
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "occupation",
+   "value": "अभियंता",
+   "display_value": "अभियंता",
+   "canonical_value": "अभियंता",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    485.81,
+    1006.0,
+    565.48,
+    1046.33
+   ],
+   "bbox_pt": [
+    233.19,
+    482.88,
+    271.43,
+    502.24
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "birth_city",
+   "value": "सांगली",
+   "display_value": "सांगली",
+   "canonical_value": "सांगली",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    238.98,
+    1353.06,
+    301.25,
+    1390.71
+   ],
+   "bbox_pt": [
+    114.71,
+    649.47,
+    144.6,
+    667.54
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "citizenship",
+   "value": "भारतीय",
+   "display_value": "भारतीय",
+   "canonical_value": "भारतीय",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    921.67,
+    1348.17,
+    989.06,
+    1386.25
+   ],
+   "bbox_pt": [
+    442.4,
+    647.12,
+    474.75,
+    665.4
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "pan",
+   "value": "FNBPW3987B",
+   "display_value": "F N B P W 3 9 8 7 B",
+   "canonical_value": "FNBPW3987B",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    559.02,
+    1464.33,
+    825.08,
+    1507.27
+   ],
+   "bbox_pt": [
+    268.33,
+    702.88,
+    396.04,
+    723.49
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "mobile",
+   "value": "9967783711",
+   "display_value": "9 9 6 7 7 8 3 7 1 1",
+   "canonical_value": "9967783711",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    343.52,
+    1559.44,
+    588.44,
+    1602.08
+   ],
+   "bbox_pt": [
+    164.89,
+    748.53,
+    282.45,
+    769.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "email",
+   "value": "suvarnawagh92@gmail.com",
+   "display_value": "suvarnawagh92@gmail.com",
+   "canonical_value": "suvarnawagh92@gmail.com",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    690.52,
+    1566.77,
+    923.75,
+    1600.54
+   ],
+   "bbox_pt": [
+    331.45,
+    752.05,
+    443.4,
+    768.26
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "residence_telephone",
+   "value": "0233-2847349",
+   "display_value": "0 2 3 3 - 2 8 4 7 3 4 9",
+   "canonical_value": "0233-2847349",
+   "printed_form_rule": "authored word boxes",
+   "comb": true,
+   "bbox_px": [
+    770.13,
+    1634.63,
+    1052.98,
+    1677.19
+   ],
+   "bbox_pt": [
+    369.66,
+    784.62,
+    505.43,
+    805.05
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

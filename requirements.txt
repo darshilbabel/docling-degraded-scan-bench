@@ -1,0 +1,11 @@
+# Pinned versions used for the first-pass run (2026-11-17). Python 3.12, macOS arm64.
+docling==2.150.1
+docling-core==2.107.1
+doclang[schematron-saxon]==0.9.0
+easyocr==1.7.2
+rapidocr==3.10.0
+ocrmac==1.0.1 ; sys_platform == "darwin"
+opencv-python-headless==5.0.0.93
+pypdfium2==5.15.2
+rapidfuzz==3.14.6
+numpy==2.5.5

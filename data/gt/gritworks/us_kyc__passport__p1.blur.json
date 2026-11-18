@@ -1,0 +1,302 @@
+{
+ "page_id": "us_kyc__passport__p1",
+ "pack": "us_kyc",
+ "document": "passport",
+ "family": "passport_specimen",
+ "document_type": "US passport biographic sample",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1876,
+  1926
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/01_passport/passport_clean.pdf",
+ "condition": "blur",
+ "degradation_params": {
+  "sigma_px": 2.041,
+  "seed": 369381939
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "passport_number",
+   "value": "P00004217",
+   "display_value": "P00004217",
+   "canonical_value": "P00004217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1212.5,
+    1031.29,
+    1361.69,
+    1071.45
+   ],
+   "bbox_pt": [
+    582,
+    495.02,
+    653.61,
+    514.298
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "surname",
+   "value": "PATEL",
+   "display_value": "PATEL",
+   "canonical_value": "PATEL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    770.83,
+    1081.29,
+    866.44,
+    1121.45
+   ],
+   "bbox_pt": [
+    370,
+    519.02,
+    415.892,
+    538.298
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "given_names",
+   "value": "SIMRAN",
+   "display_value": "SIMRAN",
+   "canonical_value": "SIMRAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    770.83,
+    1141.71,
+    885.87,
+    1181.87
+   ],
+   "bbox_pt": [
+    370,
+    548.02,
+    425.216,
+    567.298
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "issuing_country",
+   "value": "USA",
+   "display_value": "USA",
+   "canonical_value": "USA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    979.17,
+    1031.25,
+    1056.25,
+    1064.58
+   ],
+   "bbox_pt": [
+    470,
+    495,
+    507,
+    511
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nationality",
+   "value": "UNITED STATES OF AMERICA",
+   "display_value": "UNITED STATES OF AMERICA",
+   "canonical_value": "UNITED STATES OF AMERICA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    764.58,
+    1200.0,
+    1233.33,
+    1237.5
+   ],
+   "bbox_pt": [
+    367,
+    576,
+    592,
+    594
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1971-04-04",
+   "display_value": "04 APR 1971",
+   "canonical_value": "04 APR 1971",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    764.58,
+    1264.58,
+    993.75,
+    1302.08
+   ],
+   "bbox_pt": [
+    367,
+    607,
+    477,
+    625
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1352.08,
+    1325.0,
+    1381.25,
+    1362.5
+   ],
+   "bbox_pt": [
+    649,
+    636,
+    663,
+    654
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "place_of_birth",
+   "value": "CALIFORNIA, U.S.A.",
+   "display_value": "CALIFORNIA, U.S.A",
+   "canonical_value": "CALIFORNIA, U.S.A.",
+   "printed_form_rule": "manual (data/gt_corrections.json)",
+   "comb": false,
+   "bbox_px": [
+    764.58,
+    1320.83,
+    1085.42,
+    1362.5
+   ],
+   "bbox_pt": [
+    367,
+    634,
+    521,
+    654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "issue_date",
+   "value": "2021-01-12",
+   "display_value": "12 Jan 2021",
+   "canonical_value": "12 Jan, 2021",
+   "printed_form_rule": "manual (data/gt_corrections.json)",
+   "comb": false,
+   "bbox_px": [
+    764.58,
+    1379.17,
+    981.25,
+    1420.83
+   ],
+   "bbox_pt": [
+    367,
+    662,
+    471,
+    682
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "expiry_date",
+   "value": "2031-01-12",
+   "display_value": "12 Jan 2031",
+   "canonical_value": "12 Jan, 2031",
+   "printed_form_rule": "manual (data/gt_corrections.json)",
+   "comb": false,
+   "bbox_px": [
+    764.58,
+    1437.5,
+    981.25,
+    1479.17
+   ],
+   "bbox_pt": [
+    367,
+    690,
+    471,
+    710
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "mrz_line_1",
+   "value": "P<USAPATEL<<SIMRAN<<<<<<<<<<<<<<<<<<<<<<<<<<",
+   "display_value": "P<USAPATEL<<SIMRAN<<<<<<<<<<<<<<<<<<<<<<<<<<",
+   "canonical_value": "P<USAPATEL<<SIMRAN<<<<<<<<<<<<<<<<<<<<<<<<<<",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    431.25,
+    1593.93,
+    1311.25,
+    1635.57
+   ],
+   "bbox_pt": [
+    207,
+    765.088,
+    629.4,
+    785.072
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "mrz_line_2",
+   "value": "P000042173USA7104044F3101126<<<<<<<<<<<<<<08",
+   "display_value": "P000042173USA7104044F3101126<<<<<<<<<<<<<<08",
+   "canonical_value": "P000042173USA7104044F3101126<<<<<<<<<<<<<<08",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    431.25,
+    1637.68,
+    1311.25,
+    1679.32
+   ],
+   "bbox_pt": [
+    207,
+    786.088,
+    629.4,
+    806.072
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

@@ -1,0 +1,281 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="85"/>
+    <location value="92"/>
+    <location value="1192"/>
+    <location value="752"/>
+    <field_item>
+      <key>employee_ssn_masked</key>
+      <value>
+        <location value="321"/>
+        <location value="92"/>
+        <location value="496"/>
+        <location value="117"/>
+        XXX-XX-2417
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_ein</key>
+      <value>
+        <location value="381"/>
+        <location value="142"/>
+        <location value="523"/>
+        <location value="169"/>
+        00-0024170
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer</key>
+      <value>
+        <location value="90"/>
+        <location value="190"/>
+        <location value="458"/>
+        <location value="215"/>
+        GRITWORKS TECHNOLOGY LLC
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_address</key>
+      <value>
+        <location value="90"/>
+        <location value="219"/>
+        <location value="600"/>
+        <location value="244"/>
+        4125 WESTBROOK CORPORATE CTR, STE 240
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_city_state_zip</key>
+      <value>
+        <location value="90"/>
+        <location value="248"/>
+        <location value="442"/>
+        <location value="273"/>
+        SAN BERNARDINO, CA 92408
+      </value>
+    </field_item>
+    <field_item>
+      <key>control_number</key>
+      <value>
+        <location value="385"/>
+        <location value="338"/>
+        <location value="581"/>
+        <location value="365"/>
+        GW-02417-2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>employee_first_name</key>
+      <value>
+        <location value="85"/>
+        <location value="398"/>
+        <location value="194"/>
+        <location value="423"/>
+        JORDAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>employee_last_name</key>
+      <value>
+        <location value="369"/>
+        <location value="398"/>
+        <location value="448"/>
+        <location value="423"/>
+        ELLIS
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_line1</key>
+      <value>
+        <location value="100"/>
+        <location value="458"/>
+        <location value="438"/>
+        <location value="485"/>
+        742 EVERGREEN, APT 3B
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_city_state_zip</key>
+      <value>
+        <location value="100"/>
+        <location value="492"/>
+        <location value="446"/>
+        <location value="519"/>
+        LOS ANGELES, CA 90026
+      </value>
+    </field_item>
+    <field_item>
+      <key>wages_tips_compensation</key>
+      <value>
+        <location value="815"/>
+        <location value="142"/>
+        <location value="938"/>
+        <location value="169"/>
+        $110,640.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>federal_income_tax</key>
+      <value>
+        <location value="1077"/>
+        <location value="142"/>
+        <location value="1192"/>
+        <location value="169"/>
+        $14,160.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>social_security_wages</key>
+      <value>
+        <location value="815"/>
+        <location value="194"/>
+        <location value="938"/>
+        <location value="221"/>
+        $115,200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>social_security_tax</key>
+      <value>
+        <location value="1083"/>
+        <location value="194"/>
+        <location value="1192"/>
+        <location value="221"/>
+        $7,142.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>medicare_wages</key>
+      <value>
+        <location value="815"/>
+        <location value="244"/>
+        <location value="938"/>
+        <location value="271"/>
+        $115,200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>medicare_tax</key>
+      <value>
+        <location value="1083"/>
+        <location value="244"/>
+        <location value="1192"/>
+        <location value="271"/>
+        $1,670.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>retirement_deferral_code</key>
+      <value>
+        <location value="985"/>
+        <location value="398"/>
+        <location value="1006"/>
+        <location value="425"/>
+        D
+      </value>
+    </field_item>
+    <field_item>
+      <key>retirement_deferral</key>
+      <value>
+        <location value="1027"/>
+        <location value="398"/>
+        <location value="1148"/>
+        <location value="425"/>
+        $4,560.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_health_coverage_code</key>
+      <value>
+        <location value="973"/>
+        <location value="448"/>
+        <location value="1010"/>
+        <location value="473"/>
+        DD
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_health_coverage</key>
+      <value>
+        <location value="1027"/>
+        <location value="448"/>
+        <location value="1148"/>
+        <location value="473"/>
+        $7,800.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>retirement_plan</key>
+      <value>
+        <location value="802"/>
+        <location value="450"/>
+        <location value="819"/>
+        <location value="467"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>state_disability_insurance</key>
+      <value>
+        <location value="721"/>
+        <location value="510"/>
+        <location value="919"/>
+        <location value="538"/>
+        CA SDI: 1,382.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>state</key>
+      <value>
+        <location value="90"/>
+        <location value="619"/>
+        <location value="125"/>
+        <location value="646"/>
+        CA
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_state_id</key>
+      <value>
+        <location value="146"/>
+        <location value="619"/>
+        <location value="292"/>
+        <location value="646"/>
+        000-2417-0
+      </value>
+    </field_item>
+    <field_item>
+      <key>state_wages</key>
+      <value>
+        <location value="475"/>
+        <location value="619"/>
+        <location value="577"/>
+        <location value="646"/>
+        110,640.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>state_income_tax</key>
+      <value>
+        <location value="654"/>
+        <location value="619"/>
+        <location value="740"/>
+        <location value="646"/>
+        3,180.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>tax_year</key>
+      <value>
+        <location value="602"/>
+        <location value="702"/>
+        <location value="742"/>
+        <location value="752"/>
+        2025
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

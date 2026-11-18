@@ -1,0 +1,251 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="47"/>
+    <location value="84"/>
+    <location value="1163"/>
+    <location value="1146"/>
+    <field_item>
+      <key>supplier_name</key>
+      <value>
+        <location value="47"/>
+        <location value="84"/>
+        <location value="648"/>
+        <location value="156"/>
+        MAPLEBRIDGE INDUSTRIAL SUPPLY
+      </value>
+    </field_item>
+    <field_item>
+      <key>document_number</key>
+      <value>
+        <location value="795"/>
+        <location value="193"/>
+        <location value="897"/>
+        <location value="229"/>
+        ST-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>document_date</key>
+      <value>
+        <location value="797"/>
+        <location value="228"/>
+        <location value="902"/>
+        <location value="261"/>
+        06/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_name</key>
+      <value>
+        <location value="58"/>
+        <location value="357"/>
+        <location value="331"/>
+        <location value="400"/>
+        ORCHARD VALE FOODS
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_account</key>
+      <value>
+        <location value="801"/>
+        <location value="334"/>
+        <location value="910"/>
+        <location value="367"/>
+        OVF-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>purchase_order</key>
+      <value>
+        <location value="802"/>
+        <location value="363"/>
+        <location value="975"/>
+        <location value="399"/>
+        PO-260601-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>period</key>
+      <value>
+        <location value="63"/>
+        <location value="481"/>
+        <location value="462"/>
+        <location value="526"/>
+        Statement period: 06/01/2026 - 06/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.1.date</key>
+      <value>
+        <location value="80"/>
+        <location value="638"/>
+        <location value="154"/>
+        <location value="667"/>
+        06/09/26
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.1.reference</key>
+      <value>
+        <location value="247"/>
+        <location value="629"/>
+        <location value="358"/>
+        <location value="660"/>
+        INV-G-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.1.debit</key>
+      <value>
+        <location value="600"/>
+        <location value="616"/>
+        <location value="669"/>
+        <location value="644"/>
+        2908.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.1.credit</key>
+      <value>
+        <location value="798"/>
+        <location value="609"/>
+        <location value="836"/>
+        <location value="636"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.1.balance</key>
+      <value>
+        <location value="985"/>
+        <location value="599"/>
+        <location value="1054"/>
+        <location value="628"/>
+        2908.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.2.date</key>
+      <value>
+        <location value="83"/>
+        <location value="700"/>
+        <location value="157"/>
+        <location value="729"/>
+        06/09/26
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.2.reference</key>
+      <value>
+        <location value="249"/>
+        <location value="692"/>
+        <location value="359"/>
+        <location value="722"/>
+        INV-S-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.2.debit</key>
+      <value>
+        <location value="603"/>
+        <location value="679"/>
+        <location value="662"/>
+        <location value="707"/>
+        650.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.2.credit</key>
+      <value>
+        <location value="801"/>
+        <location value="671"/>
+        <location value="838"/>
+        <location value="698"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.2.balance</key>
+      <value>
+        <location value="988"/>
+        <location value="662"/>
+        <location value="1057"/>
+        <location value="690"/>
+        3558.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.3.date</key>
+      <value>
+        <location value="85"/>
+        <location value="763"/>
+        <location value="159"/>
+        <location value="792"/>
+        06/12/26
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.3.reference</key>
+      <value>
+        <location value="252"/>
+        <location value="755"/>
+        <location value="341"/>
+        <location value="785"/>
+        CM-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.3.debit</key>
+      <value>
+        <location value="606"/>
+        <location value="742"/>
+        <location value="643"/>
+        <location value="769"/>
+        0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.3.credit</key>
+      <value>
+        <location value="804"/>
+        <location value="733"/>
+        <location value="862"/>
+        <location value="761"/>
+        103.68
+      </value>
+    </field_item>
+    <field_item>
+      <key>ledger.3.balance</key>
+      <value>
+        <location value="991"/>
+        <location value="724"/>
+        <location value="1060"/>
+        <location value="753"/>
+        3455.12
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_due</key>
+      <value>
+        <location value="900"/>
+        <location value="905"/>
+        <location value="1163"/>
+        <location value="996"/>
+        $3,455.12
+      </value>
+    </field_item>
+    <field_item>
+      <key>due_date</key>
+      <value>
+        <location value="90"/>
+        <location value="1099"/>
+        <location value="387"/>
+        <location value="1146"/>
+        Payment due: 07/09/2026
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

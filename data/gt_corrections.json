@@ -1,0 +1,12 @@
+{
+  "_doc": "Hand-verified printed forms for packs WITHOUT authored word boxes. Each entry was checked against an 8x (576 DPI) render of the clean PDF. Packs WITH authored word boxes are corrected automatically from those words (see scripts/build_pairs.py, printed_form_rule).",
+  "corrections": [
+    {"document": "passport", "page": 1, "key": "issue_date", "printed": "12 Jan 2021",
+     "pack_display_value": "12 Jan, 2021",
+     "note": "No comma in the printed line; the expiry date in the same template clearly has none. A faint background-pattern mark sits after 'Jan' (one engine reads it as a comma), so this one is flagged as visually ambiguous."},
+    {"document": "passport", "page": 1, "key": "expiry_date", "printed": "12 Jan 2031",
+     "pack_display_value": "12 Jan, 2031", "note": "No comma printed."},
+    {"document": "passport", "page": 1, "key": "place_of_birth", "printed": "CALIFORNIA, U.S.A",
+     "pack_display_value": "CALIFORNIA, U.S.A.", "note": "No final period printed."}
+  ]
+}

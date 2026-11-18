@@ -1,0 +1,518 @@
+{
+ "page_id": "us_kyc__passport__p1",
+ "pack": "us_kyc",
+ "document": "passport",
+ "family": "passport_specimen",
+ "document_type": "US passport biographic sample",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1876,
+  1926
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/01_passport/passport_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 4.934,
+  "seed": 3085157310
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "passport_number",
+   "value": "P00004217",
+   "display_value": "P00004217",
+   "canonical_value": "P00004217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1217.36,
+    994.59,
+    1369.45,
+    1047.44
+   ],
+   "bbox_pt": [
+    582,
+    495.02,
+    653.61,
+    514.298
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1217.36,
+     1007.43
+    ],
+    [
+     1365.99,
+     994.59
+    ],
+    [
+     1369.45,
+     1034.61
+    ],
+    [
+     1220.81,
+     1047.44
+    ]
+   ]
+  },
+  {
+   "key": "surname",
+   "value": "PATEL",
+   "display_value": "PATEL",
+   "canonical_value": "PATEL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    781.62,
+    1087.01,
+    880.33,
+    1135.24
+   ],
+   "bbox_pt": [
+    370,
+    519.02,
+    415.892,
+    538.298
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     781.62,
+     1095.23
+    ],
+    [
+     876.88,
+     1087.01
+    ],
+    [
+     880.33,
+     1127.02
+    ],
+    [
+     785.08,
+     1135.24
+    ]
+   ]
+  },
+  {
+   "key": "given_names",
+   "value": "SIMRAN",
+   "display_value": "SIMRAN",
+   "canonical_value": "SIMRAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    786.82,
+    1145.53,
+    904.89,
+    1195.44
+   ],
+   "bbox_pt": [
+    370,
+    548.02,
+    425.216,
+    567.298
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     786.82,
+     1155.43
+    ],
+    [
+     901.43,
+     1145.53
+    ],
+    [
+     904.89,
+     1185.54
+    ],
+    [
+     790.27,
+     1195.44
+    ]
+   ]
+  },
+  {
+   "key": "issuing_country",
+   "value": "USA",
+   "display_value": "USA",
+   "canonical_value": "USA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    984.89,
+    1020.83,
+    1064.55,
+    1060.66
+   ],
+   "bbox_pt": [
+    470,
+    495,
+    507,
+    511
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     984.89,
+     1027.46
+    ],
+    [
+     1061.68,
+     1020.83
+    ],
+    [
+     1064.55,
+     1054.03
+    ],
+    [
+     987.75,
+     1060.66
+    ]
+   ]
+  },
+  {
+   "key": "nationality",
+   "value": "UNITED STATES OF AMERICA",
+   "display_value": "UNITED STATES OF AMERICA",
+   "canonical_value": "UNITED STATES OF AMERICA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    785.61,
+    1173.72,
+    1255.85,
+    1251.4
+   ],
+   "bbox_pt": [
+    367,
+    576,
+    592,
+    594
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     785.61,
+     1214.04
+    ],
+    [
+     1252.62,
+     1173.72
+    ],
+    [
+     1255.85,
+     1211.08
+    ],
+    [
+     788.83,
+     1251.4
+    ]
+   ]
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1971-04-04",
+   "display_value": "04 APR 1971",
+   "canonical_value": "04 APR 1971",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    791.16,
+    1258.67,
+    1022.71,
+    1315.74
+   ],
+   "bbox_pt": [
+    367,
+    607,
+    477,
+    625
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     791.16,
+     1278.38
+    ],
+    [
+     1019.48,
+     1258.67
+    ],
+    [
+     1022.71,
+     1296.03
+    ],
+    [
+     794.39,
+     1315.74
+    ]
+   ]
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1381.68,
+    1285.53,
+    1413.97,
+    1325.4
+   ],
+   "bbox_pt": [
+    649,
+    636,
+    663,
+    654
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)",
+   "polygon_px": [
+    [
+     1381.68,
+     1288.04
+    ],
+    [
+     1410.74,
+     1285.53
+    ],
+    [
+     1413.97,
+     1322.89
+    ],
+    [
+     1384.91,
+     1325.4
+    ]
+   ]
+  },
+  {
+   "key": "place_of_birth",
+   "value": "CALIFORNIA, U.S.A.",
+   "display_value": "CALIFORNIA, U.S.A",
+   "canonical_value": "CALIFORNIA, U.S.A.",
+   "printed_form_rule": "manual (data/gt_corrections.json)",
+   "comb": false,
+   "bbox_px": [
+    796.0,
+    1306.82,
+    1119.24,
+    1375.94
+   ],
+   "bbox_pt": [
+    367,
+    634,
+    521,
+    654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     796.0,
+     1334.42
+    ],
+    [
+     1115.65,
+     1306.82
+    ],
+    [
+     1119.24,
+     1348.34
+    ],
+    [
+     799.58,
+     1375.94
+    ]
+   ]
+  },
+  {
+   "key": "issue_date",
+   "value": "2021-01-12",
+   "display_value": "12 Jan 2021",
+   "canonical_value": "12 Jan, 2021",
+   "printed_form_rule": "manual (data/gt_corrections.json)",
+   "comb": false,
+   "bbox_px": [
+    801.02,
+    1373.91,
+    1020.47,
+    1434.05
+   ],
+   "bbox_pt": [
+    367,
+    662,
+    471,
+    682
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     801.02,
+     1392.54
+    ],
+    [
+     1016.89,
+     1373.91
+    ],
+    [
+     1020.47,
+     1415.41
+    ],
+    [
+     804.6,
+     1434.05
+    ]
+   ]
+  },
+  {
+   "key": "expiry_date",
+   "value": "2031-01-12",
+   "display_value": "12 Jan 2031",
+   "canonical_value": "12 Jan, 2031",
+   "printed_form_rule": "manual (data/gt_corrections.json)",
+   "comb": false,
+   "bbox_px": [
+    806.04,
+    1432.02,
+    1025.49,
+    1492.17
+   ],
+   "bbox_pt": [
+    367,
+    690,
+    471,
+    710
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     806.04,
+     1450.66
+    ],
+    [
+     1021.9,
+     1432.02
+    ],
+    [
+     1025.49,
+     1473.54
+    ],
+    [
+     809.62,
+     1492.17
+    ]
+   ]
+  },
+  {
+   "key": "mrz_line_1",
+   "value": "P<USAPATEL<<SIMRAN<<<<<<<<<<<<<<<<<<<<<<<<<<",
+   "display_value": "P<USAPATEL<<SIMRAN<<<<<<<<<<<<<<<<<<<<<<<<<<",
+   "canonical_value": "P<USAPATEL<<SIMRAN<<<<<<<<<<<<<<<<<<<<<<<<<<",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    487.4,
+    1559.49,
+    1367.72,
+    1676.66
+   ],
+   "bbox_pt": [
+    207,
+    765.088,
+    629.4,
+    785.072
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     487.4,
+     1635.18
+    ],
+    [
+     1364.13,
+     1559.49
+    ],
+    [
+     1367.72,
+     1600.97
+    ],
+    [
+     490.98,
+     1676.66
+    ]
+   ]
+  },
+  {
+   "key": "mrz_line_2",
+   "value": "P000042173USA7104044F3101126<<<<<<<<<<<<<<08",
+   "display_value": "P000042173USA7104044F3101126<<<<<<<<<<<<<<08",
+   "canonical_value": "P000042173USA7104044F3101126<<<<<<<<<<<<<<08",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    491.16,
+    1603.08,
+    1371.48,
+    1720.25
+   ],
+   "bbox_pt": [
+    207,
+    786.088,
+    629.4,
+    806.072
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     491.16,
+     1678.77
+    ],
+    [
+     1367.9,
+     1603.08
+    ],
+    [
+     1371.48,
+     1644.56
+    ],
+    [
+     494.74,
+     1720.25
+    ]
+   ]
+  }
+ ]
+}

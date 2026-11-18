@@ -1,0 +1,887 @@
+{
+ "page_id": "banking__mortgage_statement__p1",
+ "pack": "banking",
+ "document": "mortgage_statement",
+ "family": "bank_statement",
+ "document_type": "US mortgage activity statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/04_mortgage_statement/mortgage_statement_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 4.171,
+  "seed": 2953247380
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "borrower_name",
+   "value": "JORDAN ELLIS",
+   "display_value": "JORDAN ELLIS",
+   "canonical_value": "JORDAN ELLIS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    70.69,
+    285.6,
+    220.01,
+    317.15
+   ],
+   "bbox_pt": [
+    54.0,
+    123.176,
+    125.13,
+    133.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     70.69,
+     296.38
+    ],
+    [
+     218.49,
+     285.6
+    ],
+    [
+     220.01,
+     306.38
+    ],
+    [
+     72.21,
+     317.15
+    ]
+   ]
+  },
+  {
+   "key": "address_line1",
+   "value": "742 EVERGREEN, APT 3B",
+   "display_value": "742 EVERGREEN, APT 3B",
+   "canonical_value": "742 EVERGREEN, APT 3B",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.36,
+    300.7,
+    327.93,
+    340.01
+   ],
+   "bbox_pt": [
+    54.0,
+    134.176,
+    176.27,
+    144.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     72.36,
+     319.23
+    ],
+    [
+     326.42,
+     300.7
+    ],
+    [
+     327.93,
+     321.49
+    ],
+    [
+     73.88,
+     340.01
+    ]
+   ]
+  },
+  {
+   "key": "address_city_state_zip",
+   "value": "LOS ANGELES, CA 90026",
+   "display_value": "LOS ANGELES, CA 90026",
+   "canonical_value": "LOS ANGELES, CA 90026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    74.03,
+    323.89,
+    325.01,
+    362.86
+   ],
+   "bbox_pt": [
+    54.0,
+    145.176,
+    174.06,
+    155.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     74.03,
+     342.09
+    ],
+    [
+     323.49,
+     323.89
+    ],
+    [
+     325.01,
+     344.67
+    ],
+    [
+     75.54,
+     362.86
+    ]
+   ]
+  },
+  {
+   "key": "loan_number",
+   "value": "0098251640",
+   "display_value": "0098251640",
+   "canonical_value": "0098251640",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    292.81,
+    1362.68,
+    386.45,
+    1386.03
+   ],
+   "bbox_pt": [
+    122.872,
+    644.624,
+    167.352,
+    652.624
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     292.81,
+     1369.42
+    ],
+    [
+     385.24,
+     1362.68
+    ],
+    [
+     386.45,
+     1379.29
+    ],
+    [
+     294.02,
+     1386.03
+    ]
+   ]
+  },
+  {
+   "key": "statement_date",
+   "value": "2025-12-31",
+   "display_value": "December 31, 2025",
+   "canonical_value": "December 31, 2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    993.43,
+    142.33,
+    1140.61,
+    169.6
+   ],
+   "bbox_pt": [
+    500.744,
+    86.741,
+    571.0,
+    94.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     993.43,
+     152.97
+    ],
+    [
+     1139.4,
+     142.33
+    ],
+    [
+     1140.61,
+     158.95
+    ],
+    [
+     994.64,
+     169.6
+    ]
+   ]
+  },
+  {
+   "key": "payment_due",
+   "value": "2026-01-01",
+   "display_value": "January 1, 2026",
+   "canonical_value": "January 1, 2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1025.46,
+    191.83,
+    1150.49,
+    217.49
+   ],
+   "bbox_pt": [
+    514.408,
+    110.784,
+    574.0,
+    118.784
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1025.46,
+     200.86
+    ],
+    [
+     1149.28,
+     191.83
+    ],
+    [
+     1150.49,
+     208.46
+    ],
+    [
+     1026.67,
+     217.49
+    ]
+   ]
+  },
+  {
+   "key": "principal_balance",
+   "value": "287700.00",
+   "display_value": "$287,700.00",
+   "canonical_value": "287,700.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    614.08,
+    593.76,
+    707.72,
+    617.13
+   ],
+   "bbox_pt": [
+    303.52,
+    287.741,
+    348.0,
+    295.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     614.08,
+     600.5
+    ],
+    [
+     706.51,
+     593.76
+    ],
+    [
+     707.72,
+     610.39
+    ],
+    [
+     615.3,
+     617.13
+    ]
+   ]
+  },
+  {
+   "key": "escrow_balance",
+   "value": "2850.00",
+   "display_value": "$2,850.00",
+   "canonical_value": "2,850.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    634.24,
+    616.62,
+    709.39,
+    638.63
+   ],
+   "bbox_pt": [
+    312.416,
+    298.741,
+    348.0,
+    306.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     634.24,
+     622.01
+    ],
+    [
+     708.18,
+     616.62
+    ],
+    [
+     709.39,
+     633.24
+    ],
+    [
+     635.45,
+     638.63
+    ]
+   ]
+  },
+  {
+   "key": "next_principal",
+   "value": "301.56",
+   "display_value": "$301.56",
+   "canonical_value": "301.56",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1097.22,
+    359.1,
+    1158.52,
+    380.11
+   ],
+   "bbox_pt": [
+    543.088,
+    191.141,
+    572.0,
+    199.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1097.22,
+     363.48
+    ],
+    [
+     1157.3,
+     359.1
+    ],
+    [
+     1158.52,
+     375.73
+    ],
+    [
+     1098.44,
+     380.11
+    ]
+   ]
+  },
+  {
+   "key": "next_interest",
+   "value": "1498.44",
+   "display_value": "$1,498.44",
+   "canonical_value": "1,498.44",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1085.09,
+    382.79,
+    1160.24,
+    404.81
+   ],
+   "bbox_pt": [
+    536.416,
+    202.541,
+    572.0,
+    210.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1085.09,
+     388.18
+    ],
+    [
+     1159.03,
+     382.79
+    ],
+    [
+     1160.24,
+     399.41
+    ],
+    [
+     1086.3,
+     404.81
+    ]
+   ]
+  },
+  {
+   "key": "escrow_payment",
+   "value": "450.00",
+   "display_value": "$450.00",
+   "canonical_value": "450.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1100.68,
+    406.47,
+    1161.97,
+    427.48
+   ],
+   "bbox_pt": [
+    543.088,
+    213.941,
+    572.0,
+    221.941
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1100.68,
+     410.86
+    ],
+    [
+     1160.76,
+     406.47
+    ],
+    [
+     1161.97,
+     423.1
+    ],
+    [
+     1101.89,
+     427.48
+    ]
+   ]
+  },
+  {
+   "key": "monthly_payment",
+   "value": "2250.00",
+   "display_value": "$2,250.00",
+   "canonical_value": "2,250.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1088.64,
+    431.5,
+    1163.8,
+    453.52
+   ],
+   "bbox_pt": [
+    536.416,
+    225.984,
+    572.0,
+    233.984
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1088.64,
+     436.89
+    ],
+    [
+     1162.58,
+     431.5
+    ],
+    [
+     1163.8,
+     448.12
+    ],
+    [
+     1089.85,
+     453.52
+    ]
+   ]
+  },
+  {
+   "key": "last_principal",
+   "value": "300.00",
+   "display_value": "$300.00",
+   "canonical_value": "300.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    426.56,
+    758.11,
+    487.84,
+    779.11
+   ],
+   "bbox_pt": [
+    208.088,
+    358.741,
+    237.0,
+    366.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     426.56,
+     762.49
+    ],
+    [
+     486.63,
+     758.11
+    ],
+    [
+     487.84,
+     774.72
+    ],
+    [
+     427.77,
+     779.11
+    ]
+   ]
+  },
+  {
+   "key": "last_interest",
+   "value": "1500.00",
+   "display_value": "$1,500.00",
+   "canonical_value": "1,500.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    414.42,
+    781.8,
+    489.57,
+    803.8
+   ],
+   "bbox_pt": [
+    201.416,
+    370.141,
+    237.0,
+    378.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     414.42,
+     787.19
+    ],
+    [
+     488.36,
+     781.8
+    ],
+    [
+     489.57,
+     798.41
+    ],
+    [
+     415.64,
+     803.8
+    ]
+   ]
+  },
+  {
+   "key": "last_escrow",
+   "value": "450.00",
+   "display_value": "$450.00",
+   "canonical_value": "450.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    430.01,
+    805.48,
+    491.3,
+    826.48
+   ],
+   "bbox_pt": [
+    208.088,
+    381.541,
+    237.0,
+    389.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     430.01,
+     809.86
+    ],
+    [
+     490.09,
+     805.48
+    ],
+    [
+     491.3,
+     822.1
+    ],
+    [
+     431.23,
+     826.48
+    ]
+   ]
+  },
+  {
+   "key": "annual_principal",
+   "value": "3499.17",
+   "display_value": "$3,499.17",
+   "canonical_value": "3,499.17",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    603.85,
+    744.17,
+    679.0,
+    766.18
+   ],
+   "bbox_pt": [
+    293.416,
+    358.741,
+    329.0,
+    366.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     603.85,
+     749.56
+    ],
+    [
+     677.79,
+     744.17
+    ],
+    [
+     679.0,
+     760.78
+    ],
+    [
+     605.06,
+     766.18
+    ]
+   ]
+  },
+  {
+   "key": "annual_interest",
+   "value": "18100.83",
+   "display_value": "$18,100.83",
+   "canonical_value": "18,100.83",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    596.34,
+    767.85,
+    680.73,
+    790.54
+   ],
+   "bbox_pt": [
+    288.968,
+    370.141,
+    329.0,
+    378.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     596.34,
+     773.92
+    ],
+    [
+     679.52,
+     767.85
+    ],
+    [
+     680.73,
+     784.47
+    ],
+    [
+     597.55,
+     790.54
+    ]
+   ]
+  },
+  {
+   "key": "annual_escrow",
+   "value": "5400.00",
+   "display_value": "$5,400.00",
+   "canonical_value": "5,400.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    607.3,
+    791.54,
+    682.46,
+    813.55
+   ],
+   "bbox_pt": [
+    293.416,
+    381.541,
+    329.0,
+    389.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     607.3,
+     796.93
+    ],
+    [
+     681.25,
+     791.54
+    ],
+    [
+     682.46,
+     808.16
+    ],
+    [
+     608.52,
+     813.55
+    ]
+   ]
+  },
+  {
+   "key": "annual_payments",
+   "value": "27000.00",
+   "display_value": "$27,000.00",
+   "canonical_value": "27,000.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    603.4,
+    864.68,
+    687.79,
+    887.37
+   ],
+   "bbox_pt": [
+    288.968,
+    416.741,
+    329.0,
+    424.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     603.4,
+     870.74
+    ],
+    [
+     686.58,
+     864.68
+    ],
+    [
+     687.79,
+     881.3
+    ],
+    [
+     604.61,
+     887.37
+    ]
+   ]
+  },
+  {
+   "key": "interest_rate_percent",
+   "value": "6.250",
+   "display_value": "6.250%",
+   "canonical_value": "6.250%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    655.29,
+    664.4,
+    712.87,
+    685.14
+   ],
+   "bbox_pt": [
+    320.872,
+    321.741,
+    348.0,
+    329.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     655.29,
+     668.51
+    ],
+    [
+     711.66,
+     664.4
+    ],
+    [
+     712.87,
+     681.03
+    ],
+    [
+     656.5,
+     685.14
+    ]
+   ]
+  },
+  {
+   "key": "late_fee",
+   "value": "90.00",
+   "display_value": "$90.00",
+   "canonical_value": "$90.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    971.94,
+    253.2,
+    1017.48,
+    270.98
+   ],
+   "bbox_pt": [
+    486.847,
+    135.523,
+    508.253,
+    142.523
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     971.94,
+     256.44
+    ],
+    [
+     1016.42,
+     253.2
+    ],
+    [
+     1017.48,
+     267.74
+    ],
+    [
+     973.0,
+     270.98
+    ]
+   ]
+  }
+ ]
+}

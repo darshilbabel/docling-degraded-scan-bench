@@ -1,0 +1,414 @@
+{
+ "page_id": "us_kyc__proof_of_address__p1",
+ "pack": "us_kyc",
+ "document": "proof_of_address",
+ "family": "utility_bill",
+ "document_type": "US utility proof of address",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/05_proof_of_address/proof_of_address_clean.pdf",
+ "condition": "clean",
+ "degradation_params": {},
+ "gt_provenance": "exact authored geometry (pack clean boxes)",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "customer_name",
+   "value": "SIMRAN PATEL",
+   "display_value": "SIMRAN PATEL",
+   "canonical_value": "SIMRAN PATEL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    66.67,
+    219.08,
+    254.17,
+    253.51
+   ],
+   "bbox_pt": [
+    32,
+    105.16,
+    122.0,
+    121.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "service_address",
+   "value": "2570 24TH STREET",
+   "display_value": "2570 24TH STREET",
+   "canonical_value": "2570 24TH STREET",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    66.67,
+    256.61,
+    276.81,
+    288.1
+   ],
+   "bbox_pt": [
+    32,
+    123.175,
+    132.87,
+    138.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "city_state_zip",
+   "value": "SACRAMENTO, CA 95818",
+   "display_value": "SACRAMENTO, CA 95818",
+   "canonical_value": "SACRAMENTO, CA 95818",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    66.67,
+    292.03,
+    343.02,
+    323.52
+   ],
+   "bbox_pt": [
+    32,
+    140.175,
+    164.649,
+    155.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "account_number",
+   "value": "WTR-06217",
+   "display_value": "WTR-06217",
+   "canonical_value": "WTR-06217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    943.75,
+    196.35,
+    1056.04,
+    224.98
+   ],
+   "bbox_pt": [
+    453,
+    94.25,
+    506.9,
+    107.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "bill_date",
+   "value": "04/30/2026",
+   "display_value": "04/30/2026",
+   "canonical_value": "04/30/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    943.75,
+    250.52,
+    1048.0,
+    279.15
+   ],
+   "bbox_pt": [
+    453,
+    120.25,
+    503.04,
+    133.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "due_date",
+   "value": "05/20/2026",
+   "display_value": "05/20/2026",
+   "canonical_value": "05/20/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    943.75,
+    304.69,
+    1048.0,
+    333.31
+   ],
+   "bbox_pt": [
+    453,
+    146.25,
+    503.04,
+    159.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "meter_id",
+   "value": "MTR-4217",
+   "display_value": "MTR-4217",
+   "canonical_value": "MTR-4217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    87.5,
+    481.77,
+    185.9,
+    510.4
+   ],
+   "bbox_pt": [
+    42,
+    231.25,
+    89.23,
+    244.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "previous_reading",
+   "value": 1240,
+   "display_value": "1,240",
+   "canonical_value": "1,240",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    322.92,
+    481.77,
+    375.04,
+    510.4
+   ],
+   "bbox_pt": [
+    155,
+    231.25,
+    180.02,
+    244.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "current_reading",
+   "value": 1247,
+   "display_value": "1,247",
+   "canonical_value": "1,247",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    562.5,
+    481.77,
+    614.62,
+    510.4
+   ],
+   "bbox_pt": [
+    270,
+    231.25,
+    295.02,
+    244.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "usage_ccf",
+   "value": 7,
+   "display_value": "7 CCF",
+   "canonical_value": "7 CCF",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    810.42,
+    481.77,
+    870.6,
+    510.4
+   ],
+   "bbox_pt": [
+    389,
+    231.25,
+    417.89,
+    244.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "service_month",
+   "value": "2026-04",
+   "display_value": "April 2026",
+   "canonical_value": "April 2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1004.17,
+    481.77,
+    1097.96,
+    510.4
+   ],
+   "bbox_pt": [
+    482,
+    231.25,
+    527.02,
+    244.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "previous_balance",
+   "value": "82.40",
+   "display_value": "$82.40",
+   "canonical_value": "$82.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1119.38,
+    639.79,
+    1195.83,
+    674.14
+   ],
+   "bbox_pt": [
+    537.304,
+    307.1,
+    574.0,
+    323.588
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "payment_received",
+   "value": "-82.40",
+   "display_value": "$-82.40",
+   "canonical_value": "$-82.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1111.06,
+    700.21,
+    1195.83,
+    734.56
+   ],
+   "bbox_pt": [
+    533.308,
+    336.1,
+    574.0,
+    352.588
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "water_charge",
+   "value": "36.40",
+   "display_value": "$36.40",
+   "canonical_value": "$36.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1119.38,
+    760.63,
+    1195.83,
+    794.98
+   ],
+   "bbox_pt": [
+    537.304,
+    365.1,
+    574.0,
+    381.588
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "base_charge",
+   "value": "18.00",
+   "display_value": "$18.00",
+   "canonical_value": "$18.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1119.38,
+    821.04,
+    1195.83,
+    855.39
+   ],
+   "bbox_pt": [
+    537.304,
+    394.1,
+    574.0,
+    410.588
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "wastewater_charge",
+   "value": "28.00",
+   "display_value": "$28.00",
+   "canonical_value": "$28.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1119.38,
+    881.46,
+    1195.83,
+    915.81
+   ],
+   "bbox_pt": [
+    537.304,
+    423.1,
+    574.0,
+    439.588
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_due",
+   "value": "82.40",
+   "display_value": "$82.40",
+   "canonical_value": "$82.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1119.38,
+    942.0,
+    1195.83,
+    976.43
+   ],
+   "bbox_pt": [
+    537.304,
+    452.16,
+    574.0,
+    468.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

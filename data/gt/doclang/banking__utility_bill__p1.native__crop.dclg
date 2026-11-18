@@ -1,0 +1,191 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1242" height="1807"/>
+  </head>
+  <field_region>
+    <location value="14"/>
+    <location value="81"/>
+    <location value="1103"/>
+    <location value="788"/>
+    <field_item>
+      <key>borrower_name</key>
+      <value>
+        <location value="49"/>
+        <location value="81"/>
+        <location value="190"/>
+        <location value="101"/>
+        JORDAN ELLIS
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_line1</key>
+      <value>
+        <location value="49"/>
+        <location value="107"/>
+        <location value="291"/>
+        <location value="127"/>
+        742 EVERGREEN, APT 3B
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_city_state_zip</key>
+      <value>
+        <location value="49"/>
+        <location value="133"/>
+        <location value="287"/>
+        <location value="153"/>
+        LOS ANGELES, CA 90026
+      </value>
+    </field_item>
+    <field_item>
+      <key>account_number</key>
+      <value>
+        <location value="919"/>
+        <location value="132"/>
+        <location value="1103"/>
+        <location value="152"/>
+        8521-496-002417-84
+      </value>
+    </field_item>
+    <field_item>
+      <key>statement_date</key>
+      <value>
+        <location value="1004"/>
+        <location value="106"/>
+        <location value="1103"/>
+        <location value="126"/>
+        11/30/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>payment_due</key>
+      <value>
+        <location value="1004"/>
+        <location value="233"/>
+        <location value="1103"/>
+        <location value="253"/>
+        12/16/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>service_period</key>
+      <value>
+        <location value="144"/>
+        <location value="698"/>
+        <location value="348"/>
+        <location value="717"/>
+        11/01/2025 - 11/30/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>property</key>
+      <value>
+        <location value="541"/>
+        <location value="387"/>
+        <location value="830"/>
+        <location value="407"/>
+        EVERGREEN CONDOMINIUMS
+      </value>
+    </field_item>
+    <field_item>
+      <key>water_usage_gallons</key>
+      <value>
+        <location value="703"/>
+        <location value="749"/>
+        <location value="809"/>
+        <location value="767"/>
+        3,800 gallons
+      </value>
+    </field_item>
+    <field_item>
+      <key>water_sewer</key>
+      <value>
+        <location value="1043"/>
+        <location value="439"/>
+        <location value="1103"/>
+        <location value="459"/>
+        $85.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>gas</key>
+      <value>
+        <location value="1043"/>
+        <location value="463"/>
+        <location value="1103"/>
+        <location value="483"/>
+        $46.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>storm_drainage</key>
+      <value>
+        <location value="1043"/>
+        <location value="488"/>
+        <location value="1103"/>
+        <location value="508"/>
+        $19.20
+      </value>
+    </field_item>
+    <field_item>
+      <key>solid_waste</key>
+      <value>
+        <location value="1043"/>
+        <location value="514"/>
+        <location value="1103"/>
+        <location value="534"/>
+        $35.90
+      </value>
+    </field_item>
+    <field_item>
+      <key>current_charges</key>
+      <value>
+        <location value="1032"/>
+        <location value="541"/>
+        <location value="1103"/>
+        <location value="561"/>
+        $187.30
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_due</key>
+      <value>
+        <location value="1032"/>
+        <location value="645"/>
+        <location value="1103"/>
+        <location value="665"/>
+        $187.30
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_after_due_date</key>
+      <value>
+        <location value="1036"/>
+        <location value="284"/>
+        <location value="1103"/>
+        <location value="302"/>
+        $192.30
+      </value>
+    </field_item>
+    <field_item>
+      <key>previous_balance</key>
+      <value>
+        <location value="168"/>
+        <location value="769"/>
+        <location value="215"/>
+        <location value="788"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>unit</key>
+      <value>
+        <location value="14"/>
+        <location value="734"/>
+        <location value="80"/>
+        <location value="752"/>
+        Unit: 3B
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

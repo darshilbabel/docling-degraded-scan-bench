@@ -1,0 +1,251 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1242" height="1804"/>
+  </head>
+  <field_region>
+    <location value="47"/>
+    <location value="272"/>
+    <location value="816"/>
+    <location value="1613"/>
+    <field_item>
+      <key>branch_name</key>
+      <value>
+        <location value="47"/>
+        <location value="272"/>
+        <location value="170"/>
+        <location value="321"/>
+        পাত্রবাজার শাখা
+      </value>
+    </field_item>
+    <field_item>
+      <key>branch_city</key>
+      <value>
+        <location value="52"/>
+        <location value="337"/>
+        <location value="119"/>
+        <location value="381"/>
+        কৃষ্ণনগর
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_name</key>
+      <value>
+        <location value="190"/>
+        <location value="458"/>
+        <location value="322"/>
+        <location value="503"/>
+        বিশ্বনাথ কুমার সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_amount</key>
+      <value>
+        <location value="440"/>
+        <location value="535"/>
+        <location value="510"/>
+        <location value="578"/>
+        100000
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_in_words</key>
+      <value>
+        <location value="716"/>
+        <location value="517"/>
+        <location value="779"/>
+        <location value="558"/>
+        এক লক্ষ
+      </value>
+    </field_item>
+    <field_item>
+      <key>cheque_no</key>
+      <value>
+        <location value="239"/>
+        <location value="582"/>
+        <location value="307"/>
+        <location value="628"/>
+        150345
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_date</key>
+      <value>
+        <location value="477"/>
+        <location value="565"/>
+        <location value="566"/>
+        <location value="605"/>
+        15/10/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_name</key>
+      <value>
+        <location value="347"/>
+        <location value="653"/>
+        <location value="480"/>
+        <location value="701"/>
+        বিশ্বনাথ কুমার সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_relation_name</key>
+      <value>
+        <location value="723"/>
+        <location value="657"/>
+        <location value="816"/>
+        <location value="701"/>
+        কালীপদ সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_dob_day</key>
+      <value>
+        <location value="188"/>
+        <location value="736"/>
+        <location value="210"/>
+        <location value="773"/>
+        10
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_dob_month</key>
+      <value>
+        <location value="247"/>
+        <location value="729"/>
+        <location value="272"/>
+        <location value="769"/>
+        05
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_dob_year</key>
+      <value>
+        <location value="333"/>
+        <location value="722"/>
+        <location value="376"/>
+        <location value="763"/>
+        1965
+      </value>
+    </field_item>
+    <field_item>
+      <key>second_holder_name</key>
+      <value>
+        <location value="541"/>
+        <location value="770"/>
+        <location value="648"/>
+        <location value="816"/>
+        রুমা রানী সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>aadhaar_first_holder</key>
+      <value>
+        <location value="484"/>
+        <location value="940"/>
+        <location value="616"/>
+        <location value="986"/>
+        9642 3870 4866
+      </value>
+    </field_item>
+    <field_item>
+      <key>pan_first_holder</key>
+      <value>
+        <location value="640"/>
+        <location value="1012"/>
+        <location value="769"/>
+        <location value="1065"/>
+        DEBPS5662Z
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line1</key>
+      <value>
+        <location value="287"/>
+        <location value="1139"/>
+        <location value="443"/>
+        <location value="1186"/>
+        277/37 শিব মন্দির রোড
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line2</key>
+      <value>
+        <location value="112"/>
+        <location value="1172"/>
+        <location value="366"/>
+        <location value="1233"/>
+        পাত্রবাজার কৃষ্ণনগর নদিয়া - 741101
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line1</key>
+      <value>
+        <location value="241"/>
+        <location value="1191"/>
+        <location value="421"/>
+        <location value="1244"/>
+        277/37 শিব মন্দির রোড
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line2</key>
+      <value>
+        <location value="116"/>
+        <location value="1243"/>
+        <location value="193"/>
+        <location value="1284"/>
+        পাত্রবাজার
+      </value>
+    </field_item>
+    <field_item>
+      <key>telephone</key>
+      <value>
+        <location value="490"/>
+        <location value="1268"/>
+        <location value="611"/>
+        <location value="1315"/>
+        03472-262858
+      </value>
+    </field_item>
+    <field_item>
+      <key>mobile</key>
+      <value>
+        <location value="482"/>
+        <location value="1296"/>
+        <location value="601"/>
+        <location value="1347"/>
+        8658148000
+      </value>
+    </field_item>
+    <field_item>
+      <key>email</key>
+      <value>
+        <location value="476"/>
+        <location value="1323"/>
+        <location value="715"/>
+        <location value="1374"/>
+        biswanath.sen1965@gmail.com
+      </value>
+    </field_item>
+    <field_item>
+      <key>kyc_id_proof</key>
+      <value>
+        <location value="692"/>
+        <location value="1530"/>
+        <location value="781"/>
+        <location value="1574"/>
+        আধার কার্ড
+      </value>
+    </field_item>
+    <field_item>
+      <key>kyc_address_proof</key>
+      <value>
+        <location value="662"/>
+        <location value="1565"/>
+        <location value="771"/>
+        <location value="1613"/>
+        বিদ্যুতের বিল
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

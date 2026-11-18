@@ -1,0 +1,1010 @@
+{
+ "page_id": "indian_languages__bengali_02__p1",
+ "pack": "indian_languages",
+ "document": "bengali_02",
+ "family": "indic_form",
+ "document_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+ "language": "bengali",
+ "script": "Bengali",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1242,
+  1804
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/02_bengali_02/bengali_02_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 4.01,
+  "seed": 1403084580
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "branch_name",
+   "value": "বার্নপুর শাখা",
+   "display_value": "বার্নপুর শাখা",
+   "canonical_value": "বার্নপুর শাখা",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    51.71,
+    270.79,
+    167.72,
+    322.3
+   ],
+   "bbox_pt": [
+    46.41,
+    115.4,
+    100.76,
+    136.38
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     51.71,
+     278.71
+    ],
+    [
+     164.66,
+     270.79
+    ],
+    [
+     167.72,
+     314.38
+    ],
+    [
+     54.76,
+     322.3
+    ]
+   ]
+  },
+  {
+   "key": "branch_city",
+   "value": "আসানসোল",
+   "display_value": "আসানসোল",
+   "canonical_value": "আসানসোল",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    54.47,
+    332.91,
+    159.09,
+    379.09
+   ],
+   "bbox_pt": [
+    45.67,
+    144.87,
+    94.7,
+    163.65
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     54.47,
+     340.05
+    ],
+    [
+     156.36,
+     332.91
+    ],
+    [
+     159.09,
+     371.94
+    ],
+    [
+     57.2,
+     379.09
+    ]
+   ]
+  },
+  {
+   "key": "applicant_name",
+   "value": "কৃষ্ণা রানী রায়",
+   "display_value": "কৃষ্ণা রানী রায়",
+   "canonical_value": "কৃষ্ণা রানী রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    194.38,
+    453.09,
+    309.53,
+    500.45
+   ],
+   "bbox_pt": [
+    108.61,
+    207.46,
+    162.68,
+    226.46
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     194.38,
+     460.96
+    ],
+    [
+     306.76,
+     453.09
+    ],
+    [
+     309.53,
+     492.57
+    ],
+    [
+     197.15,
+     500.45
+    ]
+   ]
+  },
+  {
+   "key": "deposit_amount",
+   "value": "75000",
+   "display_value": "75000",
+   "canonical_value": "75000",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    446.16,
+    537.0,
+    514.51,
+    582.41
+   ],
+   "bbox_pt": [
+    226.46,
+    254.52,
+    257.97,
+    274.16
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     446.16,
+     541.59
+    ],
+    [
+     511.65,
+     537.0
+    ],
+    [
+     514.51,
+     577.82
+    ],
+    [
+     449.02,
+     582.41
+    ]
+   ]
+  },
+  {
+   "key": "amount_in_words",
+   "value": "পঁচাত্তর হাজার",
+   "display_value": "পঁচাত্তর হাজার",
+   "canonical_value": "পঁচাত্তর হাজার",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    718.74,
+    513.6,
+    839.72,
+    561.49
+   ],
+   "bbox_pt": [
+    357.64,
+    254.23,
+    414.52,
+    273.29
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     718.74,
+     521.88
+    ],
+    [
+     836.95,
+     513.6
+    ],
+    [
+     839.72,
+     553.2
+    ],
+    [
+     721.51,
+     561.49
+    ]
+   ]
+  },
+  {
+   "key": "cheque_no",
+   "value": "877090",
+   "display_value": "877090",
+   "canonical_value": "877090",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    244.18,
+    582.22,
+    317.3,
+    625.39
+   ],
+   "bbox_pt": [
+    128.22,
+    269.56,
+    162.11,
+    287.95
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     244.18,
+     587.16
+    ],
+    [
+     314.62,
+     582.22
+    ],
+    [
+     317.3,
+     620.45
+    ],
+    [
+     246.86,
+     625.39
+    ]
+   ]
+  },
+  {
+   "key": "deposit_date",
+   "value": "18/10/2026",
+   "display_value": "18/10/2026",
+   "canonical_value": "18/10/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    476.49,
+    569.28,
+    560.31,
+    607.11
+   ],
+   "bbox_pt": [
+    239.86,
+    271.53,
+    279.11,
+    286.98
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     476.49,
+     575.0
+    ],
+    [
+     558.06,
+     569.28
+    ],
+    [
+     560.31,
+     601.39
+    ],
+    [
+     478.74,
+     607.11
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_name",
+   "value": "কৃষ্ণা রানী রায়",
+   "display_value": "কৃষ্ণা রানী রায়",
+   "canonical_value": "কৃষ্ণা রানী রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    349.21,
+    650.39,
+    464.13,
+    696.15
+   ],
+   "bbox_pt": [
+    176.12,
+    307.13,
+    230.14,
+    325.36
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     349.21,
+     658.26
+    ],
+    [
+     461.47,
+     650.39
+    ],
+    [
+     464.13,
+     688.28
+    ],
+    [
+     351.87,
+     696.15
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_relation_name",
+   "value": "অনিল রায়",
+   "display_value": "অনিল রায়",
+   "canonical_value": "অনিল রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    722.59,
+    661.48,
+    808.75,
+    704.4
+   ],
+   "bbox_pt": [
+    354.6,
+    324.01,
+    394.81,
+    341.84
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     722.59,
+     667.34
+    ],
+    [
+     806.15,
+     661.48
+    ],
+    [
+     808.75,
+     698.54
+    ],
+    [
+     725.19,
+     704.4
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_dob_day",
+   "value": "09",
+   "display_value": "09",
+   "canonical_value": "09",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    191.85,
+    733.42,
+    217.18,
+    770.66
+   ],
+   "bbox_pt": [
+    98.2,
+    338.6,
+    109.18,
+    355.75
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     191.85,
+     735.02
+    ],
+    [
+     214.68,
+     733.42
+    ],
+    [
+     217.18,
+     769.06
+    ],
+    [
+     194.35,
+     770.66
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_dob_month",
+   "value": "12",
+   "display_value": "12",
+   "canonical_value": "12",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    251.11,
+    732.63,
+    271.89,
+    769.72
+   ],
+   "bbox_pt": [
+    126.61,
+    340.06,
+    135.4,
+    357.29
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     251.11,
+     733.92
+    ],
+    [
+     269.38,
+     732.63
+    ],
+    [
+     271.89,
+     768.44
+    ],
+    [
+     253.62,
+     769.72
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_dob_year",
+   "value": "1959",
+   "display_value": "1959",
+   "canonical_value": "1959",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    332.17,
+    725.29,
+    374.75,
+    764.16
+   ],
+   "bbox_pt": [
+    165.62,
+    340.0,
+    184.89,
+    357.35
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     332.17,
+     728.1
+    ],
+    [
+     372.22,
+     725.29
+    ],
+    [
+     374.75,
+     761.36
+    ],
+    [
+     334.7,
+     764.16
+    ]
+   ]
+  },
+  {
+   "key": "second_holder_name",
+   "value": "অনিল রায়",
+   "display_value": "অনিল রায়",
+   "canonical_value": "অনিল রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    537.44,
+    767.55,
+    635.76,
+    816.26
+   ],
+   "bbox_pt": [
+    262.36,
+    368.98,
+    308.25,
+    389.2
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     537.44,
+     774.24
+    ],
+    [
+     632.82,
+     767.55
+    ],
+    [
+     635.76,
+     809.57
+    ],
+    [
+     540.39,
+     816.26
+    ]
+   ]
+  },
+  {
+   "key": "aadhaar_first_holder",
+   "value": "9554 7698 3791",
+   "display_value": "9554 7698 3791",
+   "canonical_value": "9554 7698 3791",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    484.1,
+    937.03,
+    640.77,
+    988.53
+   ],
+   "bbox_pt": [
+    230.99,
+    450.3,
+    305.0,
+    469.89
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     484.1,
+     947.82
+    ],
+    [
+     637.91,
+     937.03
+    ],
+    [
+     640.77,
+     977.74
+    ],
+    [
+     486.95,
+     988.53
+    ]
+   ]
+  },
+  {
+   "key": "pan_first_holder",
+   "value": "MPBPR0143B",
+   "display_value": "MPBPR0143B",
+   "canonical_value": "MPBPR0143B",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    637.97,
+    1012.65,
+    782.37,
+    1064.47
+   ],
+   "bbox_pt": [
+    302.16,
+    491.26,
+    370.23,
+    511.42
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     637.97,
+     1022.57
+    ],
+    [
+     779.44,
+     1012.65
+    ],
+    [
+     782.37,
+     1054.55
+    ],
+    [
+     640.91,
+     1064.47
+    ]
+   ]
+  },
+  {
+   "key": "present_address_line1",
+   "value": "49 স্টেশন রোড",
+   "display_value": "49 স্টেশন রোড",
+   "canonical_value": "49 স্টেশন রোড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    291.11,
+    1140.99,
+    399.25,
+    1183.61
+   ],
+   "bbox_pt": [
+    131.85,
+    539.87,
+    182.7,
+    556.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     291.11,
+     1148.4
+    ],
+    [
+     396.78,
+     1140.99
+    ],
+    [
+     399.25,
+     1176.2
+    ],
+    [
+     293.58,
+     1183.61
+    ]
+   ]
+  },
+  {
+   "key": "present_address_line2",
+   "value": "আপকার গার্ডেন আসানসোল পশ্চিম বর্ধমান - 713304",
+   "display_value": "আপকার গার্ডেন আসানসোল পশ্চিম বর্ধমান - 713304",
+   "canonical_value": "আপকার গার্ডেন আসানসোল পশ্চিম বর্ধমান - 713304",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    113.27,
+    1151.51,
+    562.1,
+    1232.28
+   ],
+   "bbox_pt": [
+    45.54,
+    550.34,
+    259.84,
+    574.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     113.27,
+     1182.73
+    ],
+    [
+     558.63,
+     1151.51
+    ],
+    [
+     562.1,
+     1201.06
+    ],
+    [
+     116.74,
+     1232.28
+    ]
+   ]
+  },
+  {
+   "key": "permanent_address_line1",
+   "value": "49 স্টেশন রোড",
+   "display_value": "49 স্টেশন রোড",
+   "canonical_value": "49 স্টেশন রোড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    241.5,
+    1194.45,
+    366.48,
+    1244.17
+   ],
+   "bbox_pt": [
+    106.26,
+    564.35,
+    165.01,
+    584.16
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     241.5,
+     1203.01
+    ],
+    [
+     363.59,
+     1194.45
+    ],
+    [
+     366.48,
+     1235.62
+    ],
+    [
+     244.39,
+     1244.17
+    ]
+   ]
+  },
+  {
+   "key": "permanent_address_line2",
+   "value": "আপকার গার্ডেন",
+   "display_value": "আপকার গার্ডেন",
+   "canonical_value": "আপকার গার্ডেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    117.75,
+    1233.18,
+    253.22,
+    1281.58
+   ],
+   "bbox_pt": [
+    45.68,
+    579.1,
+    109.55,
+    597.91
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     117.75,
+     1242.49
+    ],
+    [
+     250.48,
+     1233.18
+    ],
+    [
+     253.22,
+     1272.28
+    ],
+    [
+     120.49,
+     1281.58
+    ]
+   ]
+  },
+  {
+   "key": "telephone",
+   "value": "0341-2627479",
+   "display_value": "0341-2627479",
+   "canonical_value": "0341-2627479",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    486.4,
+    1267.13,
+    610.07,
+    1313.38
+   ],
+   "bbox_pt": [
+    221.09,
+    607.34,
+    279.32,
+    625.51
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     486.4,
+     1275.62
+    ],
+    [
+     607.42,
+     1267.13
+    ],
+    [
+     610.07,
+     1304.9
+    ],
+    [
+     489.05,
+     1313.38
+    ]
+   ]
+  },
+  {
+   "key": "mobile",
+   "value": "8943633073",
+   "display_value": "8943633073",
+   "canonical_value": "8943633073",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    477.4,
+    1297.97,
+    590.7,
+    1344.06
+   ],
+   "bbox_pt": [
+    215.77,
+    621.45,
+    268.99,
+    639.9
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     477.4,
+     1305.72
+    ],
+    [
+     588.01,
+     1297.97
+    ],
+    [
+     590.7,
+     1336.3
+    ],
+    [
+     480.09,
+     1344.06
+    ]
+   ]
+  },
+  {
+   "key": "email",
+   "value": "krishna.roy1959@gmail.com",
+   "display_value": "krishna.roy1959@gmail.com",
+   "canonical_value": "krishna.roy1959@gmail.com",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    469.15,
+    1325.91,
+    680.99,
+    1374.42
+   ],
+   "bbox_pt": [
+    210.65,
+    637.87,
+    311.44,
+    654.15
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     469.15,
+     1340.59
+    ],
+    [
+     678.62,
+     1325.91
+    ],
+    [
+     680.99,
+     1359.74
+    ],
+    [
+     471.52,
+     1374.42
+    ]
+   ]
+  },
+  {
+   "key": "kyc_id_proof",
+   "value": "ড্রাইভিং লাইসেন্স",
+   "display_value": "ড্রাইভিং লাইসেন্স",
+   "canonical_value": "ড্রাইভিং লাইসেন্স",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    689.37,
+    1525.72,
+    842.67,
+    1580.47
+   ],
+   "bbox_pt": [
+    309.53,
+    738.95,
+    381.8,
+    760.23
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     689.37,
+     1536.25
+    ],
+    [
+     839.57,
+     1525.72
+    ],
+    [
+     842.67,
+     1569.94
+    ],
+    [
+     692.47,
+     1580.47
+    ]
+   ]
+  },
+  {
+   "key": "kyc_address_proof",
+   "value": "টেলিফোন বিল",
+   "display_value": "টেলিফোন বিল",
+   "canonical_value": "টেলিফোন বিল",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    654.94,
+    1566.8,
+    791.64,
+    1617.45
+   ],
+   "bbox_pt": [
+    291.7,
+    756.91,
+    356.09,
+    776.77
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     654.94,
+     1576.18
+    ],
+    [
+     788.75,
+     1566.8
+    ],
+    [
+     791.64,
+     1608.07
+    ],
+    [
+     657.83,
+     1617.45
+    ]
+   ]
+  }
+ ]
+}

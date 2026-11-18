@@ -1,0 +1,101 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1876" height="1103"/>
+  </head>
+  <field_region>
+    <location value="767"/>
+    <location value="268"/>
+    <location value="1652"/>
+    <location value="1051"/>
+    <field_item>
+      <key>card_number</key>
+      <value>
+        <location value="1308"/>
+        <location value="272"/>
+        <location value="1626"/>
+        <location value="378"/>
+        C00004217
+      </value>
+    </field_item>
+    <field_item>
+      <key>surname</key>
+      <value>
+        <location value="767"/>
+        <location value="385"/>
+        <location value="972"/>
+        <location value="479"/>
+        PATEL
+      </value>
+    </field_item>
+    <field_item>
+      <key>given_names</key>
+      <value>
+        <location value="914"/>
+        <location value="542"/>
+        <location value="1189"/>
+        <location value="631"/>
+        SIMRAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>nationality</key>
+      <value>
+        <location value="819"/>
+        <location value="268"/>
+        <location value="952"/>
+        <location value="333"/>
+        USA
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="1083"/>
+        <location value="685"/>
+        <location value="1450"/>
+        <location value="777"/>
+        04 APR 1971
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="948"/>
+        <location value="693"/>
+        <location value="991"/>
+        <location value="746"/>
+        F
+      </value>
+    </field_item>
+    <field_item>
+      <key>place_of_birth</key>
+      <value>
+        <location value="891"/>
+        <location value="818"/>
+        <location value="1260"/>
+        <location value="908"/>
+        CALIFORNIA
+      </value>
+    </field_item>
+    <field_item>
+      <key>issue_date</key>
+      <value>
+        <location value="889"/>
+        <location value="935"/>
+        <location value="1247"/>
+        <location value="1020"/>
+        10 FEB 2022
+      </value>
+    </field_item>
+    <field_item>
+      <key>expiry_date</key>
+      <value>
+        <location value="1290"/>
+        <location value="966"/>
+        <location value="1652"/>
+        <location value="1051"/>
+        10 FEB 2032
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

@@ -1,0 +1,186 @@
+{
+ "page_id": "indian_languages__hindi_02__p2",
+ "pack": "indian_languages",
+ "document": "hindi_02",
+ "family": "indic_form",
+ "document_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+ "language": "hindi",
+ "script": "Devanagari",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/04_hindi_02/hindi_02__low_light.pdf",
+ "condition": "native:low_light",
+ "degradation_params": {
+  "pack_variant": "low_light"
+ },
+ "gt_provenance": "pack-supplied forward projection of clean geometry",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "address_proof",
+   "value": "टेलीफोन बिल",
+   "display_value": "टेलीफोन बिल",
+   "canonical_value": "टेलीफोन बिल",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    740.19,
+    181.08,
+    839.5,
+    221.88
+   ],
+   "bbox_pt": [
+    355.29,
+    86.92,
+    402.96,
+    106.5
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "specimen_signature",
+   "value": "संदीप तिवारी",
+   "display_value": "संदीप तिवारी",
+   "canonical_value": "संदीप तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    207.33,
+    500.79,
+    314.81,
+    546.94
+   ],
+   "bbox_pt": [
+    99.52,
+    240.38,
+    151.11,
+    262.53
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "guardian_signature",
+   "value": "संदीप तिवारी",
+   "display_value": "संदीप तिवारी",
+   "canonical_value": "संदीप तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    850.9,
+    1023.9,
+    958.67,
+    1070.71
+   ],
+   "bbox_pt": [
+    408.43,
+    491.47,
+    460.16,
+    513.94
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "declaration_date",
+   "value": "06/09/2026",
+   "display_value": "06/09/2026",
+   "canonical_value": "06/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    723.08,
+    1089.17,
+    837.94,
+    1127.35
+   ],
+   "bbox_pt": [
+    347.08,
+    522.8,
+    402.21,
+    541.13
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominator_name",
+   "value": "संदीप कुमार तिवारी",
+   "display_value": "संदीप कुमार तिवारी",
+   "canonical_value": "संदीप कुमार तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    227.81,
+    1162.06,
+    380.19,
+    1205.46
+   ],
+   "bbox_pt": [
+    109.35,
+    557.79,
+    182.49,
+    578.62
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_name_relation",
+   "value": "प्रियंका देवी तिवारी (माता)",
+   "display_value": "प्रियंका देवी तिवारी (माता)",
+   "canonical_value": "प्रियंका देवी तिवारी (माता)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    264.04,
+    1464.12,
+    424.23,
+    1495.1
+   ],
+   "bbox_pt": [
+    126.74,
+    702.78,
+    203.63,
+    717.65
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_share",
+   "value": "100%",
+   "display_value": "100%",
+   "canonical_value": "100%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    820.13,
+    1465.56,
+    859.23,
+    1496.79
+   ],
+   "bbox_pt": [
+    393.66,
+    703.47,
+    412.43,
+    718.46
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

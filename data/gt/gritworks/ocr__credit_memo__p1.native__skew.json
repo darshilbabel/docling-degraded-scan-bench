@@ -1,0 +1,301 @@
+{
+ "page_id": "ocr__credit_memo__p1",
+ "pack": "ocr",
+ "document": "credit_memo",
+ "family": "invoice",
+ "document_type": "Goods return credit memo",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/04_credit_memo/credit_memo__skew.pdf",
+ "condition": "native:skew",
+ "degradation_params": {
+  "pack_variant": "skew"
+ },
+ "gt_provenance": "pack-supplied forward projection of clean geometry",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "credit_memo",
+   "value": "CM-05217",
+   "display_value": "CM-05217",
+   "canonical_value": "CM-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    749.8,
+    181.89,
+    857.81,
+    217.09
+   ],
+   "bbox_pt": [
+    359.903,
+    87.308,
+    411.748,
+    104.204
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "issue_date",
+   "value": "06/12/2026",
+   "display_value": "06/12/2026",
+   "canonical_value": "06/12/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    120.62,
+    431.44,
+    225.81,
+    463.75
+   ],
+   "bbox_pt": [
+    57.898,
+    207.091,
+    108.388,
+    222.599
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "invoice_reference",
+   "value": "INV-G-05217",
+   "display_value": "INV-G-05217",
+   "canonical_value": "INV-G-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    484.98,
+    418.07,
+    608.64,
+    451.03
+   ],
+   "bbox_pt": [
+    232.792,
+    200.674,
+    292.146,
+    216.492
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "purchase_order",
+   "value": "PO-260601-05217",
+   "display_value": "PO-260601-05217",
+   "canonical_value": "PO-260601-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    880.58,
+    402.56,
+    1052.87,
+    437.21
+   ],
+   "bbox_pt": [
+    422.676,
+    193.228,
+    505.376,
+    209.861
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "customer_name",
+   "value": "ORCHARD VALE FOODS",
+   "display_value": "ORCHARD VALE FOODS",
+   "canonical_value": "ORCHARD VALE FOODS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    125.19,
+    555.58,
+    423.44,
+    600.36
+   ],
+   "bbox_pt": [
+    60.092,
+    266.68,
+    203.25,
+    288.173
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "customer_account",
+   "value": "OVF-05217",
+   "display_value": "OVF-05217",
+   "canonical_value": "OVF-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    126.73,
+    606.11,
+    235.35,
+    638.48
+   ],
+   "bbox_pt": [
+    60.828,
+    290.932,
+    112.966,
+    306.468
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "return.description",
+   "value": "AF-48 cartridges",
+   "display_value": "AF-48 cartridges",
+   "canonical_value": "AF-48 cartridges",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    150.01,
+    973.35,
+    289.41,
+    1003.93
+   ],
+   "bbox_pt": [
+    72.005,
+    467.207,
+    138.915,
+    481.887
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "return.quantity",
+   "value": 2,
+   "display_value": "2",
+   "canonical_value": "2",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    689.26,
+    958.99,
+    700.58,
+    985.1
+   ],
+   "bbox_pt": [
+    330.847,
+    460.315,
+    336.28,
+    472.848
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "return.unit_price",
+   "value": "48.00",
+   "display_value": "48.00",
+   "canonical_value": "48.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    835.01,
+    952.63,
+    882.79,
+    980.01
+   ],
+   "bbox_pt": [
+    400.804,
+    457.261,
+    423.74,
+    470.405
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "return.goods_credit",
+   "value": "96.00",
+   "display_value": "96.00",
+   "canonical_value": "96.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1011.99,
+    946.45,
+    1059.77,
+    973.83
+   ],
+   "bbox_pt": [
+    485.753,
+    454.295,
+    508.688,
+    467.439
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "tax_credit",
+   "value": "7.68",
+   "display_value": "$7.68",
+   "canonical_value": "$7.68",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1131.41,
+    1054.17,
+    1189.81,
+    1087.64
+   ],
+   "bbox_pt": [
+    543.076,
+    506.001,
+    571.109,
+    522.066
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "total_credit",
+   "value": "103.68",
+   "display_value": "$103.68",
+   "canonical_value": "$103.68",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    977.61,
+    1148.53,
+    1175.85,
+    1229.9
+   ],
+   "bbox_pt": [
+    469.251,
+    551.293,
+    564.407,
+    590.352
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

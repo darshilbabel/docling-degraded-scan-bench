@@ -1,0 +1,81 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="207"/>
+    <location value="181"/>
+    <location value="959"/>
+    <location value="1497"/>
+    <field_item>
+      <key>address_proof</key>
+      <value>
+        <location value="740"/>
+        <location value="181"/>
+        <location value="840"/>
+        <location value="222"/>
+        टेलीफोन बिल
+      </value>
+    </field_item>
+    <field_item>
+      <key>specimen_signature</key>
+      <value>
+        <location value="207"/>
+        <location value="501"/>
+        <location value="315"/>
+        <location value="547"/>
+        संदीप तिवारी
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_signature</key>
+      <value>
+        <location value="851"/>
+        <location value="1024"/>
+        <location value="959"/>
+        <location value="1071"/>
+        संदीप तिवारी
+      </value>
+    </field_item>
+    <field_item>
+      <key>declaration_date</key>
+      <value>
+        <location value="723"/>
+        <location value="1089"/>
+        <location value="838"/>
+        <location value="1127"/>
+        06/09/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominator_name</key>
+      <value>
+        <location value="228"/>
+        <location value="1162"/>
+        <location value="380"/>
+        <location value="1205"/>
+        संदीप कुमार तिवारी
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_name_relation</key>
+      <value>
+        <location value="264"/>
+        <location value="1464"/>
+        <location value="424"/>
+        <location value="1495"/>
+        प्रियंका देवी तिवारी (माता)
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_share</key>
+      <value>
+        <location value="820"/>
+        <location value="1466"/>
+        <location value="859"/>
+        <location value="1497"/>
+        100%
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

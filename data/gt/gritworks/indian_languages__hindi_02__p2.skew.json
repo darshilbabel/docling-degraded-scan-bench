@@ -1,0 +1,313 @@
+{
+ "page_id": "indian_languages__hindi_02__p2",
+ "pack": "indian_languages",
+ "document": "hindi_02",
+ "family": "indic_form",
+ "document_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+ "language": "hindi",
+ "script": "Devanagari",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/04_hindi_02/hindi_02_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 2.09,
+  "seed": 457017494
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "address_proof",
+   "value": "टेलीफोन बिल",
+   "display_value": "टेलीफोन बिल",
+   "canonical_value": "टेलीफोन बिल",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    715.71,
+    174.16,
+    816.44,
+    218.55
+   ],
+   "bbox_pt": [
+    355.29,
+    86.92,
+    402.96,
+    106.5
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     715.71,
+     177.78
+    ],
+    [
+     814.95,
+     174.16
+    ],
+    [
+     816.44,
+     214.93
+    ],
+    [
+     717.2,
+     218.55
+    ]
+   ]
+  },
+  {
+   "key": "specimen_signature",
+   "value": "संदीप तिवारी",
+   "display_value": "संदीप तिवारी",
+   "canonical_value": "संदीप तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    194.86,
+    512.79,
+    303.95,
+    562.83
+   ],
+   "bbox_pt": [
+    99.52,
+    240.38,
+    151.11,
+    262.53
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     194.86,
+     516.71
+    ],
+    [
+     302.27,
+     512.79
+    ],
+    [
+     303.95,
+     558.91
+    ],
+    [
+     196.55,
+     562.83
+    ]
+   ]
+  },
+  {
+   "key": "guardian_signature",
+   "value": "संदीप तिवारी",
+   "display_value": "संदीप तिवारी",
+   "canonical_value": "संदीप तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    857.08,
+    1012.07,
+    966.49,
+    1062.78
+   ],
+   "bbox_pt": [
+    408.43,
+    491.47,
+    460.16,
+    513.94
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     857.08,
+     1016.0
+    ],
+    [
+     964.78,
+     1012.07
+    ],
+    [
+     966.49,
+     1058.85
+    ],
+    [
+     858.79,
+     1062.78
+    ]
+   ]
+  },
+  {
+   "key": "declaration_date",
+   "value": "06/09/2026",
+   "display_value": "06/09/2026",
+   "canonical_value": "06/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    731.73,
+    1081.7,
+    847.9,
+    1124.04
+   ],
+   "bbox_pt": [
+    347.08,
+    522.8,
+    402.21,
+    541.13
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     731.73,
+     1085.89
+    ],
+    [
+     846.51,
+     1081.7
+    ],
+    [
+     847.9,
+     1119.86
+    ],
+    [
+     733.12,
+     1124.04
+    ]
+   ]
+  },
+  {
+   "key": "nominator_name",
+   "value": "संदीप कुमार तिवारी",
+   "display_value": "संदीप कुमार तिवारी",
+   "canonical_value": "संदीप कुमार तिवारी",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    239.44,
+    1171.24,
+    393.31,
+    1220.16
+   ],
+   "bbox_pt": [
+    109.35,
+    557.79,
+    182.49,
+    578.62
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     239.44,
+     1176.79
+    ],
+    [
+     391.72,
+     1171.24
+    ],
+    [
+     393.31,
+     1214.61
+    ],
+    [
+     241.03,
+     1220.16
+    ]
+   ]
+  },
+  {
+   "key": "nominee_name_relation",
+   "value": "प्रियंका देवी तिवारी (माता)",
+   "display_value": "प्रियंका देवी तिवारी (माता)",
+   "canonical_value": "प्रियंका देवी तिवारी (माता)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    286.67,
+    1471.49,
+    447.88,
+    1508.29
+   ],
+   "bbox_pt": [
+    126.74,
+    702.78,
+    203.63,
+    717.65
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     286.67,
+     1477.33
+    ],
+    [
+     446.75,
+     1471.49
+    ],
+    [
+     447.88,
+     1502.45
+    ],
+    [
+     287.8,
+     1508.29
+    ]
+   ]
+  },
+  {
+   "key": "nominee_share",
+   "value": "100%",
+   "display_value": "100%",
+   "canonical_value": "100%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    842.44,
+    1457.06,
+    882.65,
+    1489.7
+   ],
+   "bbox_pt": [
+    393.66,
+    703.47,
+    412.43,
+    718.46
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     842.44,
+     1458.49
+    ],
+    [
+     881.51,
+     1457.06
+    ],
+    [
+     882.65,
+     1488.27
+    ],
+    [
+     843.58,
+     1489.7
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,261 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="184"/>
+    <location value="254"/>
+    <location value="1043"/>
+    <location value="1492"/>
+    <field_item>
+      <key>office_name</key>
+      <value>
+        <location value="327"/>
+        <location value="254"/>
+        <location value="456"/>
+        <location value="304"/>
+        विज्ञान नगर शाखा
+      </value>
+    </field_item>
+    <field_item>
+      <key>office_city</key>
+      <value>
+        <location value="327"/>
+        <location value="279"/>
+        <location value="362"/>
+        <location value="318"/>
+        कोटा
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_name</key>
+      <value>
+        <location value="336"/>
+        <location value="438"/>
+        <location value="492"/>
+        <location value="495"/>
+        संदीप कुमार तिवारी
+      </value>
+    </field_item>
+    <field_item>
+      <key>scheme_name</key>
+      <value>
+        <location value="283"/>
+        <location value="461"/>
+        <location value="501"/>
+        <location value="520"/>
+        सुकन्या समृद्धि खाता योजना
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_amount</key>
+      <value>
+        <location value="332"/>
+        <location value="527"/>
+        <location value="382"/>
+        <location value="568"/>
+        2000
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_in_words</key>
+      <value>
+        <location value="740"/>
+        <location value="561"/>
+        <location value="808"/>
+        <location value="607"/>
+        दो हज़ार
+      </value>
+    </field_item>
+    <field_item>
+      <key>cheque_dd_no</key>
+      <value>
+        <location value="805"/>
+        <location value="595"/>
+        <location value="888"/>
+        <location value="643"/>
+        868043
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_date</key>
+      <value>
+        <location value="368"/>
+        <location value="588"/>
+        <location value="502"/>
+        <location value="641"/>
+        06/09/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>depositor_name</key>
+      <value>
+        <location value="416"/>
+        <location value="654"/>
+        <location value="530"/>
+        <location value="701"/>
+        आराध्या तिवारी
+      </value>
+    </field_item>
+    <field_item>
+      <key>depositor_dob</key>
+      <value>
+        <location value="532"/>
+        <location value="686"/>
+        <location value="646"/>
+        <location value="738"/>
+        31/10/2021
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_name</key>
+      <value>
+        <location value="553"/>
+        <location value="756"/>
+        <location value="689"/>
+        <location value="804"/>
+        संदीप कुमार तिवारी
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_dob</key>
+      <value>
+        <location value="377"/>
+        <location value="767"/>
+        <location value="488"/>
+        <location value="814"/>
+        28/07/1984
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_aadhaar</key>
+      <value>
+        <location value="468"/>
+        <location value="807"/>
+        <location value="632"/>
+        <location value="863"/>
+        4329 9105 5612
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_pan</key>
+      <value>
+        <location value="559"/>
+        <location value="844"/>
+        <location value="684"/>
+        <location value="894"/>
+        IUDPT3844O
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line1</key>
+      <value>
+        <location value="265"/>
+        <location value="870"/>
+        <location value="699"/>
+        <location value="950"/>
+        फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line2</key>
+      <value>
+        <location value="266"/>
+        <location value="894"/>
+        <location value="482"/>
+        <location value="955"/>
+        तलवंडी कोटा - 324005
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line1</key>
+      <value>
+        <location value="190"/>
+        <location value="939"/>
+        <location value="597"/>
+        <location value="1021"/>
+        फ्लैट नं. 407 साईं अपार्टमेंट गली नं. 4 शास्त्री नगर
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line2</key>
+      <value>
+        <location value="184"/>
+        <location value="1021"/>
+        <location value="233"/>
+        <location value="1062"/>
+        तलवंडी
+      </value>
+    </field_item>
+    <field_item>
+      <key>telephone</key>
+      <value>
+        <location value="762"/>
+        <location value="1146"/>
+        <location value="917"/>
+        <location value="1202"/>
+        0744-2019035
+      </value>
+    </field_item>
+    <field_item>
+      <key>mobile</key>
+      <value>
+        <location value="821"/>
+        <location value="1185"/>
+        <location value="950"/>
+        <location value="1234"/>
+        7658999553
+      </value>
+    </field_item>
+    <field_item>
+      <key>email</key>
+      <value>
+        <location value="860"/>
+        <location value="1223"/>
+        <location value="1043"/>
+        <location value="1273"/>
+        stiwari25@gmail.com
+      </value>
+    </field_item>
+    <field_item>
+      <key>birth_cert_no</key>
+      <value>
+        <location value="428"/>
+        <location value="1322"/>
+        <location value="559"/>
+        <location value="1371"/>
+        B/2021/07425
+      </value>
+    </field_item>
+    <field_item>
+      <key>cert_issue_date</key>
+      <value>
+        <location value="462"/>
+        <location value="1355"/>
+        <location value="573"/>
+        <location value="1401"/>
+        27/08/2022
+      </value>
+    </field_item>
+    <field_item>
+      <key>issuing_authority</key>
+      <value>
+        <location value="513"/>
+        <location value="1389"/>
+        <location value="793"/>
+        <location value="1450"/>
+        जन्म एवं मृत्यु पंजीकरण कार्यालय कोटा
+      </value>
+    </field_item>
+    <field_item>
+      <key>id_proof</key>
+      <value>
+        <location value="681"/>
+        <location value="1446"/>
+        <location value="768"/>
+        <location value="1492"/>
+        आधार कार्ड
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

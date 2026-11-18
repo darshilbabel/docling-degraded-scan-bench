@@ -1,0 +1,211 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="47"/>
+    <location value="84"/>
+    <location value="1197"/>
+    <location value="1378"/>
+    <field_item>
+      <key>supplier_name</key>
+      <value>
+        <location value="47"/>
+        <location value="84"/>
+        <location value="648"/>
+        <location value="156"/>
+        MAPLEBRIDGE INDUSTRIAL SUPPLY
+      </value>
+    </field_item>
+    <field_item>
+      <key>document_number</key>
+      <value>
+        <location value="795"/>
+        <location value="192"/>
+        <location value="929"/>
+        <location value="229"/>
+        INV-S-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>document_date</key>
+      <value>
+        <location value="797"/>
+        <location value="228"/>
+        <location value="902"/>
+        <location value="261"/>
+        06/09/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_name</key>
+      <value>
+        <location value="58"/>
+        <location value="357"/>
+        <location value="332"/>
+        <location value="400"/>
+        ORCHARD VALE FOODS
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_account</key>
+      <value>
+        <location value="801"/>
+        <location value="334"/>
+        <location value="910"/>
+        <location value="368"/>
+        OVF-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>purchase_order</key>
+      <value>
+        <location value="803"/>
+        <location value="363"/>
+        <location value="975"/>
+        <location value="399"/>
+        PO-260601-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>site</key>
+      <value>
+        <location value="85"/>
+        <location value="501"/>
+        <location value="474"/>
+        <location value="546"/>
+        Service site: Orchard Vale Foods / Dock 4
+      </value>
+    </field_item>
+    <field_item>
+      <key>work_order</key>
+      <value>
+        <location value="87"/>
+        <location value="536"/>
+        <location value="581"/>
+        <location value="586"/>
+        Work completed: 06/08/2026 | Work order WO-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.1.description</key>
+      <value>
+        <location value="83"/>
+        <location value="714"/>
+        <location value="174"/>
+        <location value="744"/>
+        Installation
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.1.hours</key>
+      <value>
+        <location value="679"/>
+        <location value="691"/>
+        <location value="706"/>
+        <location value="718"/>
+        3.0
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.1.rate</key>
+      <value>
+        <location value="824"/>
+        <location value="684"/>
+        <location value="883"/>
+        <location value="712"/>
+        150.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.1.amount</key>
+      <value>
+        <location value="1001"/>
+        <location value="676"/>
+        <location value="1060"/>
+        <location value="704"/>
+        450.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.2.description</key>
+      <value>
+        <location value="86"/>
+        <location value="777"/>
+        <location value="177"/>
+        <location value="806"/>
+        Calibration
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.2.hours</key>
+      <value>
+        <location value="681"/>
+        <location value="754"/>
+        <location value="709"/>
+        <location value="781"/>
+        2.0
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.2.rate</key>
+      <value>
+        <location value="827"/>
+        <location value="746"/>
+        <location value="885"/>
+        <location value="774"/>
+        100.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>services.2.amount</key>
+      <value>
+        <location value="1004"/>
+        <location value="739"/>
+        <location value="1062"/>
+        <location value="767"/>
+        200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>subtotal</key>
+      <value>
+        <location value="1100"/>
+        <location value="1050"/>
+        <location value="1192"/>
+        <location value="1088"/>
+        $650.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>tax</key>
+      <value>
+        <location value="1130"/>
+        <location value="1108"/>
+        <location value="1194"/>
+        <location value="1145"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_due</key>
+      <value>
+        <location value="1105"/>
+        <location value="1166"/>
+        <location value="1197"/>
+        <location value="1205"/>
+        $650.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>due_date</key>
+      <value>
+        <location value="100"/>
+        <location value="1337"/>
+        <location value="321"/>
+        <location value="1378"/>
+        Due date: 07/09/2026
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

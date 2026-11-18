@@ -1,0 +1,111 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1500" height="1011"/>
+  </head>
+  <field_region>
+    <location value="545"/>
+    <location value="223"/>
+    <location value="1322"/>
+    <location value="781"/>
+    <field_item>
+      <key>license_number</key>
+      <value>
+        <location value="583"/>
+        <location value="249"/>
+        <location value="779"/>
+        <location value="321"/>
+        D0004217
+      </value>
+    </field_item>
+    <field_item>
+      <key>expiry_date</key>
+      <value>
+        <location value="601"/>
+        <location value="318"/>
+        <location value="781"/>
+        <location value="380"/>
+        08/14/2032
+      </value>
+    </field_item>
+    <field_item>
+      <key>surname</key>
+      <value>
+        <location value="584"/>
+        <location value="374"/>
+        <location value="703"/>
+        <location value="432"/>
+        PATEL
+      </value>
+    </field_item>
+    <field_item>
+      <key>given_names</key>
+      <value>
+        <location value="587"/>
+        <location value="418"/>
+        <location value="730"/>
+        <location value="477"/>
+        SIMRAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_line1</key>
+      <value>
+        <location value="545"/>
+        <location value="459"/>
+        <location value="796"/>
+        <location value="516"/>
+        2570 24TH STREET
+      </value>
+    </field_item>
+    <field_item>
+      <key>city_state_zip</key>
+      <value>
+        <location value="548"/>
+        <location value="492"/>
+        <location value="855"/>
+        <location value="550"/>
+        SACRAMENTO, CA 95818
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="622"/>
+        <location value="533"/>
+        <location value="870"/>
+        <location value="591"/>
+        04/04/1971
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="760"/>
+        <location value="692"/>
+        <location value="786"/>
+        <location value="725"/>
+        F
+      </value>
+    </field_item>
+    <field_item>
+      <key>issue_date</key>
+      <value>
+        <location value="1107"/>
+        <location value="725"/>
+        <location value="1322"/>
+        <location value="781"/>
+        08/14/2022
+      </value>
+    </field_item>
+    <field_item>
+      <key>class</key>
+      <value>
+        <location value="1060"/>
+        <location value="223"/>
+        <location value="1090"/>
+        <location value="256"/>
+        C
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

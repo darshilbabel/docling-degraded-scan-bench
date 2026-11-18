@@ -1,0 +1,61 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="75"/>
+    <location value="219"/>
+    <location value="610"/>
+    <location value="500"/>
+    <field_item>
+      <key>member_name</key>
+      <value>
+        <location value="113"/>
+        <location value="219"/>
+        <location value="302"/>
+        <location value="251"/>
+        AVERY MORGAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_address</key>
+      <value>
+        <location value="113"/>
+        <location value="257"/>
+        <location value="432"/>
+        <location value="285"/>
+        4607 WILLOW BEND LN APT 204
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_city_state_zip</key>
+      <value>
+        <location value="113"/>
+        <location value="292"/>
+        <location value="291"/>
+        <location value="321"/>
+        AUSTIN, TX 78731
+      </value>
+    </field_item>
+    <field_item>
+      <key>plan_name</key>
+      <value>
+        <location value="75"/>
+        <location value="442"/>
+        <location value="610"/>
+        <location value="471"/>
+        CEDAR CHOICE PPO - EMPLOYEE-ONLY COVERAGE
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_and_group</key>
+      <value>
+        <location value="75"/>
+        <location value="471"/>
+        <location value="517"/>
+        <location value="500"/>
+        <content>Member ID: CHP0842719    Group: GRP-04217</content>
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

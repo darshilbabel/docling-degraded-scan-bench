@@ -1,0 +1,1198 @@
+[
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "checking_statement_clean",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/01_checking_statement/checking_statement_clean.pdf",
+  "variant": "clean",
+  "pages": 2,
+  "fields": 60,
+  "fields_with_bbox": 60,
+  "words": 94,
+  "doc_type": "US checking account statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "checking_statement_photocopy_coffee_stain",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/01_checking_statement/checking_statement_photocopy_coffee_stain.pdf",
+  "variant": "photocopy_coffee_stain",
+  "pages": 2,
+  "fields": 60,
+  "fields_with_bbox": 60,
+  "words": 0,
+  "doc_type": "US checking account statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "paystub_clean",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/02_paystub/paystub_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 32,
+  "fields_with_bbox": 32,
+  "words": 53,
+  "doc_type": "US year-end earnings statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "paystub_blur",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/02_paystub/paystub_blur.pdf",
+  "variant": "blur",
+  "pages": 1,
+  "fields": 32,
+  "fields_with_bbox": 32,
+  "words": 0,
+  "doc_type": "US year-end earnings statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "w2_clean",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/03_w2/w2_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 27,
+  "fields_with_bbox": 27,
+  "words": 0,
+  "doc_type": "US Form W-2, tax year 2025",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "w2_skew",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/03_w2/w2_skew.pdf",
+  "variant": "skew",
+  "pages": 1,
+  "fields": 27,
+  "fields_with_bbox": 27,
+  "words": 0,
+  "doc_type": "US Form W-2, tax year 2025",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "mortgage_statement_clean",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/04_mortgage_statement/mortgage_statement_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 21,
+  "fields_with_bbox": 21,
+  "words": 32,
+  "doc_type": "US mortgage activity statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "mortgage_statement_low_light",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/04_mortgage_statement/mortgage_statement_low_light.pdf",
+  "variant": "low_light",
+  "pages": 1,
+  "fields": 21,
+  "fields_with_bbox": 21,
+  "words": 0,
+  "doc_type": "US mortgage activity statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "utility_bill_clean",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/05_utility_bill/utility_bill_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 18,
+  "fields_with_bbox": 18,
+  "words": 30,
+  "doc_type": "US residential utility statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    595.9199829101562,
+    866.8800048828125
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks Banking Sample Pack",
+  "id": "utility_bill_crop",
+  "pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/05_utility_bill/utility_bill_crop.pdf",
+  "variant": "crop",
+  "pages": 1,
+  "fields": 18,
+  "fields_with_bbox": 18,
+  "words": 0,
+  "doc_type": "US residential utility statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    595.9199829101562,
+    866.8800048828125
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "patient_registration_clean",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/01_patient_registration/patient_registration_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 14,
+  "fields_with_bbox": 14,
+  "words": 0,
+  "doc_type": "Patient registration form",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "patient_registration__coffee_stain",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/01_patient_registration/patient_registration__coffee_stain.pdf",
+  "variant": "coffee_stain",
+  "pages": 1,
+  "fields": 14,
+  "fields_with_bbox": 14,
+  "words": 0,
+  "doc_type": "Patient registration form",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "lab_requisition_clean",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/02_lab_requisition/lab_requisition_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 16,
+  "fields_with_bbox": 16,
+  "words": 0,
+  "doc_type": "Laboratory requisition",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "lab_requisition__blur",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/02_lab_requisition/lab_requisition__blur.pdf",
+  "variant": "blur",
+  "pages": 1,
+  "fields": 16,
+  "fields_with_bbox": 16,
+  "words": 0,
+  "doc_type": "Laboratory requisition",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "physician_authorization_clean",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/03_physician_authorization/physician_authorization_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 13,
+  "fields_with_bbox": 13,
+  "words": 0,
+  "doc_type": "Physician laboratory authorization",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "physician_authorization__photocopy",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/03_physician_authorization/physician_authorization__photocopy.pdf",
+  "variant": "photocopy",
+  "pages": 1,
+  "fields": 13,
+  "fields_with_bbox": 13,
+  "words": 0,
+  "doc_type": "Physician laboratory authorization",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "specimen_query_clean",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/04_specimen_query/specimen_query_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 12,
+  "fields_with_bbox": 12,
+  "words": 0,
+  "doc_type": "Resolved specimen documentation query",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "specimen_query__crop",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/04_specimen_query/specimen_query__crop.pdf",
+  "variant": "crop",
+  "pages": 1,
+  "fields": 12,
+  "fields_with_bbox": 12,
+  "words": 0,
+  "doc_type": "Resolved specimen documentation query",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "lab_report_clean",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/05_lab_report/lab_report_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 108,
+  "fields_with_bbox": 108,
+  "words": 0,
+  "doc_type": "CD4/CD8 profile and CBC report",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Diagnostics",
+  "id": "lab_report__low_light",
+  "pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/05_lab_report/lab_report__low_light.pdf",
+  "variant": "low_light",
+  "pages": 1,
+  "fields": 108,
+  "fields_with_bbox": 108,
+  "words": 0,
+  "doc_type": "CD4/CD8 profile and CBC report",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "bengali_01_clean",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/01_bengali_01/bengali_01_clean.pdf",
+  "variant": "clean",
+  "pages": 2,
+  "fields": 31,
+  "fields_with_bbox": 31,
+  "words": 62,
+  "doc_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+  "language": "bengali",
+  "script": "Bengali",
+  "page_sizes_pt": [
+   [
+    595.9199829101562,
+    865.9199829101562
+   ],
+   [
+    595.9199829101562,
+    865.9199829101562
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "bengali_01__blur",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/01_bengali_01/bengali_01__blur.pdf",
+  "variant": "blur",
+  "pages": 2,
+  "fields": 31,
+  "fields_with_bbox": 31,
+  "words": 0,
+  "doc_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+  "language": "bengali",
+  "script": "Bengali",
+  "page_sizes_pt": [
+   [
+    595.9199829101562,
+    865.9199829101562
+   ],
+   [
+    595.9199829101562,
+    865.9199829101562
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "bengali_02_clean",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/02_bengali_02/bengali_02_clean.pdf",
+  "variant": "clean",
+  "pages": 2,
+  "fields": 31,
+  "fields_with_bbox": 31,
+  "words": 62,
+  "doc_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+  "language": "bengali",
+  "script": "Bengali",
+  "page_sizes_pt": [
+   [
+    595.9199829101562,
+    865.9199829101562
+   ],
+   [
+    595.9199829101562,
+    865.9199829101562
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "bengali_02__coffee_stain",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/02_bengali_02/bengali_02__coffee_stain.pdf",
+  "variant": "coffee_stain",
+  "pages": 2,
+  "fields": 31,
+  "fields_with_bbox": 31,
+  "words": 0,
+  "doc_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+  "language": "bengali",
+  "script": "Bengali",
+  "page_sizes_pt": [
+   [
+    595.9199829101562,
+    865.9199829101562
+   ],
+   [
+    595.9199829101562,
+    865.9199829101562
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "hindi_01_clean",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/03_hindi_01/hindi_01_clean.pdf",
+  "variant": "clean",
+  "pages": 2,
+  "fields": 32,
+  "fields_with_bbox": 32,
+  "words": 73,
+  "doc_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+  "language": "hindi",
+  "script": "Devanagari",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "hindi_01__photocopy",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/03_hindi_01/hindi_01__photocopy.pdf",
+  "variant": "photocopy",
+  "pages": 2,
+  "fields": 32,
+  "fields_with_bbox": 32,
+  "words": 0,
+  "doc_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+  "language": "hindi",
+  "script": "Devanagari",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "hindi_02_clean",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/04_hindi_02/hindi_02_clean.pdf",
+  "variant": "clean",
+  "pages": 2,
+  "fields": 32,
+  "fields_with_bbox": 32,
+  "words": 80,
+  "doc_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+  "language": "hindi",
+  "script": "Devanagari",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "hindi_02__low_light",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/04_hindi_02/hindi_02__low_light.pdf",
+  "variant": "low_light",
+  "pages": 2,
+  "fields": 32,
+  "fields_with_bbox": 32,
+  "words": 0,
+  "doc_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+  "language": "hindi",
+  "script": "Devanagari",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "marathi_01_clean",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/05_marathi_01/marathi_01_clean.pdf",
+  "variant": "clean",
+  "pages": 2,
+  "fields": 27,
+  "fields_with_bbox": 27,
+  "words": 125,
+  "doc_type": "SBI account opening form Part-I: Customer Information Sheet (CIF), Marathi",
+  "language": "marathi",
+  "script": "Devanagari",
+  "page_sizes_pt": [
+   [
+    594.9599609375,
+    864.9599609375
+   ],
+   [
+    594.9599609375,
+    864.9599609375
+   ]
+  ]
+ },
+ {
+  "pack": "Indian Languages",
+  "id": "marathi_01__crop",
+  "pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/05_marathi_01/marathi_01__crop.pdf",
+  "variant": "crop",
+  "pages": 2,
+  "fields": 27,
+  "fields_with_bbox": 27,
+  "words": 0,
+  "doc_type": "SBI account opening form Part-I: Customer Information Sheet (CIF), Marathi",
+  "language": "marathi",
+  "script": "Devanagari",
+  "page_sizes_pt": [
+   [
+    594.9599609375,
+    864.9599609375
+   ],
+   [
+    594.9599609375,
+    864.9599609375
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "premium_statement_clean",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/01_premium_statement/premium_statement_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 17,
+  "fields_with_bbox": 17,
+  "words": 32,
+  "doc_type": "Health insurance premium statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    858.5454711914062
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "premium_statement__photocopy",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/01_premium_statement/premium_statement__photocopy.pdf",
+  "variant": "photocopy",
+  "pages": 1,
+  "fields": 17,
+  "fields_with_bbox": 17,
+  "words": 0,
+  "doc_type": "Health insurance premium statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    858.5454711914062
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "cms1500_claim_clean",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/02_cms1500_claim/cms1500_claim_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 57,
+  "fields_with_bbox": 57,
+  "words": 92,
+  "doc_type": "CMS-1500 professional health insurance claim",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    684.0,
+    888.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "cms1500_claim__blur",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/02_cms1500_claim/cms1500_claim__blur.pdf",
+  "variant": "blur",
+  "pages": 1,
+  "fields": 57,
+  "fields_with_bbox": 57,
+  "words": 0,
+  "doc_type": "CMS-1500 professional health insurance claim",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    684.0,
+    888.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "itemized_invoice_clean",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/03_itemized_invoice/itemized_invoice_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 24,
+  "fields_with_bbox": 24,
+  "words": 58,
+  "doc_type": "Itemized provider medical invoice",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "itemized_invoice__coffee_stain",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/03_itemized_invoice/itemized_invoice__coffee_stain.pdf",
+  "variant": "coffee_stain",
+  "pages": 1,
+  "fields": 24,
+  "fields_with_bbox": 24,
+  "words": 0,
+  "doc_type": "Itemized provider medical invoice",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "explanation_of_benefits_clean",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/04_explanation_of_benefits/explanation_of_benefits_clean.pdf",
+  "variant": "clean",
+  "pages": 2,
+  "fields": 58,
+  "fields_with_bbox": 58,
+  "words": 103,
+  "doc_type": "Health insurance explanation of benefits",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    792.0,
+    636.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "explanation_of_benefits__low_light",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/04_explanation_of_benefits/explanation_of_benefits__low_light.pdf",
+  "variant": "low_light",
+  "pages": 2,
+  "fields": 58,
+  "fields_with_bbox": 58,
+  "words": 0,
+  "doc_type": "Health insurance explanation of benefits",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ],
+   [
+    792.0,
+    636.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "patient_statement_clean",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/05_patient_statement/patient_statement_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 13,
+  "fields_with_bbox": 13,
+  "words": 26,
+  "doc_type": "Post-adjudication patient balance statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "GritWorks-Insurance-10-PDF-Sample",
+  "id": "patient_statement__crop",
+  "pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/05_patient_statement/patient_statement__crop.pdf",
+  "variant": "crop",
+  "pages": 1,
+  "fields": 13,
+  "fields_with_bbox": 13,
+  "words": 0,
+  "doc_type": "Post-adjudication patient balance statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "purchase_order_clean",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/01_purchase_order/purchase_order_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 34,
+  "fields_with_bbox": 34,
+  "words": 0,
+  "doc_type": "Industrial purchase order",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "purchase_order__photocopy",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/01_purchase_order/purchase_order__photocopy.pdf",
+  "variant": "photocopy",
+  "pages": 1,
+  "fields": 34,
+  "fields_with_bbox": 34,
+  "words": 0,
+  "doc_type": "Industrial purchase order",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "goods_invoice_clean",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/02_goods_invoice/goods_invoice_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 27,
+  "fields_with_bbox": 27,
+  "words": 0,
+  "doc_type": "Goods invoice",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "goods_invoice__blur",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/02_goods_invoice/goods_invoice__blur.pdf",
+  "variant": "blur",
+  "pages": 1,
+  "fields": 27,
+  "fields_with_bbox": 27,
+  "words": 0,
+  "doc_type": "Goods invoice",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "services_invoice_clean",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/03_services_invoice/services_invoice_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 20,
+  "fields_with_bbox": 20,
+  "words": 0,
+  "doc_type": "Field services invoice",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "services_invoice__coffee_stain",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/03_services_invoice/services_invoice__coffee_stain.pdf",
+  "variant": "coffee_stain",
+  "pages": 1,
+  "fields": 20,
+  "fields_with_bbox": 20,
+  "words": 0,
+  "doc_type": "Field services invoice",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "credit_memo_clean",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/04_credit_memo/credit_memo_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 12,
+  "fields_with_bbox": 12,
+  "words": 0,
+  "doc_type": "Goods return credit memo",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "credit_memo__skew",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/04_credit_memo/credit_memo__skew.pdf",
+  "variant": "skew",
+  "pages": 1,
+  "fields": 12,
+  "fields_with_bbox": 12,
+  "words": 0,
+  "doc_type": "Goods return credit memo",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "account_statement_clean",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/05_account_statement/account_statement_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 24,
+  "fields_with_bbox": 24,
+  "words": 0,
+  "doc_type": "Supplier account statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "OCR & Extraction",
+  "id": "account_statement__crop",
+  "pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/05_account_statement/account_statement__crop.pdf",
+  "variant": "crop",
+  "pages": 1,
+  "fields": 24,
+  "fields_with_bbox": 24,
+  "words": 0,
+  "doc_type": "Supplier account statement",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "passport_clean",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/01_passport/passport_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 12,
+  "fields_with_bbox": 12,
+  "words": 0,
+  "doc_type": "US passport biographic sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    900.0,
+    924.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "passport__blur",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/01_passport/passport__blur.pdf",
+  "variant": "blur",
+  "pages": 1,
+  "fields": 12,
+  "fields_with_bbox": 12,
+  "words": 0,
+  "doc_type": "US passport biographic sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    900.0,
+    924.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "driving_license_clean",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/02_driving_license/driving_license_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 10,
+  "fields_with_bbox": 10,
+  "words": 0,
+  "doc_type": "US driver license sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    720.0,
+    485.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "driving_license__bad_photo",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/02_driving_license/driving_license__bad_photo.pdf",
+  "variant": "bad_photo",
+  "pages": 1,
+  "fields": 10,
+  "fields_with_bbox": 10,
+  "words": 0,
+  "doc_type": "US driver license sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    720.0,
+    485.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "passport_card_clean",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/03_passport_card/passport_card_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 9,
+  "fields_with_bbox": 9,
+  "words": 0,
+  "doc_type": "US passport card sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    900.0,
+    529.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "passport_card__photocopy",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/03_passport_card/passport_card__photocopy.pdf",
+  "variant": "photocopy",
+  "pages": 1,
+  "fields": 9,
+  "fields_with_bbox": 9,
+  "words": 0,
+  "doc_type": "US passport card sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    900.0,
+    529.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "social_security_card_clean",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/04_social_security_card/social_security_card_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 3,
+  "fields_with_bbox": 3,
+  "words": 0,
+  "doc_type": "US Social Security card sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    900.0,
+    568.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "social_security_card__coffee_stain",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/04_social_security_card/social_security_card__coffee_stain.pdf",
+  "variant": "coffee_stain",
+  "pages": 1,
+  "fields": 3,
+  "fields_with_bbox": 3,
+  "words": 0,
+  "doc_type": "US Social Security card sample",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    900.0,
+    568.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "proof_of_address_clean",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/05_proof_of_address/proof_of_address_clean.pdf",
+  "variant": "clean",
+  "pages": 1,
+  "fields": 17,
+  "fields_with_bbox": 17,
+  "words": 0,
+  "doc_type": "US utility proof of address",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ },
+ {
+  "pack": "US KYC",
+  "id": "proof_of_address__crop",
+  "pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/05_proof_of_address/proof_of_address__crop.pdf",
+  "variant": "crop",
+  "pages": 1,
+  "fields": 17,
+  "fields_with_bbox": 17,
+  "words": 0,
+  "doc_type": "US utility proof of address",
+  "language": "english",
+  "script": "Latin",
+  "page_sizes_pt": [
+   [
+    612.0,
+    816.0
+   ]
+  ]
+ }
+]

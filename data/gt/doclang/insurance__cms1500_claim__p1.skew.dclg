@@ -1,0 +1,581 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1425" height="1851"/>
+  </head>
+  <field_region>
+    <location value="91"/>
+    <location value="186"/>
+    <location value="1265"/>
+    <location value="1662"/>
+    <field_item>
+      <key>coverage_type</key>
+      <value>
+        <location value="534"/>
+        <location value="305"/>
+        <location value="547"/>
+        <location value="330"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_id</key>
+      <value>
+        <location value="819"/>
+        <location value="278"/>
+        <location value="933"/>
+        <location value="309"/>
+        CHP0842719
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="91"/>
+        <location value="378"/>
+        <location value="239"/>
+        <location value="411"/>
+        MORGAN, AVERY
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="526"/>
+        <location value="349"/>
+        <location value="639"/>
+        <location value="380"/>
+        08 19 1987
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="777"/>
+        <location value="338"/>
+        <location value="790"/>
+        <location value="362"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>insured_name</key>
+      <value>
+        <location value="823"/>
+        <location value="325"/>
+        <location value="970"/>
+        <location value="359"/>
+        MORGAN, AVERY
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_address</key>
+      <value>
+        <location value="95"/>
+        <location value="421"/>
+        <location value="366"/>
+        <location value="461"/>
+        4607 WILLOW BEND LN APT 204
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_city</key>
+      <value>
+        <location value="98"/>
+        <location value="481"/>
+        <location value="167"/>
+        <location value="509"/>
+        AUSTIN
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_state</key>
+      <value>
+        <location value="476"/>
+        <location value="457"/>
+        <location value="501"/>
+        <location value="482"/>
+        TX
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_zip</key>
+      <value>
+        <location value="102"/>
+        <location value="532"/>
+        <location value="160"/>
+        <location value="559"/>
+        78731
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_phone</key>
+      <value>
+        <location value="316"/>
+        <location value="511"/>
+        <location value="452"/>
+        <location value="544"/>
+        512 555 0146
+      </value>
+    </field_item>
+    <field_item>
+      <key>relationship</key>
+      <value>
+        <location value="573"/>
+        <location value="403"/>
+        <location value="586"/>
+        <location value="427"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>insured_address</key>
+      <value>
+        <location value="826"/>
+        <location value="368"/>
+        <location value="1097"/>
+        <location value="408"/>
+        4607 WILLOW BEND LN APT 204
+      </value>
+    </field_item>
+    <field_item>
+      <key>group_number</key>
+      <value>
+        <location value="837"/>
+        <location value="526"/>
+        <location value="940"/>
+        <location value="556"/>
+        GRP-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>employment_related</key>
+      <value>
+        <location value="708"/>
+        <location value="594"/>
+        <location value="720"/>
+        <location value="618"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>auto_accident_related</key>
+      <value>
+        <location value="711"/>
+        <location value="644"/>
+        <location value="724"/>
+        <location value="668"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>other_accident_related</key>
+      <value>
+        <location value="715"/>
+        <location value="693"/>
+        <location value="728"/>
+        <location value="718"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>other_health_plan</key>
+      <value>
+        <location value="955"/>
+        <location value="724"/>
+        <location value="968"/>
+        <location value="748"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>plan_name</key>
+      <value>
+        <location value="848"/>
+        <location value="672"/>
+        <location value="1029"/>
+        <location value="708"/>
+        CEDAR CHOICE PPO
+      </value>
+    </field_item>
+    <field_item>
+      <key>illness_date</key>
+      <value>
+        <location value="131"/>
+        <location value="941"/>
+        <location value="223"/>
+        <location value="970"/>
+        04 15 26
+      </value>
+    </field_item>
+    <field_item>
+      <key>referring_provider</key>
+      <value>
+        <location value="134"/>
+        <location value="975"/>
+        <location value="270"/>
+        <location value="1008"/>
+        LENA PARK MD
+      </value>
+    </field_item>
+    <field_item>
+      <key>referring_npi</key>
+      <value>
+        <location value="614"/>
+        <location value="940"/>
+        <location value="728"/>
+        <location value="971"/>
+        1999999976
+      </value>
+    </field_item>
+    <field_item>
+      <key>outside_lab</key>
+      <value>
+        <location value="961"/>
+        <location value="977"/>
+        <location value="973"/>
+        <location value="1001"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>diagnosis_code</key>
+      <value>
+        <location value="177"/>
+        <location value="1087"/>
+        <location value="246"/>
+        <location value="1115"/>
+        R53.83
+      </value>
+    </field_item>
+    <field_item>
+      <key>diagnosis_code_set</key>
+      <value>
+        <location value="722"/>
+        <location value="1029"/>
+        <location value="735"/>
+        <location value="1053"/>
+        0
+      </value>
+    </field_item>
+    <field_item>
+      <key>claim_id</key>
+      <value>
+        <location value="803"/>
+        <location value="186"/>
+        <location value="1014"/>
+        <location value="222"/>
+        REF: CLM-260415-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.service_date_from</key>
+      <value>
+        <location value="153"/>
+        <location value="1240"/>
+        <location value="234"/>
+        <location value="1267"/>
+        04 15 26
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.service_date_to</key>
+      <value>
+        <location value="298"/>
+        <location value="1230"/>
+        <location value="379"/>
+        <location value="1256"/>
+        04 15 26
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.place_of_service</key>
+      <value>
+        <location value="425"/>
+        <location value="1225"/>
+        <location value="446"/>
+        <location value="1247"/>
+        11
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.procedure_code</key>
+      <value>
+        <location value="516"/>
+        <location value="1214"/>
+        <location value="574"/>
+        <location value="1242"/>
+        99213
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.diagnosis_pointer</key>
+      <value>
+        <location value="809"/>
+        <location value="1196"/>
+        <location value="822"/>
+        <location value="1220"/>
+        A
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.charge</key>
+      <value>
+        <location value="936"/>
+        <location value="1186"/>
+        <location value="997"/>
+        <location value="1211"/>
+        250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.units</key>
+      <value>
+        <location value="1032"/>
+        <location value="1180"/>
+        <location value="1044"/>
+        <location value="1205"/>
+        1
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.1.rendering_npi</key>
+      <value>
+        <location value="1156"/>
+        <location value="1167"/>
+        <location value="1258"/>
+        <location value="1195"/>
+        1999999976
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.service_date_from</key>
+      <value>
+        <location value="156"/>
+        <location value="1290"/>
+        <location value="238"/>
+        <location value="1317"/>
+        04 15 26
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.service_date_to</key>
+      <value>
+        <location value="302"/>
+        <location value="1280"/>
+        <location value="383"/>
+        <location value="1306"/>
+        04 15 26
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.place_of_service</key>
+      <value>
+        <location value="429"/>
+        <location value="1275"/>
+        <location value="450"/>
+        <location value="1297"/>
+        11
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.procedure_code</key>
+      <value>
+        <location value="520"/>
+        <location value="1264"/>
+        <location value="578"/>
+        <location value="1291"/>
+        85025
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.diagnosis_pointer</key>
+      <value>
+        <location value="813"/>
+        <location value="1246"/>
+        <location value="826"/>
+        <location value="1270"/>
+        A
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.charge</key>
+      <value>
+        <location value="940"/>
+        <location value="1236"/>
+        <location value="1001"/>
+        <location value="1261"/>
+        100.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.units</key>
+      <value>
+        <location value="1035"/>
+        <location value="1230"/>
+        <location value="1048"/>
+        <location value="1254"/>
+        1
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.2.rendering_npi</key>
+      <value>
+        <location value="1160"/>
+        <location value="1217"/>
+        <location value="1261"/>
+        <location value="1245"/>
+        1999999976
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.service_date_from</key>
+      <value>
+        <location value="160"/>
+        <location value="1340"/>
+        <location value="241"/>
+        <location value="1367"/>
+        04 15 26
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.service_date_to</key>
+      <value>
+        <location value="305"/>
+        <location value="1330"/>
+        <location value="387"/>
+        <location value="1356"/>
+        04 15 26
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.place_of_service</key>
+      <value>
+        <location value="432"/>
+        <location value="1325"/>
+        <location value="454"/>
+        <location value="1347"/>
+        11
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.procedure_code</key>
+      <value>
+        <location value="523"/>
+        <location value="1314"/>
+        <location value="581"/>
+        <location value="1341"/>
+        80053
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.diagnosis_pointer</key>
+      <value>
+        <location value="816"/>
+        <location value="1296"/>
+        <location value="829"/>
+        <location value="1320"/>
+        A
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.charge</key>
+      <value>
+        <location value="943"/>
+        <location value="1285"/>
+        <location value="1005"/>
+        <location value="1310"/>
+        250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.units</key>
+      <value>
+        <location value="1039"/>
+        <location value="1280"/>
+        <location value="1052"/>
+        <location value="1304"/>
+        1
+      </value>
+    </field_item>
+    <field_item>
+      <key>lines.3.rendering_npi</key>
+      <value>
+        <location value="1164"/>
+        <location value="1267"/>
+        <location value="1265"/>
+        <location value="1295"/>
+        1999999976
+      </value>
+    </field_item>
+    <field_item>
+      <key>provider_tax_id</key>
+      <value>
+        <location value="173"/>
+        <location value="1527"/>
+        <location value="287"/>
+        <location value="1558"/>
+        00-0042170
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_account</key>
+      <value>
+        <location value="502"/>
+        <location value="1505"/>
+        <location value="593"/>
+        <location value="1535"/>
+        PT-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>accept_assignment</key>
+      <value>
+        <location value="726"/>
+        <location value="1495"/>
+        <location value="739"/>
+        <location value="1519"/>
+        X
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_charge</key>
+      <value>
+        <location value="926"/>
+        <location value="1476"/>
+        <location value="995"/>
+        <location value="1505"/>
+        600.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_paid</key>
+      <value>
+        <location value="1096"/>
+        <location value="1465"/>
+        <location value="1154"/>
+        <location value="1492"/>
+        30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>facility_npi</key>
+      <value>
+        <location value="526"/>
+        <location value="1634"/>
+        <location value="627"/>
+        <location value="1662"/>
+        1999999984
+      </value>
+    </field_item>
+    <field_item>
+      <key>billing_npi</key>
+      <value>
+        <location value="931"/>
+        <location value="1605"/>
+        <location value="1032"/>
+        <location value="1633"/>
+        1999999984
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

@@ -1,0 +1,281 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="79"/>
+    <location value="85"/>
+    <location value="1181"/>
+    <location value="1211"/>
+    <field_item>
+      <key>supplier_name</key>
+      <value>
+        <location value="79"/>
+        <location value="85"/>
+        <location value="679"/>
+        <location value="131"/>
+        MAPLEBRIDGE INDUSTRIAL SUPPLY
+      </value>
+    </field_item>
+    <field_item>
+      <key>document_number</key>
+      <value>
+        <location value="823"/>
+        <location value="205"/>
+        <location value="958"/>
+        <location value="236"/>
+        INV-G-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>document_date</key>
+      <value>
+        <location value="823"/>
+        <location value="240"/>
+        <location value="927"/>
+        <location value="269"/>
+        06/09/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_name</key>
+      <value>
+        <location value="79"/>
+        <location value="344"/>
+        <location value="352"/>
+        <location value="376"/>
+        ORCHARD VALE FOODS
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_account</key>
+      <value>
+        <location value="823"/>
+        <location value="346"/>
+        <location value="931"/>
+        <location value="375"/>
+        OVF-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>purchase_order</key>
+      <value>
+        <location value="823"/>
+        <location value="378"/>
+        <location value="994"/>
+        <location value="406"/>
+        PO-260601-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>delivery_reference</key>
+      <value>
+        <location value="79"/>
+        <location value="461"/>
+        <location value="586"/>
+        <location value="490"/>
+        Delivered 06/08/2026 | Packing slip PS-05217 | Dock 4
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.sku</key>
+      <value>
+        <location value="90"/>
+        <location value="594"/>
+        <location value="141"/>
+        <location value="620"/>
+        AF-48
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.description</key>
+      <value>
+        <location value="265"/>
+        <location value="594"/>
+        <location value="406"/>
+        <location value="620"/>
+        Air filter cartridge
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.quantity</key>
+      <value>
+        <location value="738"/>
+        <location value="594"/>
+        <location value="758"/>
+        <location value="620"/>
+        20
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.unit_price</key>
+      <value>
+        <location value="842"/>
+        <location value="594"/>
+        <location value="889"/>
+        <location value="620"/>
+        48.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.amount</key>
+      <value>
+        <location value="1008"/>
+        <location value="594"/>
+        <location value="1066"/>
+        <location value="620"/>
+        960.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.sku</key>
+      <value>
+        <location value="90"/>
+        <location value="657"/>
+        <location value="152"/>
+        <location value="683"/>
+        VB-125
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.description</key>
+      <value>
+        <location value="265"/>
+        <location value="657"/>
+        <location value="389"/>
+        <location value="683"/>
+        Valve repair kit
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.quantity</key>
+      <value>
+        <location value="738"/>
+        <location value="657"/>
+        <location value="758"/>
+        <location value="683"/>
+        10
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.unit_price</key>
+      <value>
+        <location value="842"/>
+        <location value="657"/>
+        <location value="899"/>
+        <location value="683"/>
+        125.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.amount</key>
+      <value>
+        <location value="1008"/>
+        <location value="657"/>
+        <location value="1076"/>
+        <location value="683"/>
+        1250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.sku</key>
+      <value>
+        <location value="90"/>
+        <location value="719"/>
+        <location value="144"/>
+        <location value="745"/>
+        SG-80
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.description</key>
+      <value>
+        <location value="265"/>
+        <location value="719"/>
+        <location value="431"/>
+        <location value="745"/>
+        Food-grade seal set
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.quantity</key>
+      <value>
+        <location value="738"/>
+        <location value="719"/>
+        <location value="748"/>
+        <location value="745"/>
+        5
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.unit_price</key>
+      <value>
+        <location value="842"/>
+        <location value="719"/>
+        <location value="889"/>
+        <location value="745"/>
+        80.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.amount</key>
+      <value>
+        <location value="1008"/>
+        <location value="719"/>
+        <location value="1066"/>
+        <location value="745"/>
+        400.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>goods_subtotal</key>
+      <value>
+        <location value="1077"/>
+        <location value="838"/>
+        <location value="1181"/>
+        <location value="872"/>
+        $2610.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>freight</key>
+      <value>
+        <location value="1105"/>
+        <location value="892"/>
+        <location value="1181"/>
+        <location value="926"/>
+        $90.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>tax</key>
+      <value>
+        <location value="1091"/>
+        <location value="946"/>
+        <location value="1181"/>
+        <location value="981"/>
+        $208.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_due</key>
+      <value>
+        <location value="1077"/>
+        <location value="1000"/>
+        <location value="1181"/>
+        <location value="1035"/>
+        $2908.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>due_date</key>
+      <value>
+        <location value="79"/>
+        <location value="1180"/>
+        <location value="335"/>
+        <location value="1211"/>
+        Payment due 07/09/2026
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

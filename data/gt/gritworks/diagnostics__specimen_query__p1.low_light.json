@@ -1,0 +1,304 @@
+{
+ "page_id": "diagnostics__specimen_query__p1",
+ "pack": "diagnostics",
+ "document": "specimen_query",
+ "family": "medical_form",
+ "document_type": "Resolved specimen documentation query",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/04_specimen_query/specimen_query_clean.pdf",
+ "condition": "low_light",
+ "degradation_params": {
+  "gamma": 2.097,
+  "noise_sd": 0.0299,
+  "vignette": 0.35,
+  "seed": 2994370315
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "query_number",
+   "value": "QRY-08217",
+   "display_value": "REDWOOD DIAGNOSTICS / QRY-08217",
+   "canonical_value": "REDWOOD DIAGNOSTICS / QRY-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    202.45,
+    499.51,
+    233.94
+   ],
+   "bbox_pt": [
+    35,
+    97.175,
+    239.765,
+    112.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_name",
+   "value": "TAYLOR BROOKS",
+   "display_value": "TAYLOR BROOKS",
+   "canonical_value": "TAYLOR BROOKS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    304.65,
+    274.08,
+    336.2
+   ],
+   "bbox_pt": [
+    35,
+    146.23,
+    131.558,
+    161.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1990-08-14",
+   "display_value": "08/14/1990",
+   "canonical_value": "08/14/1990",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    656.25,
+    304.65,
+    770.93,
+    336.2
+   ],
+   "bbox_pt": [
+    315,
+    146.23,
+    370.044,
+    161.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    979.17,
+    304.65,
+    993.17,
+    336.2
+   ],
+   "bbox_pt": [
+    470,
+    146.23,
+    476.721,
+    161.377
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "patient_id",
+   "value": "PT-08217",
+   "display_value": "PT-08217",
+   "canonical_value": "PT-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    398.44,
+    164.4,
+    427.06
+   ],
+   "bbox_pt": [
+    35,
+    191.25,
+    78.91,
+    204.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "order_id",
+   "value": "ORD-08217",
+   "display_value": "ORD-08217",
+   "canonical_value": "ORD-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    458.33,
+    398.44,
+    569.48,
+    427.06
+   ],
+   "bbox_pt": [
+    220,
+    191.25,
+    273.35,
+    204.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "accession_id",
+   "value": "DX-260610-08217",
+   "display_value": "DX-260610-08217",
+   "canonical_value": "DX-260610-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    854.17,
+    398.44,
+    1024.4,
+    427.06
+   ],
+   "bbox_pt": [
+    410,
+    191.25,
+    491.71,
+    204.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "received_at",
+   "value": "Received by laboratory: 06/10/2026 09:20 CDT",
+   "display_value": "Received by laboratory: 06/10/2026 09:20 CDT",
+   "canonical_value": "Received by laboratory: 06/10/2026 09:20 CDT",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    525.52,
+    508.31,
+    554.15
+   ],
+   "bbox_pt": [
+    35,
+    252.25,
+    243.99,
+    265.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "query_opened_at",
+   "value": "Query opened: 06/10/2026 09:35 CDT",
+   "display_value": "Query opened: 06/10/2026 09:35 CDT",
+   "canonical_value": "Query opened: 06/10/2026 09:35 CDT",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    571.35,
+    427.29,
+    599.98
+   ],
+   "bbox_pt": [
+    35,
+    274.25,
+    205.1,
+    287.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "status",
+   "value": "resolved",
+   "display_value": "STATUS: RESOLVED / RELEASED FOR TESTING",
+   "canonical_value": "STATUS: RESOLVED / RELEASED FOR TESTING",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.0,
+    1237.83,
+    684.8,
+    1272.26
+   ],
+   "bbox_pt": [
+    48,
+    594.16,
+    328.704,
+    610.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "resolved_at",
+   "value": "Resolved: 06/10/2026 10:05 CDT",
+   "display_value": "Resolved: 06/10/2026 10:05 CDT",
+   "canonical_value": "Resolved: 06/10/2026 10:05 CDT",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.0,
+    1294.27,
+    409.19,
+    1322.9
+   ],
+   "bbox_pt": [
+    48,
+    621.25,
+    196.41,
+    634.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "reviewer",
+   "value": "Laboratory reviewer: Morgan Ellis / ID LAB-042",
+   "display_value": "Laboratory reviewer: Morgan Ellis / ID LAB-042",
+   "canonical_value": "Laboratory reviewer: Morgan Ellis / ID LAB-042",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.0,
+    1338.02,
+    535.33,
+    1366.65
+   ],
+   "bbox_pt": [
+    48,
+    642.25,
+    256.96,
+    655.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

@@ -1,0 +1,181 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1789"/>
+  </head>
+  <field_region>
+    <location value="8"/>
+    <location value="207"/>
+    <location value="1206"/>
+    <location value="1576"/>
+    <field_item>
+      <key>policy_number</key>
+      <value>
+        <location value="283"/>
+        <location value="207"/>
+        <location value="397"/>
+        <location value="240"/>
+        POL-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>invoice_number</key>
+      <value>
+        <location value="281"/>
+        <location value="238"/>
+        <location value="462"/>
+        <location value="273"/>
+        INV-260315-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>statement_date</key>
+      <value>
+        <location value="1073"/>
+        <location value="257"/>
+        <location value="1199"/>
+        <location value="291"/>
+        03/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>payment_due_date</key>
+      <value>
+        <location value="1071"/>
+        <location value="286"/>
+        <location value="1198"/>
+        <location value="320"/>
+        04/01/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>plan_member_group</key>
+      <value>
+        <location value="361"/>
+        <location value="324"/>
+        <location value="761"/>
+        <location value="377"/>
+        Cedar Choice PPO | CHP0842719 | GRP-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>previous_balance</key>
+      <value>
+        <location value="1018"/>
+        <location value="447"/>
+        <location value="1087"/>
+        <location value="479"/>
+        $460.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>prior_payment_date</key>
+      <value>
+        <location value="79"/>
+        <location value="423"/>
+        <location value="176"/>
+        <location value="457"/>
+        03/05/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>prior_payment</key>
+      <value>
+        <location value="1056"/>
+        <location value="485"/>
+        <location value="1206"/>
+        <location value="522"/>
+        $460.00 CREDIT
+      </value>
+    </field_item>
+    <field_item>
+      <key>past_due</key>
+      <value>
+        <location value="1035"/>
+        <location value="515"/>
+        <location value="1083"/>
+        <location value="546"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>monthly_premium</key>
+      <value>
+        <location value="1011"/>
+        <location value="564"/>
+        <location value="1080"/>
+        <location value="596"/>
+        $460.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>adjustments</key>
+      <value>
+        <location value="1030"/>
+        <location value="594"/>
+        <location value="1078"/>
+        <location value="625"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>policy_changes</key>
+      <value>
+        <location value="1028"/>
+        <location value="623"/>
+        <location value="1076"/>
+        <location value="654"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>current_balance</key>
+      <value>
+        <location value="1005"/>
+        <location value="653"/>
+        <location value="1074"/>
+        <location value="685"/>
+        $460.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_due</key>
+      <value>
+        <location value="978"/>
+        <location value="713"/>
+        <location value="1070"/>
+        <location value="753"/>
+        $460.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_name</key>
+      <value>
+        <location value="12"/>
+        <location value="1475"/>
+        <location value="183"/>
+        <location value="1514"/>
+        AVERY MORGAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_address</key>
+      <value>
+        <location value="10"/>
+        <location value="1508"/>
+        <location value="290"/>
+        <location value="1551"/>
+        4607 WILLOW BEND LN APT 204
+      </value>
+    </field_item>
+    <field_item>
+      <key>member_city_state_zip</key>
+      <value>
+        <location value="8"/>
+        <location value="1537"/>
+        <location value="182"/>
+        <location value="1576"/>
+        AUSTIN, TX 78731
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

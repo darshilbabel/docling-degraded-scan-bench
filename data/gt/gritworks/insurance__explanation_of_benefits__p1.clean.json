@@ -1,0 +1,138 @@
+{
+ "page_id": "insurance__explanation_of_benefits__p1",
+ "pack": "insurance",
+ "document": "explanation_of_benefits",
+ "family": "insurance_statement",
+ "document_type": "Health insurance explanation of benefits",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/04_explanation_of_benefits/explanation_of_benefits_clean.pdf",
+ "condition": "clean",
+ "degradation_params": {},
+ "gt_provenance": "exact authored geometry (pack clean boxes)",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "member_name",
+   "value": "AVERY MORGAN",
+   "display_value": "AVERY MORGAN",
+   "canonical_value": "AVERY MORGAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    112.5,
+    219.23,
+    302.2,
+    250.79
+   ],
+   "bbox_pt": [
+    54,
+    105.23,
+    145.058,
+    120.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "member_address",
+   "value": "4607 WILLOW BEND LN APT 204",
+   "display_value": "4607 WILLOW BEND LN APT 204",
+   "canonical_value": "4607 WILLOW BEND LN APT 204",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    112.5,
+    256.77,
+    432.06,
+    285.4
+   ],
+   "bbox_pt": [
+    54,
+    123.25,
+    207.39,
+    136.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "member_city_state_zip",
+   "value": "AUSTIN, TX 78731",
+   "display_value": "AUSTIN, TX 78731",
+   "canonical_value": "AUSTIN, TX 78731",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    112.5,
+    292.19,
+    290.81,
+    320.81
+   ],
+   "bbox_pt": [
+    54,
+    140.25,
+    139.59,
+    153.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "plan_name",
+   "value": "Cedar Choice PPO",
+   "display_value": "CEDAR CHOICE PPO - EMPLOYEE-ONLY COVERAGE",
+   "canonical_value": "CEDAR CHOICE PPO - EMPLOYEE-ONLY COVERAGE",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    75.0,
+    442.29,
+    609.79,
+    470.98
+   ],
+   "bbox_pt": [
+    36,
+    212.3,
+    292.7,
+    226.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "member_and_group",
+   "value": "Member ID: CHP0842719    Group: GRP-04217",
+   "display_value": "Member ID: CHP0842719    Group: GRP-04217",
+   "canonical_value": "Member ID: CHP0842719    Group: GRP-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    75.0,
+    471.35,
+    517.31,
+    499.98
+   ],
+   "bbox_pt": [
+    36,
+    226.25,
+    248.31,
+    239.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

@@ -1,0 +1,171 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="43"/>
+    <location value="276"/>
+    <location value="1046"/>
+    <location value="1490"/>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="99"/>
+        <location value="276"/>
+        <location value="301"/>
+        <location value="317"/>
+        TAYLOR BROOKS
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="681"/>
+        <location value="304"/>
+        <location value="797"/>
+        <location value="341"/>
+        08/14/1990
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="1004"/>
+        <location value="320"/>
+        <location value="1019"/>
+        <location value="352"/>
+        F
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_id</key>
+      <value>
+        <location value="94"/>
+        <location value="370"/>
+        <location value="187"/>
+        <location value="403"/>
+        PT-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>order_id</key>
+      <value>
+        <location value="479"/>
+        <location value="388"/>
+        <location value="592"/>
+        <location value="422"/>
+        ORD-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>accession_id</key>
+      <value>
+        <location value="874"/>
+        <location value="407"/>
+        <location value="1046"/>
+        <location value="444"/>
+        DX-260610-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>ordering_physician</key>
+      <value>
+        <location value="453"/>
+        <location value="487"/>
+        <location value="650"/>
+        <location value="525"/>
+        DR. MAYA COLLINS
+      </value>
+    </field_item>
+    <field_item>
+      <key>ordering_npi</key>
+      <value>
+        <location value="451"/>
+        <location value="539"/>
+        <location value="568"/>
+        <location value="573"/>
+        1999999976
+      </value>
+    </field_item>
+    <field_item>
+      <key>ordering_clinic</key>
+      <value>
+        <location value="448"/>
+        <location value="591"/>
+        <location value="725"/>
+        <location value="633"/>
+        NORTHLINE FAMILY CLINIC
+      </value>
+    </field_item>
+    <field_item>
+      <key>report_destination</key>
+      <value>
+        <location value="446"/>
+        <location value="643"/>
+        <location value="727"/>
+        <location value="685"/>
+        (512) 555-0165 / secure portal
+      </value>
+    </field_item>
+    <field_item>
+      <key>specimen_type</key>
+      <value>
+        <location value="438"/>
+        <location value="799"/>
+        <location value="761"/>
+        <location value="843"/>
+        Whole blood / EDTA / lavender-top
+      </value>
+    </field_item>
+    <field_item>
+      <key>collected_at</key>
+      <value>
+        <location value="436"/>
+        <location value="845"/>
+        <location value="648"/>
+        <location value="884"/>
+        06/10/2026 08:15 CDT
+      </value>
+    </field_item>
+    <field_item>
+      <key>volume_collector</key>
+      <value>
+        <location value="434"/>
+        <location value="891"/>
+        <location value="602"/>
+        <location value="927"/>
+        4 mL / Elena Cruz
+      </value>
+    </field_item>
+    <field_item>
+      <key>test_order</key>
+      <value>
+        <location value="88"/>
+        <location value="1053"/>
+        <location value="639"/>
+        <location value="1112"/>
+        <content>[X] LYM-01  CD4/CD8 profile with CBC / differential</content>
+      </value>
+    </field_item>
+    <field_item>
+      <key>clinical_indication</key>
+      <value>
+        <location value="86"/>
+        <location value="1103"/>
+        <location value="575"/>
+        <location value="1156"/>
+        Clinical indication: Follow-up immune cell monitoring.
+      </value>
+    </field_item>
+    <field_item>
+      <key>authorization</key>
+      <value>
+        <location value="43"/>
+        <location value="1435"/>
+        <location value="599"/>
+        <location value="1490"/>
+        Authorized by DR. MAYA COLLINS | Order date 06/09/2026
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

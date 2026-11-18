@@ -1,0 +1,2199 @@
+{
+ "page_id": "insurance__explanation_of_benefits__p2",
+ "pack": "insurance",
+ "document": "explanation_of_benefits",
+ "family": "insurance_statement",
+ "document_type": "Health insurance explanation of benefits",
+ "language": "english",
+ "script": "Latin",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1651,
+  1325
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/04_explanation_of_benefits/explanation_of_benefits_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 2.122,
+  "seed": 2557579703
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "AVERY MORGAN",
+   "display_value": "AVERY MORGAN",
+   "canonical_value": "AVERY MORGAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    119.48,
+    182.54,
+    290.59,
+    217.45
+   ],
+   "bbox_pt": [
+    66,
+    78.25,
+    147.68,
+    91.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     119.48,
+     188.84
+    ],
+    [
+     289.53,
+     182.54
+    ],
+    [
+     290.59,
+     211.15
+    ],
+    [
+     120.54,
+     217.45
+    ]
+   ]
+  },
+  {
+   "key": "provider_name",
+   "value": "ALDER CREEK MEDICAL GROUP",
+   "display_value": "ALDER CREEK MEDICAL GROUP",
+   "canonical_value": "ALDER CREEK MEDICAL GROUP",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    149.86,
+    208.93,
+    478.3,
+    249.67
+   ],
+   "bbox_pt": [
+    80,
+    94.25,
+    237.25,
+    107.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     149.86,
+     221.06
+    ],
+    [
+     477.24,
+     208.93
+    ],
+    [
+     478.3,
+     237.54
+    ],
+    [
+     150.92,
+     249.67
+    ]
+   ]
+  },
+  {
+   "key": "claim_id",
+   "value": "CLM-260415-04217",
+   "display_value": "CLM-260415-04217",
+   "canonical_value": "CLM-260415-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    107.56,
+    254.25,
+    288.3,
+    284.32
+   ],
+   "bbox_pt": [
+    59,
+    112.612,
+    145.4,
+    123.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     107.56,
+     260.92
+    ],
+    [
+     287.43,
+     254.25
+    ],
+    [
+     288.3,
+     277.66
+    ],
+    [
+     108.43,
+     284.32
+    ]
+   ]
+  },
+  {
+   "key": "processed_date",
+   "value": "2026-04-22",
+   "display_value": "04/22/2026",
+   "canonical_value": "04/22/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    617.52,
+    235.87,
+    712.24,
+    265.08
+   ],
+   "bbox_pt": [
+    304,
+    111.325,
+    349.036,
+    123.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     617.52,
+     239.34
+    ],
+    [
+     711.28,
+     235.87
+    ],
+    [
+     712.24,
+     261.61
+    ],
+    [
+     618.47,
+     265.08
+    ]
+   ]
+  },
+  {
+   "key": "total_billed",
+   "value": "600.00",
+   "display_value": "$600.00",
+   "canonical_value": "$600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1499.88,
+    145.43,
+    1576.18,
+    176.89
+   ],
+   "bbox_pt": [
+    728.86,
+    83.3,
+    765.0,
+    97.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1499.88,
+     148.22
+    ],
+    [
+     1575.12,
+     145.43
+    ],
+    [
+     1576.18,
+     174.1
+    ],
+    [
+     1500.94,
+     176.89
+    ]
+   ]
+  },
+  {
+   "key": "total_discount",
+   "value": "200.00",
+   "display_value": "- $200.00",
+   "canonical_value": "- $200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1488.55,
+    182.9,
+    1577.57,
+    214.83
+   ],
+   "bbox_pt": [
+    722.75,
+    101.3,
+    765.0,
+    115.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1488.55,
+     186.16
+    ],
+    [
+     1576.51,
+     182.9
+    ],
+    [
+     1577.57,
+     211.57
+    ],
+    [
+     1489.61,
+     214.83
+    ]
+   ]
+  },
+  {
+   "key": "plan_paid",
+   "value": "326.00",
+   "display_value": "- $326.00",
+   "canonical_value": "- $326.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1489.94,
+    220.38,
+    1578.96,
+    252.31
+   ],
+   "bbox_pt": [
+    722.75,
+    119.3,
+    765.0,
+    133.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1489.94,
+     223.64
+    ],
+    [
+     1577.9,
+     220.38
+    ],
+    [
+     1578.96,
+     249.05
+    ],
+    [
+     1491.0,
+     252.31
+    ]
+   ]
+  },
+  {
+   "key": "patient_responsibility",
+   "value": "74.00",
+   "display_value": "$74.00",
+   "canonical_value": "$74.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1515.62,
+    257.85,
+    1580.35,
+    288.88
+   ],
+   "bbox_pt": [
+    734.42,
+    137.3,
+    765.0,
+    151.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1515.62,
+     260.21
+    ],
+    [
+     1579.28,
+     257.85
+    ],
+    [
+     1580.35,
+     286.52
+    ],
+    [
+     1516.68,
+     288.88
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.service",
+   "value": "Office visit",
+   "display_value": "Office visit",
+   "canonical_value": "Office visit",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    37.1,
+    494.52,
+    119.62,
+    521.85
+   ],
+   "bbox_pt": [
+    21,
+    224.862,
+    60.202,
+    236.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     37.1,
+     497.54
+    ],
+    [
+     118.72,
+     494.52
+    ],
+    [
+     119.62,
+     518.83
+    ],
+    [
+     38.0,
+     521.85
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.service_date",
+   "value": "2026-04-15",
+   "display_value": "04/15/2026",
+   "canonical_value": "04/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    259.91,
+    487.32,
+    344.1,
+    513.29
+   ],
+   "bbox_pt": [
+    128,
+    225.4,
+    168.032,
+    236.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     259.91,
+     490.4
+    ],
+    [
+     343.25,
+     487.32
+    ],
+    [
+     344.1,
+     510.2
+    ],
+    [
+     260.76,
+     513.29
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.billed",
+   "value": "250.00",
+   "display_value": "250.00",
+   "canonical_value": "250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    435.7,
+    479.53,
+    493.95,
+    507.4
+   ],
+   "bbox_pt": [
+    212.478,
+    224.325,
+    240.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     435.7,
+     481.65
+    ],
+    [
+     493.0,
+     479.53
+    ],
+    [
+     493.95,
+     505.28
+    ],
+    [
+     436.65,
+     507.4
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.discount",
+   "value": "70.00",
+   "display_value": "70.00",
+   "canonical_value": "70.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    577.28,
+    474.67,
+    625.11,
+    502.16
+   ],
+   "bbox_pt": [
+    280.482,
+    224.325,
+    303.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     577.28,
+     476.4
+    ],
+    [
+     624.16,
+     474.67
+    ],
+    [
+     625.11,
+     500.42
+    ],
+    [
+     578.23,
+     502.16
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.allowed",
+   "value": "180.00",
+   "display_value": "180.00",
+   "canonical_value": "180.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    698.02,
+    469.81,
+    756.27,
+    497.68
+   ],
+   "bbox_pt": [
+    338.478,
+    224.325,
+    366.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     698.02,
+     471.93
+    ],
+    [
+     755.32,
+     469.81
+    ],
+    [
+     756.27,
+     495.56
+    ],
+    [
+     698.97,
+     497.68
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.plan_paid",
+   "value": "150.00",
+   "display_value": "150.00",
+   "canonical_value": "150.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    829.18,
+    464.95,
+    887.43,
+    492.82
+   ],
+   "bbox_pt": [
+    401.478,
+    224.325,
+    429.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     829.18,
+     467.07
+    ],
+    [
+     886.48,
+     464.95
+    ],
+    [
+     887.43,
+     490.7
+    ],
+    [
+     830.13,
+     492.82
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.deductible",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    999.91,
+    459.39,
+    1037.33,
+    486.5
+   ],
+   "bbox_pt": [
+    483.486,
+    224.325,
+    501.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     999.91,
+     460.74
+    ],
+    [
+     1036.37,
+     459.39
+    ],
+    [
+     1037.33,
+     485.14
+    ],
+    [
+     1000.86,
+     486.5
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.copay",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1101.92,
+    455.23,
+    1149.75,
+    482.72
+   ],
+   "bbox_pt": [
+    532.482,
+    224.325,
+    555.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1101.92,
+     456.96
+    ],
+    [
+     1148.8,
+     455.23
+    ],
+    [
+     1149.75,
+     480.98
+    ],
+    [
+     1102.87,
+     482.72
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.coinsurance",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1262.23,
+    449.67,
+    1299.65,
+    476.78
+   ],
+   "bbox_pt": [
+    609.486,
+    224.325,
+    627.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1262.23,
+     451.02
+    ],
+    [
+     1298.69,
+     449.67
+    ],
+    [
+     1299.65,
+     475.43
+    ],
+    [
+     1263.18,
+     476.78
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.noncovered",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1412.13,
+    444.12,
+    1449.55,
+    471.22
+   ],
+   "bbox_pt": [
+    681.486,
+    224.325,
+    699.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1412.13,
+     445.47
+    ],
+    [
+     1448.59,
+     444.12
+    ],
+    [
+     1449.55,
+     469.87
+    ],
+    [
+     1413.08,
+     471.22
+    ]
+   ]
+  },
+  {
+   "key": "lines.1.patient",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1543.28,
+    438.87,
+    1591.12,
+    466.36
+   ],
+   "bbox_pt": [
+    744.482,
+    224.325,
+    767.0,
+    236.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1543.28,
+     440.61
+    ],
+    [
+     1590.16,
+     438.87
+    ],
+    [
+     1591.12,
+     464.63
+    ],
+    [
+     1544.23,
+     466.36
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.service",
+   "value": "CBC / differential",
+   "display_value": "CBC / differential",
+   "canonical_value": "CBC / differential",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    38.95,
+    542.55,
+    173.6,
+    571.82
+   ],
+   "bbox_pt": [
+    21,
+    248.862,
+    85.243,
+    260.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     38.95,
+     547.51
+    ],
+    [
+     172.7,
+     542.55
+    ],
+    [
+     173.6,
+     566.86
+    ],
+    [
+     39.85,
+     571.82
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.service_date",
+   "value": "2026-04-15",
+   "display_value": "04/15/2026",
+   "canonical_value": "04/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    261.76,
+    537.28,
+    345.95,
+    563.25
+   ],
+   "bbox_pt": [
+    128,
+    249.4,
+    168.032,
+    260.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     261.76,
+     540.37
+    ],
+    [
+     345.1,
+     537.28
+    ],
+    [
+     345.95,
+     560.17
+    ],
+    [
+     262.61,
+     563.25
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.billed",
+   "value": "100.00",
+   "display_value": "100.00",
+   "canonical_value": "100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.55,
+    529.49,
+    495.8,
+    557.37
+   ],
+   "bbox_pt": [
+    212.478,
+    248.325,
+    240.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     437.55,
+     531.62
+    ],
+    [
+     494.85,
+     529.49
+    ],
+    [
+     495.8,
+     555.24
+    ],
+    [
+     438.5,
+     557.37
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.discount",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    579.13,
+    524.63,
+    626.96,
+    552.12
+   ],
+   "bbox_pt": [
+    280.482,
+    248.325,
+    303.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     579.13,
+     526.37
+    ],
+    [
+     626.01,
+     524.63
+    ],
+    [
+     626.96,
+     550.38
+    ],
+    [
+     580.08,
+     552.12
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.allowed",
+   "value": "70.00",
+   "display_value": "70.00",
+   "canonical_value": "70.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    710.29,
+    519.77,
+    758.12,
+    547.26
+   ],
+   "bbox_pt": [
+    343.482,
+    248.325,
+    366.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     710.29,
+     521.51
+    ],
+    [
+     757.17,
+     519.77
+    ],
+    [
+     758.12,
+     545.52
+    ],
+    [
+     711.24,
+     547.26
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.plan_paid",
+   "value": "56.00",
+   "display_value": "56.00",
+   "canonical_value": "56.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    841.45,
+    514.91,
+    889.28,
+    542.4
+   ],
+   "bbox_pt": [
+    406.482,
+    248.325,
+    429.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     841.45,
+     516.65
+    ],
+    [
+     888.33,
+     514.91
+    ],
+    [
+     889.28,
+     540.66
+    ],
+    [
+     842.4,
+     542.4
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.deductible",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1001.76,
+    509.36,
+    1039.18,
+    536.46
+   ],
+   "bbox_pt": [
+    483.486,
+    248.325,
+    501.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1001.76,
+     510.71
+    ],
+    [
+     1038.23,
+     509.36
+    ],
+    [
+     1039.18,
+     535.11
+    ],
+    [
+     1002.71,
+     536.46
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.copay",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1114.18,
+    505.19,
+    1151.6,
+    532.3
+   ],
+   "bbox_pt": [
+    537.486,
+    248.325,
+    555.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1114.18,
+     506.54
+    ],
+    [
+     1150.65,
+     505.19
+    ],
+    [
+     1151.6,
+     530.95
+    ],
+    [
+     1115.14,
+     532.3
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.coinsurance",
+   "value": "14.00",
+   "display_value": "14.00",
+   "canonical_value": "14.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1253.67,
+    499.64,
+    1301.5,
+    527.13
+   ],
+   "bbox_pt": [
+    604.482,
+    248.325,
+    627.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1253.67,
+     501.38
+    ],
+    [
+     1300.55,
+     499.64
+    ],
+    [
+     1301.5,
+     525.39
+    ],
+    [
+     1254.62,
+     527.13
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.noncovered",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1413.98,
+    494.08,
+    1451.4,
+    521.19
+   ],
+   "bbox_pt": [
+    681.486,
+    248.325,
+    699.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1413.98,
+     495.44
+    ],
+    [
+     1450.44,
+     494.08
+    ],
+    [
+     1451.4,
+     519.84
+    ],
+    [
+     1414.93,
+     521.19
+    ]
+   ]
+  },
+  {
+   "key": "lines.2.patient",
+   "value": "14.00",
+   "display_value": "14.00",
+   "canonical_value": "14.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1545.13,
+    488.84,
+    1592.97,
+    516.33
+   ],
+   "bbox_pt": [
+    744.482,
+    248.325,
+    767.0,
+    260.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1545.13,
+     490.58
+    ],
+    [
+     1592.02,
+     488.84
+    ],
+    [
+     1592.97,
+     514.59
+    ],
+    [
+     1546.08,
+     516.33
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.service",
+   "value": "Metabolic panel",
+   "display_value": "Metabolic panel",
+   "canonical_value": "Metabolic panel",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    40.8,
+    592.88,
+    165.63,
+    621.78
+   ],
+   "bbox_pt": [
+    21,
+    272.862,
+    80.525,
+    284.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     40.8,
+     597.47
+    ],
+    [
+     164.73,
+     592.88
+    ],
+    [
+     165.63,
+     617.19
+    ],
+    [
+     41.7,
+     621.78
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.service_date",
+   "value": "2026-04-15",
+   "display_value": "04/15/2026",
+   "canonical_value": "04/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    263.61,
+    587.25,
+    347.8,
+    613.22
+   ],
+   "bbox_pt": [
+    128,
+    273.4,
+    168.032,
+    284.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     263.61,
+     590.34
+    ],
+    [
+     346.96,
+     587.25
+    ],
+    [
+     347.8,
+     610.13
+    ],
+    [
+     264.46,
+     613.22
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.billed",
+   "value": "250.00",
+   "display_value": "250.00",
+   "canonical_value": "250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    439.4,
+    579.46,
+    497.65,
+    607.33
+   ],
+   "bbox_pt": [
+    212.478,
+    272.325,
+    240.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     439.4,
+     581.58
+    ],
+    [
+     496.7,
+     579.46
+    ],
+    [
+     497.65,
+     605.21
+    ],
+    [
+     440.35,
+     607.33
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.discount",
+   "value": "100.00",
+   "display_value": "100.00",
+   "canonical_value": "100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    570.56,
+    574.6,
+    628.81,
+    602.47
+   ],
+   "bbox_pt": [
+    275.478,
+    272.325,
+    303.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     570.56,
+     576.72
+    ],
+    [
+     627.86,
+     574.6
+    ],
+    [
+     628.81,
+     600.35
+    ],
+    [
+     571.51,
+     602.47
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.allowed",
+   "value": "150.00",
+   "display_value": "150.00",
+   "canonical_value": "150.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    701.72,
+    569.74,
+    759.97,
+    597.61
+   ],
+   "bbox_pt": [
+    338.478,
+    272.325,
+    366.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     701.72,
+     571.86
+    ],
+    [
+     759.02,
+     569.74
+    ],
+    [
+     759.97,
+     595.49
+    ],
+    [
+     702.67,
+     597.61
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.plan_paid",
+   "value": "120.00",
+   "display_value": "120.00",
+   "canonical_value": "120.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    832.88,
+    564.88,
+    891.13,
+    592.75
+   ],
+   "bbox_pt": [
+    401.478,
+    272.325,
+    429.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     832.88,
+     567.0
+    ],
+    [
+     890.18,
+     564.88
+    ],
+    [
+     891.13,
+     590.63
+    ],
+    [
+     833.83,
+     592.75
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.deductible",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1003.61,
+    559.32,
+    1041.03,
+    586.43
+   ],
+   "bbox_pt": [
+    483.486,
+    272.325,
+    501.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1003.61,
+     560.68
+    ],
+    [
+     1040.08,
+     559.32
+    ],
+    [
+     1041.03,
+     585.08
+    ],
+    [
+     1004.57,
+     586.43
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.copay",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1116.03,
+    555.16,
+    1153.45,
+    582.26
+   ],
+   "bbox_pt": [
+    537.486,
+    272.325,
+    555.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1116.03,
+     556.51
+    ],
+    [
+     1152.5,
+     555.16
+    ],
+    [
+     1153.45,
+     580.91
+    ],
+    [
+     1116.99,
+     582.26
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.coinsurance",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1255.52,
+    549.6,
+    1303.35,
+    577.09
+   ],
+   "bbox_pt": [
+    604.482,
+    272.325,
+    627.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1255.52,
+     551.34
+    ],
+    [
+     1302.4,
+     549.6
+    ],
+    [
+     1303.35,
+     575.36
+    ],
+    [
+     1256.47,
+     577.09
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.noncovered",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1415.83,
+    544.05,
+    1453.25,
+    571.15
+   ],
+   "bbox_pt": [
+    681.486,
+    272.325,
+    699.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1415.83,
+     545.4
+    ],
+    [
+     1452.29,
+     544.05
+    ],
+    [
+     1453.25,
+     569.8
+    ],
+    [
+     1416.78,
+     571.15
+    ]
+   ]
+  },
+  {
+   "key": "lines.3.patient",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1546.98,
+    538.8,
+    1594.82,
+    566.29
+   ],
+   "bbox_pt": [
+    744.482,
+    272.325,
+    767.0,
+    284.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1546.98,
+     540.54
+    ],
+    [
+     1593.87,
+     538.8
+    ],
+    [
+     1594.82,
+     564.56
+    ],
+    [
+     1547.93,
+     566.29
+    ]
+   ]
+  },
+  {
+   "key": "totals.billed",
+   "value": "600.00",
+   "display_value": "$600.00",
+   "canonical_value": "$600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    430.92,
+    631.6,
+    499.59,
+    659.91
+   ],
+   "bbox_pt": [
+    207.474,
+    297.37,
+    240.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     430.92,
+     634.11
+    ],
+    [
+     498.63,
+     631.6
+    ],
+    [
+     499.59,
+     657.4
+    ],
+    [
+     431.87,
+     659.91
+    ]
+   ]
+  },
+  {
+   "key": "totals.discount",
+   "value": "200.00",
+   "display_value": "$200.00",
+   "canonical_value": "$200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    562.08,
+    626.74,
+    630.75,
+    655.05
+   ],
+   "bbox_pt": [
+    270.474,
+    297.37,
+    303.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     562.08,
+     629.25
+    ],
+    [
+     629.79,
+     626.74
+    ],
+    [
+     630.75,
+     652.54
+    ],
+    [
+     563.03,
+     655.05
+    ]
+   ]
+  },
+  {
+   "key": "totals.allowed",
+   "value": "400.00",
+   "display_value": "$400.00",
+   "canonical_value": "$400.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    693.24,
+    621.88,
+    761.91,
+    650.19
+   ],
+   "bbox_pt": [
+    333.474,
+    297.37,
+    366.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     693.24,
+     624.39
+    ],
+    [
+     760.95,
+     621.88
+    ],
+    [
+     761.91,
+     647.68
+    ],
+    [
+     694.19,
+     650.19
+    ]
+   ]
+  },
+  {
+   "key": "totals.plan_paid",
+   "value": "326.00",
+   "display_value": "$326.00",
+   "canonical_value": "$326.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    824.4,
+    617.02,
+    893.07,
+    645.33
+   ],
+   "bbox_pt": [
+    396.474,
+    297.37,
+    429.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     824.4,
+     619.53
+    ],
+    [
+     892.11,
+     617.02
+    ],
+    [
+     893.07,
+     642.82
+    ],
+    [
+     825.35,
+     645.33
+    ]
+   ]
+  },
+  {
+   "key": "totals.deductible",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    995.13,
+    611.47,
+    1042.96,
+    639.01
+   ],
+   "bbox_pt": [
+    478.482,
+    297.37,
+    501.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     995.13,
+     613.21
+    ],
+    [
+     1042.01,
+     611.47
+    ],
+    [
+     1042.96,
+     637.27
+    ],
+    [
+     996.09,
+     639.01
+    ]
+   ]
+  },
+  {
+   "key": "totals.copay",
+   "value": "30.00",
+   "display_value": "$30.00",
+   "canonical_value": "$30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1097.13,
+    607.3,
+    1155.39,
+    635.23
+   ],
+   "bbox_pt": [
+    527.478,
+    297.37,
+    555.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1097.13,
+     609.43
+    ],
+    [
+     1154.43,
+     607.3
+    ],
+    [
+     1155.39,
+     633.1
+    ],
+    [
+     1098.09,
+     635.23
+    ]
+   ]
+  },
+  {
+   "key": "totals.coinsurance",
+   "value": "44.00",
+   "display_value": "$44.00",
+   "canonical_value": "$44.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1247.03,
+    601.75,
+    1305.28,
+    629.67
+   ],
+   "bbox_pt": [
+    599.478,
+    297.37,
+    627.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1247.03,
+     603.87
+    ],
+    [
+     1304.33,
+     601.75
+    ],
+    [
+     1305.28,
+     627.55
+    ],
+    [
+     1247.98,
+     629.67
+    ]
+   ]
+  },
+  {
+   "key": "totals.noncovered",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1407.35,
+    596.19,
+    1455.18,
+    623.73
+   ],
+   "bbox_pt": [
+    676.482,
+    297.37,
+    699.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1407.35,
+     597.93
+    ],
+    [
+     1454.23,
+     596.19
+    ],
+    [
+     1455.18,
+     622.0
+    ],
+    [
+     1408.3,
+     623.73
+    ]
+   ]
+  },
+  {
+   "key": "totals.patient",
+   "value": "74.00",
+   "display_value": "$74.00",
+   "canonical_value": "$74.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1538.5,
+    590.95,
+    1596.75,
+    618.87
+   ],
+   "bbox_pt": [
+    739.478,
+    297.37,
+    767.0,
+    309.763
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1538.5,
+     593.07
+    ],
+    [
+     1595.8,
+     590.95
+    ],
+    [
+     1596.75,
+     616.75
+    ],
+    [
+     1539.45,
+     618.87
+    ]
+   ]
+  },
+  {
+   "key": "payment_summary",
+   "value": "Approved payment: $326.00 to ALDER CREEK MEDICAL GROUP on 04/22/2026.",
+   "display_value": "Approved payment: $326.00 to ALDER CREEK MEDICAL GROUP on 04/22/2026.",
+   "canonical_value": "Approved payment: $326.00 to ALDER CREEK MEDICAL GROUP on 04/22/2026.",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    47.0,
+    679.46,
+    835.91,
+    737.32
+   ],
+   "bbox_pt": [
+    22,
+    326.3,
+    400.42,
+    340.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     47.0,
+     708.65
+    ],
+    [
+     834.84,
+     679.46
+    ],
+    [
+     835.91,
+     708.13
+    ],
+    [
+     48.07,
+     737.32
+    ]
+   ]
+  },
+  {
+   "key": "benefit_period",
+   "value": "2026-01-01/2026-12-31",
+   "display_value": "Benefit period: 01/01/2026 - 12/31/2026",
+   "canonical_value": "Benefit period: 01/01/2026 - 12/31/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    59.5,
+    919.64,
+    427.46,
+    961.84
+   ],
+   "bbox_pt": [
+    24,
+    434.25,
+    200.23,
+    447.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     59.5,
+     933.24
+    ],
+    [
+     426.4,
+     919.64
+    ],
+    [
+     427.46,
+     948.24
+    ],
+    [
+     60.56,
+     961.84
+    ]
+   ]
+  },
+  {
+   "key": "out_of_pocket_summary",
+   "value": "Year-to-date out-of-pocket: $524.00 of $6,000.00 maximum.",
+   "display_value": "Year-to-date out-of-pocket: $524.00 of $6,000.00 maximum.",
+   "canonical_value": "Year-to-date out-of-pocket: $524.00 of $6,000.00 maximum.",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    60.81,
+    948.13,
+    615.01,
+    997.23
+   ],
+   "bbox_pt": [
+    24,
+    451.25,
+    289.69,
+    464.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     60.81,
+     968.62
+    ],
+    [
+     613.95,
+     948.13
+    ],
+    [
+     615.01,
+     976.74
+    ],
+    [
+     61.87,
+     997.23
+    ]
+   ]
+  }
+ ]
+}

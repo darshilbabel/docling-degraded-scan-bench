@@ -1,0 +1,351 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="90"/>
+    <location value="27"/>
+    <location value="1175"/>
+    <location value="1128"/>
+    <field_item>
+      <key>buyer_name</key>
+      <value>
+        <location value="132"/>
+        <location value="27"/>
+        <location value="630"/>
+        <location value="119"/>
+        ORCHARD VALE FOODS
+      </value>
+    </field_item>
+    <field_item>
+      <key>purchase_order</key>
+      <value>
+        <location value="835"/>
+        <location value="142"/>
+        <location value="1043"/>
+        <location value="191"/>
+        PO-260601-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>order_date</key>
+      <value>
+        <location value="833"/>
+        <location value="182"/>
+        <location value="928"/>
+        <location value="214"/>
+        06/01/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>supplier_name</key>
+      <value>
+        <location value="132"/>
+        <location value="258"/>
+        <location value="546"/>
+        <location value="318"/>
+        MAPLEBRIDGE INDUSTRIAL SUPPLY
+      </value>
+    </field_item>
+    <field_item>
+      <key>delivery_date</key>
+      <value>
+        <location value="107"/>
+        <location value="406"/>
+        <location value="386"/>
+        <location value="454"/>
+        Required delivery: 06/08/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.sku</key>
+      <value>
+        <location value="107"/>
+        <location value="550"/>
+        <location value="160"/>
+        <location value="580"/>
+        AF-48
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.description</key>
+      <value>
+        <location value="282"/>
+        <location value="563"/>
+        <location value="425"/>
+        <location value="598"/>
+        Air filter cartridge
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.quantity</key>
+      <value>
+        <location value="754"/>
+        <location value="596"/>
+        <location value="776"/>
+        <location value="623"/>
+        20
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.unit_price</key>
+      <value>
+        <location value="858"/>
+        <location value="603"/>
+        <location value="906"/>
+        <location value="632"/>
+        48.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.1.amount</key>
+      <value>
+        <location value="1024"/>
+        <location value="615"/>
+        <location value="1083"/>
+        <location value="644"/>
+        960.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.sku</key>
+      <value>
+        <location value="103"/>
+        <location value="613"/>
+        <location value="167"/>
+        <location value="643"/>
+        VB-125
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.description</key>
+      <value>
+        <location value="278"/>
+        <location value="625"/>
+        <location value="403"/>
+        <location value="659"/>
+        Valve repair kit
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.quantity</key>
+      <value>
+        <location value="749"/>
+        <location value="658"/>
+        <location value="772"/>
+        <location value="685"/>
+        10
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.unit_price</key>
+      <value>
+        <location value="853"/>
+        <location value="665"/>
+        <location value="912"/>
+        <location value="695"/>
+        125.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.2.amount</key>
+      <value>
+        <location value="1020"/>
+        <location value="677"/>
+        <location value="1089"/>
+        <location value="708"/>
+        1250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.sku</key>
+      <value>
+        <location value="99"/>
+        <location value="675"/>
+        <location value="155"/>
+        <location value="705"/>
+        SG-80
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.description</key>
+      <value>
+        <location value="273"/>
+        <location value="687"/>
+        <location value="441"/>
+        <location value="725"/>
+        Food-grade seal set
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.quantity</key>
+      <value>
+        <location value="745"/>
+        <location value="721"/>
+        <location value="757"/>
+        <location value="747"/>
+        5
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.unit_price</key>
+      <value>
+        <location value="849"/>
+        <location value="728"/>
+        <location value="898"/>
+        <location value="757"/>
+        80.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.3.amount</key>
+      <value>
+        <location value="1015"/>
+        <location value="739"/>
+        <location value="1074"/>
+        <location value="769"/>
+        400.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.4.sku</key>
+      <value>
+        <location value="94"/>
+        <location value="738"/>
+        <location value="183"/>
+        <location value="769"/>
+        SVC-INST
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.4.description</key>
+      <value>
+        <location value="269"/>
+        <location value="750"/>
+        <location value="438"/>
+        <location value="787"/>
+        Installation / 3 hours
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.4.quantity</key>
+      <value>
+        <location value="741"/>
+        <location value="783"/>
+        <location value="753"/>
+        <location value="809"/>
+        3
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.4.unit_price</key>
+      <value>
+        <location value="845"/>
+        <location value="790"/>
+        <location value="904"/>
+        <location value="820"/>
+        150.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.4.amount</key>
+      <value>
+        <location value="1011"/>
+        <location value="802"/>
+        <location value="1070"/>
+        <location value="832"/>
+        450.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.5.sku</key>
+      <value>
+        <location value="90"/>
+        <location value="800"/>
+        <location value="173"/>
+        <location value="831"/>
+        SVC-CAL
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.5.description</key>
+      <value>
+        <location value="265"/>
+        <location value="812"/>
+        <location value="434"/>
+        <location value="850"/>
+        Calibration / 2 hours
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.5.quantity</key>
+      <value>
+        <location value="736"/>
+        <location value="845"/>
+        <location value="749"/>
+        <location value="872"/>
+        2
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.5.unit_price</key>
+      <value>
+        <location value="840"/>
+        <location value="852"/>
+        <location value="899"/>
+        <location value="882"/>
+        100.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>items.5.amount</key>
+      <value>
+        <location value="1006"/>
+        <location value="864"/>
+        <location value="1065"/>
+        <location value="894"/>
+        200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>subtotal</key>
+      <value>
+        <location value="1078"/>
+        <location value="946"/>
+        <location value="1175"/>
+        <location value="984"/>
+        $3260.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>freight</key>
+      <value>
+        <location value="1100"/>
+        <location value="996"/>
+        <location value="1172"/>
+        <location value="1032"/>
+        $90.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>tax</key>
+      <value>
+        <location value="1084"/>
+        <location value="1043"/>
+        <location value="1169"/>
+        <location value="1080"/>
+        $208.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>total</key>
+      <value>
+        <location value="1068"/>
+        <location value="1090"/>
+        <location value="1165"/>
+        <location value="1128"/>
+        $3558.80
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

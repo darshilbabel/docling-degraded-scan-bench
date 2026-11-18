@@ -1,0 +1,187 @@
+{
+ "page_id": "indian_languages__bengali_02__p2",
+ "pack": "indian_languages",
+ "document": "bengali_02",
+ "family": "indic_form",
+ "document_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+ "language": "bengali",
+ "script": "Bengali",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1242,
+  1804
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/02_bengali_02/bengali_02_clean.pdf",
+ "condition": "blur",
+ "degradation_params": {
+  "sigma_px": 1.718,
+  "seed": 1614810076
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "specimen_signature",
+   "value": "কৃষ্ণা রায়",
+   "display_value": "কৃষ্ণা রায়",
+   "canonical_value": "কৃষ্ণা রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    108.12,
+    262.17,
+    198.06,
+    310.44
+   ],
+   "bbox_pt": [
+    51.9,
+    125.84,
+    95.07,
+    149.01
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "specimen_name",
+   "value": "কৃষ্ণা রানী রায়",
+   "display_value": "কৃষ্ণা রানী রায়",
+   "canonical_value": "কৃষ্ণা রানী রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    142.15,
+    340.88,
+    254.25,
+    378.69
+   ],
+   "bbox_pt": [
+    68.23,
+    163.62,
+    122.04,
+    181.77
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "declaration_date",
+   "value": "18/10/2026",
+   "display_value": "18/10/2026",
+   "canonical_value": "18/10/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    156.08,
+    903.44,
+    251.1,
+    939.98
+   ],
+   "bbox_pt": [
+    74.92,
+    433.65,
+    120.53,
+    451.19
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "applicant_signature",
+   "value": "কৃষ্ণা রায়",
+   "display_value": "কৃষ্ণা রায়",
+   "canonical_value": "কৃষ্ণা রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    736.4,
+    865.5,
+    831.23,
+    915.79
+   ],
+   "bbox_pt": [
+    353.47,
+    415.44,
+    398.99,
+    439.58
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominator_name",
+   "value": "কৃষ্ণা রানী রায়",
+   "display_value": "কৃষ্ণা রানী রায়",
+   "canonical_value": "কৃষ্ণা রানী রায়",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    265.25,
+    1017.75,
+    386.06,
+    1060.48
+   ],
+   "bbox_pt": [
+    127.32,
+    488.52,
+    185.31,
+    509.03
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_name_relation",
+   "value": "অনিল রায় (স্বামী)",
+   "display_value": "অনিল রায় (স্বামী)",
+   "canonical_value": "অনিল রায় (স্বামী)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    179.52,
+    1286.29,
+    293.77,
+    1315.48
+   ],
+   "bbox_pt": [
+    86.17,
+    617.42,
+    141.01,
+    631.43
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_share",
+   "value": "100%",
+   "display_value": "100%",
+   "canonical_value": "100%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    843.65,
+    1288.27,
+    882.38,
+    1319.06
+   ],
+   "bbox_pt": [
+    404.95,
+    618.37,
+    423.54,
+    633.15
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

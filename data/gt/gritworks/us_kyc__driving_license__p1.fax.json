@@ -1,0 +1,259 @@
+{
+ "page_id": "us_kyc__driving_license__p1",
+ "pack": "us_kyc",
+ "document": "driving_license",
+ "family": "id_card",
+ "document_type": "US driver license sample",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1500,
+  1011
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/02_driving_license/driving_license_clean.pdf",
+ "condition": "fax",
+ "degradation_params": {
+  "threshold": 155,
+  "flip_rate": 0.004,
+  "streaks": 3,
+  "vertical_resample": 0.48,
+  "seed": 370784657
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "license_number",
+   "value": "D0004217",
+   "display_value": "D0004217",
+   "canonical_value": "D0004217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    602.08,
+    251.25,
+    794.33,
+    308.62
+   ],
+   "bbox_pt": [
+    289,
+    120.6,
+    381.28,
+    148.14
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "expiry_date",
+   "value": "2032-08-14",
+   "display_value": "08/14/2032",
+   "canonical_value": "08/14/2032",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    614.58,
+    320.44,
+    791.81,
+    369.21
+   ],
+   "bbox_pt": [
+    295,
+    153.81,
+    380.068,
+    177.219
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "surname",
+   "value": "PATEL",
+   "display_value": "PATEL",
+   "canonical_value": "PATEL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    593.75,
+    370.44,
+    709.85,
+    419.21
+   ],
+   "bbox_pt": [
+    285,
+    177.81,
+    340.726,
+    201.219
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "given_names",
+   "value": "SIMRAN",
+   "display_value": "SIMRAN",
+   "canonical_value": "SIMRAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    593.75,
+    416.27,
+    733.43,
+    465.04
+   ],
+   "bbox_pt": [
+    285,
+    199.81,
+    352.048,
+    223.219
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "address_line1",
+   "value": "2570 24TH STREET",
+   "display_value": "2570 24TH STREET",
+   "canonical_value": "2570 24TH STREET",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    547.92,
+    462.69,
+    796.27,
+    499.98
+   ],
+   "bbox_pt": [
+    263,
+    222.09,
+    382.21,
+    239.991
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "city_state_zip",
+   "value": "SACRAMENTO, CA 95818",
+   "display_value": "SACRAMENTO, CA 95818",
+   "canonical_value": "SACRAMENTO, CA 95818",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    547.92,
+    500.33,
+    853.52,
+    534.76
+   ],
+   "bbox_pt": [
+    263,
+    240.16,
+    409.688,
+    256.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1971-04-04",
+   "display_value": "04/04/1971",
+   "canonical_value": "04/04/1971",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    618.75,
+    541.67,
+    864.58,
+    581.25
+   ],
+   "bbox_pt": [
+    297,
+    260,
+    415,
+    279
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    745.83,
+    693.75,
+    768.75,
+    725.0
+   ],
+   "bbox_pt": [
+    358,
+    333,
+    369,
+    348
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "issue_date",
+   "value": "2022-08-14",
+   "display_value": "08/14/2022",
+   "canonical_value": "08/14/2022",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1087.5,
+    768.75,
+    1300.0,
+    808.33
+   ],
+   "bbox_pt": [
+    522,
+    369,
+    624,
+    388
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "class",
+   "value": "C",
+   "display_value": "C",
+   "canonical_value": "C",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1081.25,
+    250.0,
+    1108.33,
+    281.25
+   ],
+   "bbox_pt": [
+    519,
+    120,
+    532,
+    135
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  }
+ ]
+}

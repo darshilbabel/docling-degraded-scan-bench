@@ -1,0 +1,141 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="30"/>
+    <location value="275"/>
+    <location value="988"/>
+    <location value="1359"/>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="30"/>
+        <location value="334"/>
+        <location value="233"/>
+        <location value="382"/>
+        TAYLOR BROOKS
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="611"/>
+        <location value="293"/>
+        <location value="728"/>
+        <location value="334"/>
+        08/14/1990
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="933"/>
+        <location value="275"/>
+        <location value="950"/>
+        <location value="308"/>
+        F
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_id</key>
+      <value>
+        <location value="38"/>
+        <location value="437"/>
+        <location value="131"/>
+        <location value="473"/>
+        PT-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>order_id</key>
+      <value>
+        <location value="422"/>
+        <location value="403"/>
+        <location value="535"/>
+        <location value="441"/>
+        ORD-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>accession_id</key>
+      <value>
+        <location value="816"/>
+        <location value="366"/>
+        <location value="988"/>
+        <location value="409"/>
+        DX-260610-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>authorized_test</key>
+      <value>
+        <location value="81"/>
+        <location value="573"/>
+        <location value="576"/>
+        <location value="648"/>
+        CD4/CD8 profile with CBC and differential
+      </value>
+    </field_item>
+    <field_item>
+      <key>specimen_type</key>
+      <value>
+        <location value="85"/>
+        <location value="648"/>
+        <location value="364"/>
+        <location value="699"/>
+        Specimen: EDTA whole blood
+      </value>
+    </field_item>
+    <field_item>
+      <key>ordering_physician</key>
+      <value>
+        <location value="449"/>
+        <location value="1036"/>
+        <location value="666"/>
+        <location value="1085"/>
+        DR. MAYA COLLINS
+      </value>
+    </field_item>
+    <field_item>
+      <key>ordering_npi</key>
+      <value>
+        <location value="455"/>
+        <location value="1112"/>
+        <location value="585"/>
+        <location value="1154"/>
+        1999999976
+      </value>
+    </field_item>
+    <field_item>
+      <key>ordering_clinic</key>
+      <value>
+        <location value="461"/>
+        <location value="1166"/>
+        <location value="765"/>
+        <location value="1222"/>
+        NORTHLINE FAMILY CLINIC
+      </value>
+    </field_item>
+    <field_item>
+      <key>clinic_phone</key>
+      <value>
+        <location value="466"/>
+        <location value="1247"/>
+        <location value="625"/>
+        <location value="1291"/>
+        (512) 555-0165
+      </value>
+    </field_item>
+    <field_item>
+      <key>authorized_at</key>
+      <value>
+        <location value="472"/>
+        <location value="1309"/>
+        <location value="706"/>
+        <location value="1359"/>
+        06/09/2026 16:20 CDT
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

@@ -1,0 +1,131 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="135"/>
+    <location value="190"/>
+    <location value="1181"/>
+    <location value="1242"/>
+    <field_item>
+      <key>credit_memo</key>
+      <value>
+        <location value="773"/>
+        <location value="190"/>
+        <location value="880"/>
+        <location value="221"/>
+        CM-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>issue_date</key>
+      <value>
+        <location value="135"/>
+        <location value="417"/>
+        <location value="240"/>
+        <location value="446"/>
+        06/12/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>invoice_reference</key>
+      <value>
+        <location value="500"/>
+        <location value="417"/>
+        <location value="623"/>
+        <location value="446"/>
+        INV-G-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>purchase_order</key>
+      <value>
+        <location value="896"/>
+        <location value="417"/>
+        <location value="1067"/>
+        <location value="446"/>
+        PO-260601-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_name</key>
+      <value>
+        <location value="135"/>
+        <location value="548"/>
+        <location value="433"/>
+        <location value="583"/>
+        ORCHARD VALE FOODS
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_account</key>
+      <value>
+        <location value="135"/>
+        <location value="592"/>
+        <location value="243"/>
+        <location value="621"/>
+        OVF-05217
+      </value>
+    </field_item>
+    <field_item>
+      <key>return.description</key>
+      <value>
+        <location value="146"/>
+        <location value="961"/>
+        <location value="284"/>
+        <location value="987"/>
+        AF-48 cartridges
+      </value>
+    </field_item>
+    <field_item>
+      <key>return.quantity</key>
+      <value>
+        <location value="685"/>
+        <location value="961"/>
+        <location value="696"/>
+        <location value="987"/>
+        2
+      </value>
+    </field_item>
+    <field_item>
+      <key>return.unit_price</key>
+      <value>
+        <location value="831"/>
+        <location value="961"/>
+        <location value="878"/>
+        <location value="987"/>
+        48.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>return.goods_credit</key>
+      <value>
+        <location value="1008"/>
+        <location value="961"/>
+        <location value="1055"/>
+        <location value="987"/>
+        96.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>tax_credit</key>
+      <value>
+        <location value="1124"/>
+        <location value="1073"/>
+        <location value="1181"/>
+        <location value="1105"/>
+        $7.68
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_credit</key>
+      <value>
+        <location value="967"/>
+        <location value="1167"/>
+        <location value="1162"/>
+        <location value="1242"/>
+        $103.68
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

@@ -1,0 +1,331 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="158"/>
+    <location value="87"/>
+    <location value="1169"/>
+    <location value="1349"/>
+    <field_item>
+      <key>borrower_name</key>
+      <value>
+        <location value="693"/>
+        <location value="227"/>
+        <location value="842"/>
+        <location value="259"/>
+        JORDAN ELLIS
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_line1</key>
+      <value>
+        <location value="695"/>
+        <location value="244"/>
+        <location value="950"/>
+        <location value="284"/>
+        742 EVERGREEN, APT 3B
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_city_state_zip</key>
+      <value>
+        <location value="697"/>
+        <location value="269"/>
+        <location value="948"/>
+        <location value="309"/>
+        LOS ANGELES, CA 90026
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer</key>
+      <value>
+        <location value="158"/>
+        <location value="131"/>
+        <location value="418"/>
+        <location value="167"/>
+        GRITWORKS TECHNOLOGY LLC
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_address</key>
+      <value>
+        <location value="160"/>
+        <location value="147"/>
+        <location value="533"/>
+        <location value="192"/>
+        4125 WESTBROOK CORPORATE CTR, STE 240
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_city_state_zip</key>
+      <value>
+        <location value="162"/>
+        <location value="183"/>
+        <location value="396"/>
+        <location value="217"/>
+        SAN BERNARDINO, CA 92408
+      </value>
+    </field_item>
+    <field_item>
+      <key>employee_ssn_masked</key>
+      <value>
+        <location value="345"/>
+        <location value="251"/>
+        <location value="455"/>
+        <location value="276"/>
+        XXX-XX-2417
+      </value>
+    </field_item>
+    <field_item>
+      <key>payment_number</key>
+      <value>
+        <location value="410"/>
+        <location value="87"/>
+        <location value="495"/>
+        <location value="110"/>
+        000025024
+      </value>
+    </field_item>
+    <field_item>
+      <key>period_begin</key>
+      <value>
+        <location value="895"/>
+        <location value="90"/>
+        <location value="990"/>
+        <location value="115"/>
+        12/16/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>period_end</key>
+      <value>
+        <location value="897"/>
+        <location value="113"/>
+        <location value="992"/>
+        <location value="139"/>
+        12/31/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>pay_date</key>
+      <value>
+        <location value="899"/>
+        <location value="136"/>
+        <location value="994"/>
+        <location value="162"/>
+        12/31/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_account_last4</key>
+      <value>
+        <location value="777"/>
+        <location value="1308"/>
+        <location value="1067"/>
+        <location value="1349"/>
+        Account Number: XXX XXX 2417
+      </value>
+    </field_item>
+    <field_item>
+      <key>pay_frequency</key>
+      <value>
+        <location value="908"/>
+        <location value="539"/>
+        <location value="1037"/>
+        <location value="565"/>
+        SEMI-MONTHLY
+      </value>
+    </field_item>
+    <field_item>
+      <key>gross_current</key>
+      <value>
+        <location value="431"/>
+        <location value="525"/>
+        <location value="516"/>
+        <location value="550"/>
+        $4,800.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>gross_ytd</key>
+      <value>
+        <location value="558"/>
+        <location value="515"/>
+        <location value="653"/>
+        <location value="540"/>
+        115,200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>federal_withholding_current</key>
+      <value>
+        <location value="463"/>
+        <location value="602"/>
+        <location value="522"/>
+        <location value="625"/>
+        590.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>federal_withholding_ytd</key>
+      <value>
+        <location value="574"/>
+        <location value="591"/>
+        <location value="659"/>
+        <location value="616"/>
+        14,160.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>social_security_current</key>
+      <value>
+        <location value="465"/>
+        <location value="627"/>
+        <location value="524"/>
+        <location value="650"/>
+        297.60
+      </value>
+    </field_item>
+    <field_item>
+      <key>social_security_ytd</key>
+      <value>
+        <location value="587"/>
+        <location value="616"/>
+        <location value="661"/>
+        <location value="641"/>
+        7,142.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>medicare_current</key>
+      <value>
+        <location value="477"/>
+        <location value="652"/>
+        <location value="526"/>
+        <location value="674"/>
+        69.60
+      </value>
+    </field_item>
+    <field_item>
+      <key>medicare_ytd</key>
+      <value>
+        <location value="588"/>
+        <location value="641"/>
+        <location value="663"/>
+        <location value="666"/>
+        1,670.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>state_withholding_current</key>
+      <value>
+        <location value="469"/>
+        <location value="677"/>
+        <location value="527"/>
+        <location value="700"/>
+        132.50
+      </value>
+    </field_item>
+    <field_item>
+      <key>state_withholding_ytd</key>
+      <value>
+        <location value="590"/>
+        <location value="666"/>
+        <location value="665"/>
+        <location value="690"/>
+        3,180.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>sdi_current</key>
+      <value>
+        <location value="481"/>
+        <location value="702"/>
+        <location value="529"/>
+        <location value="724"/>
+        57.60
+      </value>
+    </field_item>
+    <field_item>
+      <key>sdi_ytd</key>
+      <value>
+        <location value="592"/>
+        <location value="691"/>
+        <location value="666"/>
+        <location value="715"/>
+        1,382.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>retirement_401k_current</key>
+      <value>
+        <location value="475"/>
+        <location value="754"/>
+        <location value="533"/>
+        <location value="777"/>
+        190.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>retirement_401k_ytd</key>
+      <value>
+        <location value="596"/>
+        <location value="743"/>
+        <location value="670"/>
+        <location value="767"/>
+        4,560.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_deductions_current</key>
+      <value>
+        <location value="463"/>
+        <location value="803"/>
+        <location value="537"/>
+        <location value="828"/>
+        1,337.30
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_deductions_ytd</key>
+      <value>
+        <location value="590"/>
+        <location value="793"/>
+        <location value="674"/>
+        <location value="818"/>
+        32,095.20
+      </value>
+    </field_item>
+    <field_item>
+      <key>net_pay_current</key>
+      <value>
+        <location value="460"/>
+        <location value="897"/>
+        <location value="544"/>
+        <location value="922"/>
+        $3,462.70
+      </value>
+    </field_item>
+    <field_item>
+      <key>net_pay_ytd</key>
+      <value>
+        <location value="597"/>
+        <location value="886"/>
+        <location value="681"/>
+        <location value="912"/>
+        83,104.80
+      </value>
+    </field_item>
+    <field_item>
+      <key>employer_health_coverage_ytd</key>
+      <value>
+        <location value="1103"/>
+        <location value="404"/>
+        <location value="1169"/>
+        <location value="425"/>
+        7,800.00
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

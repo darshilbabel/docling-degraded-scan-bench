@@ -1,0 +1,81 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1242" height="1804"/>
+  </head>
+  <field_region>
+    <location value="108"/>
+    <location value="262"/>
+    <location value="882"/>
+    <location value="1319"/>
+    <field_item>
+      <key>specimen_signature</key>
+      <value>
+        <location value="108"/>
+        <location value="262"/>
+        <location value="198"/>
+        <location value="310"/>
+        কৃষ্ণা রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>specimen_name</key>
+      <value>
+        <location value="142"/>
+        <location value="341"/>
+        <location value="254"/>
+        <location value="379"/>
+        কৃষ্ণা রানী রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>declaration_date</key>
+      <value>
+        <location value="156"/>
+        <location value="903"/>
+        <location value="251"/>
+        <location value="940"/>
+        18/10/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_signature</key>
+      <value>
+        <location value="736"/>
+        <location value="866"/>
+        <location value="831"/>
+        <location value="916"/>
+        কৃষ্ণা রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominator_name</key>
+      <value>
+        <location value="265"/>
+        <location value="1018"/>
+        <location value="386"/>
+        <location value="1060"/>
+        কৃষ্ণা রানী রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_name_relation</key>
+      <value>
+        <location value="180"/>
+        <location value="1286"/>
+        <location value="294"/>
+        <location value="1315"/>
+        অনিল রায় (স্বামী)
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_share</key>
+      <value>
+        <location value="844"/>
+        <location value="1288"/>
+        <location value="882"/>
+        <location value="1319"/>
+        100%
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

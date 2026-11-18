@@ -1,0 +1,81 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="181"/>
+    <location value="159"/>
+    <location value="953"/>
+    <location value="1525"/>
+    <field_item>
+      <key>address_proof</key>
+      <value>
+        <location value="688"/>
+        <location value="159"/>
+        <location value="865"/>
+        <location value="212"/>
+        मतदाता पहचान पत्र
+      </value>
+    </field_item>
+    <field_item>
+      <key>specimen_signature</key>
+      <value>
+        <location value="181"/>
+        <location value="525"/>
+        <location value="289"/>
+        <location value="579"/>
+        प्रीति शर्मा
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_signature</key>
+      <value>
+        <location value="861"/>
+        <location value="1004"/>
+        <location value="953"/>
+        <location value="1054"/>
+        प्रीति शर्मा
+      </value>
+    </field_item>
+    <field_item>
+      <key>declaration_date</key>
+      <value>
+        <location value="745"/>
+        <location value="1065"/>
+        <location value="872"/>
+        <location value="1117"/>
+        04/09/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominator_name</key>
+      <value>
+        <location value="254"/>
+        <location value="1182"/>
+        <location value="420"/>
+        <location value="1237"/>
+        प्रीति कुमारी शर्मा
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_name_relation</key>
+      <value>
+        <location value="315"/>
+        <location value="1483"/>
+        <location value="489"/>
+        <location value="1525"/>
+        दीपक किशोर शर्मा (पिता)
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_share</key>
+      <value>
+        <location value="868"/>
+        <location value="1449"/>
+        <location value="908"/>
+        <location value="1480"/>
+        100%
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

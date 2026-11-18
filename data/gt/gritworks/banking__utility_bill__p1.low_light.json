@@ -1,0 +1,442 @@
+{
+ "page_id": "banking__utility_bill__p1",
+ "pack": "banking",
+ "document": "utility_bill",
+ "family": "utility_bill",
+ "document_type": "US residential utility statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1242,
+  1807
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/05_utility_bill/utility_bill_clean.pdf",
+ "condition": "low_light",
+ "degradation_params": {
+  "gamma": 2.158,
+  "noise_sd": 0.0277,
+  "vignette": 0.35,
+  "seed": 3222280276
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "borrower_name",
+   "value": "JORDAN ELLIS",
+   "display_value": "JORDAN ELLIS",
+   "canonical_value": "JORDAN ELLIS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    129.17,
+    107.43,
+    269.95,
+    127.22
+   ],
+   "bbox_pt": [
+    62.0,
+    51.567,
+    129.574,
+    61.067
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "address_line1",
+   "value": "742 EVERGREEN, APT 3B",
+   "display_value": "742 EVERGREEN, APT 3B",
+   "canonical_value": "742 EVERGREEN, APT 3B",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    129.17,
+    133.47,
+    371.16,
+    153.26
+   ],
+   "bbox_pt": [
+    62.0,
+    64.067,
+    178.157,
+    73.567
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "address_city_state_zip",
+   "value": "LOS ANGELES, CA 90026",
+   "display_value": "LOS ANGELES, CA 90026",
+   "canonical_value": "LOS ANGELES, CA 90026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    129.17,
+    159.51,
+    366.79,
+    179.31
+   ],
+   "bbox_pt": [
+    62.0,
+    76.567,
+    176.057,
+    86.067
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "account_number",
+   "value": "8521-496-002417-84",
+   "display_value": "8521-496-002417-84",
+   "canonical_value": "8521-496-002417-84",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    998.5,
+    158.47,
+    1183.33,
+    178.26
+   ],
+   "bbox_pt": [
+    479.28,
+    76.067,
+    568.0,
+    85.567
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "statement_date",
+   "value": "2025-11-30",
+   "display_value": "11/30/2025",
+   "canonical_value": "11/30/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1084.3,
+    132.43,
+    1183.33,
+    152.22
+   ],
+   "bbox_pt": [
+    520.462,
+    63.567,
+    568.0,
+    73.067
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "payment_due",
+   "value": "2025-12-16",
+   "display_value": "12/16/2025",
+   "canonical_value": "12/16/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1084.3,
+    259.51,
+    1183.33,
+    279.31
+   ],
+   "bbox_pt": [
+    520.462,
+    124.567,
+    568.0,
+    134.067
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "service_period",
+   "value": "2025-11-01/2025-11-30",
+   "display_value": "11/01/2025 - 11/30/2025",
+   "canonical_value": "11/01/2025 - 11/30/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    224.01,
+    724.91,
+    428.33,
+    743.66
+   ],
+   "bbox_pt": [
+    107.523,
+    347.959,
+    205.596,
+    356.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "property",
+   "value": "EVERGREEN CONDOMINIUMS",
+   "display_value": "EVERGREEN CONDOMINIUMS",
+   "canonical_value": "EVERGREEN CONDOMINIUMS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    620.83,
+    413.79,
+    910.03,
+    433.58
+   ],
+   "bbox_pt": [
+    298.0,
+    198.618,
+    436.814,
+    208.118
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "water_usage_gallons",
+   "value": 3800,
+   "display_value": "3,800 gallons",
+   "canonical_value": "3,800 gallons",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    783.22,
+    775.73,
+    888.55,
+    793.44
+   ],
+   "bbox_pt": [
+    375.945,
+    372.35,
+    426.503,
+    380.85
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "water_sewer",
+   "value": "85.40",
+   "display_value": "$85.40",
+   "canonical_value": "85.40",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1122.81,
+    465.54,
+    1183.33,
+    485.33
+   ],
+   "bbox_pt": [
+    538.949,
+    223.458,
+    568.0,
+    232.958
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "gas",
+   "value": "46.80",
+   "display_value": "$46.80",
+   "canonical_value": "46.80",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1122.81,
+    490.14,
+    1183.33,
+    509.93
+   ],
+   "bbox_pt": [
+    538.949,
+    235.265,
+    568.0,
+    244.765
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "storm_drainage",
+   "value": "19.20",
+   "display_value": "$19.20",
+   "canonical_value": "19.20",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1122.81,
+    514.73,
+    1183.33,
+    534.53
+   ],
+   "bbox_pt": [
+    538.949,
+    247.072,
+    568.0,
+    256.572
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "solid_waste",
+   "value": "35.90",
+   "display_value": "$35.90",
+   "canonical_value": "35.90",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1122.81,
+    540.7,
+    1183.33,
+    560.49
+   ],
+   "bbox_pt": [
+    538.949,
+    259.535,
+    568.0,
+    269.035
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "current_charges",
+   "value": "187.30",
+   "display_value": "$187.30",
+   "canonical_value": "187.30",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1111.81,
+    568.03,
+    1183.33,
+    587.82
+   ],
+   "bbox_pt": [
+    533.667,
+    272.654,
+    568.0,
+    282.154
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_due",
+   "value": "187.30",
+   "display_value": "$187.30",
+   "canonical_value": "187.30",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1111.81,
+    671.89,
+    1183.33,
+    691.68
+   ],
+   "bbox_pt": [
+    533.667,
+    322.505,
+    568.0,
+    332.005
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_after_due_date",
+   "value": "192.30",
+   "display_value": "$192.30",
+   "canonical_value": "192.30",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1115.57,
+    310.33,
+    1183.33,
+    329.08
+   ],
+   "bbox_pt": [
+    535.474,
+    148.959,
+    568.0,
+    157.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "previous_balance",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    247.99,
+    795.75,
+    294.9,
+    814.5
+   ],
+   "bbox_pt": [
+    119.034,
+    381.959,
+    141.552,
+    390.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "unit",
+   "value": "3B",
+   "display_value": "Unit: 3B",
+   "canonical_value": "Unit: 3B",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    93.75,
+    760.33,
+    160.44,
+    779.08
+   ],
+   "bbox_pt": [
+    45.0,
+    364.959,
+    77.013,
+    373.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

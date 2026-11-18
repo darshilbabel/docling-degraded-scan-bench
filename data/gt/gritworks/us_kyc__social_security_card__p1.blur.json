@@ -1,0 +1,95 @@
+{
+ "page_id": "us_kyc__social_security_card__p1",
+ "pack": "us_kyc",
+ "document": "social_security_card",
+ "family": "id_card",
+ "document_type": "US Social Security card sample",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1876,
+  1184
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/04_social_security_card/social_security_card_clean.pdf",
+ "condition": "blur",
+ "degradation_params": {
+  "sigma_px": 1.849,
+  "seed": 165718614
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "ssn",
+   "value": "000-00-4217",
+   "display_value": "000-00-4217",
+   "canonical_value": "000-00-4217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    583.33,
+    444.68,
+    1078.33,
+    538.36
+   ],
+   "bbox_pt": [
+    280,
+    213.448,
+    517.6,
+    258.412
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "full_name",
+   "value": "SIMRAN PATEL",
+   "display_value": "SIMRAN PATEL",
+   "canonical_value": "SIMRAN PATEL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    562.5,
+    625.0,
+    1275.0,
+    687.5
+   ],
+   "bbox_pt": [
+    270,
+    300,
+    612,
+    330
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sample_print_date",
+   "value": "2022-03-15",
+   "display_value": "03/15/2022",
+   "canonical_value": "03/15/2022",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1154.17,
+    972.92,
+    1597.92,
+    1027.08
+   ],
+   "bbox_pt": [
+    554,
+    467,
+    767,
+    493
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

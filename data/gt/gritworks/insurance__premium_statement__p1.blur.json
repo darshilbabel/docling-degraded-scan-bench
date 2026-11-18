@@ -1,0 +1,417 @@
+{
+ "page_id": "insurance__premium_statement__p1",
+ "pack": "insurance",
+ "document": "premium_statement",
+ "family": "insurance_statement",
+ "document_type": "Health insurance premium statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1789
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/01_premium_statement/premium_statement_clean.pdf",
+ "condition": "blur",
+ "degradation_params": {
+  "sigma_px": 1.883,
+  "seed": 3105370509
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "policy_number",
+   "value": "POL-04217",
+   "display_value": "POL-04217",
+   "canonical_value": "POL-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    241.67,
+    230.58,
+    354.17,
+    256.6
+   ],
+   "bbox_pt": [
+    116,
+    110.68,
+    170.0,
+    123.17
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "invoice_number",
+   "value": "INV-260315-04217",
+   "display_value": "INV-260315-04217",
+   "canonical_value": "INV-260315-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    241.67,
+    261.69,
+    421.67,
+    285.11
+   ],
+   "bbox_pt": [
+    116,
+    125.612,
+    202.4,
+    136.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "statement_date",
+   "value": "2026-03-15",
+   "display_value": "03/15/2026",
+   "canonical_value": "03/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1033.33,
+    230.58,
+    1158.33,
+    256.6
+   ],
+   "bbox_pt": [
+    496,
+    110.68,
+    556.0,
+    123.17
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "payment_due_date",
+   "value": "2026-04-01",
+   "display_value": "04/01/2026",
+   "canonical_value": "04/01/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1033.33,
+    259.75,
+    1158.33,
+    285.77
+   ],
+   "bbox_pt": [
+    496,
+    124.68,
+    556.0,
+    137.17
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "plan_member_group",
+   "value": "Cedar Choice PPO | CHP0842719 | GRP-04217",
+   "display_value": "Cedar Choice PPO | CHP0842719 | GRP-04217",
+   "canonical_value": "Cedar Choice PPO | CHP0842719 | GRP-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    327.08,
+    342.65,
+    726.62,
+    370.44
+   ],
+   "bbox_pt": [
+    157,
+    164.47,
+    348.78,
+    177.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "previous_balance",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    990.63,
+    423.9,
+    1058.33,
+    451.69
+   ],
+   "bbox_pt": [
+    475.5,
+    203.47,
+    508.0,
+    216.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "prior_payment_date",
+   "value": "2026-03-05",
+   "display_value": "03/05/2026",
+   "canonical_value": "03/05/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    52.08,
+    459.31,
+    147.0,
+    487.1
+   ],
+   "bbox_pt": [
+    25,
+    220.47,
+    70.56,
+    233.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "prior_payment",
+   "value": "460.00",
+   "display_value": "$460.00 CREDIT",
+   "canonical_value": "$460.00 CREDIT",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1031.02,
+    459.31,
+    1179.17,
+    487.1
+   ],
+   "bbox_pt": [
+    494.89,
+    220.47,
+    566.0,
+    233.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "past_due",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1011.46,
+    490.56,
+    1058.33,
+    518.35
+   ],
+   "bbox_pt": [
+    485.5,
+    235.47,
+    508.0,
+    248.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "monthly_premium",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    990.63,
+    540.56,
+    1058.33,
+    568.35
+   ],
+   "bbox_pt": [
+    475.5,
+    259.47,
+    508.0,
+    272.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "adjustments",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1011.46,
+    569.73,
+    1058.33,
+    597.52
+   ],
+   "bbox_pt": [
+    485.5,
+    273.47,
+    508.0,
+    286.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "policy_changes",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1011.46,
+    598.9,
+    1058.33,
+    626.69
+   ],
+   "bbox_pt": [
+    485.5,
+    287.47,
+    508.0,
+    300.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "current_balance",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    990.63,
+    630.15,
+    1058.33,
+    657.94
+   ],
+   "bbox_pt": [
+    475.5,
+    302.47,
+    508.0,
+    315.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_due",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    967.98,
+    692.0,
+    1058.33,
+    726.43
+   ],
+   "bbox_pt": [
+    464.632,
+    332.16,
+    508.0,
+    348.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "member_name",
+   "value": "AVERY MORGAN",
+   "display_value": "AVERY MORGAN",
+   "canonical_value": "AVERY MORGAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    52.08,
+    1513.48,
+    221.62,
+    1541.27
+   ],
+   "bbox_pt": [
+    25,
+    726.47,
+    106.38,
+    739.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "member_address",
+   "value": "4607 WILLOW BEND LN APT 204",
+   "display_value": "4607 WILLOW BEND LN APT 204",
+   "canonical_value": "4607 WILLOW BEND LN APT 204",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    52.08,
+    1546.92,
+    330.69,
+    1571.94
+   ],
+   "bbox_pt": [
+    25,
+    742.523,
+    158.731,
+    754.529
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "member_city_state_zip",
+   "value": "AUSTIN, TX 78731",
+   "display_value": "AUSTIN, TX 78731",
+   "canonical_value": "AUSTIN, TX 78731",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    52.08,
+    1575.98,
+    223.94,
+    1603.77
+   ],
+   "bbox_pt": [
+    25,
+    756.47,
+    107.49,
+    769.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

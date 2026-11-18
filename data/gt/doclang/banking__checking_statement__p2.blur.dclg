@@ -1,0 +1,171 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="204"/>
+    <location value="487"/>
+    <location value="1012"/>
+    <location value="561"/>
+    <field_item>
+      <key>balance_history.01.balance</key>
+      <value>
+        <location value="406"/>
+        <location value="487"/>
+        <location value="471"/>
+        <location value="504"/>
+        8,175.16
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.01.date</key>
+      <value>
+        <location value="204"/>
+        <location value="487"/>
+        <location value="245"/>
+        <location value="504"/>
+        12/01
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.02.balance</key>
+      <value>
+        <location value="406"/>
+        <location value="506"/>
+        <location value="471"/>
+        <location value="523"/>
+        8,026.54
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.02.date</key>
+      <value>
+        <location value="204"/>
+        <location value="506"/>
+        <location value="245"/>
+        <location value="523"/>
+        12/05
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.03.balance</key>
+      <value>
+        <location value="406"/>
+        <location value="525"/>
+        <location value="471"/>
+        <location value="542"/>
+        7,937.54
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.03.date</key>
+      <value>
+        <location value="204"/>
+        <location value="525"/>
+        <location value="245"/>
+        <location value="542"/>
+        12/08
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.04.balance</key>
+      <value>
+        <location value="406"/>
+        <location value="544"/>
+        <location value="471"/>
+        <location value="561"/>
+        7,750.24
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.04.date</key>
+      <value>
+        <location value="204"/>
+        <location value="544"/>
+        <location value="245"/>
+        <location value="561"/>
+        12/12
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.05.balance</key>
+      <value>
+        <location value="938"/>
+        <location value="487"/>
+        <location value="1012"/>
+        <location value="504"/>
+        11,212.94
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.05.date</key>
+      <value>
+        <location value="744"/>
+        <location value="487"/>
+        <location value="785"/>
+        <location value="504"/>
+        12/15
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.06.balance</key>
+      <value>
+        <location value="938"/>
+        <location value="506"/>
+        <location value="1012"/>
+        <location value="523"/>
+        10,612.94
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.06.date</key>
+      <value>
+        <location value="744"/>
+        <location value="506"/>
+        <location value="785"/>
+        <location value="523"/>
+        12/20
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.07.balance</key>
+      <value>
+        <location value="938"/>
+        <location value="525"/>
+        <location value="1012"/>
+        <location value="542"/>
+        10,480.46
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.07.date</key>
+      <value>
+        <location value="744"/>
+        <location value="525"/>
+        <location value="785"/>
+        <location value="542"/>
+        12/24
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.08.balance</key>
+      <value>
+        <location value="938"/>
+        <location value="544"/>
+        <location value="1012"/>
+        <location value="561"/>
+        13,943.16
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_history.08.date</key>
+      <value>
+        <location value="744"/>
+        <location value="544"/>
+        <location value="785"/>
+        <location value="561"/>
+        12/31
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

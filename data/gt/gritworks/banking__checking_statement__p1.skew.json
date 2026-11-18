@@ -1,0 +1,1830 @@
+{
+ "page_id": "banking__checking_statement__p1",
+ "pack": "banking",
+ "document": "checking_statement",
+ "family": "bank_statement",
+ "document_type": "US checking account statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/01_checking_statement/checking_statement_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": -3.256,
+  "seed": 2833252901
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "borrower_name",
+   "value": "JORDAN ELLIS",
+   "display_value": "JORDAN ELLIS",
+   "canonical_value": "JORDAN ELLIS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    123.75,
+    287.01,
+    272.88,
+    316.23
+   ],
+   "bbox_pt": [
+    45.0,
+    152.176,
+    116.13,
+    162.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     124.93,
+     287.01
+    ],
+    [
+     272.88,
+     295.42
+    ],
+    [
+     271.7,
+     316.23
+    ],
+    [
+     123.75,
+     307.81
+    ]
+   ]
+  },
+  {
+   "key": "address_line1",
+   "value": "742 EVERGREEN, APT 3B",
+   "display_value": "742 EVERGREEN, APT 3B",
+   "canonical_value": "742 EVERGREEN, APT 3B",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    122.21,
+    314.05,
+    377.71,
+    349.32
+   ],
+   "bbox_pt": [
+    45.0,
+    165.176,
+    167.27,
+    175.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     123.39,
+     314.05
+    ],
+    [
+     377.71,
+     328.52
+    ],
+    [
+     376.53,
+     349.32
+    ],
+    [
+     122.21,
+     334.85
+    ]
+   ]
+  },
+  {
+   "key": "address_city_state_zip",
+   "value": "LOS ANGELES, CA 90026",
+   "display_value": "LOS ANGELES, CA 90026",
+   "canonical_value": "LOS ANGELES, CA 90026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    120.67,
+    341.09,
+    371.58,
+    376.09
+   ],
+   "bbox_pt": [
+    45.0,
+    178.176,
+    165.06,
+    188.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     121.85,
+     341.09
+    ],
+    [
+     371.58,
+     355.3
+    ],
+    [
+     370.4,
+     376.09
+    ],
+    [
+     120.67,
+     361.88
+    ]
+   ]
+  },
+  {
+   "key": "account_number",
+   "value": "0005829012417",
+   "display_value": "0005829012417",
+   "canonical_value": "0005829012417",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    992.08,
+    137.71,
+    1128.45,
+    164.13
+   ],
+   "bbox_pt": [
+    457.0,
+    56.959,
+    522.052,
+    65.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     993.14,
+     137.71
+    ],
+    [
+     1128.45,
+     145.41
+    ],
+    [
+     1127.39,
+     164.13
+    ],
+    [
+     992.08,
+     156.43
+    ]
+   ]
+  },
+  {
+   "key": "statement_date",
+   "value": "2025-12-31",
+   "display_value": "12/31/2025",
+   "canonical_value": "12/31/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    990.83,
+    159.55,
+    1085.58,
+    183.6
+   ],
+   "bbox_pt": [
+    457.0,
+    67.459,
+    502.036,
+    76.459
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     991.9,
+     159.55
+    ],
+    [
+     1085.58,
+     164.88
+    ],
+    [
+     1084.51,
+     183.6
+    ],
+    [
+     990.83,
+     178.27
+    ]
+   ]
+  },
+  {
+   "key": "statement_period",
+   "value": "2025-12-01/2025-12-31",
+   "display_value": "12/01/2025 - 12/31/2025",
+   "canonical_value": "12/01/2025 - 12/31/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1044.34,
+    645.21,
+    1226.61,
+    672.16
+   ],
+   "bbox_pt": [
+    495.824,
+    298.741,
+    583.0,
+    306.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1045.29,
+     645.21
+    ],
+    [
+     1226.61,
+     655.53
+    ],
+    [
+     1225.66,
+     672.16
+    ],
+    [
+     1044.34,
+     661.84
+    ]
+   ]
+  },
+  {
+   "key": "opening_balance",
+   "value": "10425.16",
+   "display_value": "$10,425.16",
+   "canonical_value": "10,425.16",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    552.06,
+    683.97,
+    636.27,
+    705.35
+   ],
+   "bbox_pt": [
+    260.968,
+    330.741,
+    301.0,
+    338.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     553.0,
+     683.97
+    ],
+    [
+     636.27,
+     688.71
+    ],
+    [
+     635.32,
+     705.35
+    ],
+    [
+     552.06,
+     700.61
+    ]
+   ]
+  },
+  {
+   "key": "total_credits",
+   "value": "6925.40",
+   "display_value": "$6,925.40",
+   "canonical_value": "6,925.40",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    560.22,
+    703.64,
+    635.18,
+    724.49
+   ],
+   "bbox_pt": [
+    265.416,
+    339.941,
+    301.0,
+    347.941
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     561.17,
+     703.64
+    ],
+    [
+     635.18,
+     707.85
+    ],
+    [
+     634.23,
+     724.49
+    ],
+    [
+     560.22,
+     720.28
+    ]
+   ]
+  },
+  {
+   "key": "total_checks",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    591.51,
+    724.62,
+    634.09,
+    743.62
+   ],
+   "bbox_pt": [
+    280.984,
+    349.141,
+    301.0,
+    357.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     592.46,
+     724.62
+    ],
+    [
+     634.09,
+     726.99
+    ],
+    [
+     633.14,
+     743.62
+    ],
+    [
+     591.51,
+     741.25
+    ]
+   ]
+  },
+  {
+   "key": "total_debits",
+   "value": "3407.40",
+   "display_value": "$3,407.40",
+   "canonical_value": "3,407.40",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    558.04,
+    741.91,
+    633.0,
+    762.76
+   ],
+   "bbox_pt": [
+    265.416,
+    358.341,
+    301.0,
+    366.341
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     558.99,
+     741.91
+    ],
+    [
+     633.0,
+     746.12
+    ],
+    [
+     632.06,
+     762.76
+    ],
+    [
+     558.04,
+     758.55
+    ]
+   ]
+  },
+  {
+   "key": "closing_balance",
+   "value": "13943.16",
+   "display_value": "$13,943.16",
+   "canonical_value": "13,943.16",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    547.7,
+    760.52,
+    631.91,
+    781.9
+   ],
+   "bbox_pt": [
+    260.968,
+    367.541,
+    301.0,
+    375.541
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     548.65,
+     760.52
+    ],
+    [
+     631.91,
+     765.26
+    ],
+    [
+     630.97,
+     781.9
+    ],
+    [
+     547.7,
+     777.16
+    ]
+   ]
+  },
+  {
+   "key": "average_daily_balance",
+   "value": "9600.13",
+   "display_value": "$9,600.13",
+   "canonical_value": "9,600.13",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    1147.86,
+    717.87,
+    1222.82,
+    738.72
+   ],
+   "bbox_pt": [
+    547.416,
+    330.741,
+    583.0,
+    338.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1148.81,
+     717.87
+    ],
+    [
+     1222.82,
+     722.08
+    ],
+    [
+     1221.87,
+     738.72
+    ],
+    [
+     1147.86,
+     734.51
+    ]
+   ]
+  },
+  {
+   "key": "transactions.01.date",
+   "value": "2025-12-01",
+   "display_value": "12/01",
+   "canonical_value": "12/01",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    53.47,
+    977.36,
+    93.38,
+    995.18
+   ],
+   "bbox_pt": [
+    30.0,
+    484.932,
+    48.765,
+    492.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     54.35,
+     977.36
+    ],
+    [
+     93.38,
+     979.58
+    ],
+    [
+     92.49,
+     995.18
+    ],
+    [
+     53.47,
+     992.96
+    ]
+   ]
+  },
+  {
+   "key": "transactions.01.description",
+   "value": "PENNYMAC LOAN PMT 0098251640",
+   "display_value": "PENNYMAC LOAN PMT 0098251640",
+   "canonical_value": "PENNYMAC LOAN PMT 0098251640",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    254.32,
+    1005.66,
+    501.14,
+    1034.21
+   ],
+   "bbox_pt": [
+    127.0,
+    493.023,
+    245.265,
+    500.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     255.15,
+     1005.66
+    ],
+    [
+     501.14,
+     1019.66
+    ],
+    [
+     500.31,
+     1034.21
+    ],
+    [
+     254.32,
+     1020.22
+    ]
+   ]
+  },
+  {
+   "key": "transactions.01.amount",
+   "value": "-2250",
+   "display_value": "2,250.00",
+   "canonical_value": "2,250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1009.02,
+    1031.98,
+    1071.44,
+    1051.28
+   ],
+   "bbox_pt": [
+    489.421,
+    485.054,
+    519.0,
+    492.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1009.92,
+     1031.98
+    ],
+    [
+     1071.44,
+     1035.48
+    ],
+    [
+     1070.54,
+     1051.28
+    ],
+    [
+     1009.02,
+     1047.78
+    ]
+   ]
+  },
+  {
+   "key": "transactions.01.balance",
+   "value": "8175.16",
+   "display_value": "8,175.16",
+   "canonical_value": "8,175.16",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1142.14,
+    1039.55,
+    1204.56,
+    1058.86
+   ],
+   "bbox_pt": [
+    553.421,
+    485.054,
+    583.0,
+    492.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1143.04,
+     1039.55
+    ],
+    [
+     1204.56,
+     1043.05
+    ],
+    [
+     1203.66,
+     1058.86
+    ],
+    [
+     1142.14,
+     1055.36
+    ]
+   ]
+  },
+  {
+   "key": "transactions.02.date",
+   "value": "2025-12-05",
+   "display_value": "12/05",
+   "canonical_value": "12/05",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    51.34,
+    1014.8,
+    91.25,
+    1032.62
+   ],
+   "bbox_pt": [
+    30.0,
+    502.932,
+    48.765,
+    510.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     52.22,
+     1014.8
+    ],
+    [
+     91.25,
+     1017.02
+    ],
+    [
+     90.36,
+     1032.62
+    ],
+    [
+     51.34,
+     1030.4
+    ]
+   ]
+  },
+  {
+   "key": "transactions.02.description",
+   "value": "EVERGREEN MARKET LOS ANGELES CA",
+   "display_value": "EVERGREEN MARKET LOS ANGELES CA",
+   "canonical_value": "EVERGREEN MARKET LOS ANGELES CA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    252.19,
+    1043.1,
+    539.45,
+    1073.95
+   ],
+   "bbox_pt": [
+    127.0,
+    511.023,
+    264.704,
+    518.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     253.02,
+     1043.1
+    ],
+    [
+     539.45,
+     1059.4
+    ],
+    [
+     538.62,
+     1073.95
+    ],
+    [
+     252.19,
+     1057.66
+    ]
+   ]
+  },
+  {
+   "key": "transactions.02.amount",
+   "value": "-148.62",
+   "display_value": "148.62",
+   "canonical_value": "148.62",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1020.07,
+    1070.17,
+    1069.31,
+    1088.72
+   ],
+   "bbox_pt": [
+    495.759,
+    503.054,
+    519.0,
+    510.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1020.97,
+     1070.17
+    ],
+    [
+     1069.31,
+     1072.92
+    ],
+    [
+     1068.41,
+     1088.72
+    ],
+    [
+     1020.07,
+     1085.97
+    ]
+   ]
+  },
+  {
+   "key": "transactions.02.balance",
+   "value": "8026.54",
+   "display_value": "8,026.54",
+   "canonical_value": "8,026.54",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1140.01,
+    1076.99,
+    1202.43,
+    1096.29
+   ],
+   "bbox_pt": [
+    553.421,
+    503.054,
+    583.0,
+    510.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1140.91,
+     1076.99
+    ],
+    [
+     1202.43,
+     1080.49
+    ],
+    [
+     1201.53,
+     1096.29
+    ],
+    [
+     1140.01,
+     1092.79
+    ]
+   ]
+  },
+  {
+   "key": "transactions.03.date",
+   "value": "2025-12-08",
+   "display_value": "12/08",
+   "canonical_value": "12/08",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    49.21,
+    1052.24,
+    89.12,
+    1070.06
+   ],
+   "bbox_pt": [
+    30.0,
+    520.932,
+    48.765,
+    528.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     50.09,
+     1052.24
+    ],
+    [
+     89.12,
+     1054.46
+    ],
+    [
+     88.23,
+     1070.06
+    ],
+    [
+     49.21,
+     1067.83
+    ]
+   ]
+  },
+  {
+   "key": "transactions.03.description",
+   "value": "PACIFIC MOBILE AUTOPAY 2417",
+   "display_value": "PACIFIC MOBILE AUTOPAY 2417",
+   "canonical_value": "PACIFIC MOBILE AUTOPAY 2417",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    250.06,
+    1080.54,
+    477.45,
+    1107.99
+   ],
+   "bbox_pt": [
+    127.0,
+    529.023,
+    235.927,
+    536.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     250.89,
+     1080.54
+    ],
+    [
+     477.45,
+     1093.43
+    ],
+    [
+     476.62,
+     1107.99
+    ],
+    [
+     250.06,
+     1095.1
+    ]
+   ]
+  },
+  {
+   "key": "transactions.03.amount",
+   "value": "-89",
+   "display_value": "89.00",
+   "canonical_value": "89.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1026.74,
+    1108.11,
+    1067.18,
+    1126.16
+   ],
+   "bbox_pt": [
+    499.985,
+    521.054,
+    519.0,
+    528.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1027.64,
+     1108.11
+    ],
+    [
+     1067.18,
+     1110.36
+    ],
+    [
+     1066.28,
+     1126.16
+    ],
+    [
+     1026.74,
+     1123.91
+    ]
+   ]
+  },
+  {
+   "key": "transactions.03.balance",
+   "value": "7937.54",
+   "display_value": "7,937.54",
+   "canonical_value": "7,937.54",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1137.88,
+    1114.43,
+    1200.3,
+    1133.73
+   ],
+   "bbox_pt": [
+    553.421,
+    521.054,
+    583.0,
+    528.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1138.78,
+     1114.43
+    ],
+    [
+     1200.3,
+     1117.93
+    ],
+    [
+     1199.4,
+     1133.73
+    ],
+    [
+     1137.88,
+     1130.23
+    ]
+   ]
+  },
+  {
+   "key": "transactions.04.date",
+   "value": "2025-12-12",
+   "display_value": "12/12",
+   "canonical_value": "12/12",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    47.08,
+    1089.68,
+    86.99,
+    1107.49
+   ],
+   "bbox_pt": [
+    30.0,
+    538.932,
+    48.765,
+    546.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     47.96,
+     1089.68
+    ],
+    [
+     86.99,
+     1091.9
+    ],
+    [
+     86.1,
+     1107.49
+    ],
+    [
+     47.08,
+     1105.27
+    ]
+   ]
+  },
+  {
+   "key": "transactions.04.description",
+   "value": "MINOL UTILITIES 8521-496-002417-84",
+   "display_value": "MINOL UTILITIES 8521-496-002417-84",
+   "canonical_value": "MINOL UTILITIES 8521-496-002417-84",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    247.93,
+    1117.98,
+    506.91,
+    1147.22
+   ],
+   "bbox_pt": [
+    127.0,
+    547.023,
+    251.11,
+    554.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     248.76,
+     1117.98
+    ],
+    [
+     506.91,
+     1132.67
+    ],
+    [
+     506.08,
+     1147.22
+    ],
+    [
+     247.93,
+     1132.54
+    ]
+   ]
+  },
+  {
+   "key": "transactions.04.amount",
+   "value": "-187.30",
+   "display_value": "187.30",
+   "canonical_value": "187.30",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1015.81,
+    1145.05,
+    1065.05,
+    1163.6
+   ],
+   "bbox_pt": [
+    495.759,
+    539.054,
+    519.0,
+    546.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1016.71,
+     1145.05
+    ],
+    [
+     1065.05,
+     1147.8
+    ],
+    [
+     1064.15,
+     1163.6
+    ],
+    [
+     1015.81,
+     1160.85
+    ]
+   ]
+  },
+  {
+   "key": "transactions.04.balance",
+   "value": "7750.24",
+   "display_value": "7,750.24",
+   "canonical_value": "7,750.24",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1135.75,
+    1151.87,
+    1198.17,
+    1171.17
+   ],
+   "bbox_pt": [
+    553.421,
+    539.054,
+    583.0,
+    546.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1136.65,
+     1151.87
+    ],
+    [
+     1198.17,
+     1155.37
+    ],
+    [
+     1197.27,
+     1171.17
+    ],
+    [
+     1135.75,
+     1167.67
+    ]
+   ]
+  },
+  {
+   "key": "transactions.05.date",
+   "value": "2025-12-15",
+   "display_value": "12/15",
+   "canonical_value": "12/15",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    44.95,
+    1127.12,
+    84.86,
+    1144.93
+   ],
+   "bbox_pt": [
+    30.0,
+    556.932,
+    48.765,
+    564.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     45.83,
+     1127.12
+    ],
+    [
+     84.86,
+     1129.34
+    ],
+    [
+     83.97,
+     1144.93
+    ],
+    [
+     44.95,
+     1142.71
+    ]
+   ]
+  },
+  {
+   "key": "transactions.05.description",
+   "value": "GRITWORKS TECH PAYROLL 20251215",
+   "display_value": "GRITWORKS TECH PAYROLL 20251215",
+   "canonical_value": "GRITWORKS TECH PAYROLL 20251215",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    245.8,
+    1155.42,
+    520.13,
+    1185.54
+   ],
+   "bbox_pt": [
+    127.0,
+    565.023,
+    258.488,
+    572.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     246.63,
+     1155.42
+    ],
+    [
+     520.13,
+     1170.98
+    ],
+    [
+     519.3,
+     1185.54
+    ],
+    [
+     245.8,
+     1169.98
+    ]
+   ]
+  },
+  {
+   "key": "transactions.05.amount",
+   "value": "3462.70",
+   "display_value": "3,462.70",
+   "canonical_value": "3,462.70",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    850.75,
+    1173.21,
+    913.17,
+    1192.52
+   ],
+   "bbox_pt": [
+    417.421,
+    557.054,
+    447.0,
+    564.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     851.64,
+     1173.21
+    ],
+    [
+     913.17,
+     1176.71
+    ],
+    [
+     912.27,
+     1192.52
+    ],
+    [
+     850.75,
+     1189.02
+    ]
+   ]
+  },
+  {
+   "key": "transactions.05.balance",
+   "value": "11212.94",
+   "display_value": "11,212.94",
+   "canonical_value": "11,212.94",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1124.83,
+    1188.81,
+    1196.04,
+    1208.61
+   ],
+   "bbox_pt": [
+    549.195,
+    557.054,
+    583.0,
+    564.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1125.73,
+     1188.81
+    ],
+    [
+     1196.04,
+     1192.81
+    ],
+    [
+     1195.14,
+     1208.61
+    ],
+    [
+     1124.83,
+     1204.61
+    ]
+   ]
+  },
+  {
+   "key": "transactions.06.date",
+   "value": "2025-12-20",
+   "display_value": "12/20",
+   "canonical_value": "12/20",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    42.81,
+    1164.56,
+    82.73,
+    1182.37
+   ],
+   "bbox_pt": [
+    30.0,
+    574.932,
+    48.765,
+    582.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     43.7,
+     1164.56
+    ],
+    [
+     82.73,
+     1166.78
+    ],
+    [
+     81.84,
+     1182.37
+    ],
+    [
+     42.81,
+     1180.15
+    ]
+   ]
+  },
+  {
+   "key": "transactions.06.description",
+   "value": "CREDIT CARD PAYMENT 8031",
+   "display_value": "CREDIT CARD PAYMENT 8031",
+   "canonical_value": "CREDIT CARD PAYMENT 8031",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    243.67,
+    1192.86,
+    454.85,
+    1219.38
+   ],
+   "bbox_pt": [
+    127.0,
+    583.023,
+    228.129,
+    590.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     244.5,
+     1192.86
+    ],
+    [
+     454.85,
+     1204.83
+    ],
+    [
+     454.02,
+     1219.38
+    ],
+    [
+     243.67,
+     1207.42
+    ]
+   ]
+  },
+  {
+   "key": "transactions.06.amount",
+   "value": "-600",
+   "display_value": "600.00",
+   "canonical_value": "600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1011.55,
+    1219.92,
+    1060.79,
+    1238.48
+   ],
+   "bbox_pt": [
+    495.759,
+    575.054,
+    519.0,
+    582.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1012.45,
+     1219.92
+    ],
+    [
+     1060.79,
+     1222.67
+    ],
+    [
+     1059.89,
+     1238.48
+    ],
+    [
+     1011.55,
+     1235.73
+    ]
+   ]
+  },
+  {
+   "key": "transactions.06.balance",
+   "value": "10612.94",
+   "display_value": "10,612.94",
+   "canonical_value": "10,612.94",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1122.7,
+    1226.25,
+    1193.91,
+    1246.05
+   ],
+   "bbox_pt": [
+    549.195,
+    575.054,
+    583.0,
+    582.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1123.6,
+     1226.25
+    ],
+    [
+     1193.91,
+     1230.25
+    ],
+    [
+     1193.01,
+     1246.05
+    ],
+    [
+     1122.7,
+     1242.05
+    ]
+   ]
+  },
+  {
+   "key": "transactions.07.date",
+   "value": "2025-12-24",
+   "display_value": "12/24",
+   "canonical_value": "12/24",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    40.68,
+    1202.0,
+    80.6,
+    1219.81
+   ],
+   "bbox_pt": [
+    30.0,
+    592.932,
+    48.765,
+    600.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     41.57,
+     1202.0
+    ],
+    [
+     80.6,
+     1204.22
+    ],
+    [
+     79.71,
+     1219.81
+    ],
+    [
+     40.68,
+     1217.59
+    ]
+   ]
+  },
+  {
+   "key": "transactions.07.description",
+   "value": "EVERGREEN MARKET LOS ANGELES CA",
+   "display_value": "EVERGREEN MARKET LOS ANGELES CA",
+   "canonical_value": "EVERGREEN MARKET LOS ANGELES CA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    241.54,
+    1230.3,
+    528.8,
+    1261.15
+   ],
+   "bbox_pt": [
+    127.0,
+    601.023,
+    264.704,
+    608.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     242.37,
+     1230.3
+    ],
+    [
+     528.8,
+     1246.59
+    ],
+    [
+     527.97,
+     1261.15
+    ],
+    [
+     241.54,
+     1244.86
+    ]
+   ]
+  },
+  {
+   "key": "transactions.07.amount",
+   "value": "-132.48",
+   "display_value": "132.48",
+   "canonical_value": "132.48",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1009.42,
+    1257.36,
+    1058.66,
+    1275.92
+   ],
+   "bbox_pt": [
+    495.759,
+    593.054,
+    519.0,
+    600.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1010.32,
+     1257.36
+    ],
+    [
+     1058.66,
+     1260.11
+    ],
+    [
+     1057.76,
+     1275.92
+    ],
+    [
+     1009.42,
+     1273.17
+    ]
+   ]
+  },
+  {
+   "key": "transactions.07.balance",
+   "value": "10480.46",
+   "display_value": "10,480.46",
+   "canonical_value": "10,480.46",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1120.57,
+    1263.69,
+    1191.78,
+    1283.49
+   ],
+   "bbox_pt": [
+    549.195,
+    593.054,
+    583.0,
+    600.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1121.47,
+     1263.69
+    ],
+    [
+     1191.78,
+     1267.69
+    ],
+    [
+     1190.88,
+     1283.49
+    ],
+    [
+     1120.57,
+     1279.49
+    ]
+   ]
+  },
+  {
+   "key": "transactions.08.date",
+   "value": "2025-12-31",
+   "display_value": "12/31",
+   "canonical_value": "12/31",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    38.55,
+    1239.44,
+    78.47,
+    1257.25
+   ],
+   "bbox_pt": [
+    30.0,
+    610.932,
+    48.765,
+    618.432
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     39.44,
+     1239.44
+    ],
+    [
+     78.47,
+     1241.66
+    ],
+    [
+     77.58,
+     1257.25
+    ],
+    [
+     38.55,
+     1255.03
+    ]
+   ]
+  },
+  {
+   "key": "transactions.08.description",
+   "value": "GRITWORKS TECH PAYROLL 20251231",
+   "display_value": "GRITWORKS TECH PAYROLL 20251231",
+   "canonical_value": "GRITWORKS TECH PAYROLL 20251231",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    239.41,
+    1267.74,
+    513.74,
+    1297.86
+   ],
+   "bbox_pt": [
+    127.0,
+    619.023,
+    258.488,
+    626.023
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     240.24,
+     1267.74
+    ],
+    [
+     513.74,
+     1283.3
+    ],
+    [
+     512.91,
+     1297.86
+    ],
+    [
+     239.41,
+     1282.29
+    ]
+   ]
+  },
+  {
+   "key": "transactions.08.amount",
+   "value": "3462.70",
+   "display_value": "3,462.70",
+   "canonical_value": "3,462.70",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    844.36,
+    1285.53,
+    906.78,
+    1304.84
+   ],
+   "bbox_pt": [
+    417.421,
+    611.054,
+    447.0,
+    618.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     845.25,
+     1285.53
+    ],
+    [
+     906.78,
+     1289.03
+    ],
+    [
+     905.88,
+     1304.84
+    ],
+    [
+     844.36,
+     1301.34
+    ]
+   ]
+  },
+  {
+   "key": "transactions.08.balance",
+   "value": "13943.16",
+   "display_value": "13,943.16",
+   "canonical_value": "13,943.16",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1118.44,
+    1301.13,
+    1189.65,
+    1320.93
+   ],
+   "bbox_pt": [
+    549.195,
+    611.054,
+    583.0,
+    618.654
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1119.34,
+     1301.13
+    ],
+    [
+     1189.65,
+     1305.13
+    ],
+    [
+     1188.75,
+     1320.93
+    ],
+    [
+     1118.44,
+     1316.93
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,325 @@
+{
+ "page_id": "diagnostics__physician_authorization__p1",
+ "pack": "diagnostics",
+ "document": "physician_authorization",
+ "family": "medical_form",
+ "document_type": "Physician laboratory authorization",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/03_physician_authorization/physician_authorization_clean.pdf",
+ "condition": "blur",
+ "degradation_params": {
+  "sigma_px": 2.11,
+  "seed": 2259075239
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "TAYLOR BROOKS",
+   "display_value": "TAYLOR BROOKS",
+   "canonical_value": "TAYLOR BROOKS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    302.56,
+    274.08,
+    334.12
+   ],
+   "bbox_pt": [
+    35,
+    145.23,
+    131.558,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1990-08-14",
+   "display_value": "08/14/1990",
+   "canonical_value": "08/14/1990",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    656.25,
+    302.56,
+    770.93,
+    334.12
+   ],
+   "bbox_pt": [
+    315,
+    145.23,
+    370.044,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    979.17,
+    302.56,
+    993.17,
+    334.12
+   ],
+   "bbox_pt": [
+    470,
+    145.23,
+    476.721,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "patient_id",
+   "value": "PT-08217",
+   "display_value": "PT-08217",
+   "canonical_value": "PT-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    396.35,
+    164.4,
+    424.98
+   ],
+   "bbox_pt": [
+    35,
+    190.25,
+    78.91,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "order_id",
+   "value": "ORD-08217",
+   "display_value": "ORD-08217",
+   "canonical_value": "ORD-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    458.33,
+    396.35,
+    569.48,
+    424.98
+   ],
+   "bbox_pt": [
+    220,
+    190.25,
+    273.35,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "accession_id",
+   "value": "DX-260610-08217",
+   "display_value": "DX-260610-08217",
+   "canonical_value": "DX-260610-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    854.17,
+    396.35,
+    1024.4,
+    424.98
+   ],
+   "bbox_pt": [
+    410,
+    190.25,
+    491.71,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "authorized_test",
+   "value": "CD4/CD8 profile with CBC and differential",
+   "display_value": "CD4/CD8 profile with CBC and differential",
+   "canonical_value": "CD4/CD8 profile with CBC and differential",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    102.08,
+    569.08,
+    596.58,
+    603.51
+   ],
+   "bbox_pt": [
+    49,
+    273.16,
+    286.36,
+    289.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "specimen_type",
+   "value": "Specimen: EDTA whole blood",
+   "display_value": "Specimen: EDTA whole blood",
+   "canonical_value": "Specimen: EDTA whole blood",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    102.08,
+    625.52,
+    378.81,
+    654.15
+   ],
+   "bbox_pt": [
+    49,
+    300.25,
+    181.83,
+    313.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ordering_physician",
+   "value": "DR. MAYA COLLINS",
+   "display_value": "DR. MAYA COLLINS",
+   "canonical_value": "DR. MAYA COLLINS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    433.33,
+    1037.86,
+    648.54,
+    1069.35
+   ],
+   "bbox_pt": [
+    208,
+    498.175,
+    311.301,
+    513.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ordering_npi",
+   "value": "1999999976",
+   "display_value": "1999999976",
+   "canonical_value": "1999999976",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    433.33,
+    1106.61,
+    560.75,
+    1138.1
+   ],
+   "bbox_pt": [
+    208,
+    531.175,
+    269.16,
+    546.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ordering_clinic",
+   "value": "NORTHLINE FAMILY CLINIC",
+   "display_value": "NORTHLINE FAMILY CLINIC",
+   "canonical_value": "NORTHLINE FAMILY CLINIC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    433.33,
+    1175.36,
+    736.38,
+    1206.85
+   ],
+   "bbox_pt": [
+    208,
+    564.175,
+    353.464,
+    579.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "clinic_phone",
+   "value": "(512) 555-0165",
+   "display_value": "(512) 555-0165",
+   "canonical_value": "(512) 555-0165",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    433.33,
+    1244.11,
+    590.01,
+    1275.6
+   ],
+   "bbox_pt": [
+    208,
+    597.175,
+    283.207,
+    612.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "authorized_at",
+   "value": "06/09/2026 16:20 CDT",
+   "display_value": "06/09/2026 16:20 CDT",
+   "canonical_value": "06/09/2026 16:20 CDT",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    433.33,
+    1312.86,
+    665.18,
+    1344.35
+   ],
+   "bbox_pt": [
+    208,
+    630.175,
+    319.287,
+    645.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+# environments and sources (untrusted pack downloads)
+.venv/
+_dl/
+_src/
+__pycache__/
+.DS_Store
+
+# large data: published on Hugging Face instead (see hf/README.md)
+data/images/
+results/predictions/
+
+# hf/ holds only the dataset card in git; scripts/make_hf.py fills the rest for upload
+hf/*
+!hf/README.md
+
+# run logs and scratch
+results/_log_*.txt
+results/_run_*.txt
+results/_rows*.json

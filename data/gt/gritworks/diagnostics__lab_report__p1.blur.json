@@ -1,0 +1,2510 @@
+{
+ "page_id": "diagnostics__lab_report__p1",
+ "pack": "diagnostics",
+ "document": "lab_report",
+ "family": "lab_report",
+ "document_type": "CD4/CD8 profile and CBC report",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/05_lab_report/lab_report_clean.pdf",
+ "condition": "blur",
+ "degradation_params": {
+  "sigma_px": 1.947,
+  "seed": 3351786262
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "TAYLOR BROOKS",
+   "display_value": "TAYLOR BROOKS",
+   "canonical_value": "TAYLOR BROOKS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    108.67,
+    292.37,
+    143.09
+   ],
+   "bbox_pt": [
+    35,
+    52.16,
+    140.336,
+    68.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1990-08-14",
+   "display_value": "DOB: 08/14/1990",
+   "canonical_value": "DOB: 08/14/1990",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    500.0,
+    113.02,
+    660.98,
+    141.65
+   ],
+   "bbox_pt": [
+    240,
+    54.25,
+    317.27,
+    67.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "age_sex",
+   "value": "Age: 35 / Sex: F",
+   "display_value": "Age: 35 / Sex: F",
+   "canonical_value": "Age: 35 / Sex: F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    931.25,
+    113.02,
+    1080.65,
+    141.65
+   ],
+   "bbox_pt": [
+    447,
+    54.25,
+    518.71,
+    67.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_id",
+   "value": "PT-08217",
+   "display_value": "Patient ID: PT-08217",
+   "canonical_value": "Patient ID: PT-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    152.6,
+    267.46,
+    181.23
+   ],
+   "bbox_pt": [
+    35,
+    73.25,
+    128.38,
+    86.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "accession_id",
+   "value": "DX-260610-08217",
+   "display_value": "Accession: DX-260610-08217",
+   "canonical_value": "Accession: DX-260610-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    500.0,
+    152.6,
+    776.75,
+    181.23
+   ],
+   "bbox_pt": [
+    240,
+    73.25,
+    372.84,
+    86.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ordering_physician",
+   "value": "Ordering physician: DR. MAYA COLLINS",
+   "display_value": "Ordering physician: DR. MAYA COLLINS",
+   "canonical_value": "Ordering physician: DR. MAYA COLLINS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    192.19,
+    453.81,
+    220.81
+   ],
+   "bbox_pt": [
+    35,
+    92.25,
+    217.83,
+    105.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "collected_at",
+   "value": "Collected: 06/10/2026 08:15",
+   "display_value": "Collected: 06/10/2026 08:15",
+   "canonical_value": "Collected: 06/10/2026 08:15",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    238.18,
+    307.44,
+    263.94
+   ],
+   "bbox_pt": [
+    35,
+    114.325,
+    147.572,
+    126.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "received_at",
+   "value": "Received: 06/10/2026 09:20",
+   "display_value": "Received: 06/10/2026 09:20",
+   "canonical_value": "Received: 06/10/2026 09:20",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    468.75,
+    238.18,
+    703.28,
+    263.94
+   ],
+   "bbox_pt": [
+    225,
+    114.325,
+    337.572,
+    126.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "reported_at",
+   "value": "Reported: 06/10/2026 13:40",
+   "display_value": "Reported: 06/10/2026 13:40",
+   "canonical_value": "Reported: 06/10/2026 13:40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    875.0,
+    238.18,
+    1108.49,
+    263.94
+   ],
+   "bbox_pt": [
+    420,
+    114.325,
+    532.077,
+    126.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "panel_name",
+   "value": "CD4/CD8 Profile with CBC / Differential",
+   "display_value": "CD4/CD8 Profile with CBC / Differential",
+   "canonical_value": "CD4/CD8 Profile with CBC / Differential",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    298.25,
+    534.09,
+    332.68
+   ],
+   "bbox_pt": [
+    35,
+    143.16,
+    256.364,
+    159.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.1.test",
+   "value": "Absolute CD4 helper",
+   "display_value": "Absolute CD4 helper",
+   "canonical_value": "Absolute CD4 helper",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    411.25,
+    235.02,
+    434.15
+   ],
+   "bbox_pt": [
+    39,
+    197.4,
+    112.808,
+    208.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.1.value",
+   "value": "987",
+   "display_value": "987",
+   "canonical_value": "987",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    411.25,
+    636.13,
+    434.15
+   ],
+   "bbox_pt": [
+    292,
+    197.4,
+    305.344,
+    208.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.1.unit",
+   "value": "/uL",
+   "display_value": "/uL",
+   "canonical_value": "/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    412.37,
+    840.47,
+    433.84
+   ],
+   "bbox_pt": [
+    393,
+    197.937,
+    403.425,
+    208.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.1.reference",
+   "value": "359-1519",
+   "display_value": "359-1519",
+   "canonical_value": "359-1519",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    412.37,
+    1032.68,
+    433.84
+   ],
+   "bbox_pt": [
+    464,
+    197.937,
+    495.687,
+    208.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.2.test",
+   "value": "% CD4 positive lymphocytes",
+   "display_value": "% CD4 positive lymphocytes",
+   "canonical_value": "% CD4 positive lymphocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    439.38,
+    292.42,
+    462.28
+   ],
+   "bbox_pt": [
+    39,
+    210.9,
+    140.36,
+    221.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.2.value",
+   "value": "42.9",
+   "display_value": "42.9",
+   "canonical_value": "42.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    439.38,
+    640.77,
+    462.28
+   ],
+   "bbox_pt": [
+    292,
+    210.9,
+    307.568,
+    221.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.2.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    440.49,
+    832.64,
+    461.96
+   ],
+   "bbox_pt": [
+    393,
+    211.437,
+    399.667,
+    221.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.2.reference",
+   "value": "30.8-58.5",
+   "display_value": "30.8-58.5",
+   "canonical_value": "30.8-58.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    440.49,
+    1032.68,
+    461.96
+   ],
+   "bbox_pt": [
+    464,
+    211.437,
+    495.687,
+    221.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.3.test",
+   "value": "Absolute CD8 suppressor",
+   "display_value": "Absolute CD8 suppressor",
+   "canonical_value": "Absolute CD8 suppressor",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    467.5,
+    271.13,
+    490.4
+   ],
+   "bbox_pt": [
+    39,
+    224.4,
+    130.144,
+    235.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.3.value",
+   "value": "1024",
+   "display_value": "1024",
+   "canonical_value": "1024",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    467.58,
+    645.4,
+    490.53
+   ],
+   "bbox_pt": [
+    292,
+    224.44,
+    309.792,
+    235.456
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.3.flag",
+   "value": "H",
+   "display_value": "H",
+   "canonical_value": "H",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    727.08,
+    467.58,
+    739.12,
+    490.53
+   ],
+   "bbox_pt": [
+    349,
+    224.44,
+    354.776,
+    235.456
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.3.unit",
+   "value": "/uL",
+   "display_value": "/uL",
+   "canonical_value": "/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    468.62,
+    840.47,
+    490.09
+   ],
+   "bbox_pt": [
+    393,
+    224.937,
+    403.425,
+    235.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.3.reference",
+   "value": "109-897",
+   "display_value": "109-897",
+   "canonical_value": "109-897",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    468.62,
+    1023.99,
+    490.09
+   ],
+   "bbox_pt": [
+    464,
+    224.937,
+    491.517,
+    235.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.4.test",
+   "value": "% CD8 positive lymphocytes",
+   "display_value": "% CD8 positive lymphocytes",
+   "canonical_value": "% CD8 positive lymphocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    495.63,
+    292.42,
+    518.52
+   ],
+   "bbox_pt": [
+    39,
+    237.9,
+    140.36,
+    248.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.4.value",
+   "value": "44.5",
+   "display_value": "44.5",
+   "canonical_value": "44.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    495.71,
+    640.77,
+    518.66
+   ],
+   "bbox_pt": [
+    292,
+    237.94,
+    307.568,
+    248.956
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.4.flag",
+   "value": "H",
+   "display_value": "H",
+   "canonical_value": "H",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    727.08,
+    495.71,
+    739.12,
+    518.66
+   ],
+   "bbox_pt": [
+    349,
+    237.94,
+    354.776,
+    248.956
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.4.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    496.74,
+    832.64,
+    518.21
+   ],
+   "bbox_pt": [
+    393,
+    238.437,
+    399.667,
+    248.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.4.reference",
+   "value": "12.0-35.5",
+   "display_value": "12.0-35.5",
+   "canonical_value": "12.0-35.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    496.74,
+    1032.68,
+    518.21
+   ],
+   "bbox_pt": [
+    464,
+    238.437,
+    495.687,
+    248.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.5.test",
+   "value": "CD4/CD8 ratio",
+   "display_value": "CD4/CD8 ratio",
+   "canonical_value": "CD4/CD8 ratio",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    523.75,
+    189.6,
+    546.65
+   ],
+   "bbox_pt": [
+    39,
+    251.4,
+    91.008,
+    262.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.5.value",
+   "value": "0.96",
+   "display_value": "0.96",
+   "canonical_value": "0.96",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    523.75,
+    640.77,
+    546.65
+   ],
+   "bbox_pt": [
+    292,
+    251.4,
+    307.568,
+    262.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.5.unit",
+   "value": "ratio",
+   "display_value": "ratio",
+   "canonical_value": "ratio",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    524.87,
+    849.14,
+    546.34
+   ],
+   "bbox_pt": [
+    393,
+    251.937,
+    407.587,
+    262.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.5.reference",
+   "value": "0.92-3.72",
+   "display_value": "0.92-3.72",
+   "canonical_value": "0.92-3.72",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    524.87,
+    1032.68,
+    546.34
+   ],
+   "bbox_pt": [
+    464,
+    251.937,
+    495.687,
+    262.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.6.test",
+   "value": "WBC",
+   "display_value": "WBC",
+   "canonical_value": "WBC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    551.88,
+    120.13,
+    574.77
+   ],
+   "bbox_pt": [
+    39,
+    264.9,
+    57.664,
+    275.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.6.value",
+   "value": "5.4",
+   "display_value": "5.4",
+   "canonical_value": "5.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    551.88,
+    631.5,
+    574.77
+   ],
+   "bbox_pt": [
+    292,
+    264.9,
+    303.12,
+    275.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.6.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    552.99,
+    881.67,
+    574.46
+   ],
+   "bbox_pt": [
+    393,
+    265.437,
+    423.202,
+    275.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.6.reference",
+   "value": "3.4-10.8",
+   "display_value": "3.4-10.8",
+   "canonical_value": "3.4-10.8",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    552.99,
+    1023.99,
+    574.46
+   ],
+   "bbox_pt": [
+    464,
+    265.437,
+    491.517,
+    275.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.7.test",
+   "value": "RBC",
+   "display_value": "RBC",
+   "canonical_value": "RBC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    580.0,
+    116.43,
+    602.9
+   ],
+   "bbox_pt": [
+    39,
+    278.4,
+    55.888,
+    289.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.7.value",
+   "value": "4.96",
+   "display_value": "4.96",
+   "canonical_value": "4.96",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    580.0,
+    640.77,
+    602.9
+   ],
+   "bbox_pt": [
+    292,
+    278.4,
+    307.568,
+    289.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.7.unit",
+   "value": "x10^6/uL",
+   "display_value": "x10^6/uL",
+   "canonical_value": "x10^6/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    581.12,
+    881.67,
+    602.59
+   ],
+   "bbox_pt": [
+    393,
+    278.937,
+    423.202,
+    289.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.7.reference",
+   "value": "3.77-5.28",
+   "display_value": "3.77-5.28",
+   "canonical_value": "3.77-5.28",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    581.12,
+    1032.68,
+    602.59
+   ],
+   "bbox_pt": [
+    464,
+    278.937,
+    495.687,
+    289.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.8.test",
+   "value": "Hemoglobin",
+   "display_value": "Hemoglobin",
+   "canonical_value": "Hemoglobin",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    608.12,
+    170.17,
+    631.03
+   ],
+   "bbox_pt": [
+    39,
+    291.9,
+    81.68,
+    302.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.8.value",
+   "value": "14.9",
+   "display_value": "14.9",
+   "canonical_value": "14.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    608.12,
+    640.77,
+    631.03
+   ],
+   "bbox_pt": [
+    292,
+    291.9,
+    307.568,
+    302.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.8.unit",
+   "value": "g/dL",
+   "display_value": "g/dL",
+   "canonical_value": "g/dL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    609.24,
+    849.16,
+    630.71
+   ],
+   "bbox_pt": [
+    393,
+    292.437,
+    407.595,
+    302.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.8.reference",
+   "value": "11.1-15.9",
+   "display_value": "11.1-15.9",
+   "canonical_value": "11.1-15.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    609.24,
+    1032.68,
+    630.71
+   ],
+   "bbox_pt": [
+    464,
+    292.437,
+    495.687,
+    302.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.9.test",
+   "value": "Hematocrit",
+   "display_value": "Hematocrit",
+   "canonical_value": "Hematocrit",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    636.25,
+    161.82,
+    659.15
+   ],
+   "bbox_pt": [
+    39,
+    305.4,
+    77.672,
+    316.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.9.value",
+   "value": "45.8",
+   "display_value": "45.8",
+   "canonical_value": "45.8",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    636.25,
+    640.77,
+    659.15
+   ],
+   "bbox_pt": [
+    292,
+    305.4,
+    307.568,
+    316.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.9.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    637.37,
+    832.64,
+    658.84
+   ],
+   "bbox_pt": [
+    393,
+    305.937,
+    399.667,
+    316.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.9.reference",
+   "value": "34.0-46.6",
+   "display_value": "34.0-46.6",
+   "canonical_value": "34.0-46.6",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    637.37,
+    1032.68,
+    658.84
+   ],
+   "bbox_pt": [
+    464,
+    305.937,
+    495.687,
+    316.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.10.test",
+   "value": "MCV",
+   "display_value": "MCV",
+   "canonical_value": "MCV",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    664.38,
+    118.28,
+    687.28
+   ],
+   "bbox_pt": [
+    39,
+    318.9,
+    56.776,
+    329.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.10.value",
+   "value": "92",
+   "display_value": "92",
+   "canonical_value": "92",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    664.38,
+    626.87,
+    687.28
+   ],
+   "bbox_pt": [
+    292,
+    318.9,
+    300.896,
+    329.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.10.unit",
+   "value": "fL",
+   "display_value": "fL",
+   "canonical_value": "fL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    665.49,
+    831.78,
+    686.96
+   ],
+   "bbox_pt": [
+    393,
+    319.437,
+    399.255,
+    329.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.10.reference",
+   "value": "79-97",
+   "display_value": "79-97",
+   "canonical_value": "79-97",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    665.49,
+    1006.62,
+    686.96
+   ],
+   "bbox_pt": [
+    464,
+    319.437,
+    483.177,
+    329.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.11.test",
+   "value": "MCH",
+   "display_value": "MCH",
+   "canonical_value": "MCH",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    692.5,
+    119.2,
+    715.4
+   ],
+   "bbox_pt": [
+    39,
+    332.4,
+    57.216,
+    343.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.11.value",
+   "value": "30.0",
+   "display_value": "30.0",
+   "canonical_value": "30.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    692.5,
+    640.77,
+    715.4
+   ],
+   "bbox_pt": [
+    292,
+    332.4,
+    307.568,
+    343.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.11.unit",
+   "value": "pg",
+   "display_value": "pg",
+   "canonical_value": "pg",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    693.62,
+    836.12,
+    715.09
+   ],
+   "bbox_pt": [
+    393,
+    332.937,
+    401.34,
+    343.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.11.reference",
+   "value": "26.6-33.0",
+   "display_value": "26.6-33.0",
+   "canonical_value": "26.6-33.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    693.62,
+    1032.68,
+    715.09
+   ],
+   "bbox_pt": [
+    464,
+    332.937,
+    495.687,
+    343.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.12.test",
+   "value": "MCHC",
+   "display_value": "MCHC",
+   "canonical_value": "MCHC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    720.62,
+    131.23,
+    743.53
+   ],
+   "bbox_pt": [
+    39,
+    345.9,
+    62.992,
+    356.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.12.value",
+   "value": "32.5",
+   "display_value": "32.5",
+   "canonical_value": "32.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    720.62,
+    640.77,
+    743.53
+   ],
+   "bbox_pt": [
+    292,
+    345.9,
+    307.568,
+    356.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.12.unit",
+   "value": "g/dL",
+   "display_value": "g/dL",
+   "canonical_value": "g/dL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    721.74,
+    849.16,
+    743.21
+   ],
+   "bbox_pt": [
+    393,
+    346.437,
+    407.595,
+    356.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.12.reference",
+   "value": "31.5-35.7",
+   "display_value": "31.5-35.7",
+   "canonical_value": "31.5-35.7",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    721.74,
+    1032.68,
+    743.21
+   ],
+   "bbox_pt": [
+    464,
+    346.437,
+    495.687,
+    356.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.13.test",
+   "value": "RDW",
+   "display_value": "RDW",
+   "canonical_value": "RDW",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    748.75,
+    121.05,
+    771.65
+   ],
+   "bbox_pt": [
+    39,
+    359.4,
+    58.104,
+    370.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.13.value",
+   "value": "12.7",
+   "display_value": "12.7",
+   "canonical_value": "12.7",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    748.75,
+    640.77,
+    771.65
+   ],
+   "bbox_pt": [
+    292,
+    359.4,
+    307.568,
+    370.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.13.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    749.87,
+    832.64,
+    771.34
+   ],
+   "bbox_pt": [
+    393,
+    359.937,
+    399.667,
+    370.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.13.reference",
+   "value": "11.7-15.4",
+   "display_value": "11.7-15.4",
+   "canonical_value": "11.7-15.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    749.87,
+    1032.68,
+    771.34
+   ],
+   "bbox_pt": [
+    464,
+    359.937,
+    495.687,
+    370.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.14.test",
+   "value": "Platelets",
+   "display_value": "Platelets",
+   "canonical_value": "Platelets",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    776.88,
+    145.17,
+    799.78
+   ],
+   "bbox_pt": [
+    39,
+    372.9,
+    69.68,
+    383.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.14.value",
+   "value": "232",
+   "display_value": "232",
+   "canonical_value": "232",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    776.88,
+    636.13,
+    799.78
+   ],
+   "bbox_pt": [
+    292,
+    372.9,
+    305.344,
+    383.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.14.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    777.99,
+    881.67,
+    799.46
+   ],
+   "bbox_pt": [
+    393,
+    373.437,
+    423.202,
+    383.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.14.reference",
+   "value": "150-450",
+   "display_value": "150-450",
+   "canonical_value": "150-450",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    777.99,
+    1023.99,
+    799.46
+   ],
+   "bbox_pt": [
+    464,
+    373.437,
+    491.517,
+    383.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.15.test",
+   "value": "Neutrophils",
+   "display_value": "Neutrophils",
+   "canonical_value": "Neutrophils",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    805.0,
+    165.53,
+    827.9
+   ],
+   "bbox_pt": [
+    39,
+    386.4,
+    79.456,
+    397.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.15.value",
+   "value": "47",
+   "display_value": "47",
+   "canonical_value": "47",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    805.0,
+    626.87,
+    827.9
+   ],
+   "bbox_pt": [
+    292,
+    386.4,
+    300.896,
+    397.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.15.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    806.12,
+    832.64,
+    827.59
+   ],
+   "bbox_pt": [
+    393,
+    386.937,
+    399.667,
+    397.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.15.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    806.12,
+    1074.35,
+    827.59
+   ],
+   "bbox_pt": [
+    464,
+    386.937,
+    515.69,
+    397.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.16.test",
+   "value": "Lymphocytes",
+   "display_value": "Lymphocytes",
+   "canonical_value": "Lymphocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    833.12,
+    179.43,
+    856.03
+   ],
+   "bbox_pt": [
+    39,
+    399.9,
+    86.128,
+    410.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.16.value",
+   "value": "42",
+   "display_value": "42",
+   "canonical_value": "42",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    833.12,
+    626.87,
+    856.03
+   ],
+   "bbox_pt": [
+    292,
+    399.9,
+    300.896,
+    410.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.16.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    834.24,
+    832.64,
+    855.71
+   ],
+   "bbox_pt": [
+    393,
+    400.437,
+    399.667,
+    410.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.16.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    834.24,
+    1074.35,
+    855.71
+   ],
+   "bbox_pt": [
+    464,
+    400.437,
+    515.69,
+    410.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.17.test",
+   "value": "Monocytes",
+   "display_value": "Monocytes",
+   "canonical_value": "Monocytes",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    861.25,
+    161.83,
+    884.15
+   ],
+   "bbox_pt": [
+    39,
+    413.4,
+    77.68,
+    424.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.17.value",
+   "value": "7",
+   "display_value": "7",
+   "canonical_value": "7",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    861.25,
+    617.6,
+    884.15
+   ],
+   "bbox_pt": [
+    292,
+    413.4,
+    296.448,
+    424.392
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.17.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    862.37,
+    832.64,
+    883.84
+   ],
+   "bbox_pt": [
+    393,
+    413.937,
+    399.667,
+    424.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.17.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    862.37,
+    1074.35,
+    883.84
+   ],
+   "bbox_pt": [
+    464,
+    413.937,
+    515.69,
+    424.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.18.test",
+   "value": "Eosinophils",
+   "display_value": "Eosinophils",
+   "canonical_value": "Eosinophils",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    889.38,
+    166.47,
+    912.28
+   ],
+   "bbox_pt": [
+    39,
+    426.9,
+    79.904,
+    437.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.18.value",
+   "value": "3",
+   "display_value": "3",
+   "canonical_value": "3",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    889.38,
+    617.6,
+    912.28
+   ],
+   "bbox_pt": [
+    292,
+    426.9,
+    296.448,
+    437.892
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.18.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    890.49,
+    832.64,
+    911.96
+   ],
+   "bbox_pt": [
+    393,
+    427.437,
+    399.667,
+    437.742
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.18.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    890.49,
+    1074.35,
+    911.96
+   ],
+   "bbox_pt": [
+    464,
+    427.437,
+    515.69,
+    437.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.19.test",
+   "value": "Basophils",
+   "display_value": "Basophils",
+   "canonical_value": "Basophils",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    917.5,
+    153.5,
+    940.4
+   ],
+   "bbox_pt": [
+    39,
+    440.4,
+    73.68,
+    451.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.19.value",
+   "value": "1",
+   "display_value": "1",
+   "canonical_value": "1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    917.5,
+    617.6,
+    940.4
+   ],
+   "bbox_pt": [
+    292,
+    440.4,
+    296.448,
+    451.392
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.19.unit",
+   "value": "%",
+   "display_value": "%",
+   "canonical_value": "%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    918.62,
+    832.64,
+    940.09
+   ],
+   "bbox_pt": [
+    393,
+    440.937,
+    399.667,
+    451.242
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "results.19.reference",
+   "value": "Not established",
+   "display_value": "Not established",
+   "canonical_value": "Not established",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    918.62,
+    1074.35,
+    940.09
+   ],
+   "bbox_pt": [
+    464,
+    440.937,
+    515.69,
+    451.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.20.test",
+   "value": "Neutrophils (absolute)",
+   "display_value": "Neutrophils (absolute)",
+   "canonical_value": "Neutrophils (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    945.62,
+    244.27,
+    968.53
+   ],
+   "bbox_pt": [
+    39,
+    453.9,
+    117.248,
+    464.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.20.value",
+   "value": "2.5",
+   "display_value": "2.5",
+   "canonical_value": "2.5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    945.62,
+    631.5,
+    968.53
+   ],
+   "bbox_pt": [
+    292,
+    453.9,
+    303.12,
+    464.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.20.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    946.74,
+    881.67,
+    968.21
+   ],
+   "bbox_pt": [
+    393,
+    454.437,
+    423.202,
+    464.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.20.reference",
+   "value": "1.4-7.0",
+   "display_value": "1.4-7.0",
+   "canonical_value": "1.4-7.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    946.74,
+    1015.31,
+    968.21
+   ],
+   "bbox_pt": [
+    464,
+    454.437,
+    487.347,
+    464.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.21.test",
+   "value": "Lymphocytes (absolute)",
+   "display_value": "Lymphocytes (absolute)",
+   "canonical_value": "Lymphocytes (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    973.75,
+    258.17,
+    996.65
+   ],
+   "bbox_pt": [
+    39,
+    467.4,
+    123.92,
+    478.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.21.value",
+   "value": "2.3",
+   "display_value": "2.3",
+   "canonical_value": "2.3",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    973.75,
+    631.5,
+    996.65
+   ],
+   "bbox_pt": [
+    292,
+    467.4,
+    303.12,
+    478.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.21.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    974.87,
+    881.67,
+    996.34
+   ],
+   "bbox_pt": [
+    393,
+    467.937,
+    423.202,
+    478.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.21.reference",
+   "value": "0.7-3.1",
+   "display_value": "0.7-3.1",
+   "canonical_value": "0.7-3.1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    974.87,
+    1015.31,
+    996.34
+   ],
+   "bbox_pt": [
+    464,
+    467.937,
+    487.347,
+    478.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.22.test",
+   "value": "Monocytes (absolute)",
+   "display_value": "Monocytes (absolute)",
+   "canonical_value": "Monocytes (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    1001.88,
+    240.57,
+    1024.78
+   ],
+   "bbox_pt": [
+    39,
+    480.9,
+    115.472,
+    491.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.22.value",
+   "value": "0.4",
+   "display_value": "0.4",
+   "canonical_value": "0.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    1001.88,
+    631.5,
+    1024.78
+   ],
+   "bbox_pt": [
+    292,
+    480.9,
+    303.12,
+    491.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.22.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    1002.99,
+    881.67,
+    1024.46
+   ],
+   "bbox_pt": [
+    393,
+    481.437,
+    423.202,
+    491.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.22.reference",
+   "value": "0.1-0.9",
+   "display_value": "0.1-0.9",
+   "canonical_value": "0.1-0.9",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    1002.99,
+    1015.31,
+    1024.46
+   ],
+   "bbox_pt": [
+    464,
+    481.437,
+    487.347,
+    491.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.23.test",
+   "value": "Eosinophils (absolute)",
+   "display_value": "Eosinophils (absolute)",
+   "canonical_value": "Eosinophils (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    1030.0,
+    245.2,
+    1052.9
+   ],
+   "bbox_pt": [
+    39,
+    494.4,
+    117.696,
+    505.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.23.value",
+   "value": "0.2",
+   "display_value": "0.2",
+   "canonical_value": "0.2",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    1030.0,
+    631.5,
+    1052.9
+   ],
+   "bbox_pt": [
+    292,
+    494.4,
+    303.12,
+    505.392
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.23.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    1031.12,
+    881.67,
+    1052.59
+   ],
+   "bbox_pt": [
+    393,
+    494.937,
+    423.202,
+    505.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.23.reference",
+   "value": "0.0-0.4",
+   "display_value": "0.0-0.4",
+   "canonical_value": "0.0-0.4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    1031.12,
+    1015.31,
+    1052.59
+   ],
+   "bbox_pt": [
+    464,
+    494.937,
+    487.347,
+    505.242
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.24.test",
+   "value": "Basophils (absolute)",
+   "display_value": "Basophils (absolute)",
+   "canonical_value": "Basophils (absolute)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    81.25,
+    1058.12,
+    232.23,
+    1081.03
+   ],
+   "bbox_pt": [
+    39,
+    507.9,
+    111.472,
+    518.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.24.value",
+   "value": "0.1",
+   "display_value": "0.1",
+   "canonical_value": "0.1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    608.33,
+    1058.12,
+    631.5,
+    1081.03
+   ],
+   "bbox_pt": [
+    292,
+    507.9,
+    303.12,
+    518.892
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.24.unit",
+   "value": "x10^3/uL",
+   "display_value": "x10^3/uL",
+   "canonical_value": "x10^3/uL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    1059.24,
+    881.67,
+    1080.71
+   ],
+   "bbox_pt": [
+    393,
+    508.437,
+    423.202,
+    518.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "results.24.reference",
+   "value": "0.0-0.2",
+   "display_value": "0.0-0.2",
+   "canonical_value": "0.0-0.2",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    966.67,
+    1059.24,
+    1015.31,
+    1080.71
+   ],
+   "bbox_pt": [
+    464,
+    508.437,
+    487.347,
+    518.742
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

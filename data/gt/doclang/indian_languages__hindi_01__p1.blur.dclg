@@ -1,0 +1,261 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="203"/>
+    <location value="285"/>
+    <location value="1110"/>
+    <location value="1479"/>
+    <field_item>
+      <key>office_name</key>
+      <value>
+        <location value="286"/>
+        <location value="285"/>
+        <location value="400"/>
+        <location value="322"/>
+        थाटीपुर शाखा
+      </value>
+    </field_item>
+    <field_item>
+      <key>office_city</key>
+      <value>
+        <location value="281"/>
+        <location value="310"/>
+        <location value="353"/>
+        <location value="347"/>
+        ग्वालियर
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_name</key>
+      <value>
+        <location value="307"/>
+        <location value="465"/>
+        <location value="471"/>
+        <location value="509"/>
+        प्रीति कुमारी शर्मा
+      </value>
+    </field_item>
+    <field_item>
+      <key>scheme_name</key>
+      <value>
+        <location value="257"/>
+        <location value="491"/>
+        <location value="511"/>
+        <location value="534"/>
+        सुकन्या समृद्धि खाता योजना
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_amount</key>
+      <value>
+        <location value="312"/>
+        <location value="556"/>
+        <location value="379"/>
+        <location value="594"/>
+        100000
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_in_words</key>
+      <value>
+        <location value="720"/>
+        <location value="556"/>
+        <location value="799"/>
+        <location value="592"/>
+        एक लाख
+      </value>
+    </field_item>
+    <field_item>
+      <key>cheque_dd_no</key>
+      <value>
+        <location value="792"/>
+        <location value="586"/>
+        <location value="865"/>
+        <location value="624"/>
+        350128
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_date</key>
+      <value>
+        <location value="345"/>
+        <location value="613"/>
+        <location value="462"/>
+        <location value="653"/>
+        04/09/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>depositor_name</key>
+      <value>
+        <location value="405"/>
+        <location value="672"/>
+        <location value="508"/>
+        <location value="710"/>
+        वैष्णवी शर्मा
+      </value>
+    </field_item>
+    <field_item>
+      <key>depositor_dob</key>
+      <value>
+        <location value="520"/>
+        <location value="696"/>
+        <location value="641"/>
+        <location value="737"/>
+        29/06/2018
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_name</key>
+      <value>
+        <location value="550"/>
+        <location value="761"/>
+        <location value="713"/>
+        <location value="803"/>
+        प्रीति कुमारी शर्मा
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_dob</key>
+      <value>
+        <location value="374"/>
+        <location value="788"/>
+        <location value="483"/>
+        <location value="830"/>
+        11/08/1996
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_aadhaar</key>
+      <value>
+        <location value="465"/>
+        <location value="819"/>
+        <location value="624"/>
+        <location value="859"/>
+        8779 9510 0065
+      </value>
+    </field_item>
+    <field_item>
+      <key>guardian_pan</key>
+      <value>
+        <location value="567"/>
+        <location value="851"/>
+        <location value="695"/>
+        <location value="890"/>
+        LPMPS6541S
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line1</key>
+      <value>
+        <location value="275"/>
+        <location value="909"/>
+        <location value="618"/>
+        <location value="947"/>
+        प्लॉट नं. 213 हनुमान मंदिर वाली गली
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line2</key>
+      <value>
+        <location value="276"/>
+        <location value="926"/>
+        <location value="522"/>
+        <location value="967"/>
+        मुरार ग्वालियर - 474006
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line1</key>
+      <value>
+        <location value="203"/>
+        <location value="975"/>
+        <location value="471"/>
+        <location value="1021"/>
+        मकान नं. 180 अशोक विहार
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line2</key>
+      <value>
+        <location value="203"/>
+        <location value="1054"/>
+        <location value="421"/>
+        <location value="1096"/>
+        पचमढ़ी जिला नर्मदापुरम
+      </value>
+    </field_item>
+    <field_item>
+      <key>telephone</key>
+      <value>
+        <location value="789"/>
+        <location value="1140"/>
+        <location value="930"/>
+        <location value="1179"/>
+        0751-2879908
+      </value>
+    </field_item>
+    <field_item>
+      <key>mobile</key>
+      <value>
+        <location value="851"/>
+        <location value="1165"/>
+        <location value="981"/>
+        <location value="1206"/>
+        6438601906
+      </value>
+    </field_item>
+    <field_item>
+      <key>email</key>
+      <value>
+        <location value="894"/>
+        <location value="1207"/>
+        <location value="1110"/>
+        <location value="1240"/>
+        preetisharma59@gmail.com
+      </value>
+    </field_item>
+    <field_item>
+      <key>birth_cert_no</key>
+      <value>
+        <location value="470"/>
+        <location value="1339"/>
+        <location value="611"/>
+        <location value="1377"/>
+        B/2018/96350
+      </value>
+    </field_item>
+    <field_item>
+      <key>cert_issue_date</key>
+      <value>
+        <location value="510"/>
+        <location value="1368"/>
+        <location value="611"/>
+        <location value="1405"/>
+        04/10/2018
+      </value>
+    </field_item>
+    <field_item>
+      <key>issuing_authority</key>
+      <value>
+        <location value="569"/>
+        <location value="1391"/>
+        <location value="982"/>
+        <location value="1434"/>
+        जन्म एवं मृत्यु पंजीकरण कार्यालय ग्वालियर
+      </value>
+    </field_item>
+    <field_item>
+      <key>id_proof</key>
+      <value>
+        <location value="737"/>
+        <location value="1439"/>
+        <location value="811"/>
+        <location value="1479"/>
+        पासपोर्ट
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

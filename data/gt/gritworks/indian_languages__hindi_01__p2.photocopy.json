@@ -1,0 +1,189 @@
+{
+ "page_id": "indian_languages__hindi_01__p2",
+ "pack": "indian_languages",
+ "document": "hindi_01",
+ "family": "indic_form",
+ "document_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+ "language": "hindi",
+ "script": "Devanagari",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/03_hindi_01/hindi_01_clean.pdf",
+ "condition": "photocopy",
+ "degradation_params": {
+  "contrast": 1.6,
+  "jpeg_quality": 24,
+  "speck_rate": 0.002,
+  "seed": 913708684
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "address_proof",
+   "value": "मतदाता पहचान पत्र",
+   "display_value": "मतदाता पहचान पत्र",
+   "canonical_value": "मतदाता पहचान पत्र",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    742.0,
+    178.88,
+    916.73,
+    218.04
+   ],
+   "bbox_pt": [
+    356.16,
+    85.86,
+    440.03,
+    104.66
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "specimen_signature",
+   "value": "प्रीति शर्मा",
+   "display_value": "प्रीति शर्मा",
+   "canonical_value": "प्रीति शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    207.52,
+    497.54,
+    312.31,
+    543.75
+   ],
+   "bbox_pt": [
+    99.61,
+    238.82,
+    149.91,
+    261.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "guardian_signature",
+   "value": "प्रीति शर्मा",
+   "display_value": "प्रीति शर्मा",
+   "canonical_value": "प्रीति शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    847.31,
+    1028.6,
+    936.35,
+    1071.42
+   ],
+   "bbox_pt": [
+    406.71,
+    493.73,
+    449.45,
+    514.28
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "declaration_date",
+   "value": "04/09/2026",
+   "display_value": "04/09/2026",
+   "canonical_value": "04/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    726.23,
+    1083.31,
+    851.02,
+    1125.27
+   ],
+   "bbox_pt": [
+    348.59,
+    519.99,
+    408.49,
+    540.13
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominator_name",
+   "value": "प्रीति कुमारी शर्मा",
+   "display_value": "प्रीति कुमारी शर्मा",
+   "canonical_value": "प्रीति कुमारी शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    227.85,
+    1162.9,
+    391.13,
+    1205.04
+   ],
+   "bbox_pt": [
+    109.37,
+    558.19,
+    187.74,
+    578.42
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_name_relation",
+   "value": "दीपक किशोर शर्मा (पिता)",
+   "display_value": "दीपक किशोर शर्मा (पिता)",
+   "canonical_value": "दीपक किशोर शर्मा (पिता)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    264.0,
+    1468.79,
+    436.69,
+    1497.06
+   ],
+   "bbox_pt": [
+    126.72,
+    705.02,
+    209.61,
+    718.59
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_share",
+   "value": "100%",
+   "display_value": "100%",
+   "canonical_value": "100%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.52,
+    1468.92,
+    856.88,
+    1496.94
+   ],
+   "bbox_pt": [
+    392.89,
+    705.08,
+    411.3,
+    718.53
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

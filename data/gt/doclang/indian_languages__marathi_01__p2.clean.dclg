@@ -1,0 +1,111 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1240" height="1802"/>
+  </head>
+  <field_region>
+    <location value="131"/>
+    <location value="320"/>
+    <location value="1153"/>
+    <location value="1377"/>
+    <field_item>
+      <key>id_document_no</key>
+      <value>
+        <location value="344"/>
+        <location value="320"/>
+        <location value="604"/>
+        <location value="360"/>
+        F N B P W 3 9 8 7 B
+      </value>
+    </field_item>
+    <field_item>
+      <key>id_issue_date</key>
+      <value>
+        <location value="237"/>
+        <location value="362"/>
+        <location value="430"/>
+        <location value="403"/>
+        1 4 0 9 2 0 0 1
+      </value>
+    </field_item>
+    <field_item>
+      <key>address</key>
+      <value>
+        <location value="240"/>
+        <location value="482"/>
+        <location value="491"/>
+        <location value="522"/>
+        घर क्र. 442 महात्मा फुले मार्ग
+      </value>
+    </field_item>
+    <field_item>
+      <key>city</key>
+      <value>
+        <location value="245"/>
+        <location value="520"/>
+        <location value="312"/>
+        <location value="561"/>
+        सांगली
+      </value>
+    </field_item>
+    <field_item>
+      <key>district</key>
+      <value>
+        <location value="670"/>
+        <location value="520"/>
+        <location value="733"/>
+        <location value="559"/>
+        सांगली
+      </value>
+    </field_item>
+    <field_item>
+      <key>state</key>
+      <value>
+        <location value="240"/>
+        <location value="561"/>
+        <location value="306"/>
+        <location value="596"/>
+        महाराष्ट्र
+      </value>
+    </field_item>
+    <field_item>
+      <key>pincode</key>
+      <value>
+        <location value="1011"/>
+        <location value="557"/>
+        <location value="1153"/>
+        <location value="599"/>
+        4 1 6 4 1 6
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_signature</key>
+      <value>
+        <location value="365"/>
+        <location value="1226"/>
+        <location value="505"/>
+        <location value="1284"/>
+        सुवर्णा वाघ
+      </value>
+    </field_item>
+    <field_item>
+      <key>place</key>
+      <value>
+        <location value="131"/>
+        <location value="1337"/>
+        <location value="198"/>
+        <location value="1377"/>
+        सांगली
+      </value>
+    </field_item>
+    <field_item>
+      <key>signature_date</key>
+      <value>
+        <location value="717"/>
+        <location value="1335"/>
+        <location value="909"/>
+        <location value="1377"/>
+        1 7 0 9 2 0 2 6
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

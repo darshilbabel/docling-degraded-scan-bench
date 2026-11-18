@@ -1,0 +1,181 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1240" height="1802"/>
+  </head>
+  <field_region>
+    <location value="122"/>
+    <location value="134"/>
+    <location value="1066"/>
+    <location value="1650"/>
+    <field_item>
+      <key>form_date</key>
+      <value>
+        <location value="880"/>
+        <location value="134"/>
+        <location value="1066"/>
+        <location value="172"/>
+        1 7 0 9 2 0 2 6
+      </value>
+    </field_item>
+    <field_item>
+      <key>branch_name</key>
+      <value>
+        <location value="122"/>
+        <location value="172"/>
+        <location value="275"/>
+        <location value="211"/>
+        विश्रामबाग शाखा
+      </value>
+    </field_item>
+    <field_item>
+      <key>branch_code</key>
+      <value>
+        <location value="708"/>
+        <location value="175"/>
+        <location value="826"/>
+        <location value="212"/>
+        4 3 5 2 4
+      </value>
+    </field_item>
+    <field_item>
+      <key>customer_id</key>
+      <value>
+        <location value="124"/>
+        <location value="254"/>
+        <location value="397"/>
+        <location value="289"/>
+        2 0 3 8 3 0 6 9 8 4 0
+      </value>
+    </field_item>
+    <field_item>
+      <key>name_title</key>
+      <value>
+        <location value="165"/>
+        <location value="520"/>
+        <location value="225"/>
+        <location value="557"/>
+        श्रीमती
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_name</key>
+      <value>
+        <location value="266"/>
+        <location value="524"/>
+        <location value="409"/>
+        <location value="560"/>
+        सुवर्णा संजय वाघ
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="161"/>
+        <location value="596"/>
+        <location value="346"/>
+        <location value="637"/>
+        2 7 0 1 1 9 7 5
+      </value>
+    </field_item>
+    <field_item>
+      <key>father_or_spouse_name</key>
+      <value>
+        <location value="267"/>
+        <location value="635"/>
+        <location value="414"/>
+        <location value="676"/>
+        संजय शंकर वाघ
+      </value>
+    </field_item>
+    <field_item>
+      <key>mother_name</key>
+      <value>
+        <location value="268"/>
+        <location value="684"/>
+        <location value="474"/>
+        <location value="727"/>
+        पार्वती सुधाकर कांबळे
+      </value>
+    </field_item>
+    <field_item>
+      <key>country</key>
+      <value>
+        <location value="480"/>
+        <location value="866"/>
+        <location value="524"/>
+        <location value="902"/>
+        भारत
+      </value>
+    </field_item>
+    <field_item>
+      <key>occupation</key>
+      <value>
+        <location value="405"/>
+        <location value="979"/>
+        <location value="485"/>
+        <location value="1019"/>
+        अभियंता
+      </value>
+    </field_item>
+    <field_item>
+      <key>birth_city</key>
+      <value>
+        <location value="158"/>
+        <location value="1326"/>
+        <location value="221"/>
+        <location value="1364"/>
+        सांगली
+      </value>
+    </field_item>
+    <field_item>
+      <key>citizenship</key>
+      <value>
+        <location value="841"/>
+        <location value="1321"/>
+        <location value="909"/>
+        <location value="1359"/>
+        भारतीय
+      </value>
+    </field_item>
+    <field_item>
+      <key>pan</key>
+      <value>
+        <location value="478"/>
+        <location value="1437"/>
+        <location value="745"/>
+        <location value="1480"/>
+        F N B P W 3 9 8 7 B
+      </value>
+    </field_item>
+    <field_item>
+      <key>mobile</key>
+      <value>
+        <location value="263"/>
+        <location value="1532"/>
+        <location value="508"/>
+        <location value="1575"/>
+        9 9 6 7 7 8 3 7 1 1
+      </value>
+    </field_item>
+    <field_item>
+      <key>email</key>
+      <value>
+        <location value="610"/>
+        <location value="1540"/>
+        <location value="843"/>
+        <location value="1573"/>
+        suvarnawagh92@gmail.com
+      </value>
+    </field_item>
+    <field_item>
+      <key>residence_telephone</key>
+      <value>
+        <location value="690"/>
+        <location value="1608"/>
+        <location value="972"/>
+        <location value="1650"/>
+        0 2 3 3 - 2 8 4 7 3 4 9
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

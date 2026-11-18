@@ -1,0 +1,251 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1242" height="1804"/>
+  </head>
+  <field_region>
+    <location value="95"/>
+    <location value="240"/>
+    <location value="864"/>
+    <location value="1618"/>
+    <field_item>
+      <key>branch_name</key>
+      <value>
+        <location value="97"/>
+        <location value="240"/>
+        <location value="210"/>
+        <location value="284"/>
+        বার্নপুর শাখা
+      </value>
+    </field_item>
+    <field_item>
+      <key>branch_city</key>
+      <value>
+        <location value="95"/>
+        <location value="302"/>
+        <location value="197"/>
+        <location value="341"/>
+        আসানসোল
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_name</key>
+      <value>
+        <location value="226"/>
+        <location value="432"/>
+        <location value="339"/>
+        <location value="472"/>
+        কৃষ্ণা রানী রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_amount</key>
+      <value>
+        <location value="472"/>
+        <location value="530"/>
+        <location value="537"/>
+        <location value="571"/>
+        75000
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_in_words</key>
+      <value>
+        <location value="745"/>
+        <location value="530"/>
+        <location value="864"/>
+        <location value="569"/>
+        পঁচাত্তর হাজার
+      </value>
+    </field_item>
+    <field_item>
+      <key>cheque_no</key>
+      <value>
+        <location value="267"/>
+        <location value="562"/>
+        <location value="338"/>
+        <location value="600"/>
+        877090
+      </value>
+    </field_item>
+    <field_item>
+      <key>deposit_date</key>
+      <value>
+        <location value="500"/>
+        <location value="566"/>
+        <location value="581"/>
+        <location value="598"/>
+        18/10/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_name</key>
+      <value>
+        <location value="367"/>
+        <location value="640"/>
+        <location value="479"/>
+        <location value="678"/>
+        কৃষ্ণা রানী রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_relation_name</key>
+      <value>
+        <location value="739"/>
+        <location value="675"/>
+        <location value="823"/>
+        <location value="712"/>
+        অনিল রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_dob_day</key>
+      <value>
+        <location value="205"/>
+        <location value="705"/>
+        <location value="227"/>
+        <location value="741"/>
+        09
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_dob_month</key>
+      <value>
+        <location value="264"/>
+        <location value="708"/>
+        <location value="282"/>
+        <location value="744"/>
+        12
+      </value>
+    </field_item>
+    <field_item>
+      <key>first_holder_dob_year</key>
+      <value>
+        <location value="345"/>
+        <location value="708"/>
+        <location value="385"/>
+        <location value="744"/>
+        1959
+      </value>
+    </field_item>
+    <field_item>
+      <key>second_holder_name</key>
+      <value>
+        <location value="547"/>
+        <location value="769"/>
+        <location value="642"/>
+        <location value="811"/>
+        অনিল রায়
+      </value>
+    </field_item>
+    <field_item>
+      <key>aadhaar_first_holder</key>
+      <value>
+        <location value="481"/>
+        <location value="938"/>
+        <location value="635"/>
+        <location value="979"/>
+        9554 7698 3791
+      </value>
+    </field_item>
+    <field_item>
+      <key>pan_first_holder</key>
+      <value>
+        <location value="630"/>
+        <location value="1023"/>
+        <location value="771"/>
+        <location value="1065"/>
+        MPBPR0143B
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line1</key>
+      <value>
+        <location value="275"/>
+        <location value="1125"/>
+        <location value="381"/>
+        <location value="1160"/>
+        49 স্টেশন রোড
+      </value>
+    </field_item>
+    <field_item>
+      <key>present_address_line2</key>
+      <value>
+        <location value="95"/>
+        <location value="1147"/>
+        <location value="541"/>
+        <location value="1196"/>
+        আপকার গার্ডেন আসানসোল পশ্চিম বর্ধমান - 713304
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line1</key>
+      <value>
+        <location value="221"/>
+        <location value="1176"/>
+        <location value="344"/>
+        <location value="1217"/>
+        49 স্টেশন রোড
+      </value>
+    </field_item>
+    <field_item>
+      <key>permanent_address_line2</key>
+      <value>
+        <location value="95"/>
+        <location value="1206"/>
+        <location value="228"/>
+        <location value="1246"/>
+        আপকার গার্ডেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>telephone</key>
+      <value>
+        <location value="461"/>
+        <location value="1265"/>
+        <location value="582"/>
+        <location value="1303"/>
+        0341-2627479
+      </value>
+    </field_item>
+    <field_item>
+      <key>mobile</key>
+      <value>
+        <location value="450"/>
+        <location value="1295"/>
+        <location value="560"/>
+        <location value="1333"/>
+        8943633073
+      </value>
+    </field_item>
+    <field_item>
+      <key>email</key>
+      <value>
+        <location value="439"/>
+        <location value="1329"/>
+        <location value="649"/>
+        <location value="1363"/>
+        krishna.roy1959@gmail.com
+      </value>
+    </field_item>
+    <field_item>
+      <key>kyc_id_proof</key>
+      <value>
+        <location value="645"/>
+        <location value="1539"/>
+        <location value="795"/>
+        <location value="1584"/>
+        ড্রাইভিং লাইসেন্স
+      </value>
+    </field_item>
+    <field_item>
+      <key>kyc_address_proof</key>
+      <value>
+        <location value="608"/>
+        <location value="1577"/>
+        <location value="742"/>
+        <location value="1618"/>
+        টেলিফোন বিল
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

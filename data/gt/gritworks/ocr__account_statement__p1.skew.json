@@ -1,0 +1,1010 @@
+{
+ "page_id": "ocr__account_statement__p1",
+ "pack": "ocr",
+ "document": "account_statement",
+ "family": "bank_statement",
+ "document_type": "Supplier account statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/05_account_statement/account_statement_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 2.462,
+  "seed": 335449060
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "supplier_name",
+   "value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "display_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "canonical_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    46.8,
+    84.09,
+    648.25,
+    155.72
+   ],
+   "bbox_pt": [
+    38,
+    40.88,
+    326.016,
+    62.912
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     46.8,
+     109.86
+    ],
+    [
+     646.28,
+     84.09
+    ],
+    [
+     648.25,
+     129.94
+    ],
+    [
+     48.78,
+     155.72
+    ]
+   ]
+  },
+  {
+   "key": "document_number",
+   "value": "ST-05217",
+   "display_value": "ST-05217",
+   "canonical_value": "ST-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    795.0,
+    192.96,
+    896.88,
+    228.8
+   ],
+   "bbox_pt": [
+    395,
+    98.23,
+    443.301,
+    113.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     795.0,
+     197.28
+    ],
+    [
+     895.53,
+     192.96
+    ],
+    [
+     896.88,
+     224.48
+    ],
+    [
+     796.36,
+     228.8
+    ]
+   ]
+  },
+  {
+   "key": "document_date",
+   "value": "06/15/2026",
+   "display_value": "06/15/2026",
+   "canonical_value": "06/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    796.52,
+    228.22,
+    901.91,
+    261.3
+   ],
+   "bbox_pt": [
+    395,
+    115.25,
+    445.04,
+    128.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     796.52,
+     232.7
+    ],
+    [
+     900.68,
+     228.22
+    ],
+    [
+     901.91,
+     256.82
+    ],
+    [
+     797.75,
+     261.3
+    ]
+   ]
+  },
+  {
+   "key": "customer_name",
+   "value": "ORCHARD VALE FOODS",
+   "display_value": "ORCHARD VALE FOODS",
+   "canonical_value": "ORCHARD VALE FOODS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    57.93,
+    356.98,
+    331.49,
+    400.22
+   ],
+   "bbox_pt": [
+    38,
+    165.23,
+    168.779,
+    180.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     57.93,
+     368.69
+    ],
+    [
+     330.13,
+     356.98
+    ],
+    [
+     331.49,
+     388.51
+    ],
+    [
+     59.29,
+     400.22
+    ]
+   ]
+  },
+  {
+   "key": "customer_account",
+   "value": "OVF-05217",
+   "display_value": "OVF-05217",
+   "canonical_value": "OVF-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    801.09,
+    334.22,
+    909.9,
+    367.45
+   ],
+   "bbox_pt": [
+    395,
+    166.25,
+    446.69,
+    179.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     801.09,
+     338.85
+    ],
+    [
+     908.67,
+     334.22
+    ],
+    [
+     909.9,
+     362.83
+    ],
+    [
+     802.32,
+     367.45
+    ]
+   ]
+  },
+  {
+   "key": "purchase_order",
+   "value": "PO-260601-05217",
+   "display_value": "PO-260601-05217",
+   "canonical_value": "PO-260601-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    802.43,
+    362.71,
+    974.89,
+    398.67
+   ],
+   "bbox_pt": [
+    395,
+    181.25,
+    477.27,
+    194.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     802.43,
+     370.07
+    ],
+    [
+     973.66,
+     362.71
+    ],
+    [
+     974.89,
+     391.31
+    ],
+    [
+     803.66,
+     398.67
+    ]
+   ]
+  },
+  {
+   "key": "period",
+   "value": "Statement period: 06/01/2026 - 06/15/2026",
+   "display_value": "Statement period: 06/01/2026 - 06/15/2026",
+   "canonical_value": "Statement period: 06/01/2026 - 06/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    63.49,
+    480.71,
+    461.6,
+    526.37
+   ],
+   "bbox_pt": [
+    38,
+    227.25,
+    228.68,
+    240.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     63.49,
+     497.78
+    ],
+    [
+     460.37,
+     480.71
+    ],
+    [
+     461.6,
+     509.3
+    ],
+    [
+     64.72,
+     526.37
+    ]
+   ]
+  },
+  {
+   "key": "ledger.1.date",
+   "value": "06/09/26",
+   "display_value": "06/09/26",
+   "canonical_value": "06/09/26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    80.07,
+    637.96,
+    154.09,
+    666.84
+   ],
+   "bbox_pt": [
+    43,
+    296.325,
+    78.028,
+    308.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     80.07,
+     641.1
+    ],
+    [
+     152.98,
+     637.96
+    ],
+    [
+     154.09,
+     663.71
+    ],
+    [
+     81.18,
+     666.84
+    ]
+   ]
+  },
+  {
+   "key": "ledger.1.reference",
+   "value": "INV-G-05217",
+   "display_value": "INV-G-05217",
+   "canonical_value": "INV-G-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    246.58,
+    629.19,
+    358.05,
+    659.68
+   ],
+   "bbox_pt": [
+    123,
+    296.325,
+    176.019,
+    308.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     246.58,
+     633.94
+    ],
+    [
+     356.94,
+     629.19
+    ],
+    [
+     358.05,
+     654.94
+    ],
+    [
+     247.69,
+     659.68
+    ]
+   ]
+  },
+  {
+   "key": "ledger.1.debit",
+   "value": "2908.80",
+   "display_value": "2908.80",
+   "canonical_value": "2908.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    600.43,
+    615.81,
+    669.23,
+    644.46
+   ],
+   "bbox_pt": [
+    293,
+    296.325,
+    325.526,
+    308.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     600.43,
+     618.72
+    ],
+    [
+     668.12,
+     615.81
+    ],
+    [
+     669.23,
+     641.55
+    ],
+    [
+     601.53,
+     644.46
+    ]
+   ]
+  },
+  {
+   "key": "ledger.1.credit",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    798.15,
+    608.65,
+    835.72,
+    635.96
+   ],
+   "bbox_pt": [
+    388,
+    296.325,
+    405.514,
+    308.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     798.15,
+     610.22
+    ],
+    [
+     834.61,
+     608.65
+    ],
+    [
+     835.72,
+     634.39
+    ],
+    [
+     799.26,
+     635.96
+    ]
+   ]
+  },
+  {
+   "key": "ledger.1.balance",
+   "value": "2908.80",
+   "display_value": "2908.80",
+   "canonical_value": "2908.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    985.48,
+    599.25,
+    1054.3,
+    627.91
+   ],
+   "bbox_pt": [
+    478,
+    296.325,
+    510.526,
+    308.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     985.48,
+     602.16
+    ],
+    [
+     1053.19,
+     599.25
+    ],
+    [
+     1054.3,
+     624.99
+    ],
+    [
+     986.59,
+     627.91
+    ]
+   ]
+  },
+  {
+   "key": "ledger.2.date",
+   "value": "06/09/26",
+   "display_value": "06/09/26",
+   "canonical_value": "06/09/26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    82.75,
+    700.4,
+    156.77,
+    729.28
+   ],
+   "bbox_pt": [
+    43,
+    326.325,
+    78.028,
+    338.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     82.75,
+     703.54
+    ],
+    [
+     155.67,
+     700.4
+    ],
+    [
+     156.77,
+     726.15
+    ],
+    [
+     83.86,
+     729.28
+    ]
+   ]
+  },
+  {
+   "key": "ledger.2.reference",
+   "value": "INV-S-05217",
+   "display_value": "INV-S-05217",
+   "canonical_value": "INV-S-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    249.27,
+    691.72,
+    358.66,
+    722.12
+   ],
+   "bbox_pt": [
+    123,
+    326.325,
+    175.02,
+    338.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     249.27,
+     696.38
+    ],
+    [
+     357.55,
+     691.72
+    ],
+    [
+     358.66,
+     717.47
+    ],
+    [
+     250.38,
+     722.12
+    ]
+   ]
+  },
+  {
+   "key": "ledger.2.debit",
+   "value": "650.00",
+   "display_value": "650.00",
+   "canonical_value": "650.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    603.11,
+    678.7,
+    661.5,
+    706.91
+   ],
+   "bbox_pt": [
+    293,
+    326.325,
+    320.522,
+    338.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     603.11,
+     681.16
+    ],
+    [
+     660.39,
+     678.7
+    ],
+    [
+     661.5,
+     704.44
+    ],
+    [
+     604.22,
+     706.91
+    ]
+   ]
+  },
+  {
+   "key": "ledger.2.credit",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    800.84,
+    671.09,
+    838.4,
+    698.4
+   ],
+   "bbox_pt": [
+    388,
+    326.325,
+    405.514,
+    338.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     800.84,
+     672.66
+    ],
+    [
+     837.3,
+     671.09
+    ],
+    [
+     838.4,
+     696.84
+    ],
+    [
+     801.95,
+     698.4
+    ]
+   ]
+  },
+  {
+   "key": "ledger.2.balance",
+   "value": "3558.80",
+   "display_value": "3558.80",
+   "canonical_value": "3558.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    988.17,
+    661.69,
+    1056.98,
+    690.35
+   ],
+   "bbox_pt": [
+    478,
+    326.325,
+    510.526,
+    338.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     988.17,
+     664.6
+    ],
+    [
+     1055.87,
+     661.69
+    ],
+    [
+     1056.98,
+     687.44
+    ],
+    [
+     989.27,
+     690.35
+    ]
+   ]
+  },
+  {
+   "key": "ledger.3.date",
+   "value": "06/12/26",
+   "display_value": "06/12/26",
+   "canonical_value": "06/12/26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    85.44,
+    762.85,
+    159.46,
+    791.73
+   ],
+   "bbox_pt": [
+    43,
+    356.325,
+    78.028,
+    368.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     85.44,
+     765.98
+    ],
+    [
+     158.35,
+     762.85
+    ],
+    [
+     159.46,
+     788.59
+    ],
+    [
+     86.55,
+     791.73
+    ]
+   ]
+  },
+  {
+   "key": "ledger.3.reference",
+   "value": "CM-05217",
+   "display_value": "CM-05217",
+   "canonical_value": "CM-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    251.96,
+    755.06,
+    340.51,
+    784.57
+   ],
+   "bbox_pt": [
+    123,
+    356.325,
+    165.012,
+    368.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     251.96,
+     758.82
+    ],
+    [
+     339.4,
+     755.06
+    ],
+    [
+     340.51,
+     780.81
+    ],
+    [
+     253.06,
+     784.57
+    ]
+   ]
+  },
+  {
+   "key": "ledger.3.debit",
+   "value": "0.00",
+   "display_value": "0.00",
+   "canonical_value": "0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    605.8,
+    742.04,
+    643.35,
+    769.35
+   ],
+   "bbox_pt": [
+    293,
+    356.325,
+    310.514,
+    368.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     605.8,
+     743.6
+    ],
+    [
+     642.24,
+     742.04
+    ],
+    [
+     643.35,
+     767.78
+    ],
+    [
+     606.91,
+     769.35
+    ]
+   ]
+  },
+  {
+   "key": "ledger.3.credit",
+   "value": "103.68",
+   "display_value": "103.68",
+   "canonical_value": "103.68",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    803.53,
+    732.64,
+    861.92,
+    760.85
+   ],
+   "bbox_pt": [
+    388,
+    356.325,
+    415.522,
+    368.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     803.53,
+     735.1
+    ],
+    [
+     860.81,
+     732.64
+    ],
+    [
+     861.92,
+     758.38
+    ],
+    [
+     804.63,
+     760.85
+    ]
+   ]
+  },
+  {
+   "key": "ledger.3.balance",
+   "value": "3455.12",
+   "display_value": "3455.12",
+   "canonical_value": "3455.12",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    990.85,
+    724.13,
+    1059.67,
+    752.79
+   ],
+   "bbox_pt": [
+    478,
+    356.325,
+    510.526,
+    368.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     990.85,
+     727.04
+    ],
+    [
+     1058.56,
+     724.13
+    ],
+    [
+     1059.67,
+     749.88
+    ],
+    [
+     991.96,
+     752.79
+    ]
+   ]
+  },
+  {
+   "key": "amount_due",
+   "value": "3455.12",
+   "display_value": "$3,455.12",
+   "canonical_value": "$3,455.12",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    899.83,
+    904.81,
+    1162.52,
+    996.21
+   ],
+   "bbox_pt": [
+    430.456,
+    445.04,
+    555.0,
+    483.596
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     899.83,
+     915.96
+    ],
+    [
+     1159.07,
+     904.81
+    ],
+    [
+     1162.52,
+     985.06
+    ],
+    [
+     903.29,
+     996.21
+    ]
+   ]
+  },
+  {
+   "key": "due_date",
+   "value": "2026-07-09",
+   "display_value": "Payment due: 07/09/2026",
+   "canonical_value": "Payment due: 07/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.88,
+    1098.88,
+    387.06,
+    1146.0
+   ],
+   "bbox_pt": [
+    38,
+    522.16,
+    180.068,
+    538.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     89.88,
+     1111.6
+    ],
+    [
+     385.58,
+     1098.88
+    ],
+    [
+     387.06,
+     1133.28
+    ],
+    [
+     91.36,
+     1146.0
+    ]
+   ]
+  }
+ ]
+}

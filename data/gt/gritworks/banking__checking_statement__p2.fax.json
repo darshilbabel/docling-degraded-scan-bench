@@ -1,0 +1,397 @@
+{
+ "page_id": "banking__checking_statement__p2",
+ "pack": "banking",
+ "document": "checking_statement",
+ "family": "bank_statement",
+ "document_type": "US checking account statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/01_checking_statement/checking_statement_clean.pdf",
+ "condition": "fax",
+ "degradation_params": {
+  "threshold": 165,
+  "flip_rate": 0.004,
+  "streaks": 3,
+  "vertical_resample": 0.48,
+  "seed": 2134810889
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "balance_history.01.balance",
+   "value": "8175.16",
+   "display_value": "8,175.16",
+   "canonical_value": "8,175.16",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    405.97,
+    486.96,
+    470.83,
+    503.63
+   ],
+   "bbox_pt": [
+    194.864,
+    233.741,
+    226.0,
+    241.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.01.date",
+   "value": "2025-12-01",
+   "display_value": "12/01",
+   "canonical_value": "12/01",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    203.75,
+    486.96,
+    245.45,
+    503.63
+   ],
+   "bbox_pt": [
+    97.8,
+    233.741,
+    117.816,
+    241.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.02.balance",
+   "value": "8026.54",
+   "display_value": "8,026.54",
+   "canonical_value": "8,026.54",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    405.97,
+    506.13,
+    470.83,
+    522.79
+   ],
+   "bbox_pt": [
+    194.864,
+    242.941,
+    226.0,
+    250.941
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.02.date",
+   "value": "2025-12-05",
+   "display_value": "12/05",
+   "canonical_value": "12/05",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    203.75,
+    506.13,
+    245.45,
+    522.79
+   ],
+   "bbox_pt": [
+    97.8,
+    242.941,
+    117.816,
+    250.941
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.03.balance",
+   "value": "7937.54",
+   "display_value": "7,937.54",
+   "canonical_value": "7,937.54",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    405.97,
+    525.29,
+    470.83,
+    541.96
+   ],
+   "bbox_pt": [
+    194.864,
+    252.141,
+    226.0,
+    260.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.03.date",
+   "value": "2025-12-08",
+   "display_value": "12/08",
+   "canonical_value": "12/08",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    203.75,
+    525.29,
+    245.45,
+    541.96
+   ],
+   "bbox_pt": [
+    97.8,
+    252.141,
+    117.816,
+    260.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.04.balance",
+   "value": "7750.24",
+   "display_value": "7,750.24",
+   "canonical_value": "7,750.24",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    405.97,
+    544.46,
+    470.83,
+    561.13
+   ],
+   "bbox_pt": [
+    194.864,
+    261.341,
+    226.0,
+    269.341
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.04.date",
+   "value": "2025-12-12",
+   "display_value": "12/12",
+   "canonical_value": "12/12",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    203.75,
+    544.46,
+    245.45,
+    561.13
+   ],
+   "bbox_pt": [
+    97.8,
+    261.341,
+    117.816,
+    269.341
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.05.balance",
+   "value": "11212.94",
+   "display_value": "11,212.94",
+   "canonical_value": "11,212.94",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    938.37,
+    486.96,
+    1012.5,
+    503.63
+   ],
+   "bbox_pt": [
+    450.416,
+    233.741,
+    486.0,
+    241.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.05.date",
+   "value": "2025-12-15",
+   "display_value": "12/15",
+   "canonical_value": "12/15",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    743.75,
+    486.96,
+    785.45,
+    503.63
+   ],
+   "bbox_pt": [
+    357.0,
+    233.741,
+    377.016,
+    241.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.06.balance",
+   "value": "10612.94",
+   "display_value": "10,612.94",
+   "canonical_value": "10,612.94",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    938.37,
+    506.13,
+    1012.5,
+    522.79
+   ],
+   "bbox_pt": [
+    450.416,
+    242.941,
+    486.0,
+    250.941
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.06.date",
+   "value": "2025-12-20",
+   "display_value": "12/20",
+   "canonical_value": "12/20",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    743.75,
+    506.13,
+    785.45,
+    522.79
+   ],
+   "bbox_pt": [
+    357.0,
+    242.941,
+    377.016,
+    250.941
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.07.balance",
+   "value": "10480.46",
+   "display_value": "10,480.46",
+   "canonical_value": "10,480.46",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    938.37,
+    525.29,
+    1012.5,
+    541.96
+   ],
+   "bbox_pt": [
+    450.416,
+    252.141,
+    486.0,
+    260.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.07.date",
+   "value": "2025-12-24",
+   "display_value": "12/24",
+   "canonical_value": "12/24",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    743.75,
+    525.29,
+    785.45,
+    541.96
+   ],
+   "bbox_pt": [
+    357.0,
+    252.141,
+    377.016,
+    260.141
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.08.balance",
+   "value": "13943.16",
+   "display_value": "13,943.16",
+   "canonical_value": "13,943.16",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    938.37,
+    544.46,
+    1012.5,
+    561.13
+   ],
+   "bbox_pt": [
+    450.416,
+    261.341,
+    486.0,
+    269.341
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_history.08.date",
+   "value": "2025-12-31",
+   "display_value": "12/31",
+   "canonical_value": "12/31",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    743.75,
+    544.46,
+    785.45,
+    561.13
+   ],
+   "bbox_pt": [
+    357.0,
+    261.341,
+    377.016,
+    269.341
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

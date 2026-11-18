@@ -1,0 +1,221 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="71"/>
+    <location value="142"/>
+    <location value="1164"/>
+    <location value="1386"/>
+    <field_item>
+      <key>borrower_name</key>
+      <value>
+        <location value="71"/>
+        <location value="286"/>
+        <location value="220"/>
+        <location value="317"/>
+        JORDAN ELLIS
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_line1</key>
+      <value>
+        <location value="72"/>
+        <location value="301"/>
+        <location value="328"/>
+        <location value="340"/>
+        742 EVERGREEN, APT 3B
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_city_state_zip</key>
+      <value>
+        <location value="74"/>
+        <location value="324"/>
+        <location value="325"/>
+        <location value="363"/>
+        LOS ANGELES, CA 90026
+      </value>
+    </field_item>
+    <field_item>
+      <key>loan_number</key>
+      <value>
+        <location value="293"/>
+        <location value="1363"/>
+        <location value="386"/>
+        <location value="1386"/>
+        0098251640
+      </value>
+    </field_item>
+    <field_item>
+      <key>statement_date</key>
+      <value>
+        <location value="993"/>
+        <location value="142"/>
+        <location value="1141"/>
+        <location value="170"/>
+        December 31, 2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>payment_due</key>
+      <value>
+        <location value="1025"/>
+        <location value="192"/>
+        <location value="1150"/>
+        <location value="217"/>
+        January 1, 2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>principal_balance</key>
+      <value>
+        <location value="614"/>
+        <location value="594"/>
+        <location value="708"/>
+        <location value="617"/>
+        $287,700.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>escrow_balance</key>
+      <value>
+        <location value="634"/>
+        <location value="617"/>
+        <location value="709"/>
+        <location value="639"/>
+        $2,850.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>next_principal</key>
+      <value>
+        <location value="1097"/>
+        <location value="359"/>
+        <location value="1159"/>
+        <location value="380"/>
+        $301.56
+      </value>
+    </field_item>
+    <field_item>
+      <key>next_interest</key>
+      <value>
+        <location value="1085"/>
+        <location value="383"/>
+        <location value="1160"/>
+        <location value="405"/>
+        $1,498.44
+      </value>
+    </field_item>
+    <field_item>
+      <key>escrow_payment</key>
+      <value>
+        <location value="1101"/>
+        <location value="406"/>
+        <location value="1162"/>
+        <location value="427"/>
+        $450.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>monthly_payment</key>
+      <value>
+        <location value="1089"/>
+        <location value="432"/>
+        <location value="1164"/>
+        <location value="454"/>
+        $2,250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>last_principal</key>
+      <value>
+        <location value="427"/>
+        <location value="758"/>
+        <location value="488"/>
+        <location value="779"/>
+        $300.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>last_interest</key>
+      <value>
+        <location value="414"/>
+        <location value="782"/>
+        <location value="490"/>
+        <location value="804"/>
+        $1,500.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>last_escrow</key>
+      <value>
+        <location value="430"/>
+        <location value="805"/>
+        <location value="491"/>
+        <location value="826"/>
+        $450.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>annual_principal</key>
+      <value>
+        <location value="604"/>
+        <location value="744"/>
+        <location value="679"/>
+        <location value="766"/>
+        $3,499.17
+      </value>
+    </field_item>
+    <field_item>
+      <key>annual_interest</key>
+      <value>
+        <location value="596"/>
+        <location value="768"/>
+        <location value="681"/>
+        <location value="791"/>
+        $18,100.83
+      </value>
+    </field_item>
+    <field_item>
+      <key>annual_escrow</key>
+      <value>
+        <location value="607"/>
+        <location value="792"/>
+        <location value="682"/>
+        <location value="814"/>
+        $5,400.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>annual_payments</key>
+      <value>
+        <location value="603"/>
+        <location value="865"/>
+        <location value="688"/>
+        <location value="887"/>
+        $27,000.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>interest_rate_percent</key>
+      <value>
+        <location value="655"/>
+        <location value="664"/>
+        <location value="713"/>
+        <location value="685"/>
+        6.250%
+      </value>
+    </field_item>
+    <field_item>
+      <key>late_fee</key>
+      <value>
+        <location value="972"/>
+        <location value="253"/>
+        <location value="1017"/>
+        <location value="271"/>
+        $90.00
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

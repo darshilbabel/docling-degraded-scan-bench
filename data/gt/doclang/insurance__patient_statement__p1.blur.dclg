@@ -1,0 +1,141 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="150"/>
+    <location value="213"/>
+    <location value="1206"/>
+    <location value="1169"/>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="150"/>
+        <location value="351"/>
+        <location value="320"/>
+        <location value="379"/>
+        AVERY MORGAN
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_address</key>
+      <value>
+        <location value="150"/>
+        <location value="380"/>
+        <location value="438"/>
+        <location value="406"/>
+        4607 WILLOW BEND LN APT 204
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_city_state_zip</key>
+      <value>
+        <location value="150"/>
+        <location value="407"/>
+        <location value="310"/>
+        <location value="433"/>
+        AUSTIN, TX 78731
+      </value>
+    </field_item>
+    <field_item>
+      <key>statement_date</key>
+      <value>
+        <location value="717"/>
+        <location value="215"/>
+        <location value="810"/>
+        <location value="241"/>
+        04/24/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_account</key>
+      <value>
+        <location value="921"/>
+        <location value="215"/>
+        <location value="1003"/>
+        <location value="241"/>
+        PT-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_due</key>
+      <value>
+        <location value="1121"/>
+        <location value="213"/>
+        <location value="1185"/>
+        <location value="242"/>
+        $44.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>payment_due</key>
+      <value>
+        <location value="1112"/>
+        <location value="272"/>
+        <location value="1206"/>
+        <location value="297"/>
+        05/15/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>claim_id</key>
+      <value>
+        <location value="319"/>
+        <location value="765"/>
+        <location value="847"/>
+        <location value="794"/>
+        SERVICES ON 04/15/2026 | CLAIM CLM-260415-04217
+      </value>
+    </field_item>
+    <field_item>
+      <key>billed</key>
+      <value>
+        <location value="1129"/>
+        <location value="834"/>
+        <location value="1204"/>
+        <location value="862"/>
+        $600.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_paid</key>
+      <value>
+        <location value="1134"/>
+        <location value="898"/>
+        <location value="1204"/>
+        <location value="927"/>
+        $-30.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>insurance_paid</key>
+      <value>
+        <location value="1122"/>
+        <location value="963"/>
+        <location value="1204"/>
+        <location value="992"/>
+        $-326.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>adjustment</key>
+      <value>
+        <location value="1122"/>
+        <location value="1028"/>
+        <location value="1204"/>
+        <location value="1056"/>
+        $-200.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>balance_due</key>
+      <value>
+        <location value="1115"/>
+        <location value="1129"/>
+        <location value="1204"/>
+        <location value="1169"/>
+        $44.00
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

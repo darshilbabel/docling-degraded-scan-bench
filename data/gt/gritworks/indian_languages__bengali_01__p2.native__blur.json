@@ -1,0 +1,186 @@
+{
+ "page_id": "indian_languages__bengali_01__p2",
+ "pack": "indian_languages",
+ "document": "bengali_01",
+ "family": "indic_form",
+ "document_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+ "language": "bengali",
+ "script": "Bengali",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1242,
+  1804
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/01_bengali_01/bengali_01__blur.pdf",
+ "condition": "native:blur",
+ "degradation_params": {
+  "pack_variant": "blur"
+ },
+ "gt_provenance": "pack-supplied forward projection of clean geometry",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "specimen_signature",
+   "value": "বিশ্বনাথ সেন",
+   "display_value": "বিশ্বনাথ সেন",
+   "canonical_value": "বিশ্বনাথ সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    104.62,
+    270.77,
+    203.4,
+    311.54
+   ],
+   "bbox_pt": [
+    50.22,
+    129.97,
+    97.63,
+    149.54
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "specimen_name",
+   "value": "বিশ্বনাথ কুমার সেন",
+   "display_value": "বিশ্বনাথ কুমার সেন",
+   "canonical_value": "বিশ্বনাথ কুমার সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    142.02,
+    340.9,
+    272.31,
+    377.6
+   ],
+   "bbox_pt": [
+    68.17,
+    163.63,
+    130.71,
+    181.25
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "declaration_date",
+   "value": "15/10/2026",
+   "display_value": "15/10/2026",
+   "canonical_value": "15/10/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    160.58,
+    901.44,
+    255.4,
+    938.94
+   ],
+   "bbox_pt": [
+    77.08,
+    432.69,
+    122.59,
+    450.69
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "applicant_signature",
+   "value": "বিশ্বনাথ সেন",
+   "display_value": "বিশ্বনাথ সেন",
+   "canonical_value": "বিশ্বনাথ সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    735.25,
+    864.23,
+    847.58,
+    913.13
+   ],
+   "bbox_pt": [
+    352.92,
+    414.83,
+    406.84,
+    438.3
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominator_name",
+   "value": "বিশ্বনাথ কুমার সেন",
+   "display_value": "বিশ্বনাথ কুমার সেন",
+   "canonical_value": "বিশ্বনাথ কুমার সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    264.0,
+    1017.52,
+    403.33,
+    1056.1
+   ],
+   "bbox_pt": [
+    126.72,
+    488.41,
+    193.6,
+    506.93
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_name_relation",
+   "value": "সোমা সেন (কন্যা)",
+   "display_value": "সোমা সেন (কন্যা)",
+   "canonical_value": "সোমা সেন (কন্যা)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    178.06,
+    1283.71,
+    294.79,
+    1316.96
+   ],
+   "bbox_pt": [
+    85.47,
+    616.18,
+    141.5,
+    632.14
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nominee_share",
+   "value": "100%",
+   "display_value": "100%",
+   "canonical_value": "100%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    842.13,
+    1282.25,
+    886.04,
+    1315.29
+   ],
+   "bbox_pt": [
+    404.22,
+    615.48,
+    425.3,
+    631.34
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

@@ -1,0 +1,1010 @@
+{
+ "page_id": "indian_languages__bengali_01__p1",
+ "pack": "indian_languages",
+ "document": "bengali_01",
+ "family": "indic_form",
+ "document_type": "Senior Citizens Savings Scheme account opening form (Form-1), Bengali",
+ "language": "bengali",
+ "script": "Bengali",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1242,
+  1804
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/01_bengali_01/bengali_01_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 4.249,
+  "seed": 3411620357
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "branch_name",
+   "value": "পাত্রবাজার শাখা",
+   "display_value": "পাত্রবাজার শাখা",
+   "canonical_value": "পাত্রবাজার শাখা",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    47.47,
+    272.37,
+    170.42,
+    320.89
+   ],
+   "bbox_pt": [
+    45.62,
+    115.44,
+    103.38,
+    134.5
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     47.47,
+     281.29
+    ],
+    [
+     167.48,
+     272.37
+    ],
+    [
+     170.42,
+     311.98
+    ],
+    [
+     50.41,
+     320.89
+    ]
+   ]
+  },
+  {
+   "key": "branch_city",
+   "value": "কৃষ্ণনগর",
+   "display_value": "কৃষ্ণনগর",
+   "canonical_value": "কৃষ্ণনগর",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    51.97,
+    337.33,
+    119.39,
+    381.31
+   ],
+   "bbox_pt": [
+    45.61,
+    144.72,
+    76.66,
+    163.58
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     51.97,
+     342.13
+    ],
+    [
+     116.48,
+     337.33
+    ],
+    [
+     119.39,
+     376.51
+    ],
+    [
+     54.88,
+     381.31
+    ]
+   ]
+  },
+  {
+   "key": "applicant_name",
+   "value": "বিশ্বনাথ কুমার সেন",
+   "display_value": "বিশ্বনাথ কুমার সেন",
+   "canonical_value": "বিশ্বনাথ কুমার সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    189.9,
+    457.5,
+    322.43,
+    503.38
+   ],
+   "bbox_pt": [
+    107.19,
+    209.47,
+    169.68,
+    226.91
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     189.9,
+     467.15
+    ],
+    [
+     319.73,
+     457.5
+    ],
+    [
+     322.43,
+     493.73
+    ],
+    [
+     192.59,
+     503.38
+    ]
+   ]
+  },
+  {
+   "key": "deposit_amount",
+   "value": "100000",
+   "display_value": "100000",
+   "canonical_value": "100000",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    439.83,
+    534.66,
+    510.46,
+    577.63
+   ],
+   "bbox_pt": [
+    224.24,
+    253.09,
+    256.88,
+    271.35
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     439.83,
+     539.7
+    ],
+    [
+     507.64,
+     534.66
+    ],
+    [
+     510.46,
+     572.6
+    ],
+    [
+     442.64,
+     577.63
+    ]
+   ]
+  },
+  {
+   "key": "amount_in_words",
+   "value": "এক লক্ষ",
+   "display_value": "এক লক্ষ",
+   "canonical_value": "এক লক্ষ",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    715.56,
+    517.48,
+    779.47,
+    558.39
+   ],
+   "bbox_pt": [
+    356.86,
+    254.44,
+    386.32,
+    271.94
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     715.56,
+     522.03
+    ],
+    [
+     776.77,
+     517.48
+    ],
+    [
+     779.47,
+     553.84
+    ],
+    [
+     718.27,
+     558.39
+    ]
+   ]
+  },
+  {
+   "key": "cheque_no",
+   "value": "150345",
+   "display_value": "150345",
+   "canonical_value": "150345",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    239.44,
+    582.22,
+    307.2,
+    628.1
+   ],
+   "bbox_pt": [
+    126.64,
+    268.62,
+    157.78,
+    288.39
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     239.44,
+     587.03
+    ],
+    [
+     304.14,
+     582.22
+    ],
+    [
+     307.2,
+     623.3
+    ],
+    [
+     242.49,
+     628.1
+    ]
+   ]
+  },
+  {
+   "key": "deposit_date",
+   "value": "15/10/2026",
+   "display_value": "15/10/2026",
+   "canonical_value": "15/10/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    476.62,
+    565.12,
+    566.33,
+    604.8
+   ],
+   "bbox_pt": [
+    240.72,
+    269.67,
+    282.71,
+    285.65
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     476.62,
+     571.6
+    ],
+    [
+     563.86,
+     565.12
+    ],
+    [
+     566.33,
+     598.32
+    ],
+    [
+     479.09,
+     604.8
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_name",
+   "value": "বিশ্বনাথ কুমার সেন",
+   "display_value": "বিশ্বনাথ কুমার সেন",
+   "canonical_value": "বিশ্বনাথ কুমার সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    346.73,
+    653.1,
+    479.95,
+    701.19
+   ],
+   "bbox_pt": [
+    175.3,
+    308.7,
+    238.05,
+    327.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     346.73,
+     662.79
+    ],
+    [
+     477.1,
+     653.1
+    ],
+    [
+     479.95,
+     691.5
+    ],
+    [
+     349.58,
+     701.19
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_relation_name",
+   "value": "কালীপদ সেন",
+   "display_value": "কালীপদ সেন",
+   "canonical_value": "কালীপদ সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    722.77,
+    656.67,
+    816.4,
+    701.05
+   ],
+   "bbox_pt": [
+    355.28,
+    322.38,
+    399.0,
+    340.49
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     722.77,
+     663.42
+    ],
+    [
+     813.6,
+     656.67
+    ],
+    [
+     816.4,
+     694.3
+    ],
+    [
+     725.57,
+     701.05
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_dob_day",
+   "value": "10",
+   "display_value": "10",
+   "canonical_value": "10",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    187.8,
+    735.63,
+    209.75,
+    772.76
+   ],
+   "bbox_pt": [
+    96.58,
+    338.6,
+    105.87,
+    355.78
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     187.8,
+     737.07
+    ],
+    [
+     207.09,
+     735.63
+    ],
+    [
+     209.75,
+     771.32
+    ],
+    [
+     190.45,
+     772.76
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_dob_month",
+   "value": "05",
+   "display_value": "05",
+   "canonical_value": "05",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    247.03,
+    729.36,
+    271.8,
+    769.1
+   ],
+   "bbox_pt": [
+    125.15,
+    337.8,
+    135.71,
+    356.14
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     247.03,
+     730.99
+    ],
+    [
+     268.97,
+     729.36
+    ],
+    [
+     271.8,
+     767.47
+    ],
+    [
+     249.86,
+     769.1
+    ]
+   ]
+  },
+  {
+   "key": "first_holder_dob_year",
+   "value": "1965",
+   "display_value": "1965",
+   "canonical_value": "1965",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    332.77,
+    721.59,
+    375.81,
+    762.76
+   ],
+   "bbox_pt": [
+    166.42,
+    337.78,
+    185.77,
+    356.16
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     332.77,
+     724.58
+    ],
+    [
+     372.97,
+     721.59
+    ],
+    [
+     375.81,
+     759.78
+    ],
+    [
+     335.61,
+     762.76
+    ]
+   ]
+  },
+  {
+   "key": "second_holder_name",
+   "value": "রুমা রানী সেন",
+   "display_value": "রুমা রানী সেন",
+   "canonical_value": "রুমা রানী সেন",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    540.51,
+    770.28,
+    647.55,
+    816.33
+   ],
+   "bbox_pt": [
+    263.96,
+    370.75,
+    314.11,
+    389.19
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     540.51,
+     778.02
+    ],
+    [
+     644.7,
+     770.28
+    ],
+    [
+     647.55,
+     808.59
+    ],
+    [
+     543.36,
+     816.33
+    ]
+   ]
+  },
+  {
+   "key": "aadhaar_first_holder",
+   "value": "9642 3870 4866",
+   "display_value": "9642 3870 4866",
+   "canonical_value": "9642 3870 4866",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    484.18,
+    939.93,
+    615.67,
+    986.3
+   ],
+   "bbox_pt": [
+    230.9,
+    450.83,
+    292.87,
+    468.54
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     484.18,
+     949.5
+    ],
+    [
+     612.94,
+     939.93
+    ],
+    [
+     615.67,
+     976.73
+    ],
+    [
+     486.92,
+     986.3
+    ]
+   ]
+  },
+  {
+   "key": "pan_first_holder",
+   "value": "DEBPS5662Z",
+   "display_value": "DEBPS5662Z",
+   "canonical_value": "DEBPS5662Z",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    639.78,
+    1012.4,
+    769.05,
+    1064.55
+   ],
+   "bbox_pt": [
+    302.81,
+    490.96,
+    363.5,
+    511.55
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     639.78,
+     1021.77
+    ],
+    [
+     765.87,
+     1012.4
+    ],
+    [
+     769.05,
+     1055.18
+    ],
+    [
+     642.96,
+     1064.55
+    ]
+   ]
+  },
+  {
+   "key": "present_address_line1",
+   "value": "277/37 শিব মন্দির রোড",
+   "display_value": "277/37 শিব মন্দির রোড",
+   "canonical_value": "277/37 শিব মন্দির রোড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    287.44,
+    1138.56,
+    443.45,
+    1185.78
+   ],
+   "bbox_pt": [
+    129.59,
+    539.79,
+    203.4,
+    557.03
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     287.44,
+     1149.96
+    ],
+    [
+     440.78,
+     1138.56
+    ],
+    [
+     443.45,
+     1174.39
+    ],
+    [
+     290.1,
+     1185.78
+    ]
+   ]
+  },
+  {
+   "key": "present_address_line2",
+   "value": "পাত্রবাজার কৃষ্ণনগর নদিয়া - 741101",
+   "display_value": "পাত্রবাজার কৃষ্ণনগর নদিয়া - 741101",
+   "canonical_value": "পাত্রবাজার কৃষ্ণনগর নদিয়া - 741101",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    111.79,
+    1172.36,
+    366.03,
+    1232.53
+   ],
+   "bbox_pt": [
+    44.05,
+    553.2,
+    164.94,
+    573.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     111.79,
+     1191.03
+    ],
+    [
+     362.94,
+     1172.36
+    ],
+    [
+     366.03,
+     1213.87
+    ],
+    [
+     114.87,
+     1232.53
+    ]
+   ]
+  },
+  {
+   "key": "permanent_address_line1",
+   "value": "277/37 শিব মন্দির রোড",
+   "display_value": "277/37 শিব মন্দির রোড",
+   "canonical_value": "277/37 শিব মন্দির রোড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    241.42,
+    1190.66,
+    420.97,
+    1243.5
+   ],
+   "bbox_pt": [
+    105.65,
+    563.92,
+    190.65,
+    583.03
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     241.42,
+     1203.79
+    ],
+    [
+     418.02,
+     1190.66
+    ],
+    [
+     420.97,
+     1230.37
+    ],
+    [
+     244.37,
+     1243.5
+    ]
+   ]
+  },
+  {
+   "key": "permanent_address_line2",
+   "value": "পাত্রবাজার",
+   "display_value": "পাত্রবাজার",
+   "canonical_value": "পাত্রবাজার",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    116.44,
+    1243.05,
+    192.9,
+    1284.05
+   ],
+   "bbox_pt": [
+    44.23,
+    580.89,
+    79.76,
+    597.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     116.44,
+     1248.53
+    ],
+    [
+     190.26,
+     1243.05
+    ],
+    [
+     192.9,
+     1278.57
+    ],
+    [
+     119.08,
+     1284.05
+    ]
+   ]
+  },
+  {
+   "key": "telephone",
+   "value": "03472-262858",
+   "display_value": "03472-262858",
+   "canonical_value": "03472-262858",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    489.79,
+    1267.91,
+    611.12,
+    1315.4
+   ],
+   "bbox_pt": [
+    221.94,
+    607.66,
+    278.96,
+    626.28
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     489.79,
+     1276.71
+    ],
+    [
+     608.25,
+     1267.91
+    ],
+    [
+     611.12,
+     1306.59
+    ],
+    [
+     492.66,
+     1315.4
+    ]
+   ]
+  },
+  {
+   "key": "mobile",
+   "value": "8658148000",
+   "display_value": "8658148000",
+   "canonical_value": "8658148000",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    482.3,
+    1296.3,
+    601.28,
+    1346.92
+   ],
+   "bbox_pt": [
+    217.36,
+    620.89,
+    273.12,
+    641.11
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     482.3,
+     1304.9
+    ],
+    [
+     598.15,
+     1296.3
+    ],
+    [
+     601.28,
+     1338.31
+    ],
+    [
+     485.43,
+     1346.92
+    ]
+   ]
+  },
+  {
+   "key": "email",
+   "value": "biswanath.sen1965@gmail.com",
+   "display_value": "biswanath.sen1965@gmail.com",
+   "canonical_value": "biswanath.sen1965@gmail.com",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    475.81,
+    1323.21,
+    715.01,
+    1374.33
+   ],
+   "bbox_pt": [
+    212.97,
+    637.84,
+    326.91,
+    653.98
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     475.81,
+     1340.8
+    ],
+    [
+     712.52,
+     1323.21
+    ],
+    [
+     715.01,
+     1356.74
+    ],
+    [
+     478.3,
+     1374.33
+    ]
+   ]
+  },
+  {
+   "key": "kyc_id_proof",
+   "value": "আধার কার্ড",
+   "display_value": "আধার কার্ড",
+   "canonical_value": "আধার কার্ড",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    692.36,
+    1529.64,
+    780.52,
+    1574.41
+   ],
+   "bbox_pt": [
+    309.69,
+    738.97,
+    350.75,
+    757.47
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     692.36,
+     1535.97
+    ],
+    [
+     777.67,
+     1529.64
+    ],
+    [
+     780.52,
+     1568.07
+    ],
+    [
+     695.22,
+     1574.41
+    ]
+   ]
+  },
+  {
+   "key": "kyc_address_proof",
+   "value": "বিদ্যুতের বিল",
+   "display_value": "বিদ্যুতের বিল",
+   "canonical_value": "বিদ্যুতের বিল",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    662.32,
+    1564.97,
+    770.68,
+    1613.19
+   ],
+   "bbox_pt": [
+    294.0,
+    755.53,
+    344.71,
+    774.97
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     662.32,
+     1572.8
+    ],
+    [
+     767.68,
+     1564.97
+    ],
+    [
+     770.68,
+     1605.36
+    ],
+    [
+     665.32,
+     1613.19
+    ]
+   ]
+  }
+ ]
+}

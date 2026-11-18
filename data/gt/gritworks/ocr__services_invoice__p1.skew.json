@@ -1,0 +1,846 @@
+{
+ "page_id": "ocr__services_invoice__p1",
+ "pack": "ocr",
+ "document": "services_invoice",
+ "family": "invoice",
+ "document_type": "Field services invoice",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/03_services_invoice/services_invoice_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 2.447,
+  "seed": 3644093555
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "supplier_name",
+   "value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "display_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "canonical_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    47.0,
+    84.09,
+    648.44,
+    155.57
+   ],
+   "bbox_pt": [
+    38,
+    40.88,
+    326.016,
+    62.912
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     47.0,
+     109.71
+    ],
+    [
+     646.48,
+     84.09
+    ],
+    [
+     648.44,
+     129.95
+    ],
+    [
+     48.96,
+     155.57
+    ]
+   ]
+  },
+  {
+   "key": "document_number",
+   "value": "INV-S-05217",
+   "display_value": "INV-S-05217",
+   "canonical_value": "INV-S-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    795.17,
+    191.67,
+    928.86,
+    228.84
+   ],
+   "bbox_pt": [
+    395,
+    98.23,
+    458.58,
+    113.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     795.17,
+     197.32
+    ],
+    [
+     927.51,
+     191.67
+    ],
+    [
+     928.86,
+     223.19
+    ],
+    [
+     796.52,
+     228.84
+    ]
+   ]
+  },
+  {
+   "key": "document_date",
+   "value": "06/09/2026",
+   "display_value": "06/09/2026",
+   "canonical_value": "06/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    796.69,
+    228.29,
+    902.06,
+    261.34
+   ],
+   "bbox_pt": [
+    395,
+    115.25,
+    445.04,
+    128.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     796.69,
+     232.74
+    ],
+    [
+     900.84,
+     228.29
+    ],
+    [
+     902.06,
+     256.89
+    ],
+    [
+     797.91,
+     261.34
+    ]
+   ]
+  },
+  {
+   "key": "customer_name",
+   "value": "ORCHARD VALE FOODS",
+   "display_value": "ORCHARD VALE FOODS",
+   "canonical_value": "ORCHARD VALE FOODS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    58.06,
+    356.9,
+    331.61,
+    400.06
+   ],
+   "bbox_pt": [
+    38,
+    165.23,
+    168.779,
+    180.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     58.06,
+     368.53
+    ],
+    [
+     330.26,
+     356.9
+    ],
+    [
+     331.61,
+     388.43
+    ],
+    [
+     59.41,
+     400.06
+    ]
+   ]
+  },
+  {
+   "key": "customer_account",
+   "value": "OVF-05217",
+   "display_value": "OVF-05217",
+   "canonical_value": "OVF-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    801.22,
+    334.29,
+    910.03,
+    367.5
+   ],
+   "bbox_pt": [
+    395,
+    166.25,
+    446.69,
+    179.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     801.22,
+     338.89
+    ],
+    [
+     908.8,
+     334.29
+    ],
+    [
+     910.03,
+     362.9
+    ],
+    [
+     802.45,
+     367.5
+    ]
+   ]
+  },
+  {
+   "key": "purchase_order",
+   "value": "PO-260601-05217",
+   "display_value": "PO-260601-05217",
+   "canonical_value": "PO-260601-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    802.56,
+    362.8,
+    975.01,
+    398.72
+   ],
+   "bbox_pt": [
+    395,
+    181.25,
+    477.27,
+    194.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     802.56,
+     370.11
+    ],
+    [
+     973.79,
+     362.8
+    ],
+    [
+     975.01,
+     391.4
+    ],
+    [
+     803.78,
+     398.72
+    ]
+   ]
+  },
+  {
+   "key": "site",
+   "value": "Service site: Orchard Vale Foods / Dock 4",
+   "display_value": "Service site: Orchard Vale Foods / Dock 4",
+   "canonical_value": "Service site: Orchard Vale Foods / Dock 4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    85.28,
+    500.98,
+    474.03,
+    546.15
+   ],
+   "bbox_pt": [
+    48,
+    237.25,
+    234.18,
+    250.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     85.28,
+     517.55
+    ],
+    [
+     472.8,
+     500.98
+    ],
+    [
+     474.03,
+     529.59
+    ],
+    [
+     86.5,
+     546.15
+    ]
+   ]
+  },
+  {
+   "key": "work_order",
+   "value": "WO-05217",
+   "display_value": "Work completed: 06/08/2026 | Work order WO-05217",
+   "canonical_value": "Work completed: 06/08/2026 | Work order WO-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    86.97,
+    536.04,
+    580.62,
+    585.69
+   ],
+   "bbox_pt": [
+    48,
+    256.25,
+    284.58,
+    269.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     86.97,
+     557.09
+    ],
+    [
+     579.4,
+     536.04
+    ],
+    [
+     580.62,
+     564.65
+    ],
+    [
+     88.19,
+     585.69
+    ]
+   ]
+  },
+  {
+   "key": "services.1.description",
+   "value": "Installation",
+   "display_value": "Installation",
+   "canonical_value": "Installation",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    83.42,
+    714.14,
+    174.06,
+    743.71
+   ],
+   "bbox_pt": [
+    43,
+    333.325,
+    86.02,
+    345.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     83.42,
+     717.97
+    ],
+    [
+     172.96,
+     714.14
+    ],
+    [
+     174.06,
+     739.88
+    ],
+    [
+     84.52,
+     743.71
+    ]
+   ]
+  },
+  {
+   "key": "services.1.hours",
+   "value": "3.0",
+   "display_value": "3.0",
+   "canonical_value": "3.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    678.71,
+    691.41,
+    705.85,
+    718.26
+   ],
+   "bbox_pt": [
+    329,
+    333.325,
+    341.51,
+    345.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     678.71,
+     692.53
+    ],
+    [
+     704.75,
+     691.41
+    ],
+    [
+     705.85,
+     717.15
+    ],
+    [
+     679.81,
+     718.26
+    ]
+   ]
+  },
+  {
+   "key": "services.1.rate",
+   "value": "150.00",
+   "display_value": "150.00",
+   "canonical_value": "150.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    824.41,
+    683.85,
+    882.8,
+    712.04
+   ],
+   "bbox_pt": [
+    399,
+    333.325,
+    426.522,
+    345.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     824.41,
+     686.3
+    ],
+    [
+     881.7,
+     683.85
+    ],
+    [
+     882.8,
+     709.59
+    ],
+    [
+     825.51,
+     712.04
+    ]
+   ]
+  },
+  {
+   "key": "services.1.amount",
+   "value": "450.00",
+   "display_value": "450.00",
+   "canonical_value": "450.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1001.33,
+    676.29,
+    1059.72,
+    704.47
+   ],
+   "bbox_pt": [
+    484,
+    333.325,
+    511.522,
+    345.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1001.33,
+     678.74
+    ],
+    [
+     1058.62,
+     676.29
+    ],
+    [
+     1059.72,
+     702.03
+    ],
+    [
+     1002.43,
+     704.47
+    ]
+   ]
+  },
+  {
+   "key": "services.2.description",
+   "value": "Calibration",
+   "display_value": "Calibration",
+   "canonical_value": "Calibration",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    86.08,
+    776.59,
+    176.71,
+    806.15
+   ],
+   "bbox_pt": [
+    43,
+    363.325,
+    86.011,
+    375.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     86.08,
+     780.41
+    ],
+    [
+     175.61,
+     776.59
+    ],
+    [
+     176.71,
+     802.32
+    ],
+    [
+     87.18,
+     806.15
+    ]
+   ]
+  },
+  {
+   "key": "services.2.hours",
+   "value": "2.0",
+   "display_value": "2.0",
+   "canonical_value": "2.0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    681.38,
+    753.86,
+    708.52,
+    780.71
+   ],
+   "bbox_pt": [
+    329,
+    363.325,
+    341.51,
+    375.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     681.38,
+     754.97
+    ],
+    [
+     707.42,
+     753.86
+    ],
+    [
+     708.52,
+     779.59
+    ],
+    [
+     682.48,
+     780.71
+    ]
+   ]
+  },
+  {
+   "key": "services.2.rate",
+   "value": "100.00",
+   "display_value": "100.00",
+   "canonical_value": "100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    827.08,
+    746.29,
+    885.47,
+    774.48
+   ],
+   "bbox_pt": [
+    399,
+    363.325,
+    426.522,
+    375.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     827.08,
+     748.74
+    ],
+    [
+     884.37,
+     746.29
+    ],
+    [
+     885.47,
+     772.03
+    ],
+    [
+     828.18,
+     774.48
+    ]
+   ]
+  },
+  {
+   "key": "services.2.amount",
+   "value": "200.00",
+   "display_value": "200.00",
+   "canonical_value": "200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1004.0,
+    738.73,
+    1062.38,
+    766.92
+   ],
+   "bbox_pt": [
+    484,
+    363.325,
+    511.522,
+    375.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1004.0,
+     741.18
+    ],
+    [
+     1061.28,
+     738.73
+    ],
+    [
+     1062.38,
+     764.47
+    ],
+    [
+     1005.1,
+     766.92
+    ]
+   ]
+  },
+  {
+   "key": "subtotal",
+   "value": "650.00",
+   "display_value": "$650.00",
+   "canonical_value": "$650.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1100.0,
+    1049.83,
+    1191.74,
+    1088.07
+   ],
+   "bbox_pt": [
+    523.632,
+    515.16,
+    567.0,
+    531.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1100.0,
+     1053.69
+    ],
+    [
+     1190.27,
+     1049.83
+    ],
+    [
+     1191.74,
+     1084.22
+    ],
+    [
+     1101.47,
+     1088.07
+    ]
+   ]
+  },
+  {
+   "key": "tax",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1130.26,
+    1108.1,
+    1194.23,
+    1145.17
+   ],
+   "bbox_pt": [
+    536.976,
+    543.16,
+    567.0,
+    559.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1130.26,
+     1110.78
+    ],
+    [
+     1192.76,
+     1108.1
+    ],
+    [
+     1194.23,
+     1142.5
+    ],
+    [
+     1131.73,
+     1145.17
+    ]
+   ]
+  },
+  {
+   "key": "total_due",
+   "value": "650.00",
+   "display_value": "$650.00",
+   "canonical_value": "$650.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1104.98,
+    1166.39,
+    1196.72,
+    1204.64
+   ],
+   "bbox_pt": [
+    523.632,
+    571.16,
+    567.0,
+    587.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1104.98,
+     1170.25
+    ],
+    [
+     1195.25,
+     1166.39
+    ],
+    [
+     1196.72,
+     1200.78
+    ],
+    [
+     1106.45,
+     1204.64
+    ]
+   ]
+  },
+  {
+   "key": "due_date",
+   "value": "2026-07-09",
+   "display_value": "Due date: 07/09/2026",
+   "canonical_value": "Due date: 07/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    99.87,
+    1337.28,
+    321.42,
+    1378.15
+   ],
+   "bbox_pt": [
+    38,
+    635.175,
+    143.798,
+    650.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     99.87,
+     1346.69
+    ],
+    [
+     320.08,
+     1337.28
+    ],
+    [
+     321.42,
+     1368.74
+    ],
+    [
+     101.21,
+     1378.15
+    ]
+   ]
+  }
+ ]
+}

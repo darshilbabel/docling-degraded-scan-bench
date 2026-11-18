@@ -1,0 +1,649 @@
+{
+ "page_id": "banking__w2__p1",
+ "pack": "banking",
+ "document": "w2",
+ "family": "tax_form",
+ "document_type": "US Form W-2, tax year 2025",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/03_w2/w2_clean.pdf",
+ "condition": "low_light",
+ "degradation_params": {
+  "gamma": 2.146,
+  "noise_sd": 0.0305,
+  "vignette": 0.35,
+  "seed": 3683688127
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "employee_ssn_masked",
+   "value": "XXX-XX-2417",
+   "display_value": "XXX-XX-2417",
+   "canonical_value": "XXX-XX-2417",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    320.83,
+    91.67,
+    495.83,
+    116.67
+   ],
+   "bbox_pt": [
+    154.0,
+    44.0,
+    238.0,
+    56.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employer_ein",
+   "value": "00-0024170",
+   "display_value": "00-0024170",
+   "canonical_value": "00-0024170",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    381.25,
+    141.67,
+    522.92,
+    168.75
+   ],
+   "bbox_pt": [
+    183.0,
+    68.0,
+    251.0,
+    81.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employer",
+   "value": "GRITWORKS TECHNOLOGY LLC",
+   "display_value": "GRITWORKS TECHNOLOGY LLC",
+   "canonical_value": "GRITWORKS TECHNOLOGY LLC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.58,
+    189.58,
+    458.33,
+    214.58
+   ],
+   "bbox_pt": [
+    43.0,
+    91.0,
+    220.0,
+    103.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employer_address",
+   "value": "4125 WESTBROOK CORPORATE CTR, STE 240",
+   "display_value": "4125 WESTBROOK CORPORATE CTR, STE 240",
+   "canonical_value": "4125 WESTBROOK CORPORATE CTR, STE 240",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.58,
+    218.75,
+    600.0,
+    243.75
+   ],
+   "bbox_pt": [
+    43.0,
+    105.0,
+    288.0,
+    117.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employer_city_state_zip",
+   "value": "SAN BERNARDINO, CA 92408",
+   "display_value": "SAN BERNARDINO, CA 92408",
+   "canonical_value": "SAN BERNARDINO, CA 92408",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.58,
+    247.92,
+    441.67,
+    272.92
+   ],
+   "bbox_pt": [
+    43.0,
+    119.0,
+    212.0,
+    131.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "control_number",
+   "value": "GW-02417-2025",
+   "display_value": "GW-02417-2025",
+   "canonical_value": "GW-02417-2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    385.42,
+    337.5,
+    581.25,
+    364.58
+   ],
+   "bbox_pt": [
+    185.0,
+    162.0,
+    279.0,
+    175.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employee_first_name",
+   "value": "JORDAN",
+   "display_value": "JORDAN",
+   "canonical_value": "JORDAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    85.42,
+    397.92,
+    193.75,
+    422.92
+   ],
+   "bbox_pt": [
+    41.0,
+    191.0,
+    93.0,
+    203.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employee_last_name",
+   "value": "ELLIS",
+   "display_value": "ELLIS",
+   "canonical_value": "ELLIS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    368.75,
+    397.92,
+    447.92,
+    422.92
+   ],
+   "bbox_pt": [
+    177.0,
+    191.0,
+    215.0,
+    203.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "address_line1",
+   "value": "742 EVERGREEN, APT 3B",
+   "display_value": "742 EVERGREEN, APT 3B",
+   "canonical_value": "742 EVERGREEN, APT 3B",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.0,
+    458.33,
+    437.5,
+    485.42
+   ],
+   "bbox_pt": [
+    48.0,
+    220.0,
+    210.0,
+    233.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "address_city_state_zip",
+   "value": "LOS ANGELES, CA 90026",
+   "display_value": "LOS ANGELES, CA 90026",
+   "canonical_value": "LOS ANGELES, CA 90026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.0,
+    491.67,
+    445.83,
+    518.75
+   ],
+   "bbox_pt": [
+    48.0,
+    236.0,
+    214.0,
+    249.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "wages_tips_compensation",
+   "value": "110640.00",
+   "display_value": "$110,640.00",
+   "canonical_value": "$110,640.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    814.58,
+    141.67,
+    937.5,
+    168.75
+   ],
+   "bbox_pt": [
+    391.0,
+    68.0,
+    450.0,
+    81.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "federal_income_tax",
+   "value": "14160.00",
+   "display_value": "$14,160.00",
+   "canonical_value": "$14,160.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1077.08,
+    141.67,
+    1191.67,
+    168.75
+   ],
+   "bbox_pt": [
+    517.0,
+    68.0,
+    572.0,
+    81.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "social_security_wages",
+   "value": "115200.00",
+   "display_value": "$115,200.00",
+   "canonical_value": "$115,200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    814.58,
+    193.75,
+    937.5,
+    220.83
+   ],
+   "bbox_pt": [
+    391.0,
+    93.0,
+    450.0,
+    106.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "social_security_tax",
+   "value": "7142.40",
+   "display_value": "$7,142.40",
+   "canonical_value": "$7,142.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1083.33,
+    193.75,
+    1191.67,
+    220.83
+   ],
+   "bbox_pt": [
+    520.0,
+    93.0,
+    572.0,
+    106.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "medicare_wages",
+   "value": "115200.00",
+   "display_value": "$115,200.00",
+   "canonical_value": "$115,200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    814.58,
+    243.75,
+    937.5,
+    270.83
+   ],
+   "bbox_pt": [
+    391.0,
+    117.0,
+    450.0,
+    130.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "medicare_tax",
+   "value": "1670.40",
+   "display_value": "$1,670.40",
+   "canonical_value": "$1,670.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1083.33,
+    243.75,
+    1191.67,
+    270.83
+   ],
+   "bbox_pt": [
+    520.0,
+    117.0,
+    572.0,
+    130.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "retirement_deferral_code",
+   "value": "D",
+   "display_value": "D",
+   "canonical_value": "D",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    985.42,
+    397.92,
+    1006.25,
+    425.0
+   ],
+   "bbox_pt": [
+    473.0,
+    191.0,
+    483.0,
+    204.0
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "retirement_deferral",
+   "value": "4560.00",
+   "display_value": "$4,560.00",
+   "canonical_value": "$4,560.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1027.08,
+    397.92,
+    1147.92,
+    425.0
+   ],
+   "bbox_pt": [
+    493.0,
+    191.0,
+    551.0,
+    204.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employer_health_coverage_code",
+   "value": "DD",
+   "display_value": "DD",
+   "canonical_value": "DD",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    972.92,
+    447.92,
+    1010.42,
+    472.92
+   ],
+   "bbox_pt": [
+    467.0,
+    215.0,
+    485.0,
+    227.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employer_health_coverage",
+   "value": "7800.00",
+   "display_value": "$7,800.00",
+   "canonical_value": "$7,800.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1027.08,
+    447.92,
+    1147.92,
+    472.92
+   ],
+   "bbox_pt": [
+    493.0,
+    215.0,
+    551.0,
+    227.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "retirement_plan",
+   "value": true,
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    802.08,
+    450.0,
+    818.75,
+    466.67
+   ],
+   "bbox_pt": [
+    385.0,
+    216.0,
+    393.0,
+    224.0
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "state_disability_insurance",
+   "value": "1382.40",
+   "display_value": "CA SDI: 1,382.40",
+   "canonical_value": "CA SDI: 1,382.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    720.83,
+    510.42,
+    918.75,
+    537.5
+   ],
+   "bbox_pt": [
+    346.0,
+    245.0,
+    441.0,
+    258.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "state",
+   "value": "CA",
+   "display_value": "CA",
+   "canonical_value": "CA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.58,
+    618.75,
+    125.0,
+    645.83
+   ],
+   "bbox_pt": [
+    43.0,
+    297.0,
+    60.0,
+    310.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employer_state_id",
+   "value": "000-2417-0",
+   "display_value": "000-2417-0",
+   "canonical_value": "000-2417-0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    145.83,
+    618.75,
+    291.67,
+    645.83
+   ],
+   "bbox_pt": [
+    70.0,
+    297.0,
+    140.0,
+    310.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "state_wages",
+   "value": "110640.00",
+   "display_value": "110,640.00",
+   "canonical_value": "110,640.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    475.0,
+    618.75,
+    577.08,
+    645.83
+   ],
+   "bbox_pt": [
+    228.0,
+    297.0,
+    277.0,
+    310.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "state_income_tax",
+   "value": "3180.00",
+   "display_value": "3,180.00",
+   "canonical_value": "3,180.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    654.17,
+    618.75,
+    739.58,
+    645.83
+   ],
+   "bbox_pt": [
+    314.0,
+    297.0,
+    355.0,
+    310.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "tax_year",
+   "value": 2025,
+   "display_value": "2025",
+   "canonical_value": "2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    602.08,
+    702.08,
+    741.67,
+    752.08
+   ],
+   "bbox_pt": [
+    289.0,
+    337.0,
+    356.0,
+    361.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

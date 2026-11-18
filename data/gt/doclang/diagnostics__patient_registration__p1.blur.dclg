@@ -1,0 +1,151 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="73"/>
+    <location value="303"/>
+    <location value="1024"/>
+    <location value="1460"/>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="73"/>
+        <location value="303"/>
+        <location value="274"/>
+        <location value="334"/>
+        TAYLOR BROOKS
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="656"/>
+        <location value="303"/>
+        <location value="771"/>
+        <location value="334"/>
+        08/14/1990
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="979"/>
+        <location value="303"/>
+        <location value="993"/>
+        <location value="334"/>
+        F
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_id</key>
+      <value>
+        <location value="73"/>
+        <location value="396"/>
+        <location value="164"/>
+        <location value="425"/>
+        PT-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>order_id</key>
+      <value>
+        <location value="458"/>
+        <location value="396"/>
+        <location value="569"/>
+        <location value="425"/>
+        ORD-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>accession_id</key>
+      <value>
+        <location value="854"/>
+        <location value="396"/>
+        <location value="1024"/>
+        <location value="425"/>
+        DX-260610-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_line1</key>
+      <value>
+        <location value="398"/>
+        <location value="530"/>
+        <location value="641"/>
+        <location value="561"/>
+        814 Juniper Lane, Apt 5
+      </value>
+    </field_item>
+    <field_item>
+      <key>city_state_zip</key>
+      <value>
+        <location value="398"/>
+        <location value="594"/>
+        <location value="574"/>
+        <location value="626"/>
+        Austin, TX 78731
+      </value>
+    </field_item>
+    <field_item>
+      <key>mobile</key>
+      <value>
+        <location value="398"/>
+        <location value="659"/>
+        <location value="555"/>
+        <location value="690"/>
+        (512) 555-0148
+      </value>
+    </field_item>
+    <field_item>
+      <key>email</key>
+      <value>
+        <location value="398"/>
+        <location value="723"/>
+        <location value="689"/>
+        <location value="755"/>
+        taylor.brooks@example.com
+      </value>
+    </field_item>
+    <field_item>
+      <key>emergency_contact</key>
+      <value>
+        <location value="398"/>
+        <location value="788"/>
+        <location value="684"/>
+        <location value="819"/>
+        JAMIE BROOKS / SPOUSE
+      </value>
+    </field_item>
+    <field_item>
+      <key>emergency_phone</key>
+      <value>
+        <location value="398"/>
+        <location value="852"/>
+        <location value="555"/>
+        <location value="884"/>
+        (512) 555-0149
+      </value>
+    </field_item>
+    <field_item>
+      <key>acknowledgment</key>
+      <value>
+        <location value="73"/>
+        <location value="1382"/>
+        <location value="563"/>
+        <location value="1410"/>
+        Patient acknowledgment: TAYLOR BROOKS / on file
+      </value>
+    </field_item>
+    <field_item>
+      <key>registration_time</key>
+      <value>
+        <location value="73"/>
+        <location value="1432"/>
+        <location value="347"/>
+        <location value="1460"/>
+        Registered: 06/09/2026 15:40
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

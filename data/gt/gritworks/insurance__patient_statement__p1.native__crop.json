@@ -1,0 +1,324 @@
+{
+ "page_id": "insurance__patient_statement__p1",
+ "pack": "insurance",
+ "document": "patient_statement",
+ "family": "insurance_statement",
+ "document_type": "Post-adjudication patient balance statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/05_patient_statement/patient_statement__crop.pdf",
+ "condition": "native:crop",
+ "degradation_params": {
+  "pack_variant": "crop"
+ },
+ "gt_provenance": "pack-supplied forward projection of clean geometry",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "AVERY MORGAN",
+   "display_value": "AVERY MORGAN",
+   "canonical_value": "AVERY MORGAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    67.36,
+    324.83,
+    237.53,
+    353.45
+   ],
+   "bbox_pt": [
+    32.333,
+    155.917,
+    114.013,
+    169.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_address",
+   "value": "4607 WILLOW BEND LN APT 204",
+   "display_value": "4607 WILLOW BEND LN APT 204",
+   "canonical_value": "4607 WILLOW BEND LN APT 204",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    67.36,
+    354.15,
+    354.97,
+    379.91
+   ],
+   "bbox_pt": [
+    32.333,
+    169.992,
+    170.384,
+    182.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_city_state_zip",
+   "value": "AUSTIN, TX 78731",
+   "display_value": "AUSTIN, TX 78731",
+   "canonical_value": "AUSTIN, TX 78731",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    67.36,
+    381.23,
+    227.84,
+    407.0
+   ],
+   "bbox_pt": [
+    32.333,
+    182.992,
+    109.364,
+    195.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "statement_date",
+   "value": "2026-04-24",
+   "display_value": "04/24/2026",
+   "canonical_value": "04/24/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    634.03,
+    189.57,
+    727.85,
+    215.33
+   ],
+   "bbox_pt": [
+    304.333,
+    90.992,
+    349.369,
+    103.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_account",
+   "value": "PT-04217",
+   "display_value": "PT-04217",
+   "canonical_value": "PT-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    838.19,
+    189.57,
+    920.52,
+    215.33
+   ],
+   "bbox_pt": [
+    402.333,
+    90.992,
+    441.852,
+    103.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_due",
+   "value": "44.00",
+   "display_value": "$44.00",
+   "canonical_value": "$44.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1038.19,
+    187.43,
+    1101.9,
+    216.12
+   ],
+   "bbox_pt": [
+    498.333,
+    89.967,
+    528.913,
+    103.737
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "payment_due",
+   "value": "2026-05-15",
+   "display_value": "05/15/2026",
+   "canonical_value": "05/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1029.86,
+    245.82,
+    1123.69,
+    271.58
+   ],
+   "bbox_pt": [
+    494.333,
+    117.992,
+    539.369,
+    130.358
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "claim_id",
+   "value": "CLM-260415-04217",
+   "display_value": "SERVICES ON 04/15/2026 | CLAIM CLM-260415-04217",
+   "canonical_value": "SERVICES ON 04/15/2026 | CLAIM CLM-260415-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    236.11,
+    739.51,
+    764.13,
+    768.2
+   ],
+   "bbox_pt": [
+    113.333,
+    354.967,
+    366.783,
+    368.737
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "billed",
+   "value": "600.00",
+   "display_value": "$600.00",
+   "canonical_value": "$600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1046.24,
+    808.16,
+    1121.53,
+    836.79
+   ],
+   "bbox_pt": [
+    502.193,
+    387.917,
+    538.333,
+    401.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_paid",
+   "value": "-30.00",
+   "display_value": "$-30.00",
+   "canonical_value": "$-30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1050.88,
+    872.74,
+    1121.53,
+    901.37
+   ],
+   "bbox_pt": [
+    504.423,
+    418.917,
+    538.333,
+    432.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "insurance_paid",
+   "value": "-326.00",
+   "display_value": "$-326.00",
+   "canonical_value": "$-326.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1039.3,
+    937.33,
+    1121.53,
+    965.95
+   ],
+   "bbox_pt": [
+    498.863,
+    449.917,
+    538.333,
+    463.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "adjustment",
+   "value": "-200.00",
+   "display_value": "$-200.00",
+   "canonical_value": "$-200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1039.3,
+    1001.91,
+    1121.53,
+    1030.54
+   ],
+   "bbox_pt": [
+    498.863,
+    480.917,
+    538.333,
+    494.657
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "balance_due",
+   "value": "44.00",
+   "display_value": "$44.00",
+   "canonical_value": "$44.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1032.34,
+    1103.51,
+    1121.53,
+    1143.68
+   ],
+   "bbox_pt": [
+    495.521,
+    529.687,
+    538.333,
+    548.965
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

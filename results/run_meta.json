@@ -1,0 +1,231 @@
+{
+ "finished_utc": "2026-11-18 03:59 UTC",
+ "versions": {
+  "docling": "2.150.1",
+  "docling-core": "2.107.1",
+  "docling-ibm-models": "4.0.4",
+  "docling-parse": "7.26.0",
+  "doclang": "0.9.0",
+  "easyocr": "1.7.2",
+  "rapidocr": "3.10.0",
+  "onnxruntime": "1.32.0",
+  "ocrmac": "1.0.1",
+  "torch": "2.15.0",
+  "opencv-python-headless": "5.0.0.93",
+  "pypdfium2": "5.15.2",
+  "rapidfuzz": "3.14.6"
+ },
+ "host": {
+  "system": "Darwin 25.6.0",
+  "machine": "arm64",
+  "processor": "arm",
+  "python": "3.12.16",
+  "device": "cpu"
+ },
+ "settings": {
+  "ocr_scale": 1.0,
+  "force_full_page_ocr": true,
+  "do_table_structure": false,
+  "image_dpi": 150,
+  "langs": {
+   "ocrmac": {
+    "Latin": [
+     "en-US"
+    ],
+    "Devanagari": null,
+    "Bengali": null
+   },
+   "rapidocr": {
+    "Latin": [
+     "en"
+    ],
+    "Devanagari": [
+     "devanagari"
+    ],
+    "Bengali": null
+   },
+   "easyocr": {
+    "Latin": [
+     "en"
+    ],
+    "Devanagari": [
+     "hi",
+     "en"
+    ],
+    "Bengali": [
+     "bn",
+     "en"
+    ]
+   },
+   "tesseract": {
+    "Latin": [
+     "eng"
+    ],
+    "Devanagari": [
+     "hin",
+     "mar",
+     "eng"
+    ],
+    "Bengali": [
+     "ben",
+     "eng"
+    ]
+   }
+  },
+  "easyocr_marathi": [
+   "mr",
+   "en"
+  ],
+  "threads": "ocrmac=2,rapidocr=4,easyocr=4,tesseract=2",
+  "region_pad": "0.5 x field height",
+  "limit_pages": 0
+ },
+ "counts": {
+  "source_documents": 30,
+  "source_pages": 37,
+  "page_images": 260,
+  "native_images": 38,
+  "scored_fields_per_condition": 766,
+  "excluded_fields_per_condition": 45,
+  "pages_run": {
+   "ocrmac": 190,
+   "rapidocr": 232,
+   "easyocr": 133
+  },
+  "conversion_seconds_sum": {
+   "ocrmac": 286.1,
+   "rapidocr": 706.6,
+   "easyocr": 1496.1
+  }
+ },
+ "engines_run": [
+  "ocrmac",
+  "rapidocr",
+  "easyocr"
+ ],
+ "engine_page_caps": {
+  "easyocr": "19"
+ },
+ "engine_source_pages": {
+  "ocrmac": 27,
+  "rapidocr": 33,
+  "easyocr": 19
+ },
+ "engine_page_subsets": {
+  "ocrmac": [
+   "banking__checking_statement__p1",
+   "banking__checking_statement__p2",
+   "banking__mortgage_statement__p1",
+   "banking__paystub__p1",
+   "banking__utility_bill__p1",
+   "banking__w2__p1",
+   "diagnostics__lab_report__p1",
+   "diagnostics__lab_requisition__p1",
+   "diagnostics__patient_registration__p1",
+   "diagnostics__physician_authorization__p1",
+   "diagnostics__specimen_query__p1",
+   "insurance__cms1500_claim__p1",
+   "insurance__explanation_of_benefits__p1",
+   "insurance__explanation_of_benefits__p2",
+   "insurance__itemized_invoice__p1",
+   "insurance__patient_statement__p1",
+   "insurance__premium_statement__p1",
+   "ocr__account_statement__p1",
+   "ocr__credit_memo__p1",
+   "ocr__goods_invoice__p1",
+   "ocr__purchase_order__p1",
+   "ocr__services_invoice__p1",
+   "us_kyc__driving_license__p1",
+   "us_kyc__passport__p1",
+   "us_kyc__passport_card__p1",
+   "us_kyc__proof_of_address__p1",
+   "us_kyc__social_security_card__p1"
+  ],
+  "rapidocr": [
+   "banking__checking_statement__p1",
+   "banking__checking_statement__p2",
+   "banking__mortgage_statement__p1",
+   "banking__paystub__p1",
+   "banking__utility_bill__p1",
+   "banking__w2__p1",
+   "diagnostics__lab_report__p1",
+   "diagnostics__lab_requisition__p1",
+   "diagnostics__patient_registration__p1",
+   "diagnostics__physician_authorization__p1",
+   "diagnostics__specimen_query__p1",
+   "indian_languages__hindi_01__p1",
+   "indian_languages__hindi_01__p2",
+   "indian_languages__hindi_02__p1",
+   "indian_languages__hindi_02__p2",
+   "indian_languages__marathi_01__p1",
+   "indian_languages__marathi_01__p2",
+   "insurance__cms1500_claim__p1",
+   "insurance__explanation_of_benefits__p1",
+   "insurance__explanation_of_benefits__p2",
+   "insurance__itemized_invoice__p1",
+   "insurance__patient_statement__p1",
+   "insurance__premium_statement__p1",
+   "ocr__account_statement__p1",
+   "ocr__credit_memo__p1",
+   "ocr__goods_invoice__p1",
+   "ocr__purchase_order__p1",
+   "ocr__services_invoice__p1",
+   "us_kyc__driving_license__p1",
+   "us_kyc__passport__p1",
+   "us_kyc__passport_card__p1",
+   "us_kyc__proof_of_address__p1",
+   "us_kyc__social_security_card__p1"
+  ],
+  "easyocr": [
+   "banking__checking_statement__p1",
+   "banking__checking_statement__p2",
+   "banking__mortgage_statement__p1",
+   "banking__paystub__p1",
+   "banking__w2__p1",
+   "diagnostics__patient_registration__p1",
+   "diagnostics__physician_authorization__p1",
+   "indian_languages__bengali_01__p1",
+   "indian_languages__bengali_01__p2",
+   "indian_languages__hindi_01__p2",
+   "indian_languages__hindi_02__p1",
+   "indian_languages__marathi_01__p1",
+   "insurance__cms1500_claim__p1",
+   "insurance__premium_statement__p1",
+   "ocr__credit_memo__p1",
+   "ocr__purchase_order__p1",
+   "us_kyc__passport_card__p1",
+   "us_kyc__proof_of_address__p1",
+   "us_kyc__social_security_card__p1"
+  ]
+ },
+ "skipped_engines": {
+  "paddleocr": "Not run on this Mac by policy (too heavy locally); not a built-in Docling OCR engine.",
+  "nemotron_ocr": "NVIDIA Nemotron-OCR targets CUDA GPUs; not runnable on a Mac CPU.",
+  "kserve_v2": "Remote inference service, not a local engine.",
+  "auto": "OcrAutoOptions only picks one of the engines above; it would duplicate a row.",
+  "vlm_presets (minicpm_ocr, granite_docling, glm_ocr, lightonocr, dots_ocr, ...)": "VLM conversion presets, not OCR-engine presets; 0.3B-27B parameter models that need a GPU (or many minutes per page on CPU). MiniCPM-OCR (added in v2.149.0) is proposed for a GPU run, see REVIEW_NOTES.md.",
+  "tesseract": "Tesseract binary not installed on this machine (brew install tesseract tesseract-lang to enable).",
+  "ocrmac on Bengali, Devanagari pages": "No recognition model for this script in this engine/setup; those pages are not scored for it.",
+  "rapidocr on Bengali pages": "No recognition model for this script in this engine/setup; those pages are not scored for it."
+ },
+ "timings": {
+  "ocrmac": {
+   "wall_seconds": 280.3,
+   "returncode": 0,
+   "run": "main run, 3 engines in parallel"
+  },
+  "rapidocr": {
+   "wall_seconds": 714.6,
+   "returncode": 0,
+   "run": "main run, 3 engines in parallel"
+  },
+  "easyocr": {
+   "wall_seconds": 1243.6,
+   "returncode": 0,
+   "run": "second run on the 19-page stratified subset (first run stopped after ~6 min to apply the cap; the pages it finished were all inside the subset and were reused)"
+  }
+ },
+ "total_wall_seconds": null,
+ "total_wall_note": "About 33 minutes end to end (21:50 to 22:23 IST, 2026-11-17), including the EasyOCR restart; re-scoring (--aggregate-only) takes under a minute.",
+ "ground_truth_version": "v0.1.1 (printed-form rule; 42 of 811 fields per condition corrected; re-scored 2026-11-18 without new OCR runs)"
+}

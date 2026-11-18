@@ -1,0 +1,723 @@
+{
+ "page_id": "insurance__premium_statement__p1",
+ "pack": "insurance",
+ "document": "premium_statement",
+ "family": "insurance_statement",
+ "document_type": "Health insurance premium statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1789
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/01_premium_statement/premium_statement_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": -3.638,
+  "seed": 1214069706
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "policy_number",
+   "value": "POL-04217",
+   "display_value": "POL-04217",
+   "canonical_value": "POL-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    282.95,
+    206.8,
+    396.87,
+    239.91
+   ],
+   "bbox_pt": [
+    116,
+    110.68,
+    170.0,
+    123.17
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     284.6,
+     206.8
+    ],
+    [
+     396.87,
+     213.94
+    ],
+    [
+     395.22,
+     239.91
+    ],
+    [
+     282.95,
+     232.77
+    ]
+   ]
+  },
+  {
+   "key": "invoice_number",
+   "value": "INV-260315-04217",
+   "display_value": "INV-260315-04217",
+   "canonical_value": "INV-260315-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    281.14,
+    237.85,
+    462.26,
+    272.64
+   ],
+   "bbox_pt": [
+    116,
+    125.612,
+    202.4,
+    136.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     282.63,
+     237.85
+    ],
+    [
+     462.26,
+     249.27
+    ],
+    [
+     460.78,
+     272.64
+    ],
+    [
+     281.14,
+     261.22
+    ]
+   ]
+  },
+  {
+   "key": "statement_date",
+   "value": "2026-03-15",
+   "display_value": "03/15/2026",
+   "canonical_value": "03/15/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1073.01,
+    257.04,
+    1199.41,
+    290.94
+   ],
+   "bbox_pt": [
+    496,
+    110.68,
+    556.0,
+    123.17
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1074.66,
+     257.04
+    ],
+    [
+     1199.41,
+     264.97
+    ],
+    [
+     1197.76,
+     290.94
+    ],
+    [
+     1073.01,
+     283.0
+    ]
+   ]
+  },
+  {
+   "key": "payment_due_date",
+   "value": "2026-04-01",
+   "display_value": "04/01/2026",
+   "canonical_value": "04/01/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1071.16,
+    286.15,
+    1197.56,
+    320.05
+   ],
+   "bbox_pt": [
+    496,
+    124.68,
+    556.0,
+    137.17
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1072.81,
+     286.15
+    ],
+    [
+     1197.56,
+     294.08
+    ],
+    [
+     1195.91,
+     320.05
+    ],
+    [
+     1071.16,
+     312.12
+    ]
+   ]
+  },
+  {
+   "key": "plan_member_group",
+   "value": "Cedar Choice PPO | CHP0842719 | GRP-04217",
+   "display_value": "Cedar Choice PPO | CHP0842719 | GRP-04217",
+   "canonical_value": "Cedar Choice PPO | CHP0842719 | GRP-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    360.96,
+    324.06,
+    761.46,
+    377.15
+   ],
+   "bbox_pt": [
+    157,
+    164.47,
+    348.78,
+    177.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     362.73,
+     324.06
+    ],
+    [
+     761.46,
+     349.42
+    ],
+    [
+     759.7,
+     377.15
+    ],
+    [
+     360.96,
+     351.8
+    ]
+   ]
+  },
+  {
+   "key": "previous_balance",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1018.02,
+    447.26,
+    1087.35,
+    479.29
+   ],
+   "bbox_pt": [
+    475.5,
+    203.47,
+    508.0,
+    216.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1019.78,
+     447.26
+    ],
+    [
+     1087.35,
+     451.55
+    ],
+    [
+     1085.58,
+     479.29
+    ],
+    [
+     1018.02,
+     474.99
+    ]
+   ]
+  },
+  {
+   "key": "prior_payment_date",
+   "value": "2026-03-05",
+   "display_value": "03/05/2026",
+   "canonical_value": "03/05/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    79.11,
+    423.04,
+    175.61,
+    456.79
+   ],
+   "bbox_pt": [
+    25,
+    220.47,
+    70.56,
+    233.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     80.88,
+     423.04
+    ],
+    [
+     175.61,
+     429.06
+    ],
+    [
+     173.84,
+     456.79
+    ],
+    [
+     79.11,
+     450.77
+    ]
+   ]
+  },
+  {
+   "key": "prior_payment",
+   "value": "460.00",
+   "display_value": "$460.00 CREDIT",
+   "canonical_value": "$460.00 CREDIT",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1056.08,
+    485.16,
+    1205.69,
+    522.29
+   ],
+   "bbox_pt": [
+    494.89,
+    220.47,
+    566.0,
+    233.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1057.84,
+     485.16
+    ],
+    [
+     1205.69,
+     494.56
+    ],
+    [
+     1203.93,
+     522.29
+    ],
+    [
+     1056.08,
+     512.89
+    ]
+   ]
+  },
+  {
+   "key": "past_due",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1034.58,
+    515.11,
+    1083.12,
+    545.81
+   ],
+   "bbox_pt": [
+    485.5,
+    235.47,
+    508.0,
+    248.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1036.34,
+     515.11
+    ],
+    [
+     1083.12,
+     518.08
+    ],
+    [
+     1081.35,
+     545.81
+    ],
+    [
+     1034.58,
+     542.84
+    ]
+   ]
+  },
+  {
+   "key": "monthly_premium",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1010.62,
+    563.68,
+    1079.94,
+    595.71
+   ],
+   "bbox_pt": [
+    475.5,
+    259.47,
+    508.0,
+    272.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1012.38,
+     563.68
+    ],
+    [
+     1079.94,
+     567.98
+    ],
+    [
+     1078.18,
+     595.71
+    ],
+    [
+     1010.62,
+     591.42
+    ]
+   ]
+  },
+  {
+   "key": "adjustments",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1029.55,
+    594.12,
+    1078.09,
+    624.82
+   ],
+   "bbox_pt": [
+    485.5,
+    273.47,
+    508.0,
+    286.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1031.32,
+     594.12
+    ],
+    [
+     1078.09,
+     597.09
+    ],
+    [
+     1076.33,
+     624.82
+    ],
+    [
+     1029.55,
+     621.85
+    ]
+   ]
+  },
+  {
+   "key": "policy_changes",
+   "value": "0.00",
+   "display_value": "$0.00",
+   "canonical_value": "$0.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1027.7,
+    623.23,
+    1076.24,
+    653.94
+   ],
+   "bbox_pt": [
+    485.5,
+    287.47,
+    508.0,
+    300.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1029.46,
+     623.23
+    ],
+    [
+     1076.24,
+     626.2
+    ],
+    [
+     1074.48,
+     653.94
+    ],
+    [
+     1027.7,
+     650.96
+    ]
+   ]
+  },
+  {
+   "key": "current_balance",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1004.93,
+    653.09,
+    1074.26,
+    685.12
+   ],
+   "bbox_pt": [
+    475.5,
+    302.47,
+    508.0,
+    315.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1006.69,
+     653.09
+    ],
+    [
+     1074.26,
+     657.39
+    ],
+    [
+     1072.49,
+     685.12
+    ],
+    [
+     1004.93,
+     680.83
+    ]
+   ]
+  },
+  {
+   "key": "amount_due",
+   "value": "460.00",
+   "display_value": "$460.00",
+   "canonical_value": "$460.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    977.98,
+    713.38,
+    1070.33,
+    753.47
+   ],
+   "bbox_pt": [
+    464.632,
+    332.16,
+    508.0,
+    348.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     980.16,
+     713.38
+    ],
+    [
+     1070.33,
+     719.11
+    ],
+    [
+     1068.15,
+     753.47
+    ],
+    [
+     977.98,
+     747.74
+    ]
+   ]
+  },
+  {
+   "key": "member_name",
+   "value": "AVERY MORGAN",
+   "display_value": "AVERY MORGAN",
+   "canonical_value": "AVERY MORGAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    12.22,
+    1475.08,
+    183.18,
+    1513.58
+   ],
+   "bbox_pt": [
+    25,
+    726.47,
+    106.38,
+    739.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     13.98,
+     1475.08
+    ],
+    [
+     183.18,
+     1485.84
+    ],
+    [
+     181.41,
+     1513.58
+    ],
+    [
+     12.22,
+     1502.82
+    ]
+   ]
+  },
+  {
+   "key": "member_address",
+   "value": "4607 WILLOW BEND LN APT 204",
+   "display_value": "4607 WILLOW BEND LN APT 204",
+   "canonical_value": "4607 WILLOW BEND LN APT 204",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    10.27,
+    1508.45,
+    289.91,
+    1551.1
+   ],
+   "bbox_pt": [
+    25,
+    742.523,
+    158.731,
+    754.529
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     11.86,
+     1508.45
+    ],
+    [
+     289.91,
+     1526.14
+    ],
+    [
+     288.32,
+     1551.1
+    ],
+    [
+     10.27,
+     1533.42
+    ]
+   ]
+  },
+  {
+   "key": "member_city_state_zip",
+   "value": "AUSTIN, TX 78731",
+   "display_value": "AUSTIN, TX 78731",
+   "canonical_value": "AUSTIN, TX 78731",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    8.25,
+    1537.46,
+    181.53,
+    1576.1
+   ],
+   "bbox_pt": [
+    25,
+    756.47,
+    107.49,
+    769.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     10.01,
+     1537.46
+    ],
+    [
+     181.53,
+     1548.36
+    ],
+    [
+     179.76,
+     1576.1
+    ],
+    [
+     8.25,
+     1565.19
+    ]
+   ]
+  }
+ ]
+}

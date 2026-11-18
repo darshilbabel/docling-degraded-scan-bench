@@ -1,0 +1,1091 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="65"/>
+    <location value="67"/>
+    <location value="1155"/>
+    <location value="1110"/>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="130"/>
+        <location value="67"/>
+        <location value="352"/>
+        <location value="118"/>
+        TAYLOR BROOKS
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="556"/>
+        <location value="104"/>
+        <location value="719"/>
+        <location value="146"/>
+        DOB: 08/14/1990
+      </value>
+    </field_item>
+    <field_item>
+      <key>age_sex</key>
+      <value>
+        <location value="986"/>
+        <location value="138"/>
+        <location value="1137"/>
+        <location value="179"/>
+        Age: 35 / Sex: F
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_id</key>
+      <value>
+        <location value="127"/>
+        <location value="110"/>
+        <location value="324"/>
+        <location value="154"/>
+        Patient ID: PT-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>accession_id</key>
+      <value>
+        <location value="553"/>
+        <location value="144"/>
+        <location value="831"/>
+        <location value="194"/>
+        Accession: DX-260610-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>ordering_physician</key>
+      <value>
+        <location value="124"/>
+        <location value="150"/>
+        <location value="506"/>
+        <location value="208"/>
+        Ordering physician: DR. MAYA COLLINS
+      </value>
+    </field_item>
+    <field_item>
+      <key>collected_at</key>
+      <value>
+        <location value="121"/>
+        <location value="196"/>
+        <location value="357"/>
+        <location value="240"/>
+        Collected: 06/10/2026 08:15
+      </value>
+    </field_item>
+    <field_item>
+      <key>received_at</key>
+      <value>
+        <location value="515"/>
+        <location value="227"/>
+        <location value="751"/>
+        <location value="271"/>
+        Received: 06/10/2026 09:20
+      </value>
+    </field_item>
+    <field_item>
+      <key>reported_at</key>
+      <value>
+        <location value="920"/>
+        <location value="259"/>
+        <location value="1155"/>
+        <location value="303"/>
+        Reported: 06/10/2026 13:40
+      </value>
+    </field_item>
+    <field_item>
+      <key>panel_name</key>
+      <value>
+        <location value="115"/>
+        <location value="256"/>
+        <location value="578"/>
+        <location value="326"/>
+        CD4/CD8 Profile with CBC / Differential
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.1.test</key>
+      <value>
+        <location value="116"/>
+        <location value="369"/>
+        <location value="271"/>
+        <location value="404"/>
+        Absolute CD4 helper
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.1.value</key>
+      <value>
+        <location value="641"/>
+        <location value="410"/>
+        <location value="671"/>
+        <location value="435"/>
+        987
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.1.unit</key>
+      <value>
+        <location value="851"/>
+        <location value="428"/>
+        <location value="874"/>
+        <location value="451"/>
+        /uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.1.reference</key>
+      <value>
+        <location value="998"/>
+        <location value="440"/>
+        <location value="1066"/>
+        <location value="466"/>
+        359-1519
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.2.test</key>
+      <value>
+        <location value="114"/>
+        <location value="397"/>
+        <location value="326"/>
+        <location value="436"/>
+        % CD4 positive lymphocytes
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.2.value</key>
+      <value>
+        <location value="639"/>
+        <location value="438"/>
+        <location value="673"/>
+        <location value="464"/>
+        42.9
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.2.unit</key>
+      <value>
+        <location value="849"/>
+        <location value="456"/>
+        <location value="864"/>
+        <location value="479"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.2.reference</key>
+      <value>
+        <location value="996"/>
+        <location value="468"/>
+        <location value="1064"/>
+        <location value="494"/>
+        30.8-58.5
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.3.test</key>
+      <value>
+        <location value="111"/>
+        <location value="425"/>
+        <location value="302"/>
+        <location value="463"/>
+        Absolute CD8 suppressor
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.3.value</key>
+      <value>
+        <location value="637"/>
+        <location value="466"/>
+        <location value="676"/>
+        <location value="492"/>
+        1024
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.3.flag</key>
+      <value>
+        <location value="755"/>
+        <location value="476"/>
+        <location value="769"/>
+        <location value="500"/>
+        H
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.3.unit</key>
+      <value>
+        <location value="847"/>
+        <location value="484"/>
+        <location value="870"/>
+        <location value="507"/>
+        /uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.3.reference</key>
+      <value>
+        <location value="994"/>
+        <location value="496"/>
+        <location value="1053"/>
+        <location value="522"/>
+        109-897
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.4.test</key>
+      <value>
+        <location value="109"/>
+        <location value="453"/>
+        <location value="321"/>
+        <location value="492"/>
+        % CD8 positive lymphocytes
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.4.value</key>
+      <value>
+        <location value="635"/>
+        <location value="495"/>
+        <location value="669"/>
+        <location value="520"/>
+        44.5
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.4.flag</key>
+      <value>
+        <location value="753"/>
+        <location value="504"/>
+        <location value="767"/>
+        <location value="528"/>
+        H
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.4.unit</key>
+      <value>
+        <location value="844"/>
+        <location value="512"/>
+        <location value="860"/>
+        <location value="535"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.4.reference</key>
+      <value>
+        <location value="992"/>
+        <location value="524"/>
+        <location value="1059"/>
+        <location value="550"/>
+        12.0-35.5
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.5.test</key>
+      <value>
+        <location value="107"/>
+        <location value="481"/>
+        <location value="217"/>
+        <location value="512"/>
+        CD4/CD8 ratio
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.5.value</key>
+      <value>
+        <location value="632"/>
+        <location value="522"/>
+        <location value="666"/>
+        <location value="548"/>
+        0.96
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.5.unit</key>
+      <value>
+        <location value="842"/>
+        <location value="540"/>
+        <location value="874"/>
+        <location value="564"/>
+        ratio
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.5.reference</key>
+      <value>
+        <location value="990"/>
+        <location value="552"/>
+        <location value="1057"/>
+        <location value="578"/>
+        0.92-3.72
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.6.test</key>
+      <value>
+        <location value="105"/>
+        <location value="509"/>
+        <location value="145"/>
+        <location value="535"/>
+        WBC
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.6.value</key>
+      <value>
+        <location value="630"/>
+        <location value="551"/>
+        <location value="655"/>
+        <location value="575"/>
+        5.4
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.6.unit</key>
+      <value>
+        <location value="840"/>
+        <location value="568"/>
+        <location value="904"/>
+        <location value="595"/>
+        x10^3/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.6.reference</key>
+      <value>
+        <location value="987"/>
+        <location value="580"/>
+        <location value="1046"/>
+        <location value="606"/>
+        3.4-10.8
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.7.test</key>
+      <value>
+        <location value="102"/>
+        <location value="537"/>
+        <location value="139"/>
+        <location value="563"/>
+        RBC
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.7.value</key>
+      <value>
+        <location value="628"/>
+        <location value="579"/>
+        <location value="662"/>
+        <location value="604"/>
+        4.96
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.7.unit</key>
+      <value>
+        <location value="838"/>
+        <location value="596"/>
+        <location value="902"/>
+        <location value="623"/>
+        x10^6/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.7.reference</key>
+      <value>
+        <location value="985"/>
+        <location value="608"/>
+        <location value="1053"/>
+        <location value="634"/>
+        3.77-5.28
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.8.test</key>
+      <value>
+        <location value="100"/>
+        <location value="565"/>
+        <location value="191"/>
+        <location value="595"/>
+        Hemoglobin
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.8.value</key>
+      <value>
+        <location value="626"/>
+        <location value="607"/>
+        <location value="660"/>
+        <location value="632"/>
+        14.9
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.8.unit</key>
+      <value>
+        <location value="835"/>
+        <location value="624"/>
+        <location value="867"/>
+        <location value="648"/>
+        g/dL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.8.reference</key>
+      <value>
+        <location value="983"/>
+        <location value="636"/>
+        <location value="1050"/>
+        <location value="662"/>
+        11.1-15.9
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.9.test</key>
+      <value>
+        <location value="98"/>
+        <location value="593"/>
+        <location value="180"/>
+        <location value="622"/>
+        Hematocrit
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.9.value</key>
+      <value>
+        <location value="623"/>
+        <location value="635"/>
+        <location value="658"/>
+        <location value="660"/>
+        45.8
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.9.unit</key>
+      <value>
+        <location value="833"/>
+        <location value="652"/>
+        <location value="849"/>
+        <location value="675"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.9.reference</key>
+      <value>
+        <location value="981"/>
+        <location value="664"/>
+        <location value="1048"/>
+        <location value="691"/>
+        34.0-46.6
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.10.test</key>
+      <value>
+        <location value="96"/>
+        <location value="621"/>
+        <location value="135"/>
+        <location value="647"/>
+        MCV
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.10.value</key>
+      <value>
+        <location value="621"/>
+        <location value="663"/>
+        <location value="642"/>
+        <location value="687"/>
+        92
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.10.unit</key>
+      <value>
+        <location value="831"/>
+        <location value="680"/>
+        <location value="846"/>
+        <location value="703"/>
+        fL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.10.reference</key>
+      <value>
+        <location value="979"/>
+        <location value="692"/>
+        <location value="1020"/>
+        <location value="717"/>
+        79-97
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.11.test</key>
+      <value>
+        <location value="94"/>
+        <location value="649"/>
+        <location value="133"/>
+        <location value="675"/>
+        MCH
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.11.value</key>
+      <value>
+        <location value="619"/>
+        <location value="691"/>
+        <location value="653"/>
+        <location value="716"/>
+        30.0
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.11.unit</key>
+      <value>
+        <location value="829"/>
+        <location value="708"/>
+        <location value="848"/>
+        <location value="731"/>
+        pg
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.11.reference</key>
+      <value>
+        <location value="976"/>
+        <location value="720"/>
+        <location value="1044"/>
+        <location value="747"/>
+        26.6-33.0
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.12.test</key>
+      <value>
+        <location value="91"/>
+        <location value="677"/>
+        <location value="143"/>
+        <location value="704"/>
+        MCHC
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.12.value</key>
+      <value>
+        <location value="617"/>
+        <location value="719"/>
+        <location value="651"/>
+        <location value="744"/>
+        32.5
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.12.unit</key>
+      <value>
+        <location value="827"/>
+        <location value="736"/>
+        <location value="859"/>
+        <location value="760"/>
+        g/dL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.12.reference</key>
+      <value>
+        <location value="974"/>
+        <location value="748"/>
+        <location value="1042"/>
+        <location value="775"/>
+        31.5-35.7
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.13.test</key>
+      <value>
+        <location value="89"/>
+        <location value="705"/>
+        <location value="131"/>
+        <location value="731"/>
+        RDW
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.13.value</key>
+      <value>
+        <location value="615"/>
+        <location value="747"/>
+        <location value="649"/>
+        <location value="772"/>
+        12.7
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.13.unit</key>
+      <value>
+        <location value="824"/>
+        <location value="764"/>
+        <location value="840"/>
+        <location value="787"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.13.reference</key>
+      <value>
+        <location value="972"/>
+        <location value="776"/>
+        <location value="1039"/>
+        <location value="803"/>
+        11.7-15.4
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.14.test</key>
+      <value>
+        <location value="87"/>
+        <location value="733"/>
+        <location value="152"/>
+        <location value="761"/>
+        Platelets
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.14.value</key>
+      <value>
+        <location value="612"/>
+        <location value="775"/>
+        <location value="642"/>
+        <location value="800"/>
+        232
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.14.unit</key>
+      <value>
+        <location value="822"/>
+        <location value="792"/>
+        <location value="887"/>
+        <location value="819"/>
+        x10^3/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.14.reference</key>
+      <value>
+        <location value="970"/>
+        <location value="804"/>
+        <location value="1028"/>
+        <location value="830"/>
+        150-450
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.15.test</key>
+      <value>
+        <location value="85"/>
+        <location value="761"/>
+        <location value="171"/>
+        <location value="791"/>
+        Neutrophils
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.15.value</key>
+      <value>
+        <location value="610"/>
+        <location value="803"/>
+        <location value="630"/>
+        <location value="827"/>
+        47
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.15.unit</key>
+      <value>
+        <location value="820"/>
+        <location value="821"/>
+        <location value="836"/>
+        <location value="843"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.15.reference</key>
+      <value>
+        <location value="967"/>
+        <location value="832"/>
+        <location value="1076"/>
+        <location value="862"/>
+        Not established
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.16.test</key>
+      <value>
+        <location value="83"/>
+        <location value="789"/>
+        <location value="182"/>
+        <location value="820"/>
+        Lymphocytes
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.16.value</key>
+      <value>
+        <location value="608"/>
+        <location value="831"/>
+        <location value="628"/>
+        <location value="855"/>
+        42
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.16.unit</key>
+      <value>
+        <location value="818"/>
+        <location value="849"/>
+        <location value="833"/>
+        <location value="871"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.16.reference</key>
+      <value>
+        <location value="965"/>
+        <location value="860"/>
+        <location value="1074"/>
+        <location value="890"/>
+        Not established
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.17.test</key>
+      <value>
+        <location value="80"/>
+        <location value="817"/>
+        <location value="162"/>
+        <location value="847"/>
+        Monocytes
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.17.value</key>
+      <value>
+        <location value="606"/>
+        <location value="859"/>
+        <location value="617"/>
+        <location value="882"/>
+        7
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.17.unit</key>
+      <value>
+        <location value="816"/>
+        <location value="877"/>
+        <location value="831"/>
+        <location value="899"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.17.reference</key>
+      <value>
+        <location value="963"/>
+        <location value="888"/>
+        <location value="1072"/>
+        <location value="918"/>
+        Not established
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.18.test</key>
+      <value>
+        <location value="78"/>
+        <location value="846"/>
+        <location value="165"/>
+        <location value="875"/>
+        Eosinophils
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.18.value</key>
+      <value>
+        <location value="604"/>
+        <location value="887"/>
+        <location value="615"/>
+        <location value="911"/>
+        3
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.18.unit</key>
+      <value>
+        <location value="813"/>
+        <location value="905"/>
+        <location value="829"/>
+        <location value="927"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.18.reference</key>
+      <value>
+        <location value="961"/>
+        <location value="916"/>
+        <location value="1070"/>
+        <location value="946"/>
+        Not established
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.19.test</key>
+      <value>
+        <location value="76"/>
+        <location value="874"/>
+        <location value="150"/>
+        <location value="902"/>
+        Basophils
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.19.value</key>
+      <value>
+        <location value="601"/>
+        <location value="915"/>
+        <location value="612"/>
+        <location value="939"/>
+        1
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.19.unit</key>
+      <value>
+        <location value="811"/>
+        <location value="933"/>
+        <location value="827"/>
+        <location value="955"/>
+        %
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.19.reference</key>
+      <value>
+        <location value="959"/>
+        <location value="944"/>
+        <location value="1068"/>
+        <location value="974"/>
+        Not established
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.20.test</key>
+      <value>
+        <location value="74"/>
+        <location value="902"/>
+        <location value="238"/>
+        <location value="937"/>
+        Neutrophils (absolute)
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.20.value</key>
+      <value>
+        <location value="599"/>
+        <location value="943"/>
+        <location value="624"/>
+        <location value="968"/>
+        2.5
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.20.unit</key>
+      <value>
+        <location value="809"/>
+        <location value="961"/>
+        <location value="873"/>
+        <location value="987"/>
+        x10^3/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.20.reference</key>
+      <value>
+        <location value="956"/>
+        <location value="972"/>
+        <location value="1007"/>
+        <location value="998"/>
+        1.4-7.0
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.21.test</key>
+      <value>
+        <location value="71"/>
+        <location value="930"/>
+        <location value="250"/>
+        <location value="966"/>
+        Lymphocytes (absolute)
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.21.value</key>
+      <value>
+        <location value="597"/>
+        <location value="971"/>
+        <location value="622"/>
+        <location value="996"/>
+        2.3
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.21.unit</key>
+      <value>
+        <location value="807"/>
+        <location value="989"/>
+        <location value="871"/>
+        <location value="1015"/>
+        x10^3/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.21.reference</key>
+      <value>
+        <location value="954"/>
+        <location value="1000"/>
+        <location value="1004"/>
+        <location value="1026"/>
+        0.7-3.1
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.22.test</key>
+      <value>
+        <location value="69"/>
+        <location value="958"/>
+        <location value="230"/>
+        <location value="993"/>
+        Monocytes (absolute)
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.22.value</key>
+      <value>
+        <location value="595"/>
+        <location value="999"/>
+        <location value="620"/>
+        <location value="1024"/>
+        0.4
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.22.unit</key>
+      <value>
+        <location value="804"/>
+        <location value="1017"/>
+        <location value="869"/>
+        <location value="1043"/>
+        x10^3/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.22.reference</key>
+      <value>
+        <location value="952"/>
+        <location value="1028"/>
+        <location value="1002"/>
+        <location value="1054"/>
+        0.1-0.9
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.23.test</key>
+      <value>
+        <location value="67"/>
+        <location value="986"/>
+        <location value="232"/>
+        <location value="1021"/>
+        Eosinophils (absolute)
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.23.value</key>
+      <value>
+        <location value="592"/>
+        <location value="1027"/>
+        <location value="617"/>
+        <location value="1052"/>
+        0.2
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.23.unit</key>
+      <value>
+        <location value="802"/>
+        <location value="1045"/>
+        <location value="867"/>
+        <location value="1071"/>
+        x10^3/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.23.reference</key>
+      <value>
+        <location value="950"/>
+        <location value="1056"/>
+        <location value="1000"/>
+        <location value="1082"/>
+        0.0-0.4
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.24.test</key>
+      <value>
+        <location value="65"/>
+        <location value="1014"/>
+        <location value="217"/>
+        <location value="1048"/>
+        Basophils (absolute)
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.24.value</key>
+      <value>
+        <location value="590"/>
+        <location value="1055"/>
+        <location value="615"/>
+        <location value="1080"/>
+        0.1
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.24.unit</key>
+      <value>
+        <location value="800"/>
+        <location value="1073"/>
+        <location value="864"/>
+        <location value="1099"/>
+        x10^3/uL
+      </value>
+    </field_item>
+    <field_item>
+      <key>results.24.reference</key>
+      <value>
+        <location value="948"/>
+        <location value="1084"/>
+        <location value="998"/>
+        <location value="1110"/>
+        0.0-0.2
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

@@ -1,0 +1,396 @@
+{
+ "page_id": "diagnostics__lab_requisition__p1",
+ "pack": "diagnostics",
+ "document": "lab_requisition",
+ "family": "lab_requisition",
+ "document_type": "Laboratory requisition",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Diagnostics_10_PDFs_JSON_BBoxes/GritWorks-Diagnostics-10-PDF-Sample/02_lab_requisition/lab_requisition_clean.pdf",
+ "condition": "low_light",
+ "degradation_params": {
+  "gamma": 1.952,
+  "noise_sd": 0.0269,
+  "vignette": 0.35,
+  "seed": 3320418534
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "patient_name",
+   "value": "TAYLOR BROOKS",
+   "display_value": "TAYLOR BROOKS",
+   "canonical_value": "TAYLOR BROOKS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    302.56,
+    274.08,
+    334.12
+   ],
+   "bbox_pt": [
+    35,
+    145.23,
+    131.558,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1990-08-14",
+   "display_value": "08/14/1990",
+   "canonical_value": "08/14/1990",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    656.25,
+    302.56,
+    770.93,
+    334.12
+   ],
+   "bbox_pt": [
+    315,
+    145.23,
+    370.044,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    979.17,
+    302.56,
+    993.17,
+    334.12
+   ],
+   "bbox_pt": [
+    470,
+    145.23,
+    476.721,
+    160.377
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "patient_id",
+   "value": "PT-08217",
+   "display_value": "PT-08217",
+   "canonical_value": "PT-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    396.35,
+    164.4,
+    424.98
+   ],
+   "bbox_pt": [
+    35,
+    190.25,
+    78.91,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "order_id",
+   "value": "ORD-08217",
+   "display_value": "ORD-08217",
+   "canonical_value": "ORD-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    458.33,
+    396.35,
+    569.48,
+    424.98
+   ],
+   "bbox_pt": [
+    220,
+    190.25,
+    273.35,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "accession_id",
+   "value": "DX-260610-08217",
+   "display_value": "DX-260610-08217",
+   "canonical_value": "DX-260610-08217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    854.17,
+    396.35,
+    1024.4,
+    424.98
+   ],
+   "bbox_pt": [
+    410,
+    190.25,
+    491.71,
+    203.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ordering_physician",
+   "value": "DR. MAYA COLLINS",
+   "display_value": "DR. MAYA COLLINS",
+   "canonical_value": "DR. MAYA COLLINS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.5,
+    496.35,
+    633.15,
+    524.98
+   ],
+   "bbox_pt": [
+    210,
+    238.25,
+    303.91,
+    251.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ordering_npi",
+   "value": "1999999976",
+   "display_value": "1999999976",
+   "canonical_value": "1999999976",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.5,
+    548.44,
+    553.33,
+    577.06
+   ],
+   "bbox_pt": [
+    210,
+    263.25,
+    265.6,
+    276.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "ordering_clinic",
+   "value": "NORTHLINE FAMILY CLINIC",
+   "display_value": "NORTHLINE FAMILY CLINIC",
+   "canonical_value": "NORTHLINE FAMILY CLINIC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.5,
+    600.52,
+    713.0,
+    629.15
+   ],
+   "bbox_pt": [
+    210,
+    288.25,
+    342.24,
+    301.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "report_destination",
+   "value": "(512) 555-0165 / secure portal",
+   "display_value": "(512) 555-0165 / secure portal",
+   "canonical_value": "(512) 555-0165 / secure portal",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.5,
+    652.6,
+    717.73,
+    681.23
+   ],
+   "bbox_pt": [
+    210,
+    313.25,
+    344.51,
+    326.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "specimen_type",
+   "value": "Whole blood / EDTA / lavender-top",
+   "display_value": "Whole blood / EDTA / lavender-top",
+   "canonical_value": "Whole blood / EDTA / lavender-top",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.5,
+    808.85,
+    759.4,
+    837.48
+   ],
+   "bbox_pt": [
+    210,
+    388.25,
+    364.51,
+    401.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "collected_at",
+   "value": "06/10/2026 08:15 CDT",
+   "display_value": "06/10/2026 08:15 CDT",
+   "canonical_value": "06/10/2026 08:15 CDT",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.5,
+    854.69,
+    648.27,
+    883.31
+   ],
+   "bbox_pt": [
+    210,
+    410.25,
+    311.17,
+    423.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "volume_collector",
+   "value": "4 mL / Elena Cruz",
+   "display_value": "4 mL / Elena Cruz",
+   "canonical_value": "4 mL / Elena Cruz",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    437.5,
+    900.52,
+    604.23,
+    929.15
+   ],
+   "bbox_pt": [
+    210,
+    432.25,
+    290.03,
+    445.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "test_order",
+   "value": "[X] LYM-01  CD4/CD8 profile with CBC / differential",
+   "display_value": "[X] LYM-01  CD4/CD8 profile with CBC / differential",
+   "canonical_value": "[X] LYM-01  CD4/CD8 profile with CBC / differential",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.0,
+    1079.65,
+    650.07,
+    1111.2
+   ],
+   "bbox_pt": [
+    48,
+    518.23,
+    312.033,
+    533.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "clinical_indication",
+   "value": "Clinical indication: Follow-up immune cell monitoring.",
+   "display_value": "Clinical indication: Follow-up immune cell monitoring.",
+   "canonical_value": "Clinical indication: Follow-up immune cell monitoring.",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    100.0,
+    1129.69,
+    588.54,
+    1158.31
+   ],
+   "bbox_pt": [
+    48,
+    542.25,
+    282.5,
+    555.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "authorization",
+   "value": "Authorized by DR. MAYA COLLINS | Order date 06/09/2026",
+   "display_value": "Authorized by DR. MAYA COLLINS | Order date 06/09/2026",
+   "canonical_value": "Authorized by DR. MAYA COLLINS | Order date 06/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    72.92,
+    1463.02,
+    628.35,
+    1491.65
+   ],
+   "bbox_pt": [
+    35,
+    702.25,
+    301.61,
+    715.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

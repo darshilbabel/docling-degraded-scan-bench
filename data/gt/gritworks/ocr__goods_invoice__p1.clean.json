@@ -1,0 +1,644 @@
+{
+ "page_id": "ocr__goods_invoice__p1",
+ "pack": "ocr",
+ "document": "goods_invoice",
+ "family": "invoice",
+ "document_type": "Goods invoice",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_OCR_10_PDFs_JSON_BBoxes/GritWorks-OCR-10-PDF-Sample/02_goods_invoice/goods_invoice_clean.pdf",
+ "condition": "clean",
+ "degradation_params": {},
+ "gt_provenance": "exact authored geometry (pack clean boxes)",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "supplier_name",
+   "value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "display_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "canonical_value": "MAPLEBRIDGE INDUSTRIAL SUPPLY",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    79.17,
+    85.17,
+    679.2,
+    131.07
+   ],
+   "bbox_pt": [
+    38,
+    40.88,
+    326.016,
+    62.912
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "document_number",
+   "value": "INV-G-05217",
+   "display_value": "INV-G-05217",
+   "canonical_value": "INV-G-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    822.92,
+    204.65,
+    957.92,
+    236.2
+   ],
+   "bbox_pt": [
+    395,
+    98.23,
+    459.801,
+    113.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "document_date",
+   "value": "06/09/2026",
+   "display_value": "06/09/2026",
+   "canonical_value": "06/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    822.92,
+    240.1,
+    927.17,
+    268.73
+   ],
+   "bbox_pt": [
+    395,
+    115.25,
+    445.04,
+    128.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "customer_name",
+   "value": "ORCHARD VALE FOODS",
+   "display_value": "ORCHARD VALE FOODS",
+   "canonical_value": "ORCHARD VALE FOODS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    79.17,
+    344.23,
+    351.62,
+    375.79
+   ],
+   "bbox_pt": [
+    38,
+    165.23,
+    168.779,
+    180.377
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "customer_account",
+   "value": "OVF-05217",
+   "display_value": "OVF-05217",
+   "canonical_value": "OVF-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    822.92,
+    346.35,
+    930.6,
+    374.98
+   ],
+   "bbox_pt": [
+    395,
+    166.25,
+    446.69,
+    179.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "purchase_order",
+   "value": "PO-260601-05217",
+   "display_value": "PO-260601-05217",
+   "canonical_value": "PO-260601-05217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    822.92,
+    377.6,
+    994.31,
+    406.23
+   ],
+   "bbox_pt": [
+    395,
+    181.25,
+    477.27,
+    194.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "delivery_reference",
+   "value": "Delivered 06/08/2026 | Packing slip PS-05217 | Dock 4",
+   "display_value": "Delivered 06/08/2026 | Packing slip PS-05217 | Dock 4",
+   "canonical_value": "Delivered 06/08/2026 | Packing slip PS-05217 | Dock 4",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    79.17,
+    460.94,
+    585.6,
+    489.56
+   ],
+   "bbox_pt": [
+    38,
+    221.25,
+    281.09,
+    234.99
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.1.sku",
+   "value": "AF-48",
+   "display_value": "AF-48",
+   "canonical_value": "AF-48",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.58,
+    594.43,
+    140.64,
+    620.19
+   ],
+   "bbox_pt": [
+    43,
+    285.325,
+    67.507,
+    297.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.1.description",
+   "value": "Air filter cartridge",
+   "display_value": "Air filter cartridge",
+   "canonical_value": "Air filter cartridge",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    264.58,
+    594.43,
+    406.28,
+    620.19
+   ],
+   "bbox_pt": [
+    127,
+    285.325,
+    195.013,
+    297.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.1.quantity",
+   "value": 20,
+   "display_value": "20",
+   "canonical_value": "20",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    737.5,
+    594.43,
+    758.35,
+    620.19
+   ],
+   "bbox_pt": [
+    354,
+    285.325,
+    364.008,
+    297.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.1.unit_price",
+   "value": "48.00",
+   "display_value": "48.00",
+   "canonical_value": "48.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    841.67,
+    594.43,
+    888.58,
+    620.19
+   ],
+   "bbox_pt": [
+    404,
+    285.325,
+    426.518,
+    297.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.1.amount",
+   "value": "960.00",
+   "display_value": "960.00",
+   "canonical_value": "960.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1008.33,
+    594.43,
+    1065.67,
+    620.19
+   ],
+   "bbox_pt": [
+    484,
+    285.325,
+    511.522,
+    297.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.2.sku",
+   "value": "VB-125",
+   "display_value": "VB-125",
+   "canonical_value": "VB-125",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.58,
+    656.93,
+    152.11,
+    682.69
+   ],
+   "bbox_pt": [
+    43,
+    315.325,
+    73.015,
+    327.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.2.description",
+   "value": "Valve repair kit",
+   "display_value": "Valve repair kit",
+   "canonical_value": "Valve repair kit",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    264.58,
+    656.93,
+    388.58,
+    682.69
+   ],
+   "bbox_pt": [
+    127,
+    315.325,
+    186.517,
+    327.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.2.quantity",
+   "value": 10,
+   "display_value": "10",
+   "canonical_value": "10",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    737.5,
+    656.93,
+    758.35,
+    682.69
+   ],
+   "bbox_pt": [
+    354,
+    315.325,
+    364.008,
+    327.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.2.unit_price",
+   "value": "125.00",
+   "display_value": "125.00",
+   "canonical_value": "125.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    841.67,
+    656.93,
+    899.0,
+    682.69
+   ],
+   "bbox_pt": [
+    404,
+    315.325,
+    431.522,
+    327.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.2.amount",
+   "value": "1250.00",
+   "display_value": "1250.00",
+   "canonical_value": "1250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1008.33,
+    656.93,
+    1076.1,
+    682.69
+   ],
+   "bbox_pt": [
+    484,
+    315.325,
+    516.526,
+    327.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.3.sku",
+   "value": "SG-80",
+   "display_value": "SG-80",
+   "canonical_value": "SG-80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    89.58,
+    719.43,
+    143.77,
+    745.19
+   ],
+   "bbox_pt": [
+    43,
+    345.325,
+    69.01,
+    357.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.3.description",
+   "value": "Food-grade seal set",
+   "display_value": "Food-grade seal set",
+   "canonical_value": "Food-grade seal set",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    264.58,
+    719.43,
+    431.33,
+    745.19
+   ],
+   "bbox_pt": [
+    127,
+    345.325,
+    207.037,
+    357.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.3.quantity",
+   "value": 5,
+   "display_value": "5",
+   "canonical_value": "5",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    737.5,
+    719.43,
+    747.93,
+    745.19
+   ],
+   "bbox_pt": [
+    354,
+    345.325,
+    359.004,
+    357.691
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "items.3.unit_price",
+   "value": "80.00",
+   "display_value": "80.00",
+   "canonical_value": "80.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    841.67,
+    719.43,
+    888.58,
+    745.19
+   ],
+   "bbox_pt": [
+    404,
+    345.325,
+    426.518,
+    357.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "items.3.amount",
+   "value": "400.00",
+   "display_value": "400.00",
+   "canonical_value": "400.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1008.33,
+    719.43,
+    1065.67,
+    745.19
+   ],
+   "bbox_pt": [
+    484,
+    345.325,
+    511.522,
+    357.691
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "goods_subtotal",
+   "value": "2610.00",
+   "display_value": "$2610.00",
+   "canonical_value": "$2610.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1077.0,
+    837.83,
+    1181.25,
+    872.26
+   ],
+   "bbox_pt": [
+    516.96,
+    402.16,
+    567.0,
+    418.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "freight",
+   "value": "90.00",
+   "display_value": "$90.00",
+   "canonical_value": "$90.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1104.8,
+    892.0,
+    1181.25,
+    926.43
+   ],
+   "bbox_pt": [
+    530.304,
+    428.16,
+    567.0,
+    444.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "tax",
+   "value": "208.80",
+   "display_value": "$208.80",
+   "canonical_value": "$208.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1090.9,
+    946.17,
+    1181.25,
+    980.59
+   ],
+   "bbox_pt": [
+    523.632,
+    454.16,
+    567.0,
+    470.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "total_due",
+   "value": "2908.80",
+   "display_value": "$2908.80",
+   "canonical_value": "$2908.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1077.0,
+    1000.33,
+    1181.25,
+    1034.76
+   ],
+   "bbox_pt": [
+    516.96,
+    480.16,
+    567.0,
+    496.684
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "due_date",
+   "value": "2026-07-09",
+   "display_value": "Payment due 07/09/2026",
+   "canonical_value": "Payment due 07/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    79.17,
+    1179.53,
+    335.24,
+    1211.02
+   ],
+   "bbox_pt": [
+    38,
+    566.175,
+    160.914,
+    581.289
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

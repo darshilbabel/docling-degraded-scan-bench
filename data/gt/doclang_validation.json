@@ -1,0 +1,7 @@
+{
+ "files": 260,
+ "mode": "xsd+schematron",
+ "ok": 260,
+ "failed": {},
+ "allow_empty_namespace": true
+}

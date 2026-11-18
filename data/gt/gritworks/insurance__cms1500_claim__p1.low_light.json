@@ -1,0 +1,1339 @@
+{
+ "page_id": "insurance__cms1500_claim__p1",
+ "pack": "insurance",
+ "document": "cms1500_claim",
+ "family": "cms1500_claim",
+ "document_type": "CMS-1500 professional health insurance claim",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1425,
+  1851
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Insurance_10_PDFs_JSON_BBoxes/GritWorks-Insurance-10-PDF-Sample/02_cms1500_claim/cms1500_claim_clean.pdf",
+ "condition": "low_light",
+ "degradation_params": {
+  "gamma": 2.026,
+  "noise_sd": 0.0281,
+  "vignette": 0.35,
+  "seed": 239317098
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "coverage_type",
+   "value": "Group health plan",
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    579.17,
+    295.03,
+    590.42,
+    318.44
+   ],
+   "bbox_pt": [
+    278,
+    141.612,
+    283.4,
+    152.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "member_id",
+   "value": "CHP0842719",
+   "display_value": "CHP0842719",
+   "canonical_value": "CHP0842719",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    864.58,
+    295.03,
+    977.08,
+    318.44
+   ],
+   "bbox_pt": [
+    415,
+    141.612,
+    469.0,
+    152.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_name",
+   "value": "AVERY MORGAN",
+   "display_value": "MORGAN, AVERY",
+   "canonical_value": "MORGAN, AVERY",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    345.03,
+    277.5,
+    368.44
+   ],
+   "bbox_pt": [
+    63,
+    165.612,
+    133.2,
+    176.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1987-08-19",
+   "display_value": "08 19 1987",
+   "canonical_value": "08 19 1987",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    566.67,
+    345.03,
+    679.17,
+    368.44
+   ],
+   "bbox_pt": [
+    272,
+    165.612,
+    326.0,
+    176.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    818.75,
+    345.03,
+    830.0,
+    368.44
+   ],
+   "bbox_pt": [
+    393,
+    165.612,
+    398.4,
+    176.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "insured_name",
+   "value": "AVERY MORGAN",
+   "display_value": "MORGAN, AVERY",
+   "canonical_value": "MORGAN, AVERY",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    864.58,
+    345.03,
+    1010.83,
+    368.44
+   ],
+   "bbox_pt": [
+    415,
+    165.612,
+    485.2,
+    176.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_address",
+   "value": "4607 WILLOW BEND LN APT 204",
+   "display_value": "4607 WILLOW BEND LN APT 204",
+   "canonical_value": "4607 WILLOW BEND LN APT 204",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    396.97,
+    401.25,
+    417.78
+   ],
+   "bbox_pt": [
+    63,
+    190.544,
+    192.6,
+    200.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_city",
+   "value": "AUSTIN",
+   "display_value": "AUSTIN",
+   "canonical_value": "AUSTIN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    442.94,
+    198.75,
+    466.36
+   ],
+   "bbox_pt": [
+    63,
+    212.612,
+    95.4,
+    223.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_state",
+   "value": "TX",
+   "display_value": "TX",
+   "canonical_value": "TX",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    510.42,
+    442.94,
+    532.92,
+    466.36
+   ],
+   "bbox_pt": [
+    245,
+    212.612,
+    255.8,
+    223.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_zip",
+   "value": "78731",
+   "display_value": "78731",
+   "canonical_value": "78731",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    492.94,
+    187.5,
+    516.36
+   ],
+   "bbox_pt": [
+    63,
+    236.612,
+    90.0,
+    247.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_phone",
+   "value": "512-555-0146",
+   "display_value": "512 555 0146",
+   "canonical_value": "512 555 0146",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    345.83,
+    492.94,
+    480.83,
+    516.36
+   ],
+   "bbox_pt": [
+    166,
+    236.612,
+    230.8,
+    247.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "relationship",
+   "value": "Self",
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    610.42,
+    395.03,
+    621.67,
+    418.44
+   ],
+   "bbox_pt": [
+    293,
+    189.612,
+    298.4,
+    200.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "insured_address",
+   "value": "4607 WILLOW BEND LN APT 204",
+   "display_value": "4607 WILLOW BEND LN APT 204",
+   "canonical_value": "4607 WILLOW BEND LN APT 204",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    864.58,
+    396.97,
+    1134.58,
+    417.78
+   ],
+   "bbox_pt": [
+    415,
+    190.544,
+    544.6,
+    200.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "group_number",
+   "value": "GRP-04217",
+   "display_value": "GRP-04217",
+   "canonical_value": "GRP-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    864.58,
+    542.94,
+    965.83,
+    566.36
+   ],
+   "bbox_pt": [
+    415,
+    260.612,
+    463.6,
+    271.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "employment_related",
+   "value": false,
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    731.25,
+    595.03,
+    742.5,
+    618.44
+   ],
+   "bbox_pt": [
+    351,
+    285.612,
+    356.4,
+    296.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "auto_accident_related",
+   "value": false,
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    731.25,
+    645.03,
+    742.5,
+    668.44
+   ],
+   "bbox_pt": [
+    351,
+    309.612,
+    356.4,
+    320.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "other_accident_related",
+   "value": false,
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    731.25,
+    695.03,
+    742.5,
+    718.44
+   ],
+   "bbox_pt": [
+    351,
+    333.612,
+    356.4,
+    344.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "other_health_plan",
+   "value": false,
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    968.75,
+    742.94,
+    980.0,
+    766.36
+   ],
+   "bbox_pt": [
+    465,
+    356.612,
+    470.4,
+    367.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "plan_name",
+   "value": "CEDAR CHOICE PPO",
+   "display_value": "CEDAR CHOICE PPO",
+   "canonical_value": "CEDAR CHOICE PPO",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    864.58,
+    695.03,
+    1044.58,
+    718.44
+   ],
+   "bbox_pt": [
+    415,
+    333.612,
+    501.4,
+    344.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "illness_date",
+   "value": "2026-04-15",
+   "display_value": "04 15 26",
+   "canonical_value": "04 15 26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    905.44,
+    221.25,
+    928.86
+   ],
+   "bbox_pt": [
+    63,
+    434.612,
+    106.2,
+    445.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "referring_provider",
+   "value": "LENA PARK MD",
+   "display_value": "LENA PARK MD",
+   "canonical_value": "LENA PARK MD",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    942.94,
+    266.25,
+    966.36
+   ],
+   "bbox_pt": [
+    63,
+    452.612,
+    127.8,
+    463.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "referring_npi",
+   "value": "1999999976",
+   "display_value": "1999999976",
+   "canonical_value": "1999999976",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    612.5,
+    940.86,
+    725.0,
+    964.28
+   ],
+   "bbox_pt": [
+    294,
+    451.612,
+    348.0,
+    462.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "outside_lab",
+   "value": false,
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    956.25,
+    995.03,
+    967.5,
+    1018.44
+   ],
+   "bbox_pt": [
+    459,
+    477.612,
+    464.4,
+    488.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "diagnosis_code",
+   "value": "R53.83",
+   "display_value": "R53.83",
+   "canonical_value": "R53.83",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    166.67,
+    1053.36,
+    234.17,
+    1076.78
+   ],
+   "bbox_pt": [
+    80,
+    505.612,
+    112.4,
+    516.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "diagnosis_code_set",
+   "value": "ICD-10-CM",
+   "display_value": "0",
+   "canonical_value": "0",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    714.58,
+    1030.44,
+    725.83,
+    1053.86
+   ],
+   "bbox_pt": [
+    343,
+    494.612,
+    348.4,
+    505.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "claim_id",
+   "value": "CLM-260415-04217",
+   "display_value": "REF: CLM-260415-04217",
+   "canonical_value": "REF: CLM-260415-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    854.17,
+    209.47,
+    1064.17,
+    230.28
+   ],
+   "bbox_pt": [
+    410,
+    100.544,
+    510.8,
+    110.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.service_date_from",
+   "value": "2026-04-15",
+   "display_value": "04 15 26",
+   "canonical_value": "04 15 26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    1205.3,
+    211.25,
+    1226.12
+   ],
+   "bbox_pt": [
+    63,
+    578.544,
+    101.4,
+    588.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.service_date_to",
+   "value": "2026-04-15",
+   "display_value": "04 15 26",
+   "canonical_value": "04 15 26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    277.08,
+    1205.3,
+    357.08,
+    1226.12
+   ],
+   "bbox_pt": [
+    133,
+    578.544,
+    171.4,
+    588.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.place_of_service",
+   "value": "11",
+   "display_value": "11",
+   "canonical_value": "11",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    404.17,
+    1205.3,
+    424.17,
+    1226.12
+   ],
+   "bbox_pt": [
+    194,
+    578.544,
+    203.6,
+    588.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.procedure_code",
+   "value": "99213",
+   "display_value": "99213",
+   "canonical_value": "99213",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    495.83,
+    1203.36,
+    552.08,
+    1226.78
+   ],
+   "bbox_pt": [
+    238,
+    577.612,
+    265.0,
+    588.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.diagnosis_pointer",
+   "value": "A",
+   "display_value": "A",
+   "canonical_value": "A",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    789.58,
+    1203.36,
+    800.83,
+    1226.78
+   ],
+   "bbox_pt": [
+    379,
+    577.612,
+    384.4,
+    588.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "lines.1.charge",
+   "value": "250.00",
+   "display_value": "250.00",
+   "canonical_value": "250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    916.67,
+    1205.3,
+    976.67,
+    1226.12
+   ],
+   "bbox_pt": [
+    440,
+    578.544,
+    468.8,
+    588.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.1.units",
+   "value": 1,
+   "display_value": "1",
+   "canonical_value": "1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1012.5,
+    1203.36,
+    1023.75,
+    1226.78
+   ],
+   "bbox_pt": [
+    486,
+    577.612,
+    491.4,
+    588.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "lines.1.rendering_npi",
+   "value": "1999999976",
+   "display_value": "1999999976",
+   "canonical_value": "1999999976",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1137.5,
+    1205.3,
+    1237.5,
+    1226.12
+   ],
+   "bbox_pt": [
+    546,
+    578.544,
+    594.0,
+    588.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.service_date_from",
+   "value": "2026-04-15",
+   "display_value": "04 15 26",
+   "canonical_value": "04 15 26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    1255.3,
+    211.25,
+    1276.12
+   ],
+   "bbox_pt": [
+    63,
+    602.544,
+    101.4,
+    612.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.service_date_to",
+   "value": "2026-04-15",
+   "display_value": "04 15 26",
+   "canonical_value": "04 15 26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    277.08,
+    1255.3,
+    357.08,
+    1276.12
+   ],
+   "bbox_pt": [
+    133,
+    602.544,
+    171.4,
+    612.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.place_of_service",
+   "value": "11",
+   "display_value": "11",
+   "canonical_value": "11",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    404.17,
+    1255.3,
+    424.17,
+    1276.12
+   ],
+   "bbox_pt": [
+    194,
+    602.544,
+    203.6,
+    612.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.procedure_code",
+   "value": "85025",
+   "display_value": "85025",
+   "canonical_value": "85025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    495.83,
+    1253.36,
+    552.08,
+    1276.78
+   ],
+   "bbox_pt": [
+    238,
+    601.612,
+    265.0,
+    612.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.diagnosis_pointer",
+   "value": "A",
+   "display_value": "A",
+   "canonical_value": "A",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    789.58,
+    1253.36,
+    800.83,
+    1276.78
+   ],
+   "bbox_pt": [
+    379,
+    601.612,
+    384.4,
+    612.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "lines.2.charge",
+   "value": "100.00",
+   "display_value": "100.00",
+   "canonical_value": "100.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    916.67,
+    1255.3,
+    976.67,
+    1276.12
+   ],
+   "bbox_pt": [
+    440,
+    602.544,
+    468.8,
+    612.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.2.units",
+   "value": 1,
+   "display_value": "1",
+   "canonical_value": "1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1012.5,
+    1253.36,
+    1023.75,
+    1276.78
+   ],
+   "bbox_pt": [
+    486,
+    601.612,
+    491.4,
+    612.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "lines.2.rendering_npi",
+   "value": "1999999976",
+   "display_value": "1999999976",
+   "canonical_value": "1999999976",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1137.5,
+    1255.3,
+    1237.5,
+    1276.12
+   ],
+   "bbox_pt": [
+    546,
+    602.544,
+    594.0,
+    612.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.service_date_from",
+   "value": "2026-04-15",
+   "display_value": "04 15 26",
+   "canonical_value": "04 15 26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    1305.3,
+    211.25,
+    1326.12
+   ],
+   "bbox_pt": [
+    63,
+    626.544,
+    101.4,
+    636.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.service_date_to",
+   "value": "2026-04-15",
+   "display_value": "04 15 26",
+   "canonical_value": "04 15 26",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    277.08,
+    1305.3,
+    357.08,
+    1326.12
+   ],
+   "bbox_pt": [
+    133,
+    626.544,
+    171.4,
+    636.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.place_of_service",
+   "value": "11",
+   "display_value": "11",
+   "canonical_value": "11",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    404.17,
+    1305.3,
+    424.17,
+    1326.12
+   ],
+   "bbox_pt": [
+    194,
+    626.544,
+    203.6,
+    636.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.procedure_code",
+   "value": "80053",
+   "display_value": "80053",
+   "canonical_value": "80053",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    495.83,
+    1303.36,
+    552.08,
+    1326.78
+   ],
+   "bbox_pt": [
+    238,
+    625.612,
+    265.0,
+    636.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.diagnosis_pointer",
+   "value": "A",
+   "display_value": "A",
+   "canonical_value": "A",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    789.58,
+    1303.36,
+    800.83,
+    1326.78
+   ],
+   "bbox_pt": [
+    379,
+    625.612,
+    384.4,
+    636.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "lines.3.charge",
+   "value": "250.00",
+   "display_value": "250.00",
+   "canonical_value": "250.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    916.67,
+    1305.3,
+    976.67,
+    1326.12
+   ],
+   "bbox_pt": [
+    440,
+    626.544,
+    468.8,
+    636.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "lines.3.units",
+   "value": 1,
+   "display_value": "1",
+   "canonical_value": "1",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1012.5,
+    1303.36,
+    1023.75,
+    1326.78
+   ],
+   "bbox_pt": [
+    486,
+    625.612,
+    491.4,
+    636.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "lines.3.rendering_npi",
+   "value": "1999999976",
+   "display_value": "1999999976",
+   "canonical_value": "1999999976",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1137.5,
+    1305.3,
+    1237.5,
+    1326.12
+   ],
+   "bbox_pt": [
+    546,
+    626.544,
+    594.0,
+    636.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "provider_tax_id",
+   "value": "00-0042170",
+   "display_value": "00-0042170",
+   "canonical_value": "00-0042170",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    131.25,
+    1495.03,
+    243.75,
+    1518.44
+   ],
+   "bbox_pt": [
+    63,
+    717.612,
+    117.0,
+    728.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "patient_account",
+   "value": "PT-04217",
+   "display_value": "PT-04217",
+   "canonical_value": "PT-04217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    460.42,
+    1495.03,
+    550.42,
+    1518.44
+   ],
+   "bbox_pt": [
+    221,
+    717.612,
+    264.2,
+    728.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "accept_assignment",
+   "value": true,
+   "display_value": "X",
+   "canonical_value": "X",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    685.42,
+    1495.03,
+    696.67,
+    1518.44
+   ],
+   "bbox_pt": [
+    329,
+    717.612,
+    334.4,
+    728.853
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "total_charge",
+   "value": "600.00",
+   "display_value": "600.00",
+   "canonical_value": "600.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    885.42,
+    1495.03,
+    952.92,
+    1518.44
+   ],
+   "bbox_pt": [
+    425,
+    717.612,
+    457.4,
+    728.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_paid",
+   "value": "30.00",
+   "display_value": "30.00",
+   "canonical_value": "30.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1056.25,
+    1495.03,
+    1112.5,
+    1518.44
+   ],
+   "bbox_pt": [
+    507,
+    717.612,
+    534.0,
+    728.853
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "facility_npi",
+   "value": "1999999984",
+   "display_value": "1999999984",
+   "canonical_value": "1999999984",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    475.0,
+    1626.13,
+    575.0,
+    1646.95
+   ],
+   "bbox_pt": [
+    228,
+    780.544,
+    276.0,
+    790.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "billing_npi",
+   "value": "1999999984",
+   "display_value": "1999999984",
+   "canonical_value": "1999999984",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    881.25,
+    1626.13,
+    981.25,
+    1646.95
+   ],
+   "bbox_pt": [
+    423,
+    780.544,
+    471.0,
+    790.536
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

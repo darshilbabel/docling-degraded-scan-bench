@@ -1,0 +1,81 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1242" height="1804"/>
+  </head>
+  <field_region>
+    <location value="105"/>
+    <location value="271"/>
+    <location value="886"/>
+    <location value="1317"/>
+    <field_item>
+      <key>specimen_signature</key>
+      <value>
+        <location value="105"/>
+        <location value="271"/>
+        <location value="203"/>
+        <location value="312"/>
+        বিশ্বনাথ সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>specimen_name</key>
+      <value>
+        <location value="142"/>
+        <location value="341"/>
+        <location value="272"/>
+        <location value="378"/>
+        বিশ্বনাথ কুমার সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>declaration_date</key>
+      <value>
+        <location value="161"/>
+        <location value="901"/>
+        <location value="255"/>
+        <location value="939"/>
+        15/10/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>applicant_signature</key>
+      <value>
+        <location value="735"/>
+        <location value="864"/>
+        <location value="848"/>
+        <location value="913"/>
+        বিশ্বনাথ সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominator_name</key>
+      <value>
+        <location value="264"/>
+        <location value="1018"/>
+        <location value="403"/>
+        <location value="1056"/>
+        বিশ্বনাথ কুমার সেন
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_name_relation</key>
+      <value>
+        <location value="178"/>
+        <location value="1284"/>
+        <location value="295"/>
+        <location value="1317"/>
+        সোমা সেন (কন্যা)
+      </value>
+    </field_item>
+    <field_item>
+      <key>nominee_share</key>
+      <value>
+        <location value="842"/>
+        <location value="1282"/>
+        <location value="886"/>
+        <location value="1315"/>
+        100%
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

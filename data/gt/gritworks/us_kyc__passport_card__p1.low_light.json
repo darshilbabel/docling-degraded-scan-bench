@@ -1,0 +1,235 @@
+{
+ "page_id": "us_kyc__passport_card__p1",
+ "pack": "us_kyc",
+ "document": "passport_card",
+ "family": "id_card",
+ "document_type": "US passport card sample",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1876,
+  1103
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_US_KYC_10_PDFs_JSON_BBoxes/GritWorks-US_KYC-10-PDF-Sample/03_passport_card/passport_card_clean.pdf",
+ "condition": "low_light",
+ "degradation_params": {
+  "gamma": 2.003,
+  "noise_sd": 0.0324,
+  "vignette": 0.35,
+  "seed": 1997286364
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "card_number",
+   "value": "C00004217",
+   "display_value": "C00004217",
+   "canonical_value": "C00004217",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1291.67,
+    243.69,
+    1604.02,
+    326.88
+   ],
+   "bbox_pt": [
+    620,
+    116.97,
+    769.93,
+    156.903
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "surname",
+   "value": "PATEL",
+   "display_value": "PATEL",
+   "canonical_value": "PATEL",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    760.42,
+    397.92,
+    960.42,
+    477.08
+   ],
+   "bbox_pt": [
+    365,
+    191,
+    461,
+    229
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "given_names",
+   "value": "SIMRAN",
+   "display_value": "SIMRAN",
+   "canonical_value": "SIMRAN",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    918.75,
+    543.75,
+    1189.58,
+    612.5
+   ],
+   "bbox_pt": [
+    441,
+    261,
+    571,
+    294
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "nationality",
+   "value": "USA",
+   "display_value": "USA",
+   "canonical_value": "USA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    802.08,
+    277.08,
+    931.25,
+    333.33
+   ],
+   "bbox_pt": [
+    385,
+    133,
+    447,
+    160
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "date_of_birth",
+   "value": "1971-04-04",
+   "display_value": "04 APR 1971",
+   "canonical_value": "04 APR 1971",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1097.92,
+    672.92,
+    1460.42,
+    737.5
+   ],
+   "bbox_pt": [
+    527,
+    323,
+    701,
+    354
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "sex",
+   "value": "F",
+   "display_value": "F",
+   "canonical_value": "F",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    962.5,
+    691.67,
+    1002.08,
+    741.67
+   ],
+   "bbox_pt": [
+    462,
+    332,
+    481,
+    356
+   ],
+   "visibility": "visible",
+   "scored": false,
+   "exclusion_reason": "display_value shorter than 2 non-space chars (checkbox/flag)"
+  },
+  {
+   "key": "place_of_birth",
+   "value": "CALIFORNIA",
+   "display_value": "CALIFORNIA",
+   "canonical_value": "CALIFORNIA",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    916.67,
+    820.83,
+    1281.25,
+    883.33
+   ],
+   "bbox_pt": [
+    440,
+    394,
+    615,
+    424
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "issue_date",
+   "value": "2022-02-10",
+   "display_value": "10 FEB 2022",
+   "canonical_value": "10 FEB 2022",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    922.92,
+    937.5,
+    1277.08,
+    995.83
+   ],
+   "bbox_pt": [
+    443,
+    450,
+    613,
+    478
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "expiry_date",
+   "value": "2032-02-10",
+   "display_value": "10 FEB 2032",
+   "canonical_value": "10 FEB 2032",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1325.0,
+    937.5,
+    1683.33,
+    995.83
+   ],
+   "bbox_pt": [
+    636,
+    450,
+    808,
+    478
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}

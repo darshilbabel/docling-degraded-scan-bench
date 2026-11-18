@@ -1,0 +1,131 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="49"/>
+    <location value="208"/>
+    <location value="1008"/>
+    <location value="1387"/>
+    <field_item>
+      <key>query_number</key>
+      <value>
+        <location value="49"/>
+        <location value="208"/>
+        <location value="476"/>
+        <location value="256"/>
+        REDWOOD DIAGNOSTICS / QRY-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_name</key>
+      <value>
+        <location value="53"/>
+        <location value="319"/>
+        <location value="255"/>
+        <location value="358"/>
+        TAYLOR BROOKS
+      </value>
+    </field_item>
+    <field_item>
+      <key>date_of_birth</key>
+      <value>
+        <location value="636"/>
+        <location value="300"/>
+        <location value="751"/>
+        <location value="336"/>
+        08/14/1990
+      </value>
+    </field_item>
+    <field_item>
+      <key>sex</key>
+      <value>
+        <location value="958"/>
+        <location value="292"/>
+        <location value="973"/>
+        <location value="324"/>
+        F
+      </value>
+    </field_item>
+    <field_item>
+      <key>patient_id</key>
+      <value>
+        <location value="56"/>
+        <location value="417"/>
+        <location value="149"/>
+        <location value="449"/>
+        PT-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>order_id</key>
+      <value>
+        <location value="441"/>
+        <location value="401"/>
+        <location value="553"/>
+        <location value="434"/>
+        ORD-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>accession_id</key>
+      <value>
+        <location value="837"/>
+        <location value="384"/>
+        <location value="1008"/>
+        <location value="419"/>
+        DX-260610-08217
+      </value>
+    </field_item>
+    <field_item>
+      <key>received_at</key>
+      <value>
+        <location value="61"/>
+        <location value="531"/>
+        <location value="497"/>
+        <location value="576"/>
+        Received by laboratory: 06/10/2026 09:20 CDT
+      </value>
+    </field_item>
+    <field_item>
+      <key>query_opened_at</key>
+      <value>
+        <location value="63"/>
+        <location value="580"/>
+        <location value="418"/>
+        <location value="622"/>
+        Query opened: 06/10/2026 09:35 CDT
+      </value>
+    </field_item>
+    <field_item>
+      <key>status</key>
+      <value>
+        <location value="115"/>
+        <location value="1236"/>
+        <location value="701"/>
+        <location value="1292"/>
+        STATUS: RESOLVED / RELEASED FOR TESTING
+      </value>
+    </field_item>
+    <field_item>
+      <key>resolved_at</key>
+      <value>
+        <location value="117"/>
+        <location value="1303"/>
+        <location value="427"/>
+        <location value="1343"/>
+        Resolved: 06/10/2026 10:05 CDT
+      </value>
+    </field_item>
+    <field_item>
+      <key>reviewer</key>
+      <value>
+        <location value="119"/>
+        <location value="1342"/>
+        <location value="555"/>
+        <location value="1387"/>
+        Laboratory reviewer: Morgan Ellis / ID LAB-042
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

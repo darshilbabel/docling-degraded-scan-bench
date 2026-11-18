@@ -1,0 +1,41 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1876" height="1184"/>
+  </head>
+  <field_region>
+    <location value="562"/>
+    <location value="445"/>
+    <location value="1598"/>
+    <location value="1027"/>
+    <field_item>
+      <key>ssn</key>
+      <value>
+        <location value="583"/>
+        <location value="445"/>
+        <location value="1078"/>
+        <location value="538"/>
+        000-00-4217
+      </value>
+    </field_item>
+    <field_item>
+      <key>full_name</key>
+      <value>
+        <location value="562"/>
+        <location value="625"/>
+        <location value="1275"/>
+        <location value="688"/>
+        SIMRAN PATEL
+      </value>
+    </field_item>
+    <field_item>
+      <key>sample_print_date</key>
+      <value>
+        <location value="1154"/>
+        <location value="973"/>
+        <location value="1598"/>
+        <location value="1027"/>
+        03/15/2022
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

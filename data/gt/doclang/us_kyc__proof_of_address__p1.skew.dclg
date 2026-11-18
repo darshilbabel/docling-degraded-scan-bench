@@ -1,0 +1,181 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="17"/>
+    <location value="164"/>
+    <location value="1204"/>
+    <location value="937"/>
+    <field_item>
+      <key>customer_name</key>
+      <value>
+        <location value="17"/>
+        <location value="252"/>
+        <location value="207"/>
+        <location value="302"/>
+        SIMRAN PATEL
+      </value>
+    </field_item>
+    <field_item>
+      <key>service_address</key>
+      <value>
+        <location value="20"/>
+        <location value="288"/>
+        <location value="232"/>
+        <location value="337"/>
+        2570 24TH STREET
+      </value>
+    </field_item>
+    <field_item>
+      <key>city_state_zip</key>
+      <value>
+        <location value="23"/>
+        <location value="318"/>
+        <location value="301"/>
+        <location value="372"/>
+        SACRAMENTO, CA 95818
+      </value>
+    </field_item>
+    <field_item>
+      <key>account_number</key>
+      <value>
+        <location value="889"/>
+        <location value="164"/>
+        <location value="1004"/>
+        <location value="202"/>
+        WTR-06217
+      </value>
+    </field_item>
+    <field_item>
+      <key>bill_date</key>
+      <value>
+        <location value="894"/>
+        <location value="219"/>
+        <location value="1000"/>
+        <location value="256"/>
+        04/30/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>due_date</key>
+      <value>
+        <location value="898"/>
+        <location value="273"/>
+        <location value="1004"/>
+        <location value="310"/>
+        05/20/2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>meter_id</key>
+      <value>
+        <location value="59"/>
+        <location value="520"/>
+        <location value="160"/>
+        <location value="556"/>
+        MTR-4217
+      </value>
+    </field_item>
+    <field_item>
+      <key>previous_reading</key>
+      <value>
+        <location value="294"/>
+        <location value="504"/>
+        <location value="348"/>
+        <location value="537"/>
+        1,240
+      </value>
+    </field_item>
+    <field_item>
+      <key>current_reading</key>
+      <value>
+        <location value="533"/>
+        <location value="485"/>
+        <location value="587"/>
+        <location value="518"/>
+        1,247
+      </value>
+    </field_item>
+    <field_item>
+      <key>usage_ccf</key>
+      <value>
+        <location value="780"/>
+        <location value="464"/>
+        <location value="842"/>
+        <location value="497"/>
+        7 CCF
+      </value>
+    </field_item>
+    <field_item>
+      <key>service_month</key>
+      <value>
+        <location value="973"/>
+        <location value="445"/>
+        <location value="1069"/>
+        <location value="482"/>
+        April 2026
+      </value>
+    </field_item>
+    <field_item>
+      <key>previous_balance</key>
+      <value>
+        <location value="1101"/>
+        <location value="595"/>
+        <location value="1180"/>
+        <location value="635"/>
+        $82.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>payment_received</key>
+      <value>
+        <location value="1097"/>
+        <location value="655"/>
+        <location value="1185"/>
+        <location value="696"/>
+        $-82.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>water_charge</key>
+      <value>
+        <location value="1110"/>
+        <location value="715"/>
+        <location value="1189"/>
+        <location value="756"/>
+        $36.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>base_charge</key>
+      <value>
+        <location value="1115"/>
+        <location value="776"/>
+        <location value="1194"/>
+        <location value="816"/>
+        $18.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>wastewater_charge</key>
+      <value>
+        <location value="1120"/>
+        <location value="836"/>
+        <location value="1199"/>
+        <location value="876"/>
+        $28.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>amount_due</key>
+      <value>
+        <location value="1125"/>
+        <location value="896"/>
+        <location value="1204"/>
+        <location value="937"/>
+        $82.40
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

@@ -1,0 +1,214 @@
+{
+ "pages": [
+  "banking__w2__p1",
+  "ocr__credit_memo__p1",
+  "ocr__purchase_order__p1",
+  "us_kyc__proof_of_address__p1"
+ ],
+ "conditions": [
+  "clean",
+  "blur",
+  "fax"
+ ],
+ "scale_ablation": 3.0,
+ "results": {
+  "ocrmac|clean": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.0034,
+    "wer": 0.0154,
+    "em_region": 0.9762,
+    "em_region_alnum": 0.9762,
+    "em_anywhere": 0.9881,
+    "token_recall": 0.9846,
+    "sec_per_page": 1.42
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.0034,
+    "wer": 0.0154,
+    "em_region": 0.9762,
+    "em_region_alnum": 0.9762,
+    "em_anywhere": 0.9881,
+    "token_recall": 0.9846,
+    "sec_per_page": 1.53
+   }
+  },
+  "ocrmac|blur": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.0034,
+    "wer": 0.0308,
+    "em_region": 0.9643,
+    "em_region_alnum": 0.9762,
+    "em_anywhere": 0.9643,
+    "token_recall": 0.9692,
+    "sec_per_page": 1.44
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.0011,
+    "wer": 0.0077,
+    "em_region": 0.9881,
+    "em_region_alnum": 0.9881,
+    "em_anywhere": 0.9881,
+    "token_recall": 0.9923,
+    "sec_per_page": 0.86
+   }
+  },
+  "ocrmac|fax": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.0284,
+    "wer": 0.1846,
+    "em_region": 0.7738,
+    "em_region_alnum": 0.9167,
+    "em_anywhere": 0.7738,
+    "token_recall": 0.8154,
+    "sec_per_page": 1.2
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.0318,
+    "wer": 0.2077,
+    "em_region": 0.7619,
+    "em_region_alnum": 0.9048,
+    "em_anywhere": 0.7619,
+    "token_recall": 0.7923,
+    "sec_per_page": 0.92
+   }
+  },
+  "rapidocr|clean": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.0,
+    "wer": 0.0,
+    "em_region": 1.0,
+    "em_region_alnum": 1.0,
+    "em_anywhere": 1.0,
+    "token_recall": 1.0,
+    "sec_per_page": 2.62
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.0,
+    "wer": 0.0,
+    "em_region": 1.0,
+    "em_region_alnum": 1.0,
+    "em_anywhere": 1.0,
+    "token_recall": 1.0,
+    "sec_per_page": 1.84
+   }
+  },
+  "rapidocr|blur": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.0,
+    "wer": 0.0154,
+    "em_region": 1.0,
+    "em_region_alnum": 1.0,
+    "em_anywhere": 1.0,
+    "token_recall": 0.9846,
+    "sec_per_page": 2.36
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.0023,
+    "wer": 0.0308,
+    "em_region": 0.9762,
+    "em_region_alnum": 0.9881,
+    "em_anywhere": 0.9762,
+    "token_recall": 0.9692,
+    "sec_per_page": 1.51
+   }
+  },
+  "rapidocr|fax": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.0363,
+    "wer": 0.2077,
+    "em_region": 0.7976,
+    "em_region_alnum": 0.8571,
+    "em_anywhere": 0.8333,
+    "token_recall": 0.7923,
+    "sec_per_page": 2.3
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.0341,
+    "wer": 0.2385,
+    "em_region": 0.7976,
+    "em_region_alnum": 0.869,
+    "em_anywhere": 0.8095,
+    "token_recall": 0.7615,
+    "sec_per_page": 1.62
+   }
+  },
+  "easyocr|clean": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.0602,
+    "wer": 0.1692,
+    "em_region": 0.7381,
+    "em_region_alnum": 0.9524,
+    "em_anywhere": 0.7619,
+    "token_recall": 0.8308,
+    "sec_per_page": 7.33
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.0397,
+    "wer": 0.1385,
+    "em_region": 0.7857,
+    "em_region_alnum": 0.9762,
+    "em_anywhere": 0.8095,
+    "token_recall": 0.8615,
+    "sec_per_page": 13.68
+   }
+  },
+  "easyocr|blur": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.8127,
+    "wer": 0.9154,
+    "em_region": 0.0357,
+    "em_region_alnum": 0.1905,
+    "em_anywhere": 0.0595,
+    "token_recall": 0.0846,
+    "sec_per_page": 7.27
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.849,
+    "wer": 0.9231,
+    "em_region": 0.0476,
+    "em_region_alnum": 0.1786,
+    "em_anywhere": 0.0595,
+    "token_recall": 0.0769,
+    "sec_per_page": 14.34
+   }
+  },
+  "easyocr|fax": {
+   "scale_1.0": {
+    "n_fields": 84,
+    "cer": 0.403,
+    "wer": 0.6846,
+    "em_region": 0.2738,
+    "em_region_alnum": 0.4762,
+    "em_anywhere": 0.3095,
+    "token_recall": 0.3154,
+    "sec_per_page": 7.09
+   },
+   "scale_3.0": {
+    "n_fields": 84,
+    "cer": 0.4018,
+    "wer": 0.7462,
+    "em_region": 0.1786,
+    "em_region_alnum": 0.4286,
+    "em_anywhere": 0.25,
+    "token_recall": 0.2538,
+    "sec_per_page": 13.68
+   }
+  }
+ }
+}

@@ -1,0 +1,1338 @@
+{
+ "page_id": "banking__paystub__p1",
+ "pack": "banking",
+ "document": "paystub",
+ "family": "paystub",
+ "document_type": "US year-end earnings statement",
+ "language": "english",
+ "script": "Latin",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Banking_10_PDFs_JSON_BBoxes_v2/GritWorks-Banking-10-PDF-Sample/02_paystub/paystub_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 4.377,
+  "seed": 369959356
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "borrower_name",
+   "value": "JORDAN ELLIS",
+   "display_value": "JORDAN ELLIS",
+   "canonical_value": "JORDAN ELLIS",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    693.0,
+    226.79,
+    842.35,
+    258.87
+   ],
+   "bbox_pt": [
+    355.0,
+    117.176,
+    426.13,
+    127.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     693.0,
+     238.1
+    ],
+    [
+     840.76,
+     226.79
+    ],
+    [
+     842.35,
+     247.56
+    ],
+    [
+     694.59,
+     258.87
+    ]
+   ]
+  },
+  {
+   "key": "address_line1",
+   "value": "742 EVERGREEN, APT 3B",
+   "display_value": "742 EVERGREEN, APT 3B",
+   "canonical_value": "742 EVERGREEN, APT 3B",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    694.91,
+    243.58,
+    950.49,
+    283.79
+   ],
+   "bbox_pt": [
+    355.0,
+    129.176,
+    477.27,
+    139.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     694.91,
+     263.02
+    ],
+    [
+     948.9,
+     243.58
+    ],
+    [
+     950.49,
+     264.35
+    ],
+    [
+     696.5,
+     283.79
+    ]
+   ]
+  },
+  {
+   "key": "address_city_state_zip",
+   "value": "LOS ANGELES, CA 90026",
+   "display_value": "LOS ANGELES, CA 90026",
+   "canonical_value": "LOS ANGELES, CA 90026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    696.82,
+    268.86,
+    947.81,
+    308.72
+   ],
+   "bbox_pt": [
+    355.0,
+    141.176,
+    475.06,
+    151.176
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     696.82,
+     287.95
+    ],
+    [
+     946.22,
+     268.86
+    ],
+    [
+     947.81,
+     289.63
+    ],
+    [
+     698.41,
+     308.72
+    ]
+   ]
+  },
+  {
+   "key": "employer",
+   "value": "GRITWORKS TECHNOLOGY LLC",
+   "display_value": "GRITWORKS TECHNOLOGY LLC",
+   "canonical_value": "GRITWORKS TECHNOLOGY LLC",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    157.69,
+    130.92,
+    417.51,
+    167.32
+   ],
+   "bbox_pt": [
+    102.0,
+    55.741,
+    226.464,
+    63.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     157.69,
+     150.71
+    ],
+    [
+     416.24,
+     130.92
+    ],
+    [
+     417.51,
+     147.53
+    ],
+    [
+     158.96,
+     167.32
+    ]
+   ]
+  },
+  {
+   "key": "employer_address",
+   "value": "4125 WESTBROOK CORPORATE CTR, STE 240",
+   "display_value": "4125 WESTBROOK CORPORATE CTR, STE 240",
+   "canonical_value": "4125 WESTBROOK CORPORATE CTR, STE 240",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    159.6,
+    147.15,
+    533.03,
+    192.25
+   ],
+   "bbox_pt": [
+    102.0,
+    67.741,
+    281.16,
+    75.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     159.6,
+     175.63
+    ],
+    [
+     531.76,
+     147.15
+    ],
+    [
+     533.03,
+     163.76
+    ],
+    [
+     160.87,
+     192.25
+    ]
+   ]
+  },
+  {
+   "key": "employer_city_state_zip",
+   "value": "SAN BERNARDINO, CA 92408",
+   "display_value": "SAN BERNARDINO, CA 92408",
+   "canonical_value": "SAN BERNARDINO, CA 92408",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    161.51,
+    182.75,
+    395.5,
+    217.17
+   ],
+   "bbox_pt": [
+    102.0,
+    79.741,
+    214.032,
+    87.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     161.51,
+     200.56
+    ],
+    [
+     394.23,
+     182.75
+    ],
+    [
+     395.5,
+     199.36
+    ],
+    [
+     162.78,
+     217.17
+    ]
+   ]
+  },
+  {
+   "key": "employee_ssn_masked",
+   "value": "XXX-XX-2417",
+   "display_value": "XXX-XX-2417",
+   "canonical_value": "XXX-XX-2417",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    345.3,
+    251.35,
+    454.64,
+    276.24
+   ],
+   "bbox_pt": [
+    187.8,
+    114.741,
+    239.824,
+    122.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     345.3,
+     259.62
+    ],
+    [
+     453.37,
+     251.35
+    ],
+    [
+     454.64,
+     267.97
+    ],
+    [
+     346.57,
+     276.24
+    ]
+   ]
+  },
+  {
+   "key": "payment_number",
+   "value": "000025024",
+   "display_value": "000025024",
+   "canonical_value": "000025024",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    410.34,
+    87.48,
+    494.77,
+    110.46
+   ],
+   "bbox_pt": [
+    225.0,
+    37.784,
+    265.032,
+    45.784
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     410.34,
+     93.85
+    ],
+    [
+     493.5,
+     87.48
+    ],
+    [
+     494.77,
+     104.1
+    ],
+    [
+     411.61,
+     110.46
+    ]
+   ]
+  },
+  {
+   "key": "period_begin",
+   "value": "2025-12-16",
+   "display_value": "12/16/2025",
+   "canonical_value": "12/16/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    895.31,
+    89.62,
+    990.3,
+    115.48
+   ],
+   "bbox_pt": [
+    457.0,
+    56.959,
+    502.036,
+    65.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     895.31,
+     96.79
+    ],
+    [
+     988.87,
+     89.62
+    ],
+    [
+     990.3,
+     108.32
+    ],
+    [
+     896.74,
+     115.48
+    ]
+   ]
+  },
+  {
+   "key": "period_end",
+   "value": "2025-12-31",
+   "display_value": "12/31/2025",
+   "canonical_value": "12/31/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    897.07,
+    112.69,
+    992.06,
+    138.54
+   ],
+   "bbox_pt": [
+    457.0,
+    68.058,
+    502.036,
+    77.058
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     897.07,
+     119.85
+    ],
+    [
+     990.63,
+     112.69
+    ],
+    [
+     992.06,
+     131.38
+    ],
+    [
+     898.51,
+     138.54
+    ]
+   ]
+  },
+  {
+   "key": "pay_date",
+   "value": "2025-12-31",
+   "display_value": "12/31/2025",
+   "canonical_value": "12/31/2025",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    898.84,
+    135.74,
+    993.83,
+    161.6
+   ],
+   "bbox_pt": [
+    457.0,
+    79.159,
+    502.036,
+    88.159
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     898.84,
+     142.9
+    ],
+    [
+     992.4,
+     135.74
+    ],
+    [
+     993.83,
+     154.44
+    ],
+    [
+     900.27,
+     161.6
+    ]
+   ]
+  },
+  {
+   "key": "deposit_account_last4",
+   "value": "2417",
+   "display_value": "Account Number: XXX XXX 2417",
+   "canonical_value": "Account Number: XXX XXX 2417",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    776.61,
+    1308.28,
+    1066.87,
+    1349.08
+   ],
+   "bbox_pt": [
+    355.0,
+    643.007,
+    494.041,
+    652.007
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     776.61,
+     1330.38
+    ],
+    [
+     1065.44,
+     1308.28
+    ],
+    [
+     1066.87,
+     1326.97
+    ],
+    [
+     778.04,
+     1349.08
+    ]
+   ]
+  },
+  {
+   "key": "pay_frequency",
+   "value": "SEMI-MONTHLY",
+   "display_value": "SEMI-MONTHLY",
+   "canonical_value": "SEMI-MONTHLY",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    908.31,
+    538.99,
+    1036.99,
+    565.36
+   ],
+   "bbox_pt": [
+    446.664,
+    273.741,
+    508.0,
+    281.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     908.31,
+     548.74
+    ],
+    [
+     1035.72,
+     538.99
+    ],
+    [
+     1036.99,
+     555.61
+    ],
+    [
+     909.58,
+     565.36
+    ]
+   ]
+  },
+  {
+   "key": "gross_current",
+   "value": "4800.00",
+   "display_value": "$4,800.00",
+   "canonical_value": "4,800.00",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    431.23,
+    525.13,
+    515.82,
+    550.19
+   ],
+   "bbox_pt": [
+    218.968,
+    248.007,
+    259.0,
+    257.007
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     431.23,
+     531.49
+    ],
+    [
+     514.39,
+     525.13
+    ],
+    [
+     515.82,
+     543.82
+    ],
+    [
+     432.66,
+     550.19
+    ]
+   ]
+  },
+  {
+   "key": "gross_ytd",
+   "value": "115200.00",
+   "display_value": "115,200.00",
+   "canonical_value": "115,200.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    557.94,
+    514.63,
+    652.92,
+    540.49
+   ],
+   "bbox_pt": [
+    279.964,
+    248.007,
+    325.0,
+    257.007
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     557.94,
+     521.79
+    ],
+    [
+     651.49,
+     514.63
+    ],
+    [
+     652.92,
+     533.33
+    ],
+    [
+     559.37,
+     540.49
+    ]
+   ]
+  },
+  {
+   "key": "federal_withholding_current",
+   "value": "590.00",
+   "display_value": "590.00",
+   "canonical_value": "590.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    463.1,
+    601.88,
+    521.69,
+    624.95
+   ],
+   "bbox_pt": [
+    231.478,
+    284.959,
+    259.0,
+    293.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     463.1,
+     606.26
+    ],
+    [
+     520.26,
+     601.88
+    ],
+    [
+     521.69,
+     620.58
+    ],
+    [
+     464.53,
+     624.95
+    ]
+   ]
+  },
+  {
+   "key": "federal_withholding_ytd",
+   "value": "14160.00",
+   "display_value": "14,160.00",
+   "canonical_value": "14,160.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    574.21,
+    591.39,
+    658.79,
+    616.45
+   ],
+   "bbox_pt": [
+    284.968,
+    284.959,
+    325.0,
+    293.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     574.21,
+     597.75
+    ],
+    [
+     657.36,
+     591.39
+    ],
+    [
+     658.79,
+     610.08
+    ],
+    [
+     575.64,
+     616.45
+    ]
+   ]
+  },
+  {
+   "key": "social_security_current",
+   "value": "297.60",
+   "display_value": "297.60",
+   "canonical_value": "297.60",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    465.01,
+    626.81,
+    523.6,
+    649.88
+   ],
+   "bbox_pt": [
+    231.478,
+    296.959,
+    259.0,
+    305.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     465.01,
+     631.18
+    ],
+    [
+     522.17,
+     626.81
+    ],
+    [
+     523.6,
+     645.5
+    ],
+    [
+     466.44,
+     649.88
+    ]
+   ]
+  },
+  {
+   "key": "social_security_ytd",
+   "value": "7142.40",
+   "display_value": "7,142.40",
+   "canonical_value": "7,142.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    586.51,
+    616.32,
+    660.7,
+    640.58
+   ],
+   "bbox_pt": [
+    289.972,
+    296.959,
+    325.0,
+    305.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     586.51,
+     621.88
+    ],
+    [
+     659.27,
+     616.32
+    ],
+    [
+     660.7,
+     635.01
+    ],
+    [
+     587.94,
+     640.58
+    ]
+   ]
+  },
+  {
+   "key": "medicare_current",
+   "value": "69.60",
+   "display_value": "69.60",
+   "canonical_value": "69.60",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    477.31,
+    651.74,
+    525.51,
+    674.01
+   ],
+   "bbox_pt": [
+    236.482,
+    308.959,
+    259.0,
+    317.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     477.31,
+     655.32
+    ],
+    [
+     524.08,
+     651.74
+    ],
+    [
+     525.51,
+     670.43
+    ],
+    [
+     478.74,
+     674.01
+    ]
+   ]
+  },
+  {
+   "key": "medicare_ytd",
+   "value": "1670.40",
+   "display_value": "1,670.40",
+   "canonical_value": "1,670.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    588.42,
+    641.24,
+    662.61,
+    665.51
+   ],
+   "bbox_pt": [
+    289.972,
+    308.959,
+    325.0,
+    317.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     588.42,
+     646.81
+    ],
+    [
+     661.18,
+     641.24
+    ],
+    [
+     662.61,
+     659.94
+    ],
+    [
+     589.85,
+     665.51
+    ]
+   ]
+  },
+  {
+   "key": "state_withholding_current",
+   "value": "132.50",
+   "display_value": "132.50",
+   "canonical_value": "132.50",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    468.82,
+    676.66,
+    527.42,
+    699.73
+   ],
+   "bbox_pt": [
+    231.478,
+    320.959,
+    259.0,
+    329.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     468.82,
+     681.04
+    ],
+    [
+     525.99,
+     676.66
+    ],
+    [
+     527.42,
+     695.36
+    ],
+    [
+     470.26,
+     699.73
+    ]
+   ]
+  },
+  {
+   "key": "state_withholding_ytd",
+   "value": "3180.00",
+   "display_value": "3,180.00",
+   "canonical_value": "3,180.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    590.33,
+    666.17,
+    664.52,
+    690.43
+   ],
+   "bbox_pt": [
+    289.972,
+    320.959,
+    325.0,
+    329.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     590.33,
+     671.74
+    ],
+    [
+     663.09,
+     666.17
+    ],
+    [
+     664.52,
+     684.86
+    ],
+    [
+     591.76,
+     690.43
+    ]
+   ]
+  },
+  {
+   "key": "sdi_current",
+   "value": "57.60",
+   "display_value": "57.60",
+   "canonical_value": "57.60",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    481.12,
+    701.59,
+    529.33,
+    723.87
+   ],
+   "bbox_pt": [
+    236.482,
+    332.959,
+    259.0,
+    341.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     481.12,
+     705.17
+    ],
+    [
+     527.9,
+     701.59
+    ],
+    [
+     529.33,
+     720.29
+    ],
+    [
+     482.55,
+     723.87
+    ]
+   ]
+  },
+  {
+   "key": "sdi_ytd",
+   "value": "1382.40",
+   "display_value": "1,382.40",
+   "canonical_value": "1,382.40",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    592.24,
+    691.1,
+    666.43,
+    715.36
+   ],
+   "bbox_pt": [
+    289.972,
+    332.959,
+    325.0,
+    341.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     592.24,
+     696.67
+    ],
+    [
+     664.99,
+     691.1
+    ],
+    [
+     666.43,
+     709.79
+    ],
+    [
+     593.67,
+     715.36
+    ]
+   ]
+  },
+  {
+   "key": "retirement_401k_current",
+   "value": "190.00",
+   "display_value": "190.00",
+   "canonical_value": "190.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    474.71,
+    753.53,
+    533.3,
+    776.6
+   ],
+   "bbox_pt": [
+    231.478,
+    357.959,
+    259.0,
+    366.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     474.71,
+     757.9
+    ],
+    [
+     531.87,
+     753.53
+    ],
+    [
+     533.3,
+     772.22
+    ],
+    [
+     476.14,
+     776.6
+    ]
+   ]
+  },
+  {
+   "key": "retirement_401k_ytd",
+   "value": "4560.00",
+   "display_value": "4,560.00",
+   "canonical_value": "4,560.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    596.21,
+    743.03,
+    670.4,
+    767.3
+   ],
+   "bbox_pt": [
+    289.972,
+    357.959,
+    325.0,
+    366.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     596.21,
+     748.6
+    ],
+    [
+     668.97,
+     743.03
+    ],
+    [
+     670.4,
+     761.73
+    ],
+    [
+     597.64,
+     767.3
+    ]
+   ]
+  },
+  {
+   "key": "total_deductions_current",
+   "value": "1337.30",
+   "display_value": "1,337.30",
+   "canonical_value": "1,337.30",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    462.93,
+    803.38,
+    537.12,
+    827.65
+   ],
+   "bbox_pt": [
+    223.972,
+    381.959,
+    259.0,
+    390.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     462.93,
+     808.95
+    ],
+    [
+     535.69,
+     803.38
+    ],
+    [
+     537.12,
+     822.08
+    ],
+    [
+     464.36,
+     827.65
+    ]
+   ]
+  },
+  {
+   "key": "total_deductions_ytd",
+   "value": "32095.20",
+   "display_value": "32,095.20",
+   "canonical_value": "32,095.20",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    589.63,
+    792.89,
+    674.22,
+    817.95
+   ],
+   "bbox_pt": [
+    284.968,
+    381.959,
+    325.0,
+    390.959
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     589.63,
+     799.25
+    ],
+    [
+     672.79,
+     792.89
+    ],
+    [
+     674.22,
+     811.58
+    ],
+    [
+     591.06,
+     817.95
+    ]
+   ]
+  },
+  {
+   "key": "net_pay_current",
+   "value": "3462.70",
+   "display_value": "$3,462.70",
+   "canonical_value": "3,462.70",
+   "printed_form_rule": "authored word boxes",
+   "comb": false,
+   "bbox_px": [
+    459.69,
+    896.96,
+    544.28,
+    922.02
+   ],
+   "bbox_pt": [
+    218.968,
+    427.007,
+    259.0,
+    436.007
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     459.69,
+     903.32
+    ],
+    [
+     542.85,
+     896.96
+    ],
+    [
+     544.28,
+     915.65
+    ],
+    [
+     461.12,
+     922.02
+    ]
+   ]
+  },
+  {
+   "key": "net_pay_ytd",
+   "value": "83104.80",
+   "display_value": "83,104.80",
+   "canonical_value": "83,104.80",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    596.79,
+    886.47,
+    681.38,
+    911.53
+   ],
+   "bbox_pt": [
+    284.968,
+    427.007,
+    325.0,
+    436.007
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     596.79,
+     892.83
+    ],
+    [
+     679.95,
+     886.47
+    ],
+    [
+     681.38,
+     905.16
+    ],
+    [
+     598.22,
+     911.53
+    ]
+   ]
+  },
+  {
+   "key": "employer_health_coverage_ytd",
+   "value": "7800.00",
+   "display_value": "7,800.00",
+   "canonical_value": "7,800.00",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    1102.75,
+    403.54,
+    1168.71,
+    425.11
+   ],
+   "bbox_pt": [
+    544.864,
+    213.741,
+    576.0,
+    221.741
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     1102.75,
+     408.49
+    ],
+    [
+     1167.43,
+     403.54
+    ],
+    [
+     1168.71,
+     420.16
+    ],
+    [
+     1104.03,
+     425.11
+    ]
+   ]
+  }
+ ]
+}

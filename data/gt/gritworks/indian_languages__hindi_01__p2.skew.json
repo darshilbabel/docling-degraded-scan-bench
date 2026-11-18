@@ -1,0 +1,313 @@
+{
+ "page_id": "indian_languages__hindi_01__p2",
+ "pack": "indian_languages",
+ "document": "hindi_01",
+ "family": "indic_form",
+ "document_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+ "language": "hindi",
+ "script": "Devanagari",
+ "page": 2,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/03_hindi_01/hindi_01_clean.pdf",
+ "condition": "skew",
+ "degradation_params": {
+  "angle_deg": 4.603,
+  "seed": 371164127
+ },
+ "gt_provenance": "clean geometry; affine-transformed",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "address_proof",
+   "value": "मतदाता पहचान पत्र",
+   "display_value": "मतदाता पहचान पत्र",
+   "canonical_value": "मतदाता पहचान पत्र",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    687.77,
+    158.64,
+    865.08,
+    211.69
+   ],
+   "bbox_pt": [
+    356.16,
+    85.86,
+    440.03,
+    104.66
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     687.77,
+     172.66
+    ],
+    [
+     861.93,
+     158.64
+    ],
+    [
+     865.08,
+     197.67
+    ],
+    [
+     690.91,
+     211.69
+    ]
+   ]
+  },
+  {
+   "key": "specimen_signature",
+   "value": "प्रीति शर्मा",
+   "display_value": "प्रीति शर्मा",
+   "canonical_value": "प्रीति शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    180.58,
+    524.77,
+    288.74,
+    579.24
+   ],
+   "bbox_pt": [
+    99.61,
+    238.82,
+    149.91,
+    261.0
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     180.58,
+     533.18
+    ],
+    [
+     285.03,
+     524.77
+    ],
+    [
+     288.74,
+     570.84
+    ],
+    [
+     184.29,
+     579.24
+    ]
+   ]
+  },
+  {
+   "key": "guardian_signature",
+   "value": "प्रीति शर्मा",
+   "display_value": "प्रीति शर्मा",
+   "canonical_value": "प्रीति शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    860.93,
+    1004.04,
+    953.11,
+    1053.87
+   ],
+   "bbox_pt": [
+    406.71,
+    493.73,
+    449.45,
+    514.28
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     860.93,
+     1011.19
+    ],
+    [
+     949.68,
+     1004.04
+    ],
+    [
+     953.11,
+     1046.73
+    ],
+    [
+     864.36,
+     1053.87
+    ]
+   ]
+  },
+  {
+   "key": "declaration_date",
+   "value": "04/09/2026",
+   "display_value": "04/09/2026",
+   "canonical_value": "04/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    744.63,
+    1065.42,
+    872.38,
+    1117.26
+   ],
+   "bbox_pt": [
+    348.59,
+    519.99,
+    408.49,
+    540.13
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     744.63,
+     1075.44
+    ],
+    [
+     869.01,
+     1065.42
+    ],
+    [
+     872.38,
+     1107.25
+    ],
+    [
+     747.99,
+     1117.26
+    ]
+   ]
+  },
+  {
+   "key": "nominator_name",
+   "value": "प्रीति कुमारी शर्मा",
+   "display_value": "प्रीति कुमारी शर्मा",
+   "canonical_value": "प्रीति कुमारी शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    254.24,
+    1181.66,
+    420.38,
+    1236.77
+   ],
+   "bbox_pt": [
+    109.37,
+    558.19,
+    187.74,
+    578.42
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     254.24,
+     1194.77
+    ],
+    [
+     416.99,
+     1181.66
+    ],
+    [
+     420.38,
+     1223.67
+    ],
+    [
+     257.62,
+     1236.77
+    ]
+   ]
+  },
+  {
+   "key": "nominee_name_relation",
+   "value": "दीपक किशोर शर्मा (पिता)",
+   "display_value": "दीपक किशोर शर्मा (पिता)",
+   "canonical_value": "दीपक किशोर शर्मा (पिता)",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    314.82,
+    1482.91,
+    489.22,
+    1524.95
+   ],
+   "bbox_pt": [
+    126.72,
+    705.02,
+    209.61,
+    718.59
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     314.82,
+     1496.77
+    ],
+    [
+     486.95,
+     1482.91
+    ],
+    [
+     489.22,
+     1511.09
+    ],
+    [
+     317.09,
+     1524.95
+    ]
+   ]
+  },
+  {
+   "key": "nominee_share",
+   "value": "100%",
+   "display_value": "100%",
+   "canonical_value": "100%",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    867.56,
+    1449.32,
+    908.05,
+    1480.33
+   ],
+   "bbox_pt": [
+    392.89,
+    705.08,
+    411.3,
+    718.53
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null,
+   "polygon_px": [
+    [
+     867.56,
+     1452.4
+    ],
+    [
+     905.8,
+     1449.32
+    ],
+    [
+     908.05,
+     1477.25
+    ],
+    [
+     869.81,
+     1480.33
+    ]
+   ]
+  }
+ ]
+}

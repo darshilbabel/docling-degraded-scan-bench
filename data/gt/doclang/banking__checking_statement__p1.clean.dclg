@@ -1,0 +1,451 @@
+<doclang version="0.9">
+  <head>
+    <default_resolution width="1275" height="1701"/>
+  </head>
+  <field_region>
+    <location value="62"/>
+    <location value="119"/>
+    <location value="1215"/>
+    <location value="1304"/>
+    <field_item>
+      <key>borrower_name</key>
+      <value>
+        <location value="94"/>
+        <location value="317"/>
+        <location value="242"/>
+        <location value="338"/>
+        JORDAN ELLIS
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_line1</key>
+      <value>
+        <location value="94"/>
+        <location value="344"/>
+        <location value="348"/>
+        <location value="365"/>
+        742 EVERGREEN, APT 3B
+      </value>
+    </field_item>
+    <field_item>
+      <key>address_city_state_zip</key>
+      <value>
+        <location value="94"/>
+        <location value="371"/>
+        <location value="344"/>
+        <location value="392"/>
+        LOS ANGELES, CA 90026
+      </value>
+    </field_item>
+    <field_item>
+      <key>account_number</key>
+      <value>
+        <location value="952"/>
+        <location value="119"/>
+        <location value="1088"/>
+        <location value="137"/>
+        0005829012417
+      </value>
+    </field_item>
+    <field_item>
+      <key>statement_date</key>
+      <value>
+        <location value="952"/>
+        <location value="141"/>
+        <location value="1046"/>
+        <location value="159"/>
+        12/31/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>statement_period</key>
+      <value>
+        <location value="1033"/>
+        <location value="622"/>
+        <location value="1215"/>
+        <location value="639"/>
+        12/01/2025 - 12/31/2025
+      </value>
+    </field_item>
+    <field_item>
+      <key>opening_balance</key>
+      <value>
+        <location value="544"/>
+        <location value="689"/>
+        <location value="627"/>
+        <location value="706"/>
+        $10,425.16
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_credits</key>
+      <value>
+        <location value="553"/>
+        <location value="708"/>
+        <location value="627"/>
+        <location value="725"/>
+        $6,925.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_checks</key>
+      <value>
+        <location value="585"/>
+        <location value="727"/>
+        <location value="627"/>
+        <location value="744"/>
+        $0.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>total_debits</key>
+      <value>
+        <location value="553"/>
+        <location value="747"/>
+        <location value="627"/>
+        <location value="763"/>
+        $3,407.40
+      </value>
+    </field_item>
+    <field_item>
+      <key>closing_balance</key>
+      <value>
+        <location value="544"/>
+        <location value="766"/>
+        <location value="627"/>
+        <location value="782"/>
+        $13,943.16
+      </value>
+    </field_item>
+    <field_item>
+      <key>average_daily_balance</key>
+      <value>
+        <location value="1140"/>
+        <location value="689"/>
+        <location value="1215"/>
+        <location value="706"/>
+        $9,600.13
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.01.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1010"/>
+        <location value="102"/>
+        <location value="1026"/>
+        12/01
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.01.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1027"/>
+        <location value="511"/>
+        <location value="1042"/>
+        PENNYMAC LOAN PMT 0098251640
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.01.amount</key>
+      <value>
+        <location value="1020"/>
+        <location value="1011"/>
+        <location value="1081"/>
+        <location value="1026"/>
+        2,250.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.01.balance</key>
+      <value>
+        <location value="1153"/>
+        <location value="1011"/>
+        <location value="1215"/>
+        <location value="1026"/>
+        8,175.16
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.02.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1048"/>
+        <location value="102"/>
+        <location value="1063"/>
+        12/05
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.02.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1065"/>
+        <location value="551"/>
+        <location value="1079"/>
+        EVERGREEN MARKET LOS ANGELES CA
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.02.amount</key>
+      <value>
+        <location value="1033"/>
+        <location value="1048"/>
+        <location value="1081"/>
+        <location value="1064"/>
+        148.62
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.02.balance</key>
+      <value>
+        <location value="1153"/>
+        <location value="1048"/>
+        <location value="1215"/>
+        <location value="1064"/>
+        8,026.54
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.03.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1085"/>
+        <location value="102"/>
+        <location value="1101"/>
+        12/08
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.03.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1102"/>
+        <location value="492"/>
+        <location value="1117"/>
+        PACIFIC MOBILE AUTOPAY 2417
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.03.amount</key>
+      <value>
+        <location value="1042"/>
+        <location value="1086"/>
+        <location value="1081"/>
+        <location value="1101"/>
+        89.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.03.balance</key>
+      <value>
+        <location value="1153"/>
+        <location value="1086"/>
+        <location value="1215"/>
+        <location value="1101"/>
+        7,937.54
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.04.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1123"/>
+        <location value="102"/>
+        <location value="1138"/>
+        12/12
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.04.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1140"/>
+        <location value="523"/>
+        <location value="1154"/>
+        MINOL UTILITIES 8521-496-002417-84
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.04.amount</key>
+      <value>
+        <location value="1033"/>
+        <location value="1123"/>
+        <location value="1081"/>
+        <location value="1139"/>
+        187.30
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.04.balance</key>
+      <value>
+        <location value="1153"/>
+        <location value="1123"/>
+        <location value="1215"/>
+        <location value="1139"/>
+        7,750.24
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.05.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1160"/>
+        <location value="102"/>
+        <location value="1176"/>
+        12/15
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.05.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1177"/>
+        <location value="539"/>
+        <location value="1192"/>
+        GRITWORKS TECH PAYROLL 20251215
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.05.amount</key>
+      <value>
+        <location value="870"/>
+        <location value="1161"/>
+        <location value="931"/>
+        <location value="1176"/>
+        3,462.70
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.05.balance</key>
+      <value>
+        <location value="1144"/>
+        <location value="1161"/>
+        <location value="1215"/>
+        <location value="1176"/>
+        11,212.94
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.06.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1198"/>
+        <location value="102"/>
+        <location value="1213"/>
+        12/20
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.06.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1215"/>
+        <location value="475"/>
+        <location value="1229"/>
+        CREDIT CARD PAYMENT 8031
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.06.amount</key>
+      <value>
+        <location value="1033"/>
+        <location value="1198"/>
+        <location value="1081"/>
+        <location value="1214"/>
+        600.00
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.06.balance</key>
+      <value>
+        <location value="1144"/>
+        <location value="1198"/>
+        <location value="1215"/>
+        <location value="1214"/>
+        10,612.94
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.07.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1235"/>
+        <location value="102"/>
+        <location value="1251"/>
+        12/24
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.07.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1252"/>
+        <location value="551"/>
+        <location value="1267"/>
+        EVERGREEN MARKET LOS ANGELES CA
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.07.amount</key>
+      <value>
+        <location value="1033"/>
+        <location value="1236"/>
+        <location value="1081"/>
+        <location value="1251"/>
+        132.48
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.07.balance</key>
+      <value>
+        <location value="1144"/>
+        <location value="1236"/>
+        <location value="1215"/>
+        <location value="1251"/>
+        10,480.46
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.08.date</key>
+      <value>
+        <location value="62"/>
+        <location value="1273"/>
+        <location value="102"/>
+        <location value="1288"/>
+        12/31
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.08.description</key>
+      <value>
+        <location value="265"/>
+        <location value="1290"/>
+        <location value="539"/>
+        <location value="1304"/>
+        GRITWORKS TECH PAYROLL 20251231
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.08.amount</key>
+      <value>
+        <location value="870"/>
+        <location value="1273"/>
+        <location value="931"/>
+        <location value="1289"/>
+        3,462.70
+      </value>
+    </field_item>
+    <field_item>
+      <key>transactions.08.balance</key>
+      <value>
+        <location value="1144"/>
+        <location value="1273"/>
+        <location value="1215"/>
+        <location value="1289"/>
+        13,943.16
+      </value>
+    </field_item>
+  </field_region>
+</doclang>

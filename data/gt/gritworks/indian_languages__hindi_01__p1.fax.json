@@ -1,0 +1,604 @@
+{
+ "page_id": "indian_languages__hindi_01__p1",
+ "pack": "indian_languages",
+ "document": "hindi_01",
+ "family": "indic_form",
+ "document_type": "Sukanya Samriddhi Account opening form (Form-1), Hindi",
+ "language": "hindi",
+ "script": "Devanagari",
+ "page": 1,
+ "dpi": 150,
+ "image_size_px": [
+  1275,
+  1701
+ ],
+ "synthetic": true,
+ "source_pdf": "_src/GritWorks_Indian_Languages_10_PDFs_JSON_BBoxes/GritWorks-Indian_Languages-10-PDF-Sample/03_hindi_01/hindi_01_clean.pdf",
+ "condition": "fax",
+ "degradation_params": {
+  "threshold": 162,
+  "flip_rate": 0.004,
+  "streaks": 5,
+  "vertical_resample": 0.48,
+  "seed": 1968446582
+ },
+ "gt_provenance": "clean geometry; photometric change, coordinates unchanged",
+ "coordinate_system": "image pixels, top-left origin",
+ "fields": [
+  {
+   "key": "office_name",
+   "value": "थाटीपुर शाखा",
+   "display_value": "थाटीपुर शाखा",
+   "canonical_value": "थाटीपुर शाखा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    285.56,
+    284.83,
+    400.21,
+    322.27
+   ],
+   "bbox_pt": [
+    137.07,
+    136.72,
+    192.1,
+    154.69
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "office_city",
+   "value": "ग्वालियर",
+   "display_value": "ग्वालियर",
+   "canonical_value": "ग्वालियर",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    280.94,
+    310.5,
+    352.65,
+    346.62
+   ],
+   "bbox_pt": [
+    134.85,
+    149.04,
+    169.27,
+    166.38
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "applicant_name",
+   "value": "प्रीति कुमारी शर्मा",
+   "display_value": "प्रीति कुमारी शर्मा",
+   "canonical_value": "प्रीति कुमारी शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    307.42,
+    465.5,
+    470.92,
+    508.71
+   ],
+   "bbox_pt": [
+    147.56,
+    223.44,
+    226.04,
+    244.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "scheme_name",
+   "value": "सुकन्या समृद्धि खाता योजना",
+   "display_value": "सुकन्या समृद्धि खाता योजना",
+   "canonical_value": "सुकन्या समृद्धि खाता योजना",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    257.38,
+    490.63,
+    511.02,
+    534.42
+   ],
+   "bbox_pt": [
+    123.54,
+    235.5,
+    245.29,
+    256.52
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "deposit_amount",
+   "value": "100000",
+   "display_value": "100000",
+   "canonical_value": "100000",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    312.06,
+    555.56,
+    378.9,
+    594.48
+   ],
+   "bbox_pt": [
+    149.79,
+    266.67,
+    181.87,
+    285.35
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "amount_in_words",
+   "value": "एक लाख",
+   "display_value": "एक लाख",
+   "canonical_value": "एक लाख",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    720.23,
+    556.25,
+    798.79,
+    591.5
+   ],
+   "bbox_pt": [
+    345.71,
+    267.0,
+    383.42,
+    283.92
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "cheque_dd_no",
+   "value": "350128",
+   "display_value": "350128",
+   "canonical_value": "350128",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    792.0,
+    585.69,
+    865.12,
+    623.73
+   ],
+   "bbox_pt": [
+    380.16,
+    281.13,
+    415.26,
+    299.39
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "deposit_date",
+   "value": "04/09/2026",
+   "display_value": "04/09/2026",
+   "canonical_value": "04/09/2026",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    344.92,
+    612.83,
+    462.1,
+    652.83
+   ],
+   "bbox_pt": [
+    165.56,
+    294.16,
+    221.81,
+    313.36
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "depositor_name",
+   "value": "वैष्णवी शर्मा",
+   "display_value": "वैष्णवी शर्मा",
+   "canonical_value": "वैष्णवी शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    404.52,
+    671.5,
+    508.48,
+    709.79
+   ],
+   "bbox_pt": [
+    194.17,
+    322.32,
+    244.07,
+    340.7
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "depositor_dob",
+   "value": "29/06/2018",
+   "display_value": "29/06/2018",
+   "canonical_value": "29/06/2018",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    520.06,
+    696.15,
+    641.29,
+    737.44
+   ],
+   "bbox_pt": [
+    249.63,
+    334.15,
+    307.82,
+    353.97
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "guardian_name",
+   "value": "प्रीति कुमारी शर्मा",
+   "display_value": "प्रीति कुमारी शर्मा",
+   "canonical_value": "प्रीति कुमारी शर्मा",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    549.75,
+    761.46,
+    712.96,
+    803.35
+   ],
+   "bbox_pt": [
+    263.88,
+    365.5,
+    342.22,
+    385.61
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "guardian_dob",
+   "value": "11/08/1996",
+   "display_value": "11/08/1996",
+   "canonical_value": "11/08/1996",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    374.5,
+    787.67,
+    482.6,
+    830.29
+   ],
+   "bbox_pt": [
+    179.76,
+    378.08,
+    231.65,
+    398.54
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "guardian_aadhaar",
+   "value": "8779 9510 0065",
+   "display_value": "8779 9510 0065",
+   "canonical_value": "8779 9510 0065",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    465.4,
+    819.44,
+    623.96,
+    858.71
+   ],
+   "bbox_pt": [
+    223.39,
+    393.33,
+    299.5,
+    412.18
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "guardian_pan",
+   "value": "LPMPS6541S",
+   "display_value": "LPMPS6541S",
+   "canonical_value": "LPMPS6541S",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    566.96,
+    850.88,
+    694.94,
+    889.79
+   ],
+   "bbox_pt": [
+    272.14,
+    408.42,
+    333.57,
+    427.1
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "present_address_line1",
+   "value": "प्लॉट नं. 213 हनुमान मंदिर वाली गली",
+   "display_value": "प्लॉट नं. 213 हनुमान मंदिर वाली गली",
+   "canonical_value": "प्लॉट नं. 213 हनुमान मंदिर वाली गली",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    274.94,
+    908.96,
+    617.69,
+    947.33
+   ],
+   "bbox_pt": [
+    131.97,
+    436.3,
+    296.49,
+    454.72
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "present_address_line2",
+   "value": "मुरार ग्वालियर - 474006",
+   "display_value": "मुरार ग्वालियर - 474006",
+   "canonical_value": "मुरार ग्वालियर - 474006",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    276.48,
+    926.02,
+    522.1,
+    966.94
+   ],
+   "bbox_pt": [
+    132.71,
+    444.49,
+    250.61,
+    464.13
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "permanent_address_line1",
+   "value": "मकान नं. 180 अशोक विहार",
+   "display_value": "मकान नं. 180 अशोक विहार",
+   "canonical_value": "मकान नं. 180 अशोक विहार",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    202.71,
+    975.1,
+    471.38,
+    1020.98
+   ],
+   "bbox_pt": [
+    97.3,
+    468.05,
+    226.26,
+    490.07
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "permanent_address_line2",
+   "value": "पचमढ़ी जिला नर्मदापुरम",
+   "display_value": "पचमढ़ी जिला नर्मदापुरम",
+   "canonical_value": "पचमढ़ी जिला नर्मदापुरम",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    202.75,
+    1053.98,
+    420.5,
+    1096.06
+   ],
+   "bbox_pt": [
+    97.32,
+    505.91,
+    201.84,
+    526.11
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "telephone",
+   "value": "0751-2879908",
+   "display_value": "0751-2879908",
+   "canonical_value": "0751-2879908",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    788.88,
+    1140.02,
+    929.71,
+    1178.77
+   ],
+   "bbox_pt": [
+    378.66,
+    547.21,
+    446.26,
+    565.81
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "mobile",
+   "value": "6438601906",
+   "display_value": "6438601906",
+   "canonical_value": "6438601906",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    851.48,
+    1165.35,
+    981.48,
+    1205.71
+   ],
+   "bbox_pt": [
+    408.71,
+    559.37,
+    471.11,
+    578.74
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "email",
+   "value": "preetisharma59@gmail.com",
+   "display_value": "preetisharma59@gmail.com",
+   "canonical_value": "preetisharma59@gmail.com",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    893.56,
+    1206.77,
+    1109.65,
+    1239.5
+   ],
+   "bbox_pt": [
+    428.91,
+    579.25,
+    532.63,
+    594.96
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "birth_cert_no",
+   "value": "B/2018/96350",
+   "display_value": "B/2018/96350",
+   "canonical_value": "B/2018/96350",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    470.23,
+    1338.88,
+    610.88,
+    1376.79
+   ],
+   "bbox_pt": [
+    225.71,
+    642.66,
+    293.22,
+    660.86
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "cert_issue_date",
+   "value": "04/10/2018",
+   "display_value": "04/10/2018",
+   "canonical_value": "04/10/2018",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    510.5,
+    1367.65,
+    611.33,
+    1405.1
+   ],
+   "bbox_pt": [
+    245.04,
+    656.47,
+    293.44,
+    674.45
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "issuing_authority",
+   "value": "जन्म एवं मृत्यु पंजीकरण कार्यालय ग्वालियर",
+   "display_value": "जन्म एवं मृत्यु पंजीकरण कार्यालय ग्वालियर",
+   "canonical_value": "जन्म एवं मृत्यु पंजीकरण कार्यालय ग्वालियर",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    568.62,
+    1390.69,
+    981.52,
+    1433.52
+   ],
+   "bbox_pt": [
+    272.94,
+    667.53,
+    471.13,
+    688.09
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  },
+  {
+   "key": "id_proof",
+   "value": "पासपोर्ट",
+   "display_value": "पासपोर्ट",
+   "canonical_value": "पासपोर्ट",
+   "printed_form_rule": null,
+   "comb": false,
+   "bbox_px": [
+    737.42,
+    1438.9,
+    810.96,
+    1479.19
+   ],
+   "bbox_pt": [
+    353.96,
+    690.67,
+    389.26,
+    710.01
+   ],
+   "visibility": "visible",
+   "scored": true,
+   "exclusion_reason": null
+  }
+ ]
+}
